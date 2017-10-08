@@ -72,7 +72,6 @@ xdg-utils
 xdg-user-dirs
 xemacs
 xf86-input-evdev
-xf86-input-mouse
 xf86-input-synaptics
 xf86-video-fbdev
 xf86-video-vesa
