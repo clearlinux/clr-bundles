@@ -8,6 +8,7 @@ LVM2-extras
 autofs
 btrfs-progs
 cifs-utils
+cryptsetup
 dosfstools
 e2fsprogs
 e2fsprogs-extras
