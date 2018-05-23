@@ -71,6 +71,7 @@ rpm-common
 sbsigntools
 scons
 six
+telemetrics-client-dev
 unbundle
 urlgrabber
 xcb-proto-dev
