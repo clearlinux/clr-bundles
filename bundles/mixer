@@ -14,6 +14,7 @@ include(sysadmin-basic)
 bundle-chroot-builder
 createrepo_c
 dnf
+docker
 hardlink
 # dependency for bundle-chroot-builder, remove at the same time
 m4
