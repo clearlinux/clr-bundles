@@ -13,4 +13,5 @@ ceph-deploy
 pip-legacypython
 glusterfs
 parted
+rpcbind
 xfsprogs
