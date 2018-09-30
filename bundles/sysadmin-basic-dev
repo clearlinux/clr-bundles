@@ -13,6 +13,7 @@ Linux-PAM-dev32
 acl-dev
 acl-dev32
 apr-dev
+apr-util-dev
 asciidoc
 aspell
 aspell-dev
