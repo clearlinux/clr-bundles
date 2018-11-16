@@ -1,0 +1,10 @@
+# [TITLE]: geany
+# [DESCRIPTION]: Geany is a GTK text editor with basic IDE features
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Ikey Doherty <ikey.doherty@intel.com>
+# Geany requires GNOME libraries, GIR and Python for Plugins
+include(desktop-gnomelibs)
+geany
+geany-plugins
+
