@@ -8,7 +8,6 @@
 include(bootloader)
 linux-firmware
 linux-firmware-ipu4
-linux-pk414-sos
 linux-iot-lts2018-sos
 mcelog
 
