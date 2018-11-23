@@ -9,14 +9,14 @@ acl
 attr
 bats
 binutils
-cpio
 coreutils
+cpio
 curl
 diffutils
 expect
 file
-iw
 iputils
+iw
 libcap-bin
 make
 net-tools
