@@ -1,8 +1,8 @@
 # [TITLE]: akonadi
-# [DESCRIPTION]: Asynchronous API to access PIM data
+# [DESCRIPTION]: Asynchronous API to access PIM data.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, storage
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

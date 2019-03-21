@@ -1,8 +1,8 @@
 # [TITLE]: ark
-# [DESCRIPTION]: Graphical file compression/decompression utility
+# [DESCRIPTION]: Graphical file compression/decompression utility.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

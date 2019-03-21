@@ -1,8 +1,8 @@
 # [TITLE]: ansible
-# [DESCRIPTION]: The ansible tool for host management
+# [DESCRIPTION]: IT automation tool with software provisioning, configuration management, and application deployment. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity, Tools and Utilities
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(ipmitool)
 include(python3-basic)

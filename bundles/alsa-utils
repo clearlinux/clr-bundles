@@ -1,8 +1,8 @@
 # [TITLE]: alsa-utils
-# [DESCRIPTION]: alsa management tools
+# [DESCRIPTION]: Useful utilities for controlling a sound card. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Multimedia and Graphics, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

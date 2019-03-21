@@ -1,8 +1,8 @@
 # [TITLE]: atom
-# [DESCRIPTION]: The popular atom text editor
+# [DESCRIPTION]: Text and source code editor with plug-in support for Node.js and Git. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Productivity, editor, documentation
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 # Run time requirement as Atom uses a lot of plugins  is compiled to use libpython
 include(desktop-gnomelibs)
