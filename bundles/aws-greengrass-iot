@@ -1,8 +1,8 @@
 # [TITLE]: aws-greengrass-iot
-# [DESCRIPTION]: Libraries to support building IoT applications on AWS Greengrass
+# [DESCRIPTION]: Libraries to support building IoT applications on AWS Greengrass.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other, Python
 # [MAINTAINER]: Daniel Castellanos <luis.daniel.castellanos@intel.com>
 include(python-extras)
 include(python2-basic)

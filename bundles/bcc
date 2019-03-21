@@ -1,8 +1,8 @@
 # [TITLE]: bcc
-# [DESCRIPTION]: BPF Compiler Collection (BCC)
+# [DESCRIPTION]: BPF Compiler Collection (BCC) for performance analysis, troubleshooting.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

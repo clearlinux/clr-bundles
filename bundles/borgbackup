@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Deduplicating archiver with compression and authenticated encryption.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilitites
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

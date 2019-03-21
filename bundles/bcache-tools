@@ -1,8 +1,8 @@
 # [TITLE]: bcache-tools
-# [DESCRIPTION]: bcache is a way to pair a fast SSD with a slow HDD to create a hybrid disk
+# [DESCRIPTION]: bcache is a way to pair a fast SSD with a slow HDD to create a hybrid disk.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

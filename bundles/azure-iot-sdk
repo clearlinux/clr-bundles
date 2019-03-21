@@ -1,8 +1,8 @@
 # [TITLE]: azure-iot-sdk
-# [DESCRIPTION]: Libraries to support building IoT applications on Azure
+# [DESCRIPTION]: Libraries to support building IoT applications on Azure.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(python3-basic)

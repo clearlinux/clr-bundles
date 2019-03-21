@@ -1,8 +1,8 @@
 # [TITLE]: bootloader
-# [DESCRIPTION]: Loads kernel from disk and boots the system
+# [DESCRIPTION]: Loads kernel from disk and boots the system. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 clr-boot-manager
 shim

@@ -1,8 +1,8 @@
 # [TITLE]: c-basic
-# [DESCRIPTION]: Build and run C/C++ language programs
+# [DESCRIPTION]: Build and run C/C++ language programs. 
 # [STATUS]: Active
 # [CAPABILITIES]: Build and run C language programs
-# [TAGS]:
+# [TAGS]: Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 # perl for autoconf and friends

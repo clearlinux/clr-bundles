@@ -1,8 +1,8 @@
 # [TITLE]: boot-encrypted
-# [DESCRIPTION]: Enable booting encrypted root partition, swap, or other partitions
+# [DESCRIPTION]: Enable booting with encrypted root, swap, or other partitions. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Security
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(bootloader-extras)
 LVM2

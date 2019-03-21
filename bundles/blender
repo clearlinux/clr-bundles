@@ -1,8 +1,8 @@
 # [TITLE]: blender
-# [DESCRIPTION]: A 3D Modelling And Rendering Package
+# [DESCRIPTION]: A 3D creation suite supporting modelling, rendering, video editing, game development.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Multimedia and Graphics, Games
 # [MAINTAINER]: Sean V Kelley <sean.v.kelley@linux.intel.com>
 
 include(libX11client)

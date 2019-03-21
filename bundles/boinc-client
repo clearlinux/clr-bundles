@@ -1,8 +1,8 @@
 # [TITLE]: boinc-client
-# [DESCRIPTION]: volunteer computing and grid computing
+# [DESCRIPTION]: Volunteer computing and grid computing for science projects. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

@@ -1,8 +1,8 @@
 # [TITLE]: bison
-# [DESCRIPTION]: bison development tool
+# [DESCRIPTION]: General-purpose parser generator that converts annotated context-free grammar into a deterministic LR.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

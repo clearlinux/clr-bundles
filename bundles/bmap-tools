@@ -1,8 +1,8 @@
 # [TITLE]: bmap-tools
-# [DESCRIPTION]: Tools for creating the block map (bmap) for a file and copying files. Alternative to "dd" or "cp"
+# [DESCRIPTION]: Tools for creating block map (bmap) for a file and copying files; alternative to "dd" or "cp".
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

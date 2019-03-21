@@ -1,8 +1,8 @@
 # [TITLE]: big-data-basic
-# [DESCRIPTION]: Tools and frameworks for big data management
+# [DESCRIPTION]: Tools and frameworks for big data management. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Data Science, Python, R
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(R-basic)
 include(java-basic)
