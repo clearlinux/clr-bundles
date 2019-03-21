@@ -1,8 +1,8 @@
 # [TITLE]: LyX
-# [DESCRIPTION]: The WYSIWYM LaTeX editor
+# [DESCRIPTION]: Document processor and WYSIWYM LaTeX editor.
 # [STATUS]: Wip
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, editor, documentation
 # [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
 include(qt-basic)
 include(texlive)

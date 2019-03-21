@@ -1,8 +1,8 @@
 # [TITLE]: R-extras
-# [DESCRIPTION]: Improve the user experience with a common set of prebuilt R libraries
+# [DESCRIPTION]: Improve the user experience with a common set of prebuilt R libraries.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages, Data Science, R
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(R-basic)
 include(R-datasets)

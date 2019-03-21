@@ -1,8 +1,8 @@
 # [TITLE]: Remmina
-# [DESCRIPTION]: remote desktop client written in GTK+
+# [DESCRIPTION]: Remote desktop that supports VNC, NX, XDMCP, SPICE, and SSH protocols.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Productivity
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

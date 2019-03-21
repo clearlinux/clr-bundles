@@ -1,8 +1,8 @@
 # [TITLE]: R-datasets
-# [DESCRIPTION]: Large datasets for R
+# [DESCRIPTION]: Large datasets for R programming. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages, Data Science, R
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(R-basic)
 
