@@ -1,8 +1,8 @@
 # [TITLE]: dev-utils-gui
-# [DESCRIPTION]: Assist application development (gui components)
+# [DESCRIPTION]: Assist application development (gui components).
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(libX11client)

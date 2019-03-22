@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-icu4c
-# [DESCRIPTION]: All content for pkgconfig file icu4c.pc
+# [DESCRIPTION]: All content for pkgconfig file icu4c.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-gjs
-# [DESCRIPTION]: All content for pkgconfig file gjs.pc
+# [DESCRIPTION]: All content for pkgconfig file gjs.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

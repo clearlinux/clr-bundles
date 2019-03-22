@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-gimp
-# [DESCRIPTION]: All content for pkgconfig file gimp.pc
+# [DESCRIPTION]: All content for pkgconfig file gimp.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

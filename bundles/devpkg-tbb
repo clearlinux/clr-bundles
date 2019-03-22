@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-tbb
-# [DESCRIPTION]: All content for tbb
+# [DESCRIPTION]: All content for tbb.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

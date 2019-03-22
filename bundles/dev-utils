@@ -1,8 +1,8 @@
 # [TITLE]: dev-utils
-# [DESCRIPTION]: Assist application development
+# [DESCRIPTION]: Assist application development.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(git)
 include(openssl)

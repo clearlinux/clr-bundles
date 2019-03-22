@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-alsa-lib
-# [DESCRIPTION]: All content for pkgconfig file alsa-lib.pc
+# [DESCRIPTION]: All content for pkgconfig file alsa-lib.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

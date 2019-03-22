@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-userspace-rcu
-# [DESCRIPTION]: All content for pkgconfig file userspace-rcu.pc
+# [DESCRIPTION]: All content for pkgconfig file userspace-rcu.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

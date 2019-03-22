@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-libXfixes
-# [DESCRIPTION]: All content for pkgconfig file libXfixes.pc
+# [DESCRIPTION]: All content for pkgconfig file libXfixes.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

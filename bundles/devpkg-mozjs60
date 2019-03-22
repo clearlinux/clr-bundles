@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-mozjs60
-# [DESCRIPTION]: All content for pkgconfig file mozjs60.pc
+# [DESCRIPTION]: All content for pkgconfig file mozjs60.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

@@ -1,8 +1,8 @@
 # [TITLE]: containers-virt
-# [DESCRIPTION]: Run container applications from Dockerhub in lightweight virtual machines
+# [DESCRIPTION]: Run container applications from Dockerhub in lightweight virtual machines.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(containers-basic)
 firecracker

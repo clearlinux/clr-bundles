@@ -1,8 +1,8 @@
 # [TITLE]: desktop-lxqt
-# [DESCRIPTION]: Run the LXQt desktop environment
+# [DESCRIPTION]: Run the LXQt desktop environment.
 # [STATUS]: WIP
 # [CAPABILITIES]: Run the LXQt desktop environment through a login manager
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(x11-server)
 include(fonts-basic)

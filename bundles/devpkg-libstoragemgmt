@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-libstoragemgmt
-# [DESCRIPTION]: All content for pkgconfig file libstoragemgmt.pc
+# [DESCRIPTION]: All content for pkgconfig file libstoragemgmt.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

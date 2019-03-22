@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-rdma-core
-# [DESCRIPTION]: All content for pkgconfig file rdma-core.pc
+# [DESCRIPTION]: All content for pkgconfig file rdma-core.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

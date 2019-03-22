@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-libgnomekbd
-# [DESCRIPTION]: All content for pkgconfig file libgnomekbd.pc
+# [DESCRIPTION]: All content for pkgconfig file libgnomekbd.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

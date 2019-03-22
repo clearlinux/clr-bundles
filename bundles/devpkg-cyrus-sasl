@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-cyrus-sasl
-# [DESCRIPTION]: All content for pkgconfig file cyrus-sasl.pc
+# [DESCRIPTION]: All content for pkgconfig file cyrus-sasl.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

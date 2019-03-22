@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-ostree
-# [DESCRIPTION]: All content for pkgconfig file ostree.pc
+# [DESCRIPTION]: All content for pkgconfig file ostree.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

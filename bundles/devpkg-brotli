@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-brotli
-# [DESCRIPTION]: All content for pkgconfig file brotli.pc
+# [DESCRIPTION]: All content for pkgconfig file brotli.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

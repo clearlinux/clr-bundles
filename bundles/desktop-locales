@@ -1,8 +1,8 @@
 # [TITLE]: desktop-locales
-# [DESCRIPTION]: translations and documentation for desktop components
+# [DESCRIPTION]: Translations and documentation for desktop components.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other, Developer Tools
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(perl-basic)
 include(libstdcpp)

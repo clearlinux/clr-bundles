@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-util-macros
-# [DESCRIPTION]: All content for pkgconfig file util-macros.pc
+# [DESCRIPTION]: All content for pkgconfig file util-macros.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

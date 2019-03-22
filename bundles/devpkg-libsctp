@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-libsctp
-# [DESCRIPTION]: All content for pkgconfig file libsctp.pc
+# [DESCRIPTION]: All content for pkgconfig file libsctp.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

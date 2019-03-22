@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-mutter
-# [DESCRIPTION]: All content for pkgconfig file mutter.pc
+# [DESCRIPTION]: All content for pkgconfig file mutter.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

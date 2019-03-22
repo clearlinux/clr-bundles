@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-enchant
-# [DESCRIPTION]: All content for pkgconfig file enchant.pc
+# [DESCRIPTION]: All content for pkgconfig file enchant.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

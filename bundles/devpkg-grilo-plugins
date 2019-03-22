@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-grilo-plugins
-# [DESCRIPTION]: All content for pkgconfig file grilo-plugins.pc
+# [DESCRIPTION]: All content for pkgconfig file grilo-plugins.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

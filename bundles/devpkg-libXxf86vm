@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-libXxf86vm
-# [DESCRIPTION]: All content for pkgconfig file libXxf86vm.pc
+# [DESCRIPTION]: All content for pkgconfig file libXxf86vm.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

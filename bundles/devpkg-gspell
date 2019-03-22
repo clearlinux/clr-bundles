@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-gspell
-# [DESCRIPTION]: All content for pkgconfig file gspell.pc
+# [DESCRIPTION]: All content for pkgconfig file gspell.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

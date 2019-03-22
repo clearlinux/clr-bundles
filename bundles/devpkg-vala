@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-vala
-# [DESCRIPTION]: All content for pkgconfig file vala.pc
+# [DESCRIPTION]: All content for pkgconfig file vala.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

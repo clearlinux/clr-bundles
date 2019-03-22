@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-libfontenc
-# [DESCRIPTION]: All content for pkgconfig file libfontenc.pc
+# [DESCRIPTION]: All content for pkgconfig file libfontenc.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

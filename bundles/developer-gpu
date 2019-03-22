@@ -1,8 +1,8 @@
 # [TITLE]: developer-gpu
-# [DESCRIPTION]: Tools and libraries for GPU application development
+# [DESCRIPTION]: Tools and libraries for GPU application development.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Caio Marcelo de Oliveira Filho <caio.oliveira@intel.com>
 include(devpkg-mesa)
 include(libX11client)

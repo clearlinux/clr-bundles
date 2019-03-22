@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-iptables
-# [DESCRIPTION]: All content for pkgconfig file iptables.pc
+# [DESCRIPTION]: All content for pkgconfig file iptables.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)

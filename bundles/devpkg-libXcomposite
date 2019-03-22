@@ -1,8 +1,8 @@
 # [TITLE]: devpkg-libXcomposite
-# [DESCRIPTION]: All content for pkgconfig file libXcomposite.pc
+# [DESCRIPTION]: All content for pkgconfig file libXcomposite.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
