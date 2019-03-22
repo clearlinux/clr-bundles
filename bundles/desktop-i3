@@ -1,8 +1,8 @@
 # [TITLE]: desktop-i3
-# [DESCRIPTION]: Run the i3 desktop environment
+# [DESCRIPTION]: Run the i3 desktop environment.
 # [STATUS]: WIP
 # [CAPABILITIES]: Run i3 as gdm session or xinit WM
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(x11-server)
 dmenu

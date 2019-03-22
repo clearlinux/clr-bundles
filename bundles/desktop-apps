@@ -1,8 +1,8 @@
 # [TITLE]: desktop-apps
-# [DESCRIPTION]: Applications for the desktop
+# [DESCRIPTION]: Applications for the desktop.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other, Productivity, application
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(libX11client)
 include(desktop-gnomelibs)

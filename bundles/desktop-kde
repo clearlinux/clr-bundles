@@ -1,8 +1,8 @@
 # [TITLE]: desktop-kde
-# [DESCRIPTION]: Applications for the desktop from the KDE ecosystem
+# [DESCRIPTION]: Applications for the desktop from the KDE ecosystem. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other, application
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(desktop-kde-libs)
 include(qt-basic)

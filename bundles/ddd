@@ -1,8 +1,8 @@
 # [TITLE]: ddd
-# [DESCRIPTION]: graphical debugger front-end; GDB, DBX, Ladebug, JDB, Perl, Python
+# [DESCRIPTION]: Graphical debugger front-end; GDB, DBX, Ladebug, JDB, Perl, Python.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Python, perl
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

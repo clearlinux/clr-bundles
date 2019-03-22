@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the cryptoprocessor-management bundle.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: Shirley, Zhao <shirley.zhao@intel.com>
 include(cryptoprocessor-management)
 include(dev-utils)

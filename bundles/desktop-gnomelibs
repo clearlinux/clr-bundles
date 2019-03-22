@@ -1,8 +1,8 @@
 # [TITLE]: desktop-gnomelibs
-# [DESCRIPTION]: Helper bundle with common libraries used by desktopy things
+# [DESCRIPTION]: Helper bundle with common libraries and desktop utilities.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(libX11client)
 include(perl-basic)

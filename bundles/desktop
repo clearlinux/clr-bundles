@@ -1,8 +1,8 @@
 # [TITLE]: desktop
-# [DESCRIPTION]: Run the GNOME GUI desktop environment
+# [DESCRIPTION]: Run the GNOME GUI desktop environment. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other, application
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(libX11client)
 include(x11-server)

@@ -1,8 +1,8 @@
 # [TITLE]: cryptoprocessor-management
-# [DESCRIPTION]: Manage the Trusted Platform Module (TPM)
+# [DESCRIPTION]: Manage the Trusted Platform Module (TPM). 
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: Shirley, Zhao <shirley.zhao@intel.com>
 include(libglib)
 include(lib-openssl)

@@ -1,8 +1,8 @@
 # [TITLE]: desktop-apps-extras
-# [DESCRIPTION]: Larger set of applications for the desktop
+# [DESCRIPTION]: Larger set of applications for the desktop. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other, Productivity, Developer Tools, application
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 include(pidgin)

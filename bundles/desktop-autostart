@@ -1,8 +1,8 @@
 # [TITLE]: desktop-autostart
-# [DESCRIPTION]: Bundle to cause the UI to automatically start at boot
+# [DESCRIPTION]: Bundle to automatically launch the GUI upon boot.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 
 include(desktop)
