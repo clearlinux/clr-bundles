@@ -1,8 +1,8 @@
 # [TITLE]: cockpit
-# [DESCRIPTION]: Web based administration for GNU/Linux servers
+# [DESCRIPTION]: Web-based administration for GNU/Linux servers.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilitites
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libglib)

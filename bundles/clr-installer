@@ -1,8 +1,8 @@
 # [TITLE]: clr-installer
-# [DESCRIPTION]: Image creation and installation for Clear Linux OS
+# [DESCRIPTION]: Image creation and installation for Clear Linux* OS. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(curl)
 include(iproute2)

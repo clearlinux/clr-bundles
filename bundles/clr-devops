@@ -1,8 +1,8 @@
 # [TITLE]: clr-devops
-# [DESCRIPTION]: Run all Clear Linux devops workloads
+# [DESCRIPTION]: Run all Clear Linux* OS devops workloads.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(os-installer)
 include(os-core-update)

@@ -1,8 +1,8 @@
 # [TITLE]: clamav
-# [DESCRIPTION]: Clam AntiVirus is an anti-virus toolkit for Unix
+# [DESCRIPTION]: Clam AntiVirus is toolkit to detect malware and viruses, originally for Unix, with third-pary support.
 # [STATUS]: Active
-# [CAPABILITIES]:
-# [TAGS]:
+# [CAPABILITIES]: 
+# [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(lib-openssl)

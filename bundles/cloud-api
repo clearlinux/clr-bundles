@@ -1,8 +1,8 @@
 # [TITLE]: cloud-api
-# [DESCRIPTION]: API helpers for cloud access
+# [DESCRIPTION]: API helpers for cloud access.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 include(python3-basic)
 include(libstdcpp)

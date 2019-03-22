@@ -1,8 +1,8 @@
 # [TITLE]: computer-vision-models
-# [DESCRIPTION]: Deep learning models for computer vision
+# [DESCRIPTION]: Deep learning models for computer vision. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Data Science
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
 include(machine-learning-tensorflow)
 

@@ -1,8 +1,8 @@
 # [TITLE]: cryptography
-# [DESCRIPTION]: Encrypt, decrypt, sign and verify objects
+# [DESCRIPTION]: Encrypt, decrypt, sign and verify objects. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(openssl)
 include(libglib)

@@ -1,8 +1,8 @@
 # [TITLE]: containers-basic
-# [DESCRIPTION]: Run container applications from Dockerhub
+# [DESCRIPTION]: Run container applications from Dockerhub.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(git)
 include(iproute2)

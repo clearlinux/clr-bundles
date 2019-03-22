@@ -1,8 +1,8 @@
 # [TITLE]: ccache
-# [DESCRIPTION]: cache compilations to avoid redoing the same computation and speed project build times
+# [DESCRIPTION]: Cache compilations to avoid repeating same computation and speed project build times.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

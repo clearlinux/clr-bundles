@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the containers-basic bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(containers-basic)
 include(dev-utils)

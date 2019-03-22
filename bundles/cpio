@@ -1,8 +1,8 @@
 # [TITLE]: cpio
-# [DESCRIPTION]: File archiver utility
+# [DESCRIPTION]: Copies files into or out of a cpio or tar archive. 
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

@@ -1,8 +1,8 @@
 # [TITLE]: cloud-control
-# [DESCRIPTION]: Run a cloud orchestration server
+# [DESCRIPTION]: Run a cloud orchestration server.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 include(cloud-api)
 include(git)
