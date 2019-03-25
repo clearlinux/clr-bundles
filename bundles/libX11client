@@ -1,8 +1,8 @@
 # [TITLE]: libX11client
-# [DESCRIPTION]: Grouping only bundle for use in X using bundles
+# [DESCRIPTION]: Grouping only bundle for use in X using bundles.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
 include(libglib)

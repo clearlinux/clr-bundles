@@ -1,8 +1,8 @@
 # [TITLE]: lib-samba
-# [DESCRIPTION]: helper libraries for accessing samba shares
+# [DESCRIPTION]: Helper libraries for accessing samba shares.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

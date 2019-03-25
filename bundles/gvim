@@ -1,8 +1,8 @@
 # [TITLE]: gvim
-# [DESCRIPTION]: Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
+# [DESCRIPTION]: A highly configurable version of the vi text editor with advanced features, such as a GUI.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity, editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

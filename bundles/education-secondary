@@ -1,8 +1,8 @@
 # [TITLE]: education-secondary
-# [DESCRIPTION]: Educational applications for the secondary school level
+# [DESCRIPTION]: Educational applications for the secondary school level.
 # [STATUS]: Active
 # [CAPABILITIES]: learning
-# [TAGS]:
+# [TAGS]: Education, application
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(desktop-gnomelibs)

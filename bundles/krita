@@ -1,8 +1,8 @@
 # [TITLE]: krita
-# [DESCRIPTION]: Edit and paint images
+# [DESCRIPTION]: Edit and paint bitmap images.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

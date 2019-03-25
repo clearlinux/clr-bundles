@@ -1,8 +1,8 @@
 # [TITLE]: kvm-host
-# [DESCRIPTION]: Run virtual machines
+# [DESCRIPTION]: Run Kernel-based Virtual Machines (KVM).
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # drop ceph include because it pulled in an extra 200MB of content
 # only ceph-lib is needed for qemu so just pull it in directly

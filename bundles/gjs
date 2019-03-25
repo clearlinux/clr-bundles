@@ -1,8 +1,8 @@
 # [TITLE]: gjs
-# [DESCRIPTION]: JS bindings for GObjects
+# [DESCRIPTION]: JavaScript bindings for GObjects, GNOME.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)

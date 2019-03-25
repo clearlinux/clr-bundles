@@ -1,8 +1,8 @@
 # [TITLE]: libxslt
-# [DESCRIPTION]: XML documentation processing tools
+# [DESCRIPTION]: XML stylesheet transformation library for converting XML into HTML.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, documentation
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

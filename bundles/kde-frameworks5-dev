@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the kde-frameworks5 bundle.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other, Developer Tools
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(dev-utils)
 include(kde-frameworks5)

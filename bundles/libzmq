@@ -1,8 +1,8 @@
 # [TITLE]: libzmq
-# [DESCRIPTION]: ZMQ tools and libs
+# [DESCRIPTION]: ZMQ tools and libraries.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

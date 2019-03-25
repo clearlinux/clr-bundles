@@ -1,8 +1,8 @@
 # [TITLE]: libglib
-# [DESCRIPTION]: Common C routines used by Gtk+ and other libs
+# [DESCRIPTION]: Common C routines used by Gtk+ and other libs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
 

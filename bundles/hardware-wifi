@@ -1,8 +1,8 @@
 # [TITLE]: hardware-wifi
-# [DESCRIPTION]: Firmware and tools for basic wifi support
+# [DESCRIPTION]: Firmware and tools for basic WiFi support.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, hardware, network
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libstdcpp)
 include(libglib)

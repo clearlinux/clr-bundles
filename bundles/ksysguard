@@ -1,8 +1,8 @@
 # [TITLE]: ksysguard
-# [DESCRIPTION]: Track and control the processes running in your system
+# [DESCRIPTION]: Track and control the processes running in your system.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

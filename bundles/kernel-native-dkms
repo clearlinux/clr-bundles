@@ -1,8 +1,8 @@
 # [TITLE]: kernel-native-dkms
-# [DESCRIPTION]: Support module building/loading via DKMS in native kernel
+# [DESCRIPTION]: Support module for building/loading via Dyamic Kernel Module System (DKMS) in native kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(c-basic)
 include(linux-dev)

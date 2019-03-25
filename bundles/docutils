@@ -1,8 +1,8 @@
 # [TITLE]: docutils
-# [DESCRIPTION]: Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
+# [DESCRIPTION]: Tools for converting plaintext into other formats (e.g. HTML, XML, LaTeX).
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Python
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

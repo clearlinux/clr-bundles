@@ -1,8 +1,8 @@
 # [TITLE]: locales
-# [DESCRIPTION]: basic system translations
+# [DESCRIPTION]: Machine-readable data files, shared objects, and programs for localization and internationalization.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 
 include(glibc-locale)

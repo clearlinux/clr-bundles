@@ -1,8 +1,8 @@
 # [TITLE]: gnome-todo
-# [DESCRIPTION]: Manage personal tasks
+# [DESCRIPTION]: Minimalist personal task manager.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

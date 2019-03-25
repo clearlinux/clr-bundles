@@ -1,7 +1,7 @@
 # [TITLE]: linux-dev
-# [DESCRIPTION]: Files for building modules against the native kernel
+# [DESCRIPTION]: Files for building modules against the native kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-dev

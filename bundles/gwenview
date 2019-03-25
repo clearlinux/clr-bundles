@@ -1,8 +1,8 @@
 # [TITLE]: gwenview
-# [DESCRIPTION]: A fast and easy to use image viewer
+# [DESCRIPTION]: An image viewer with simple adjustments--ideal for browsing collections.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

@@ -1,8 +1,8 @@
 # [TITLE]: gnuplot
-# [DESCRIPTION]: Plotting package which outputs to X11, PostScript, PNG, GIF, and others
+# [DESCRIPTION]: Graphing utility that outputs to X11, PostScript, PNG, GIF, and others.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Data Science
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(qt-basic)

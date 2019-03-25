@@ -1,8 +1,8 @@
 # [TITLE]: gdb
-# [DESCRIPTION]: GNU debugger
+# [DESCRIPTION]: GNU debugger with support for Ada, Assembly, C, C++, D, Fortran, Go, and more.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

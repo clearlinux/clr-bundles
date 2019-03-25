@@ -1,8 +1,8 @@
 # [TITLE]: kernel-lts
-# [DESCRIPTION]: Run the latest longterm native kernel
+# [DESCRIPTION]: Run the latest long-term support native kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 
 # This is a meta-bundle which include the latest longterm native kernel

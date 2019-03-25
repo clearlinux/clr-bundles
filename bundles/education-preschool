@@ -1,8 +1,8 @@
 # [TITLE]: education-preschool
-# [DESCRIPTION]: Educational applications for the preschool level
+# [DESCRIPTION]: Educational applications for the preschool level.
 # [STATUS]: Active
 # [CAPABILITIES]: learning
-# [TAGS]:
+# [TAGS]: Education, application
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(desktop-gnomelibs)

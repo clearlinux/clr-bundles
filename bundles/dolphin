@@ -1,8 +1,8 @@
 # [TITLE]: dolphin
-# [DESCRIPTION]: File manager focusing on usability
+# [DESCRIPTION]: File manager focusing on usability.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

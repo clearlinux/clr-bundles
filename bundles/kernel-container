@@ -1,7 +1,7 @@
 # [TITLE]: kernel-container
-# [DESCRIPTION]: Run the container specific kernel
+# [DESCRIPTION]: Run the Clear Linux OS container specific kernel.
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Jose Lamego <jose.a.lamego@intel.com>
 filesystem

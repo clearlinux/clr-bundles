@@ -1,8 +1,8 @@
 # [TITLE]: dnf
-# [DESCRIPTION]: The dnf tool for mixer use
+# [DESCRIPTION]: The dnf tool for use with mixer on Clear Linux OS.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

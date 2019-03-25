@@ -1,8 +1,8 @@
 # [TITLE]: java-runtime
-# [DESCRIPTION]: Run java language programs
+# [DESCRIPTION]: Runtime environment for Java language programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Programming Languages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(libX11client)
 openjdk

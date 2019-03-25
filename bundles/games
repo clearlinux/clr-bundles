@@ -1,8 +1,8 @@
 # [TITLE]: games
-# [DESCRIPTION]: Play games in Clear Linux
+# [DESCRIPTION]: Play games in Clear Linux OS.
 # [STATUS]: Active
 # [CAPABILITIES]: Makes you forget about work, for a little bit
-# [TAGS]:
+# [TAGS]: Games
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
 include(p11-kit)

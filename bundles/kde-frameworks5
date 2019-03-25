@@ -1,8 +1,8 @@
 # [TITLE]: kde-frameworks5
-# [DESCRIPTION]: Common KDE Frameworks 5 libraries
+# [DESCRIPTION]: Common KDE Frameworks 5 libraries.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(qt-basic)
 

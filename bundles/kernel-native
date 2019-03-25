@@ -1,8 +1,8 @@
 # [TITLE]: kernel-native
-# [DESCRIPTION]: Run the native kernel
+# [DESCRIPTION]: Run the native kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(hardware-uefi)
 

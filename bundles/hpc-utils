@@ -1,8 +1,8 @@
 # [TITLE]: hpc-utils
-# [DESCRIPTION]: Provide userspace management programs for various HPC related programs.
+# [DESCRIPTION]: Provide userspace management programs for various HPC-related programs.
 # [STATUS]: WIP
 # [CAPABILITIES]: Manage RDMA and IB devices.
-# [TAGS]:
+# [TAGS]: Data Science, Perl
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libstdcpp)
 

@@ -1,8 +1,8 @@
 # [TITLE]: kernel-lts2018
-# [DESCRIPTION]: Run the longterm 4.19 native kernel
+# [DESCRIPTION]: Run the long-term support 4.19 native kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 console-autostart
 include(bootloader)

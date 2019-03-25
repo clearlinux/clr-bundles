@@ -1,8 +1,8 @@
 # [TITLE]: kamera
-# [DESCRIPTION]: Access and manipulate pictures on a digital camera
+# [DESCRIPTION]: Access and manipulate pictures on a digital camera.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

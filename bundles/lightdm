@@ -1,8 +1,8 @@
 # [TITLE]: lightdm
-# [DESCRIPTION]: LightDM login manager with GTK greeter
+# [DESCRIPTION]: LightDM login manager with GTK greeter.
 # [STATUS]: Active
 # [CAPABILITIES]: Login Manager for KDE, Xfce, i3 and custom desktop sessions.
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libX11client)

@@ -1,8 +1,8 @@
 # [TITLE]: kernel-hyperv-lts
-# [DESCRIPTION]: Run the hyperv specific LTS kernel
+# [DESCRIPTION]: Run the Microsoft Hyper-V specific LTS kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Miguel Bernal Marin <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
 console-autostart

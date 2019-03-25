@@ -1,8 +1,8 @@
 # [TITLE]: konqueror
-# [DESCRIPTION]: KDE File Manager & Web Browser
+# [DESCRIPTION]: KDE file manager and Web browser.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

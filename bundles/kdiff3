@@ -1,8 +1,8 @@
 # [TITLE]: kdiff3
-# [DESCRIPTION]: Feature-Rich Code Comparison Utility
+# [DESCRIPTION]: Feature-rich code comparison utility.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(kde-frameworks5)
 kdiff3

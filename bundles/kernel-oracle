@@ -1,8 +1,8 @@
 # [TITLE]: kernel-oracle
-# [DESCRIPTION]: Run the Oracle Cloud specific kernel
+# [DESCRIPTION]: Run the Oracle Cloud specific kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(bootloader)
 linux-oracle

@@ -1,8 +1,8 @@
 # [TITLE]: kate
-# [DESCRIPTION]: Text editor that can open multiple files simultaneously
+# [DESCRIPTION]: Text editor that can open multiple files simultaneously.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity, editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

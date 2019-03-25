@@ -1,8 +1,8 @@
 # [TITLE]: kernel-networktest
-# [DESCRIPTION]: kernel with NFS root FS support and modular network drivers
+# [DESCRIPTION]: Kernel with NFS root FS support and modular network drivers.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-networktest
 linux-networktest-dev

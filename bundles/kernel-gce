@@ -1,8 +1,8 @@
 # [TITLE]: kernel-gce
-# [DESCRIPTION]: Run the kvm specific kernel
+# [DESCRIPTION]: Run the Google Compute Engine (GCE) specific kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
 linux-gce

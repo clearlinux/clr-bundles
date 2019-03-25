@@ -1,8 +1,8 @@
 # [TITLE]: fonts-basic
-# [DESCRIPTION]: fonts and fonts tooling
+# [DESCRIPTION]: Fonts and fonts tooling.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia, Tools and Utilities
 # [MAINTAINER]: Anselmo L. S. Melo <anselmo.melo@intel.com>
 include(libstdcpp)
 include(libglib)

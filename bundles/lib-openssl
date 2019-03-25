@@ -1,8 +1,8 @@
 # [TITLE]: lib-openssl
-# [DESCRIPTION]: Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
+# [DESCRIPTION]: Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Security, network
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

@@ -1,8 +1,8 @@
 # [TITLE]: graphviz
-# [DESCRIPTION]: Library for parsing graphs in xdot format
+# [DESCRIPTION]: Library for parsing graphs in xdot format.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Data Science
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

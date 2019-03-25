@@ -1,8 +1,8 @@
 # [TITLE]: haskell-basic
-# [DESCRIPTION]: Build and run haskell language programs
+# [DESCRIPTION]: Build and run Haskell language programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # stack ends up using gcc, make, xz, perl, libgmp, libffi and zlib
 include(git)

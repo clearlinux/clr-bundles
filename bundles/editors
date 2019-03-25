@@ -1,8 +1,8 @@
 # [TITLE]: editors
-# [DESCRIPTION]: Run popular terminal text editors
+# [DESCRIPTION]: Run popular terminal text editors.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # Run time requirement as vim is compiled to use libpython
 include(emacs)

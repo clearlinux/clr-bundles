@@ -1,8 +1,8 @@
 # [TITLE]: lftp
-# [DESCRIPTION]: File transfer client for http, ftp, sftp and more
+# [DESCRIPTION]: File transfer client for http, ftp, sftp and more.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, network
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(lib-openssl)

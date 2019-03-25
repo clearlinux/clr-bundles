@@ -1,8 +1,8 @@
 # [TITLE]: fossil
-# [DESCRIPTION]: Fossil is a simple, high-reliability, distributed software configuration management system
+# [DESCRIPTION]: A simple, high-reliability, distributed software configuration management system.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(lib-openssl)

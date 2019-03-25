@@ -1,8 +1,8 @@
 # [TITLE]: fwupdate
-# [DESCRIPTION]: Firmware update tool
+# [DESCRIPTION]: Firmware update tool for UEFI and other standards.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

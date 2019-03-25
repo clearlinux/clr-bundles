@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Obtain and renew valid SSL certificates through Let's Encrypt's ACME service.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Security, Python
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(python3-basic)
 include(cloud-api)

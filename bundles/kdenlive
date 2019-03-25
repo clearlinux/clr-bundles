@@ -1,8 +1,8 @@
 # [TITLE]: kdenlive
-# [DESCRIPTION]: A non-linear video editor for Linux using the MLT video framework
+# [DESCRIPTION]: A non-linear video editor for Linux using the MLT video framework.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

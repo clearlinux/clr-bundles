@@ -1,8 +1,8 @@
 # [TITLE]: inkscape
-# [DESCRIPTION]: Inkscape SVG drawing program
+# [DESCRIPTION]: Professional vector graphics editor.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

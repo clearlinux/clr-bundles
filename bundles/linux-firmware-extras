@@ -1,7 +1,7 @@
 # [TITLE]: linux-firmware-extras
-# [DESCRIPTION]: Extra firmware for the kernel
+# [DESCRIPTION]: Extra firmware for the kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-firmware-extras

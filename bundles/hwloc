@@ -1,8 +1,8 @@
 # [TITLE]: hwloc
-# [DESCRIPTION]: hardware affinity tools
+# [DESCRIPTION]: Hardware locality provides a portable abstraction of the topology of modern architectures.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, hardware
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

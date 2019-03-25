@@ -1,8 +1,8 @@
 # [TITLE]: go-basic
-# [DESCRIPTION]: Build and run go language programs
+# [DESCRIPTION]: Build and run Go language programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(git)
 include(p11-kit)

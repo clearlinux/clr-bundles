@@ -1,8 +1,8 @@
 # [TITLE]: ipmitool
-# [DESCRIPTION]: Manage IPMI functions of a local or remote system
+# [DESCRIPTION]: Command-line interface to manage IPMI-enabled devices.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, hardware
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(lib-openssl)

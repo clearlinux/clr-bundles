@@ -1,8 +1,8 @@
 # [TITLE]: kernel-iot-lts2017-preempt-rt
-# [DESCRIPTION]: Run the Intel "PK" kernel, an enterprise-style kernel with backports, plus PREEMPT_RT support
+# [DESCRIPTION]: Run the Intel "PK" kernel, an enterprise-style kernel with backports, plus PREEMPT_RT support.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(bootloader)
 console-autostart

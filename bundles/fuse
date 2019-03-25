@@ -1,8 +1,8 @@
 # [TITLE]: fuse
-# [DESCRIPTION]: fuse filesystem support
+# [DESCRIPTION]: Filesystem in Userspace (FUSE) to export a virtual filesystem to Linux kernel, or mount filesystem implementation for non-privileged users.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

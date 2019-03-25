@@ -1,8 +1,8 @@
 # [TITLE]: hexchat
-# [DESCRIPTION]: Header and path for HexChat plugins
+# [DESCRIPTION]: A graphical IRC chat client; header and path for HexChat plugins.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)

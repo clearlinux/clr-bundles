@@ -1,8 +1,8 @@
 # [TITLE]: gedit
-# [DESCRIPTION]: gedit
+# [DESCRIPTION]: GNOME text editor with full support for UTF-8 and syntax highlighting.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity, editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

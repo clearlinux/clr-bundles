@@ -1,8 +1,8 @@
 # [TITLE]: logrotate
-# [DESCRIPTION]: manages the automatic rotation and compression of log files
+# [DESCRIPTION]: Automatic rotation compression and removal and mailing of log files.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

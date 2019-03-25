@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the games bundle.
 # [STATUS]: Active
 # [CAPABILITIES]: Makes you forget about work, for a little bit
-# [TAGS]:
+# [TAGS]: Games, Developer Tools
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(dev-utils)
 include(games)

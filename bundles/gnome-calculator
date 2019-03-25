@@ -1,8 +1,8 @@
 # [TITLE]: gnome-calculator
-# [DESCRIPTION]: Software calculator integrated with the GNOME desktop environment
+# [DESCRIPTION]: Software calculator integrated with the GNOME desktop environment.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity, Tools and Utilities, application
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libglib)

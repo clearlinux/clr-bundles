@@ -1,7 +1,7 @@
 # [TITLE]: linux-lts-dev
-# [DESCRIPTION]: Files for building modules against LTS kernel
+# [DESCRIPTION]: Files for building modules against LTS kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(linux-lts2018-dev)

@@ -1,8 +1,8 @@
 # [TITLE]: java-basic
-# [DESCRIPTION]: Build and run java language programs
+# [DESCRIPTION]: Build and run Java language programs.
 # [STATUS]: Active
 # [CAPABILITIES]: Compile and run basic java applications
-# [TAGS]:
+# [TAGS]: Programming Languages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(libX11client)
 include(p11-kit)

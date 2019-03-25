@@ -1,8 +1,8 @@
 # [TITLE]: inotify-tools
-# [DESCRIPTION]: monitor for file system events
+# [DESCRIPTION]: Command line programs, with interface to inotify, to monitor filesystem events.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

@@ -1,8 +1,8 @@
 # [TITLE]: kernel-lts2018-dkms
-# [DESCRIPTION]: Support module building/loading via DKMS in LTS2018 kernel
+# [DESCRIPTION]: Support for module building/loading via Dynamic Kernel Module System (DKMS) in LTS2018 kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(c-basic)
 include(linux-lts2018-dev)

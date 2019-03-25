@@ -1,7 +1,7 @@
 # [TITLE]: kernel-hyperv-mini
-# [DESCRIPTION]: Run the hyperv mini-os specific kernel
+# [DESCRIPTION]: Run the Microsoft Hyper-V mini-os specific kernel.
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: William Douglas
 include(kernel-hyperv)

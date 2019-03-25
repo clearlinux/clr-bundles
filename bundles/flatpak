@@ -1,8 +1,8 @@
 # [TITLE]: flatpak
-# [DESCRIPTION]: Use flatpak packages, or build them
+# [DESCRIPTION]: Run sandboxed desktop application bundles, or build flatpak packages.
 # [STATUS]: Active
 # [CAPABILITIES]: Provide an alternative way to obtain and run software on Clear Linux OS
-# [TAGS]:
+# [TAGS]: Productivity, Tools and Utilities, application
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libX11client)

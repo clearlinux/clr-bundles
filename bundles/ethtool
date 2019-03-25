@@ -1,8 +1,8 @@
 # [TITLE]: ethtool
-# [DESCRIPTION]: Utility for displaying and modifying some parameters of network interface controller
+# [DESCRIPTION]: Utility for displaying and modifying some parameters of network interface controller.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, network, hardware
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

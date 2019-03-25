@@ -1,8 +1,8 @@
 # [TITLE]: flac
-# [DESCRIPTION]: FLAC audio format tools
+# [DESCRIPTION]: Free Lossless Audio Codec (FLAC) audio format tools.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

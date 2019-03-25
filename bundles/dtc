@@ -1,8 +1,8 @@
 # [TITLE]: dtc
-# [DESCRIPTION]: Device Tree Compiler, to describe non-discoverable hardware
+# [DESCRIPTION]: Device Tree Compiler used to describe non-discoverable hardware.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools, hardware
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

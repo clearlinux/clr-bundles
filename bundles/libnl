@@ -1,8 +1,8 @@
 # [TITLE]: libnl
-# [DESCRIPTION]: Low level firewall tools
+# [DESCRIPTION]: Library for applications that deal with netlink sockets.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 
