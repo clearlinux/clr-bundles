@@ -1,8 +1,8 @@
 # [TITLE]: openssh-server
-# [DESCRIPTION]: Run an ssh server
+# [DESCRIPTION]: Run a secure shell (SSH) server for access from remote machines.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 openssh
 openssh-extras

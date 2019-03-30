@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the perl-basic bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages, Developer Tools
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(dev-utils)
 include(os-core-dev)

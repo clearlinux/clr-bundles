@@ -1,8 +1,8 @@
 # [TITLE]: package-builder
-# [DESCRIPTION]: Minimal bundle for building packages via Clearlinux common tooling
+# [DESCRIPTION]: Minimal bundle for building packages via Clear Linux OS common tooling.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: California Sullivan <california.l.sullivan@intel.com>
 include(curl)
 include(diffutils)

@@ -1,8 +1,8 @@
 # [TITLE]: maker-3dprinting
-# [DESCRIPTION]: 3D printing tools for Makers
+# [DESCRIPTION]: 3D printing tools for makers.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(python3-basic)

@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the sysadmin-basic bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools, Perl
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(os-core-dev)

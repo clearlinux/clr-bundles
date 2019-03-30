@@ -1,8 +1,8 @@
 # [TITLE]: runtime-libs-boost
-# [DESCRIPTION]: Basic C++ / Boost runtime libraries
+# [DESCRIPTION]: Basic C++ / Boost runtime libraries.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libstdcpp)
 

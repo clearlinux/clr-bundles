@@ -1,8 +1,8 @@
 # [TITLE]: openqa
-# [DESCRIPTION]: OpenQA infrastructure
+# [DESCRIPTION]: OpenQA infrastructure, providing a significant part of release validation testing.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(kvm-host)
 include(perl-extras)

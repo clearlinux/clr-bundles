@@ -1,8 +1,8 @@
 # [TITLE]: performance-tools
-# [DESCRIPTION]: Run performance and power measurements
+# [DESCRIPTION]: Run performance and power measurements.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Python, Perl
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(ethtool)
 include(iproute2)

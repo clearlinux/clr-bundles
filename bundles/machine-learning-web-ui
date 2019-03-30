@@ -1,8 +1,8 @@
 # [TITLE]: machine-learning-web-ui
-# [DESCRIPTION]: Web based, interactive tools for machine learning
+# [DESCRIPTION]: Web-based, interactive tools for machine learning.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Data Science, Python, R
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(cloud-api)
 include(R-extras)

@@ -1,8 +1,8 @@
 # [TITLE]: vlc
-# [DESCRIPTION]: The vlc media player
+# [DESCRIPTION]: Multimedia player and streamer.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(qt-basic)

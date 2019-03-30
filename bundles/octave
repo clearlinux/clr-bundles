@@ -1,8 +1,8 @@
 # [TITLE]: octave
-# [DESCRIPTION]: high-level programming language, primarily intended for numerical computations
+# [DESCRIPTION]: High-level programming language, primarily intended for numerical computations.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Language
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(qt-basic)

@@ -1,8 +1,8 @@
 # [TITLE]: python2-basic
-# [DESCRIPTION]: Run legacy python language programs
+# [DESCRIPTION]: Run legacy Python 2 language programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages, Data Science, Developer Tools, Python
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(p11-kit)
 include(libstdcpp)

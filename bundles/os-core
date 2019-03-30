@@ -1,8 +1,8 @@
 # [TITLE]: os-core
-# [DESCRIPTION]: Run a minimal Linux userspace
+# [DESCRIPTION]: Run a minimal Linux userspace.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 bash-bin
 ca-certs-static

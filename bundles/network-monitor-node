@@ -1,8 +1,8 @@
 # [TITLE]: network-monitor-node
-# [DESCRIPTION]: Run network security monitoring node
+# [DESCRIPTION]: Run network security monitoring node.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Security, network
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 bro

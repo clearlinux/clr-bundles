@@ -1,8 +1,8 @@
 # [TITLE]: rclone
-# [DESCRIPTION]: rclone is a command-line program to sync files and directories to and from various network and cloud providers
+# [DESCRIPTION]: Command-line program to synchronize files and directories to and from various network and cloud providers.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

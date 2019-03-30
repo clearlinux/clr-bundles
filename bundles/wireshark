@@ -1,8 +1,8 @@
 # [TITLE]: wireshark
-# [DESCRIPTION]: Network packet capture and analysis
+# [DESCRIPTION]: Network packet capture and traffic analysis tool.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(postgresql)
 include(qt-basic)

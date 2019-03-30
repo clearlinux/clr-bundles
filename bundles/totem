@@ -1,8 +1,8 @@
 # [TITLE]: totem
-# [DESCRIPTION]: Totem Movie Player plugin API
+# [DESCRIPTION]: Movie player for the GNOME desktop based on GStreamer.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

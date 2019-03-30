@@ -1,8 +1,8 @@
 # [TITLE]: wget
-# [DESCRIPTION]: Utility to retrieve content from web servers
+# [DESCRIPTION]: Network utility to retrieve content from web servers.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(lib-openssl)

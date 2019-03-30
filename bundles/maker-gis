@@ -1,8 +1,8 @@
 # [TITLE]: maker-gis
-# [DESCRIPTION]: GIS/Mapping tools for Makers
+# [DESCRIPTION]: GIS/Mapping tools for makers.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(Babel)
 include(desktop-kde-libs)

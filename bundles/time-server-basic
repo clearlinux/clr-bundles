@@ -1,8 +1,8 @@
 # [TITLE]: time-server-basic
-# [DESCRIPTION]: Run an NTP server
+# [DESCRIPTION]: Run an network time protocol (NTP) server.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity, Tools and Utilities, network
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 chrony
 linuxptp

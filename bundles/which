@@ -1,8 +1,8 @@
 # [TITLE]: which
-# [DESCRIPTION]: locate executables in the system
+# [DESCRIPTION]: Utility to show full path of commands and locate executables.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

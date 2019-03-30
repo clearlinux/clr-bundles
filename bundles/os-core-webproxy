@@ -1,8 +1,8 @@
 # [TITLE]: os-core-webproxy
-# [DESCRIPTION]: Provides basic suite for using http proxies
+# [DESCRIPTION]: Provides basic suite for using http proxies.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(os-core)
 include(libglib)

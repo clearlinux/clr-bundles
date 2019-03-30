@@ -1,8 +1,8 @@
 # [TITLE]: uget
-# [DESCRIPTION]: GTK+ download manager featuring download classification and HTML import
+# [DESCRIPTION]: GTK+ download manager featuring download classification and HTML import.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

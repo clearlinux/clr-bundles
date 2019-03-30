@@ -1,8 +1,8 @@
 # [TITLE]: perl-basic
-# [DESCRIPTION]: Run perl language programs
+# [DESCRIPTION]: Run Perl language programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages, Perl
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(lib-openssl)
 

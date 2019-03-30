@@ -1,8 +1,8 @@
 # [TITLE]: telemetrics
-# [DESCRIPTION]: Run telemetrics client
+# [DESCRIPTION]: client and server solution used to collect data from running Clear Linux OS systems.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
 include(findutils)
 

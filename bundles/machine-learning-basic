@@ -1,8 +1,8 @@
 # [TITLE]: machine-learning-basic
-# [DESCRIPTION]: Build machine learning applications
+# [DESCRIPTION]: Build machine learning applications with a full suite of libraries.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Data Science, Python
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
 include(cloud-api)

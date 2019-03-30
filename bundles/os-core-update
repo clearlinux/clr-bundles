@@ -1,8 +1,8 @@
 # [TITLE]: os-core-update
-# [DESCRIPTION]: Provides basic suite for running the Clear Linux for iA Updater
+# [DESCRIPTION]: Provides basic suite for running Clear Linux OS for IA Updater.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
 include(os-core-webproxy)

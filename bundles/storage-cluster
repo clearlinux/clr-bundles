@@ -1,8 +1,8 @@
 # [TITLE]: storage-cluster
-# [DESCRIPTION]: Run a storage server
+# [DESCRIPTION]: Run a storage server.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Data Science, Python, storage
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 
 # unfortunately, ceph is still too much legacy

@@ -1,8 +1,8 @@
 # [TITLE]: productivity
-# [DESCRIPTION]: A set of console utilities for task management and communication
+# [DESCRIPTION]: A set of console utilities for task management and communication.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity
 # [MAINTAINER]: Josue David Hernandez <josue.d.hernandez.gutierrez@intel.com>
 include(mail-utils)
 include(perl-basic)

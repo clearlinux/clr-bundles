@@ -1,8 +1,8 @@
 # [TITLE]: os-testsuite-phoronix
-# [DESCRIPTION]: Run the Phoronix testsuite
+# [DESCRIPTION]: Run the Phoronix test suite.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(os-testsuite-phoronix-desktop)

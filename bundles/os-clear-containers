@@ -1,7 +1,7 @@
 # [TITLE]: os-clear-containers
-# [DESCRIPTION]: Control Clear Containers guest setup and workloads
+# [DESCRIPTION]: Control Clear Containers guest setup and workloads.
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Jose Lamego <jose.a.lamego@intel.com>
 filesystem

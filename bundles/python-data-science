@@ -1,8 +1,8 @@
 # [TITLE]: python-data-science
-# [DESCRIPTION]: The python data-science stack; the best of http://pydata.org
+# [DESCRIPTION]: The Python data-science stack; the best of http://pydata.org.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages, Data Science, Developer Tools, Python
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
 include(cloud-api)

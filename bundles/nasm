@@ -1,8 +1,8 @@
 # [TITLE]: nasm
-# [DESCRIPTION]: assembler
+# [DESCRIPTION]: General purpose x86 assembler.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Language
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

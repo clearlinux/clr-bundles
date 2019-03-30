@@ -1,7 +1,7 @@
 # [TITLE]: pnp-tools-basic
-# [DESCRIPTION]: Run performance and power measurements
+# [DESCRIPTION]: Run performance and power measurements.
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 filesystem

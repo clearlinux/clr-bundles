@@ -1,8 +1,8 @@
 # [TITLE]: virt-manager-gui
-# [DESCRIPTION]: Enable controlling virt-manager through a GUI
+# [DESCRIPTION]: Enable controlling virt-manager through a GUI.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libX11client)
 include(virt-manager)

@@ -1,8 +1,8 @@
 # [TITLE]: netkit-telnet
-# [DESCRIPTION]: telnet client
+# [DESCRIPTION]: Basic telnet client.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(libstdcpp)

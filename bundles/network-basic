@@ -1,8 +1,8 @@
 # [TITLE]: network-basic
-# [DESCRIPTION]: Run network utilities and modify network settings
+# [DESCRIPTION]: Run network utilities and modify network settings.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, network
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # perl-basic and tcl-basic included to avoid duplication
 include(clr-network-troubleshooter)

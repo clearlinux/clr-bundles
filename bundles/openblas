@@ -1,8 +1,8 @@
 # [TITLE]: openblas
-# [DESCRIPTION]: The OpenBLAS linear algebra package
+# [DESCRIPTION]: Optimized BLAS (linear algebra) library based on GotoBLAS2 1.13 BSD version.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Data Science
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

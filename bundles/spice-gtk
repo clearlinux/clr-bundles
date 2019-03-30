@@ -1,8 +1,8 @@
 # [TITLE]: spice-gtk
-# [DESCRIPTION]: SPICE Client GLib 2.0 library
+# [DESCRIPTION]: SPICE Client GLib 2.0 library.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)

@@ -1,7 +1,7 @@
 # [TITLE]: systemd-cryptsetup
-# [DESCRIPTION]: Dummy bundle to avoid rolling back systemd, will be removed at next format bump
+# [DESCRIPTION]: Dummy bundle to avoid rolling back systemd, will be removed at next format bump.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 filesystem

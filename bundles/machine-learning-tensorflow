@@ -1,8 +1,8 @@
 # [TITLE]: machine-learning-tensorflow
-# [DESCRIPTION]: Build machine learning applications using Tensorflow
+# [DESCRIPTION]: Build machine learning applications using Tensorflow, a library for numerical computation using deep neural networks.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Data Science, Python
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(cloud-api)
 include(python-data-science)

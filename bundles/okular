@@ -1,8 +1,8 @@
 # [TITLE]: okular
-# [DESCRIPTION]: Universal document viewer
+# [DESCRIPTION]: Universal document viewer.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

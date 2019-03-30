@@ -1,8 +1,8 @@
 # [TITLE]: os-utils-gui
-# [DESCRIPTION]: Provides a graphical desktop environment
+# [DESCRIPTION]: Provides a graphical desktop environment.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(alsa-utils)
 include(cryptography)

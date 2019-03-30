@@ -1,8 +1,8 @@
 # [TITLE]: os-cloudguest
-# [DESCRIPTION]: Run any initialization processes required of a generic cloud guest VM
+# [DESCRIPTION]: Run any initialization processes required of a generic cloud guest virtual machine (VM).
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(ethtool)
 include(openssh-server)

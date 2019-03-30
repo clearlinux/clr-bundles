@@ -1,8 +1,8 @@
 # [TITLE]: mpg123
-# [DESCRIPTION]: play and decode mp3 files
+# [DESCRIPTION]: MPEG layer 1/2/3 audio player and decoder. MPEG 1.0 layer 3 known as MP3.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

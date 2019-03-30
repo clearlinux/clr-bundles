@@ -1,8 +1,8 @@
 # [TITLE]: maker-cnc
-# [DESCRIPTION]: CNC carving tools for Makers
+# [DESCRIPTION]: CNC carving tools for makers.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(inkscape)
 include(python-extras)

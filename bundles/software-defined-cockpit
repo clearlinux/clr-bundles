@@ -1,8 +1,8 @@
 # [TITLE]: software-defined-cockpit
-# [DESCRIPTION]: Run the automotive software defined cockpit which has graphic, media, sound and connectivity
+# [DESCRIPTION]: Run the automotive software defined cockpit which has graphic, media, sound and connectivity.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
 include(libX11client)
 include(wpa_supplicant)

@@ -1,8 +1,8 @@
 # [TITLE]: package-utils
-# [DESCRIPTION]: Utilities for creating, building, and managing packages
+# [DESCRIPTION]: Utilities for creating, building, and managing packages.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Python, Perl
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(python3-basic)
 # sad

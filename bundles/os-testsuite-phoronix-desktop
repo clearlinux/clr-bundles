@@ -1,8 +1,8 @@
 # [TITLE]: os-testsuite-phoronix-desktop
-# [DESCRIPTION]: Run the Phoronix testsuite (desktop version)
+# [DESCRIPTION]: Run the Phoronix test suite (desktop version).
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
 include(git)

@@ -1,8 +1,8 @@
 # [TITLE]: yakuake
-# [DESCRIPTION]: Drop-down terminal emulator
+# [DESCRIPTION]: Quake-style terminal emulator based on KDE Konsole technology.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)

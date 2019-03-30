@@ -1,8 +1,8 @@
 # [TITLE]: quassel
-# [DESCRIPTION]: Quassel IRC
+# [DESCRIPTION]: Next-generation distributed IRC client.
 # [STATUS]: Active
 # [CAPABILITIES]: Quassel IRC client
-# [TAGS]:
+# [TAGS]: Productivity
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(qt-basic)

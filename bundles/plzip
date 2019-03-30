@@ -1,8 +1,8 @@
 # [TITLE]: plzip
-# [DESCRIPTION]: Parallel LZMA Data Compressor
+# [DESCRIPTION]: Parallel losless data compressor based on the LZMA algorithm.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

@@ -1,8 +1,8 @@
 # [TITLE]: scm-server
-# [DESCRIPTION]: Run a source code management server
+# [DESCRIPTION]: Run a source code management server.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(git)
 include(nginx)

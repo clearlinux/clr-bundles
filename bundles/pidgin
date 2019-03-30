@@ -1,8 +1,8 @@
 # [TITLE]: pidgin
-# [DESCRIPTION]: Multi-protocol instant messagging client
+# [DESCRIPTION]: Multi-protocol instant messagging (IM) client.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 
 include(libX11client)

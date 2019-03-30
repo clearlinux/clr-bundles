@@ -1,8 +1,8 @@
 # [TITLE]: vim
-# [DESCRIPTION]: The popular vim text editor
+# [DESCRIPTION]: Vi Improved, a configurable, improved version of the vi text editor.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity, Developer Tools, editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # Run time requirement as vim is compiled to use libpython
 include(python3-basic)

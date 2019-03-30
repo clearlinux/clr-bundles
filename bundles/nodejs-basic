@@ -1,8 +1,8 @@
 # [TITLE]: nodejs-basic
-# [DESCRIPTION]: Run javascript server side
+# [DESCRIPTION]: Run JavaScript server side for fast, scalable network applications.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
 include(lib-openssl)

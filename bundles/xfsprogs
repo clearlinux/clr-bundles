@@ -1,8 +1,8 @@
 # [TITLE]: xfsprogs
-# [DESCRIPTION]: XFS tools
+# [DESCRIPTION]: Utilities to manage the XFS filesystem.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

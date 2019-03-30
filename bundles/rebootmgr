@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Performs scheduled or immediate system reboots after the kernel or critical OS components change.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, kernel
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libglib)

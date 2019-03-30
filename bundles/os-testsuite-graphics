@@ -1,8 +1,8 @@
 # [TITLE]: os-testsuite-graphics
-# [DESCRIPTION]: Provides minimal functionality for graphics testing functions
+# [DESCRIPTION]: Provides minimal functionality for graphics testing functions.
 # [STATUS]: WIP
 # [CAPABILITIES]: Graphics Benchmarking testing, UI interaction testing, and various file utilities
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Ong, Hze Horng <hze.horng.ong@intel.com>
 clear-font
 gdk-pixbuf

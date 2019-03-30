@@ -1,8 +1,8 @@
 # [TITLE]: restic
-# [DESCRIPTION]: restic is a backup program that supports multiple cloud storage providers
+# [DESCRIPTION]: Backup program that supports multiple cloud storage providers.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, storage
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

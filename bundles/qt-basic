@@ -1,8 +1,8 @@
 # [TITLE]: qt-basic
-# [DESCRIPTION]: Run programs that use the Qt runtime
+# [DESCRIPTION]: Run programs that use the Qt runtime.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(fonts-basic)
 include(libX11client)

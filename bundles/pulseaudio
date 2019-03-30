@@ -1,8 +1,8 @@
 # [TITLE]: pulseaudio
-# [DESCRIPTION]: PulseAudio Simplified Synchronous Client Interface
+# [DESCRIPTION]: PulseAudio Simplified Synchronous Client Interface.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Graphics and Multimedia
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)

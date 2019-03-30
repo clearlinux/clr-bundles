@@ -1,8 +1,8 @@
 # [TITLE]: samba
-# [DESCRIPTION]: SMB Fileserver and AD Domain server
+# [DESCRIPTION]: SMB Fileserver and Active Directory (AD) Domain server.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

@@ -1,8 +1,8 @@
 # [TITLE]: make
-# [DESCRIPTION]: build automation tool
+# [DESCRIPTION]: Build automation tool that controls generation of executables and other target files.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

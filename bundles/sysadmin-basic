@@ -1,8 +1,8 @@
 # [TITLE]: sysadmin-basic
-# [DESCRIPTION]: Run common utilities useful for managing a system
+# [DESCRIPTION]: Run common utilities, useful for managing a system.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Perl
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # pciutils is not autospeced and so -data and -doc are specified manually
 # This bundle specificly contains all -doc bundles for os-core as well due

@@ -1,8 +1,8 @@
 # [TITLE]: sysadmin-hostmgmt
-# [DESCRIPTION]: Utilities and Services for managing large-scale clusters of networked hosts
+# [DESCRIPTION]: Utilities and Services for managing large-scale clusters of networked hosts.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(ansible)
 include(git)

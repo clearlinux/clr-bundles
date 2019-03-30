@@ -1,8 +1,8 @@
 # [TITLE]: python-testing
-# [DESCRIPTION]: Improve user experience with a common set of prebuilt python libraries for testing
+# [DESCRIPTION]: Improve user experience with a common set of prebuilt Python libraries for testing.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages, Developer Tools, Python
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(cloud-api)
 include(python3-basic)

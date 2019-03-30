@@ -1,8 +1,8 @@
 # [TITLE]: wpa_supplicant
-# [DESCRIPTION]: backend component controlling the wireless connections
+# [DESCRIPTION]: Utility providing key negotiation for WPA wireless networks.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(lib-openssl)

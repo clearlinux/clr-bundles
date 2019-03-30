@@ -1,8 +1,8 @@
 # [TITLE]: rsyslog
-# [DESCRIPTION]: Rocket-fast system for log processing
+# [DESCRIPTION]: Reliable system and kernel logging daemon.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, kernel
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

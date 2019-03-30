@@ -1,8 +1,8 @@
 # [TITLE]: xz
-# [DESCRIPTION]: data compression/decompression tool
+# [DESCRIPTION]: Command-line tools for XZ and LZMA compressed files.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

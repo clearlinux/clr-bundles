@@ -1,8 +1,8 @@
 # [TITLE]: x11-tools
-# [DESCRIPTION]: Tools useful when running under X11
+# [DESCRIPTION]: Tools useful when running under X11.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(libX11client)
 include(perl-basic)

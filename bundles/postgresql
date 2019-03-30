@@ -1,8 +1,8 @@
 # [TITLE]: postgresql
-# [DESCRIPTION]: Database
+# [DESCRIPTION]: Object-relational SQL database.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools, database
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(lib-openssl)

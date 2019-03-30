@@ -1,8 +1,8 @@
 # [TITLE]: network-security-monitoring
-# [DESCRIPTION]: Various tools to test and improve network security
+# [DESCRIPTION]: Various tools to test and improve network security.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Security, network
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # perl-basic and tcl-basic included to avoid duplication
 include(libX11client)

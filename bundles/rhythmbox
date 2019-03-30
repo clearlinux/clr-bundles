@@ -1,8 +1,8 @@
 # [TITLE]: rhythmbox
-# [DESCRIPTION]: Music playback and management application
+# [DESCRIPTION]: Music playback and management application.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Graphics and Multimedia, application
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

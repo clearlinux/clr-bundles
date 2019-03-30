@@ -1,8 +1,8 @@
 # [TITLE]: perl-extras
-# [DESCRIPTION]: Improve user experience with a common set of prebuilt perl libraries
+# [DESCRIPTION]: Improve user experience with a common set of prebuilt Perl libraries.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(perl-basic)
 

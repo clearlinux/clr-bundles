@@ -1,8 +1,8 @@
 # [TITLE]: network-time-sensitive
-# [DESCRIPTION]: Various tools and plugins to set up TSN/TCC
+# [DESCRIPTION]: Various tools and plugins to set up TSN/TCC.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools, network
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(network-basic)
 

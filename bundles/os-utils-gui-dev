@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the os-utils-gui bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(dev-utils)
 include(os-core-dev)

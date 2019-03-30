@@ -1,8 +1,8 @@
 # [TITLE]: vinagre
-# [DESCRIPTION]: A remote desktop viewer for GNOME desktop
+# [DESCRIPTION]: A VNC client for GNOME desktop.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Productivity
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)

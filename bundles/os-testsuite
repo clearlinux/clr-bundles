@@ -1,8 +1,8 @@
 # [TITLE]: os-testsuite
-# [DESCRIPTION]: Provides minimal functionality for core testing functions
+# [DESCRIPTION]: Provides minimal functionality for core testing functions.
 # [STATUS]: Active
 # [CAPABILITIES]: TAP testing, HTTP requests, PTY automation, and various file utilities
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(acl)
 include(cpio)

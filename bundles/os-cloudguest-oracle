@@ -1,8 +1,8 @@
 # [TITLE]: os-cloudguest-oracle
-# [DESCRIPTION]: Run any initialization processes required of an Oracle Cloud guest
+# [DESCRIPTION]: Run any initialization processes required of an Oracle Cloud guest.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(openssh-server)
 include(sudo)

@@ -1,8 +1,8 @@
 # [TITLE]: ruby-basic
-# [DESCRIPTION]: Run ruby language programs
+# [DESCRIPTION]: Run Ruby language programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Programming Languages
 # [MAINTAINER]: Athenas Jimenez Gonzalez <athenas.jimenez.gonzalez@intel.com>
 include(p11-kit)
 include(libstdcpp)

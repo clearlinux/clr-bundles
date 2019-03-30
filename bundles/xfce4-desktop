@@ -1,8 +1,8 @@
 # [TITLE]: xfce4-desktop
-# [DESCRIPTION]: Run GUI desktop environment
+# [DESCRIPTION]: Run the Xfce GUI desktop environment.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(fonts-basic)
 include(libX11client)

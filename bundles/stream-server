@@ -1,8 +1,8 @@
 # [TITLE]: stream-server
-# [DESCRIPTION]: Run an audio or visual streaming server
+# [DESCRIPTION]: Run an audio or visual streaming server.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Graphics and Multimedia
 # [MAINTAINER]: Mario Alfredo Carrillo Arevalo <mario.alfredo.c.arevalo@intel.com>
 include(libstdcpp)
 include(gstreamer)

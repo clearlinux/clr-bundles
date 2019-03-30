@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the os-core bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 CUnit-dev

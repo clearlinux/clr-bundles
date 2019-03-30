@@ -1,8 +1,8 @@
 # [TITLE]: mixer
-# [DESCRIPTION]: Create Clear Linux releases
+# [DESCRIPTION]: Tool to create custom Clear Linux OS releases.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Rodrigo Chiossi <rodrigo.chiossi@intel.com>
 include(containers-basic)
 include(git)

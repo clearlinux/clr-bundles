@@ -1,8 +1,8 @@
 # [TITLE]: mtr
-# [DESCRIPTION]: Poll a remote server and see how the latency and performance changes over time
+# [DESCRIPTION]: Network diagnostic tool for analyzing latency, combining the functionality of the 'traceroute' and 'ping' programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, network
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

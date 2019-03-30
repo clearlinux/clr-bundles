@@ -1,8 +1,8 @@
 # [TITLE]: os-cloudguest-gce
-# [DESCRIPTION]: Run any initialization processes required of an GCE cloud guest VM
+# [DESCRIPTION]: Run any initialization processes required of an Google Compute Engine (GCE) cloud guest virtual machine (VM).
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(sudo)
 include(which)

@@ -1,8 +1,8 @@
 # [TITLE]: x11-server
-# [DESCRIPTION]: Provide a functional X11 Server (Xorg or wayland-based)
+# [DESCRIPTION]: Provide a functional X11 Server (Xorg or wayland-based).
 # [STATUS]: Active
 # [CAPABILITIES]: /usr/bin/X
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
 mesa

@@ -1,8 +1,8 @@
 # [TITLE]: php-basic
-# [DESCRIPTION]: Run php language programs
+# [DESCRIPTION]: Run PHP language programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
 include(lib-openssl)

@@ -1,8 +1,8 @@
 # [TITLE]: web-server-basic
-# [DESCRIPTION]: Run a HTTP web server
+# [DESCRIPTION]: Run a HTTP web server.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(httpd)
 include(nginx)
