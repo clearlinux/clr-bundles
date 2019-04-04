@@ -14,6 +14,22 @@ All bundle files must include a filled-out bundle-header.txt at the top
 of the file. These are used to generate documentation, so be descriptive
 and precise.
 
+In bundle-header `TAGS`, add at least one category to which your bundle applies:
+
+- Data Science
+- Developer Tools
+- Education 
+- Games
+- Multimedia and Graphics
+- Productivity
+- Programming Languages
+- Security
+- Tools and Utilities
+- Other (for bundles that do not fit previous categories)
+
+Note: If you add more than one category, add them as comma-separated values.  
+For example: `#[TAGS]: Developer Tools, Data Science`
+
 To automatically create a "-dev" variant of a bundle, such that bundle
 "foo-dev" has what is required to build bundle "foo", simply add the bundle
 name "foo" in to the auto.devbundles file.
