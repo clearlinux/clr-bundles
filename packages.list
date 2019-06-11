@@ -1,300 +1,300 @@
-weechat # Internet Relay Chat (IRC) client
-znc # IRC network bouncer
-v4l-utils # video4linux tools
-valgrind # suite of tools for debugging and profiling software code
-powertop # diagnose issues with power consumption and power management
-mpg123 # play and decode mp3 files
+acl # Tools to manipulate filesystem acls
+acpica-unix2 # Intel ACPI utilities
+akonadi # No detailed summary available
+alsa-utils # alsa management tools
+apache-flink # Powerful distributed stream and batch data processing framework
+aria2 # High speed download utility library
+ark # No detailed summary available
+audacious # Music player for Gtk/GNOME
+audio #
+audit # system audit tools
+axel # Download accelerator
+azure-iot-sdk # Libraries to support building IoT applications on Azure
+Babel # Internationalization utilities
+baobab # No detailed summary available
+bc # basic calculator, an arbitrary-precision calculator language
+bcache-tools # bcache is a way to pair a fast SSD with a slow HDD to create a hybrid disk
+bcc # BPF Compiler Collection (BCC)
+bijiben # Write out notes, every detail matters
+binutils # various development tools to manage binary executable code
+bison # bison development tool
+blender # A 3D Modelling And Rendering Package
+bmap-tools # Tools for creating the block map (bmap) for a file and copying files. Alternative to "dd" or "cp"
+boinc-client # volunteer computing and grid computing
+borgbackup # Deduplicating archiver with compression and authenticated encryption.
+cabextract # Manipulate CAB archives
+calc # Arbitrary precision console calculator
+casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
+ccache # cache compilations to avoid redoing the same computation and speed project build times
+ceph # Ceph Base Package
+cheese # Cheese webcam utilities
 clamav # Clam AntiVirus is an anti-virus toolkit for Unix
+cloc # Count lines of code for many programming languages
 cockpit # Web based administration for GNU/Linux servers
+columbiad # A full screen app chooser for HTPCs
+conky # No detailed summary available
+cpio # File archiver utility
+cronie # No detailed summary available
+cryptography # Encrypt, decrypt, sign and verify objects
+curl # Transfer data to/from a URL
+cve-bin-tool # CVE scanning tool
 darktable # Photography workflow application
+ddd # graphical debugger front-end; GDB, DBX, Ladebug, JDB, Perl, Python
+dfu-util # Device Firmware Upgrade Utilities
+diffoscope # In-depth comparison of files, archives, and directories
+diffutils # Tools for file comparisons and differences
+digikam # An advanced digital photo management application
+dnf # The dnf tool for mixer use
+docbook-utils # docbook tools
+docker-compose # Compose is a tool for defining and running multi-container Docker applications.
+docutils # Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
+dolphin # No detailed summary available
+dosfstools # (V)FAT manipulation tools
+dovecot # Security focused IMAP and POP3 email server
 doxygen # documentation tooling
+dpdk # Data Plane Development Kit core
+dtc # Device Tree Compiler, to describe non-discoverable hardware
+duperemove # Tool for finding duplicated extents and submitting them for deduplication
+elasticsearch # Powerful open source search and analytics engine
+emacs-x11 # Highly customizable text editor, gui build.
+eog # The GNOME Image Viewer
+ethtool # Utility for displaying and modifying some parameters of network interface controller
+evince # GNOME document viewer view library
+evolution # libraries needed for Evolution shell components
+faas-cli # A serverless functions framework for Docker & Kubernetes
+feh # No detailed summary available
+file # program for recognizing the type of data contained in a computer file
+file-roller # No detailed summary available
+findutils # basic directory searching utilities e.g. find, xargs, and locate
+fio # Flexible I/O tester
 flac # FLAC audio format tools
+flatpak #  Use flatpak packages, or build them
+flex # flex development tool
+fluidsynth # A real-time software synthesizer based on the SoundFont 2 specifications
+fontforge # Outline and bitmap font editor
 fonttools # tools to manipulate system and user fonts
+fossil # Fossil is a simple, high-reliability, distributed software configuration management system
+fuse # fuse filesystem support
+fwupdate # Firmware update tool
+gdb # GNU debugger
+geany # A fast and lightweight IDE using GTK+
+gedit # gedit
 gftp # Text mode and GUI FTP Client
 gimp # GNU Image Manipulation Program
+git # git SCM tool
+gjs # JS bindings for GObjects
+glibc-locale # Various UTF-8 language definitions
 glmark2 # OpenGL 2.0 and ES 2.0 benchmark
-gpgme # GPG encryption tools
-igt-gpu-tools # Intel graphics performance diagnostics
-inkscape # Inkscape SVG drawing program
-keepassxc # KeePassXC is a password manager
-lftp # File transfer client for http, ftp, sftp and more
-libva-utils # collection of utilities and examples to exercise VA-API (Video Acceleration API)
-libzmq # ZMQ tools and libs
-llvm # LLVM/Clang compiler toolchain
-nload # network load monitor
-nmap # security scanner for network device discovery
-octave # high-level programming language, primarily intended for numerical computations
-offlineimap # locally copy imap email
-openmpi # HPC tools for running on jobs on clusters
-pdns # PowerDNS authoritative name server (DNSSEC enabled)
-pdns-recursor # PowerDNS recursive caching name server
-pidgin # Multi-protocol instant messagging client
-plzip # Parallel LZMA Data Compressor
-pygobject # The pygobject ecosystem
-smartmontools # hard disk diagnostic utilities
-squid # HTTP caching proxy
-stellarium # Software for astronomers
-suricata # network threat detection engine
-texlive # major TeX-related typesetting programs, macro packages, and fonts.
-texmaker # TeX editor
-thermal_daemon # thermal management
-xfsprogs # XFS tools
-docker-compose # Compose is a tool for defining and running multi-container Docker applications.
-icecream # Distributed network compilation
-diffutils # Tools for file comparisons and differences
-diffoscope # In-depth comparison of files, archives, and directories
-wine # run PE32 executables with Linux
-virt-manager # Virtualization Management tool
-audit # system audit tools
-bmap-tools # Tools for creating the block map (bmap) for a file and copying files. Alternative to "dd" or "cp"
-borgbackup # Deduplicating archiver with compression and authenticated encryption.
-cve-bin-tool # CVE scanning tool
-docutils # Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
-hugo # Static Web site generator
-icdiff # Improved Color Differences between similar files
-meld # visual file difference and merging tool, targeted at developers
-mkosi # generate disk images
-unbundle # Recursively resolves a package list from a bundle definition
-irssi # Internet Relay Chat (IRC) client program
-lightdm # LightDM login manager with GTK greeter
-duperemove # Tool for finding duplicated extents and submitting them for deduplication
-linux-tools # Tools for use in Linux
-dolphin # No detailed summary available
-krita # Edit and paint images
-kdenlive # A non-linear video editor for Linux using the MLT video framework
-uget # GTK+ download manager featuring download classification and HTML import
-rhythmbox # Music playback and management application
-gwenview # A fast and easy to use image viewer
-kate # No detailed summary available
-ark # No detailed summary available
-konsole # No detailed summary available
-ksysguard # Track and control the processes running in your system
-eog # The GNOME Image Viewer
-cheese # Cheese webcam utilities
-evolution # libraries needed for Evolution shell components
+global # GNU GLOBAL source code tagging system
+gnome-boxes # Library for reading and writing virtual machine images in the Open Virtualization Format
 gnome-calculator # No detailed summary available
+gnome-characters # No detailed summary available
+gnome-color-manager # No detailed summary available
+gnome-disk-utility # No detailed summary available
+gnome-font-viewer # gnome font viewer
+gnome-logs # gnome log viewer
 gnome-music # No detailed summary available
 gnome-photos # No detailed summary available
 gnome-screenshot # No detailed summary available
 gnome-system-monitor # No detailed summary available
 gnome-todo # No detailed summary available
 gnome-weather # No detailed summary available
-seahorse # No detailed summary available
-totem # Totem Movie Player plugin API
-baobab # No detailed summary available
-evince # GNOME document viewer view library
-file-roller # No detailed summary available
-gedit # gedit
-gvim # Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
-gnome-characters # No detailed summary available
-gnome-color-manager # No detailed summary available
-gnome-disk-utility # No detailed summary available
-gnome-font-viewer # gnome font viewer
-gnome-logs # gnome log viewer
-libxml2 # XML processing tools
-docbook-utils # docbook tools
-strace # System call diagnostic, instructional, and debugging tool
-digikam # An advanced digital photo management application
-openblas # The OpenBLAS linear algebra package
-binutils # various development tools to manage binary executable code
-bcc # BPF Compiler Collection (BCC)
-jupyter # Jupyter metapackage. Install all the Jupyter components in one go.
-akonadi # No detailed summary available
-kamera # No detailed summary available
-okular # No detailed summary available
-nautilus # Default file manager for GNOME
-glibc-locale # Various UTF-8 language definitions
-Sphinx # Free open-source SQL full-text search engine.
-python3-tcl # TCL/TK support for python
-spectacle # KDE screenshot capture utility
-syndication # RSS/Atom parser library
-konversation # No detailed summary available
-konqueror # KDE File Manager & Web Browser
-kcalc # No detailed summary available
-ceph # Ceph Base Package
-polkit # Application development toolkit for controlling system-wide privileges
-flatpak #  Use flatpak packages, or build them
+gnuplot # Plotting package which outputs to X11, PostScript, PNG, GIF, and others
+goaccess # Real-time web log analyzer
+gparted # A Partition Magic clone, frontend to GNU Parted
+gpgme # GPG encryption tools
+gphoto2 # Command line interface to libgphoto2
 graphviz # Library for parsing graphs in xdot format
-samba # SMB Fileserver and AD Domain server
-yakuake # No detailed summary available
-thunderbird # Email client
-mutt # The mutt mail client
-texinfo # unix style documentation tooling
-openldap # ldap tools
-postgresql # Database
-fio # Flexible I/O tester
-libxslt # XML documentation processing tools
-dovecot # Security focused IMAP and POP3 email server
-fwupdate # Firmware update tool
-xterm # The basic X.Org terminal program desktop launcher
-zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
-latte-dock # A dock based on Plasma Frameworks
-blender # A 3D Modelling And Rendering Package
+gsequencer # Advanced Gtk+ Sequencer 
+gstreamer # Streaming media framework
+gtk-vnc # A GTK2 widget for VNC clients
+gtkwave # A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
+gvim # Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
+gwenview # A fast and easy to use image viewer
+gzip # lossless data compression/decompression utility
+haproxy # Reliable, high performance TCP/HTTP load balancer.
+hexchat # Header and path for HexChat plugins
+htop # interactive text-mode process viewer
+httpd # Apache HyperText Transfer Protocol (HTTP) Server daemon
+hugo # Static Web site generator
+hwloc # hardware affinity tools
+iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
+icdiff # Improved Color Differences between similar files
+icecream # Distributed network compilation
+iftop # display bandwidth usage on an interface
+igt-gpu-tools # Intel graphics performance diagnostics
+inkscape # Inkscape SVG drawing program
+inotify-tools # monitor for file system events
+intltool # internationalization tool for develops
+iotop # Per process I/O bandwidth monitor
+iperf # A widely used tool for network performance measurement
+ipmitool # Manage IPMI functions of a local or remote system
+iproute2 # utilities for controlling TCP / IP networking and traffic control
 iptables # Shared Xtables code for extensions and iproute2
-NetworkManager # System for maintaining active network connection
-boinc-client # volunteer computing and grid computing
-conky # No detailed summary available
-Babel # Internationalization utilities
-p11-kit # Load and enumerate PKCS
-ssocr # OCR for 7-segment displays
-Remmina # remote desktop client written in GTK+
-rrdtool # Round Robin Database and graphing tool for time-series data.
-restic # restic is a backup program that supports multiple cloud storage providers
-sysstat # utilities for monitoring system performance and usage activity
-which # locate executables in the system
-yasm # assembler
-zip # create ZIP archives
-zstd # realtime data compression/decompression tool
-tmux # terminal multiplexer (similar to screen)
-pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
-rclone # rclone is a command-line program to sync files and directories to and from various network and cloud providers
-subversion # Version Control System
-unzip # list, test, or extract files from a ZIP archive
-lz4 # tools to compress and decompress lz4 files
-ltp # Linux Test Project
-less # the less page
-nasm # assembler
-ncdu # curses disk space usage management tool
-logrotate # manages the automatic rotation and compression of log files
-gdb # GNU debugger
+ipvsadm # Virtual Server admin tool used to set up, maintain or inspect the virtual server table in the Linux kernel
+irssi # Internet Relay Chat (IRC) client program
 joe # Text editor
 jq # lightweight and flexible command-line JSON processor
-libnl # Low level firewall tools
-make # build automation tool
-parallel # shell tool for executing jobs in parallel using one or more computers
-rsyslog # Rocket-fast system for log processing
-sudo # allows a user to run a program as another user
-unison # bidirectional file synchronization tool
-xz # data compression/decompression tool
-wpa_supplicant # backend component controlling the wireless connections
-scons # python build system
-musl # musl compiler toolchain
+julia # High-level, high-performance, dynamic programming language
+jupyter # Jupyter metapackage. Install all the Jupyter components in one go.
+kamera # No detailed summary available
+kate # No detailed summary available
+kbd # library to manage the Linux keymaps
+kcalc # No detailed summary available
+kdeconnect-kde # No detailed summary available
+kdenlive # A non-linear video editor for Linux using the MLT video framework
 keepalived # strong & robust keepalive facility for the Linux Virtual Server project
-flex # flex development tool
-fossil # Fossil is a simple, high-reliability, distributed software configuration management system
-file # program for recognizing the type of data contained in a computer file
-fuse # fuse filesystem support
-gzip # lossless data compression/decompression utility
-httpd # Apache HyperText Transfer Protocol (HTTP) Server daemon
-hwloc # hardware affinity tools
-inotify-tools # monitor for file system events
+keepassxc # KeePassXC is a password manager
+kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
 keychain # manage SSH and GPG keys
+kleopatra # Certificate Manager and Unified Crypto GUI
+konqueror # KDE File Manager & Web Browser
+konsole # No detailed summary available
+konversation # No detailed summary available
+krita # Edit and paint images
+ksysguard # Track and control the processes running in your system
+latte-dock # A dock based on Plasma Frameworks
+less # the less page
+lftp # File transfer client for http, ftp, sftp and more
+libarchive # various archiving tools
+libnl # Low level firewall tools
+libreoffice # LibreOffice - Free Office Suite
+libva-utils # collection of utilities and examples to exercise VA-API (Video Acceleration API)
+libxml2 # XML processing tools
+libxslt # XML documentation processing tools
+libzmq # ZMQ tools and libs
+lightdm # LightDM login manager with GTK greeter
+linux-tools # Tools for use in Linux
+llvm # LLVM/Clang compiler toolchain
+lm-sensors # Read various system sensors, sometimes using scary methods
+logrotate # manages the automatic rotation and compression of log files
+ltp # Linux Test Project
+lz4 # tools to compress and decompress lz4 files
+make # build automation tool
+man-pages # No detailed summary available
+mariadb # MariaDB Connector/C dynamic library
+meld # visual file difference and merging tool, targeted at developers
+memcached # A high performance multithreaded event-based key/value cache store
+minicom # No detailed summary available
+mkosi # generate disk images
+mono # Mono Runtime
+mpg123 # play and decode mp3 files
 mtd-utils # memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
 mtr # Poll a remote server and see how the latency and performance changes over time
-tzdata # timezone database
-rebootmgr # Performs scheduled or immediate system reboots after the kernel or critical OS components change.
-openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
-libarchive # various archiving tools
-ethtool # Utility for displaying and modifying some parameters of network interface controller
-findutils # basic directory searching utilities e.g. find, xargs, and locate
-iproute2 # utilities for controlling TCP / IP networking and traffic control
-ipvsadm # Virtual Server admin tool used to set up, maintain or inspect the virtual server table in the Linux kernel
-quagga # zebra and related routing tools
-patch # updates text files according to instructions contained in a separate file
-alsa-utils # alsa management tools
-acl # Tools to manipulate filesystem acls
-cloc # Count lines of code for many programming languages
-curl # Transfer data to/from a URL
-cpio # File archiver utility
-dosfstools # (V)FAT manipulation tools
-acpica-unix2 # Intel ACPI utilities
-ccache # cache compilations to avoid redoing the same computation and speed project build times
-kbd # library to manage the Linux keymaps
-nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
-nfs-utils # Server and client tooling for network file systems (NFS)
-bison # bison development tool
-bc # basic calculator, an arbitrary-precision calculator language
-dfu-util # Device Firmware Upgrade Utilities
-htop # interactive text-mode process viewer
-iftop # display bandwidth usage on an interface
-intltool # internationalization tool for develops
-lm-sensors # Read various system sensors, sometimes using scary methods
-pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
-ipmitool # Manage IPMI functions of a local or remote system
-global # GNU GLOBAL source code tagging system
-axel # Download accelerator
-bcache-tools # bcache is a way to pair a fast SSD with a slow HDD to create a hybrid disk
-dtc # Device Tree Compiler, to describe non-discoverable hardware
-goaccess # Real-time web log analyzer
-casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
-cabextract # Manipulate CAB archives
-redis-native # key-value database
-gnuplot # Plotting package which outputs to X11, PostScript, PNG, GIF, and others
-neomutt # No detailed summary available
-notmuch # Notmuch is not much of an email program
-pass # A CLI password manager
-mono # Mono Runtime
-s3fs-fuse # Mount Amazon S3 buckets using FUSE
-ddd # graphical debugger front-end; GDB, DBX, Ladebug, JDB, Perl, Python
-gparted # A Partition Magic clone, frontend to GNU Parted
-gstreamer # Streaming media framework
-vlc # The vlc media player
-wget # No detailed summary available
-pulseaudio # PulseAudio Simplified Synchronous Client Interface
-azure-iot-sdk # Libraries to support building IoT applications on Azure
-git # git SCM tool
-synergy # Keyboard and mouse sharing across networks
-quassel # Quassel IRC
-hexchat # Header and path for HexChat plugins
-geany # A fast and lightweight IDE using GTK+
-tigervnc # A TigerVNC remote display system
-virt-viewer # Virtual Machine Viewer
-spice-gtk # SPICE Client GLib 2.0 library
-vinagre # No detailed summary available
-x11vnc # No detailed summary available
-gtk-vnc # A GTK2 widget for VNC clients
-gjs # JS bindings for GObjects
-cronie # No detailed summary available
-openscad # The programmers solid 3D CAD modeller
-minicom # No detailed summary available
-webkitgtk # Legacy Web content engine for GTK+ 3
-bijiben # Write out notes, every detail matters
-fontforge # Outline and bitmap font editor
-qemu-guest-additions # A lightweight multi-platform, multi-architecture disassembly framework
-mariadb # MariaDB Connector/C dynamic library
-calc # Arbitrary precision console calculator
-parted # The GNU disk partition manipulation program
-kleopatra # Certificate Manager and Unified Crypto GUI
-iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
-kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
-iotop # Per process I/O bandwidth monitor
-audio #
-cryptography # Encrypt, decrypt, sign and verify objects
-man-pages # No detailed summary available
-elasticsearch # Powerful open source search and analytics engine
-dnf # The dnf tool for mixer use
-julia # High-level, high-performance, dynamic programming language
-gphoto2 # Command line interface to libgphoto2
-libreoffice # LibreOffice - Free Office Suite
-gtkwave # A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
-syslinux # Kernel loader which uses a FAT, ext2/3 or iso9660 filesystem or a PXE network
 MuseScore # Free music composition and notation software
+musl # musl compiler toolchain
+mutt # The mutt mail client
+nasm # assembler
+nautilus # Default file manager for GNOME
+ncdu # curses disk space usage management tool
+neomutt # No detailed summary available
 net-tools # Basic Networking Tools
-procps-ng # Library to control and query process state
-memcached # A high performance multithreaded event-based key/value cache store
-dpdk # Data Plane Development Kit core
-openvswitch # Open vSwitch Kernel Modules
-emacs-x11 # Highly customizable text editor, gui build.
-nginx-mainline # Lightweight HTTP server and IMAP/POP3 proxy server, mainline release
-haproxy # Reliable, high performance TCP/HTTP load balancer.
-supertuxkart # Kart racing game featuring Tux and his friends
-audacious # Music player for Gtk/GNOME
-iperf # A widely used tool for network performance measurement
-columbiad # A full screen app chooser for HTPCs
-R-rstudio # RStudio is an integrated development environment (IDE) for the R programming language
-faas-cli # A serverless functions framework for Docker & Kubernetes
-redshift # Adjust the color temperature of your monitor in the evenings to reduce eye strain
-kdeconnect-kde # No detailed summary available
-fluidsynth # A real-time software synthesizer based on the SoundFont 2 specifications
-qbittorrent # A BitTorrent client in Qt
 netdata # Real-time performance monitoring, in the greatest possible detail, over the web
-aria2 # High speed download utility library
-gnome-boxes # Library for reading and writing virtual machine images in the Open Virtualization Format
-testdisk # Recover various partition failures and deleted files
-zathura # Minimalistic document viewer
-feh # No detailed summary available
+NetworkManager # System for maintaining active network connection
+nfs-utils # Server and client tooling for network file systems (NFS)
+nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
+nginx-mainline # Lightweight HTTP server and IMAP/POP3 proxy server, mainline release
 nim # Imperative, multi-paradigm, compiled programming language
-apache-flink # Powerful distributed stream and batch data processing framework
+nload # network load monitor
+nmap # security scanner for network device discovery
+notmuch # Notmuch is not much of an email program
+octave # high-level programming language, primarily intended for numerical computations
+offlineimap # locally copy imap email
+okular # No detailed summary available
+openblas # The OpenBLAS linear algebra package
+openldap # ldap tools
+openmpi # HPC tools for running on jobs on clusters
+openscad # The programmers solid 3D CAD modeller
+openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
+openvswitch # Open vSwitch Kernel Modules
+p11-kit # Load and enumerate PKCS
+parallel # shell tool for executing jobs in parallel using one or more computers
+parted # The GNU disk partition manipulation program
+pass # A CLI password manager
+patch # updates text files according to instructions contained in a separate file
+pdns # PowerDNS authoritative name server (DNSSEC enabled)
+pdns-recursor # PowerDNS recursive caching name server
+pidgin # Multi-protocol instant messagging client
+plzip # Parallel LZMA Data Compressor
+pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
+polkit # Application development toolkit for controlling system-wide privileges
+postgresql # Database
+powertop # diagnose issues with power consumption and power management
+procps-ng # Library to control and query process state
+pulseaudio # PulseAudio Simplified Synchronous Client Interface
+pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
+pygobject # The pygobject ecosystem
+python3-tcl # TCL/TK support for python
+qbittorrent # A BitTorrent client in Qt
+qemu-guest-additions # A lightweight multi-platform, multi-architecture disassembly framework
+quagga # zebra and related routing tools
+quassel # Quassel IRC
+rclone # rclone is a command-line program to sync files and directories to and from various network and cloud providers
+rebootmgr # Performs scheduled or immediate system reboots after the kernel or critical OS components change.
+redis-native # key-value database
+redshift # Adjust the color temperature of your monitor in the evenings to reduce eye strain
+Remmina # remote desktop client written in GTK+
+restic # restic is a backup program that supports multiple cloud storage providers
+rhythmbox # Music playback and management application
+rrdtool # Round Robin Database and graphing tool for time-series data.
+R-rstudio # RStudio is an integrated development environment (IDE) for the R programming language
+rsyslog # Rocket-fast system for log processing
+s3fs-fuse # Mount Amazon S3 buckets using FUSE
+samba # SMB Fileserver and AD Domain server
+scons # python build system
+seahorse # No detailed summary available
+smartmontools # hard disk diagnostic utilities
+spectacle # KDE screenshot capture utility
+spice-gtk # SPICE Client GLib 2.0 library
+Sphinx # Free open-source SQL full-text search engine.
+squid # HTTP caching proxy
+ssocr # OCR for 7-segment displays
+stellarium # Software for astronomers
+strace # System call diagnostic, instructional, and debugging tool
+subversion # Version Control System
+sudo # allows a user to run a program as another user
+supertuxkart # Kart racing game featuring Tux and his friends
+suricata # network threat detection engine
+syndication # RSS/Atom parser library
+synergy # Keyboard and mouse sharing across networks
+syslinux # Kernel loader which uses a FAT, ext2/3 or iso9660 filesystem or a PXE network
+sysstat # utilities for monitoring system performance and usage activity
+testdisk # Recover various partition failures and deleted files
+texinfo # unix style documentation tooling
+texlive # major TeX-related typesetting programs, macro packages, and fonts.
+texmaker # TeX editor
+thermal_daemon # thermal management
+thunderbird # Email client
+tigervnc # A TigerVNC remote display system
+tmux # terminal multiplexer (similar to screen)
+totem # Totem Movie Player plugin API
+tzdata # timezone database
+uget # GTK+ download manager featuring download classification and HTML import
+unbundle # Recursively resolves a package list from a bundle definition
+unison # bidirectional file synchronization tool
+unzip # list, test, or extract files from a ZIP archive
+v4l-utils # video4linux tools
+valgrind # suite of tools for debugging and profiling software code
+vinagre # No detailed summary available
+virt-manager # Virtualization Management tool
+virt-viewer # Virtual Machine Viewer
+vlc # The vlc media player
+webkitgtk # Legacy Web content engine for GTK+ 3
+weechat # Internet Relay Chat (IRC) client
+wget # No detailed summary available
+which # locate executables in the system
+wine # run PE32 executables with Linux
+wpa_supplicant # backend component controlling the wireless connections
+x11vnc # No detailed summary available
+xfsprogs # XFS tools
 xorriso # No detailed summary available
+xterm # The basic X.Org terminal program desktop launcher
+xz # data compression/decompression tool
+yakuake # No detailed summary available
+yasm # assembler
+zathura # Minimalistic document viewer
+zip # create ZIP archives
+znc # IRC network bouncer
 zoneminder # A camera monitoring and analysis tool
-gsequencer # Advanced Gtk+ Sequencer 
+zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
+zstd # realtime data compression/decompression tool
