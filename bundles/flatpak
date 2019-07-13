@@ -12,6 +12,7 @@ include(libglib)
 flatpak-builder
 include(git)
 include(libstdcpp)
+include(librsvg)
 # end of custom additions
 
 # main package
