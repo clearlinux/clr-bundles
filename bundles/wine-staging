@@ -1,0 +1,14 @@
+# [TITLE]: wine-staging
+# [DESCRIPTION]: Wine Staging is the testing area of winehq.org. It contains bug fixes and features, which have not been integrated into the development branch yet.
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [TAGS]: Multimedia and Graphics, Tools and Utilities
+# [MAINTAINER]:
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+wine
