@@ -1,10 +1,12 @@
 # [TITLE]: wine-staging
-# [DESCRIPTION]: Wine Staging is the testing area of winehq.org. It contains bug fixes and features, which have not been integrated into the development branch yet.
+# [DESCRIPTION]: Pre-Developement branch of Wine which runs PE32 executables with Linux.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics, Tools and Utilities
+# [TAGS]: Productivity, Developer Tools, Tools and Utilities
 # [MAINTAINER]:
 
+include(libX11client)
+include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 
