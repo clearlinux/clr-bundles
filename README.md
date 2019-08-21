@@ -14,19 +14,27 @@ All bundle files must include a filled-out bundle-header.txt at the top
 of the file. These are used to generate documentation, so be descriptive
 and precise.
 
-Bundles must have a `STATUS` set, it can be of the following types:
+## Bundle status
+
+Bundles must have a `STATUS` set, which must be of the following types:
 - WIP
 - Active
 - Deprecated
 - Pending-Delete
 
-Where WIP is potentially not functional, Active is functional and has tests
-to validate functionality, Deprecated is going to be replaced and removed,
-Pending-Delete is going to be removed. Generally if something is Deprecated
+Whereas WIP is potentially not functional, Active is functional and has tests
+to validate functionality. Deprecated is going to be replaced and removed, whereas
+Pending-Delete is going to be removed. Generally, if something is Deprecated
 after a format bump that includes its replacement has occured the bundle
 will change to Pending-Delete.
 
-In bundle-header `TAGS`, add at least one category to which your bundle applies:
+## Bundle tags
+
+In the `bundle-header` `TAGS`, assign at least one MAJOR **keyword** and, if applicable, a MINOR keyword. The goal of assigning keywords to bundle metadata is to improve a bundle's discoverability on the [Clear Linux Store](https://clearlinux.org/software).
+Be accurate yet conservative in assigning keywords. By *not* adding any keyword, a bundle is automatically assigned as "Other" in the Clear Linux Store.
+Avoid this scenario. It may inhibit developers' ability to quickly find the resources they need.
+
+1. Add at least one MAJOR keyword, from below, that applies to your bundle:
 
 - Data Science
 - Developer Tools
@@ -39,8 +47,18 @@ In bundle-header `TAGS`, add at least one category to which your bundle applies:
 - Tools and Utilities
 - Other (for bundles that do not fit previous categories)
 
-Note: If you add more than one category, add them as comma-separated values.
-For example: `#[TAGS]: Developer Tools, Data Science`
+2. Add a MINOR keyword if applicable, from below, to improve a bundle's discoverability:
+
+- Documentation
+- Editor
+- Kernel
+- Networking
+- Perl
+- Python
+- R
+
+  Note: If you add multiple keywords, add them as comma-separated values as follows: 
+  `#[TAGS]: Developer Tools, Data Science, Python`
 
 To automatically create a "-dev" variant of a bundle, such that bundle
 "foo-dev" has what is required to build bundle "foo", simply add the bundle
