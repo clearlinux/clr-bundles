@@ -1,9 +1,9 @@
 # [TITLE]: os-testsuite-graphics
 # [DESCRIPTION]: Provides minimal functionality for graphics testing functions.
-# [STATUS]: WIP
+# [STATUS]: Active
 # [CAPABILITIES]: Graphics Benchmarking testing, UI interaction testing, and various file utilities
 # [TAGS]: Developer Tools
-# [MAINTAINER]: Ong, Hze Horng <hze.horng.ong@intel.com>
+# [MAINTAINER]: Wu Chia Chuan <chia.chuan.wu@intel.com>
 include(glmark2)
 
 clear-font
