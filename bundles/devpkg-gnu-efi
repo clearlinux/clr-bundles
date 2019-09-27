@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 gnu-efi-dev
+gnu-efi-staticdev
