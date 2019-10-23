@@ -33,6 +33,7 @@ Werkzeug
 wheel
 wrapt
 include(openblas)
+decorator
 # end of custom additions
 
 # main package
