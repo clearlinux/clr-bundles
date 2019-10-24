@@ -4,26 +4,33 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Rodrigo Chiossi <rodrigo.chiossi@intel.com>
-include(containers-basic)
-include(git)
-include(openssl)
-include(os-installer)
-include(python3-basic)
-include(sysadmin-basic)
-include(zstd)
-# bundle-chroot-builder still necessary for the
-# builder.conf laid on the system.
-# TODO: move this config to the mixer package instead
-bsdiff
-bundle-chroot-builder
-clr-user-bundles-extras
+
+# Repo management
 createrepo_c
+
+# Git history support
+include(git)
+
+# Builtin signature support
+include(openssl)
+
+# Fullfiles compression
+include(xz)
+include(gzip)
+include(zstd)
+bzip2
+
+# Build
 include(dnf)
-hardlink
-# dependency for bundle-chroot-builder, remove at the same time
-m4
-mixer-tools
-nosync
-python-rpm
-toml
+include(cpio)
 rpm
+rpm-common
+bsdiff
+
+#TODO: Remove when built in Docker support is dropped
+include(containers-basic)
+
+#TODO: Update when ister is replaced by clr-installer
+include(os-installer)
+
+mixer-tools
