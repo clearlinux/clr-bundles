@@ -7,6 +7,7 @@
 include(glmark2)
 
 clear-font
+decorator
 gdk-pixbuf
 glib
 gnome-session
