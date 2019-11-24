@@ -3,7 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
-# [MAINTAINER]: Rodrigo Chiossi <rodrigo.chiossi@intel.com>
+# [MAINTAINER]: Reagan Lopez <reagan.lopez@intel.com>
 
 # Repo management
 createrepo_c
@@ -26,7 +26,6 @@ include(cpio)
 rpm
 bsdiff
 
-#TODO: Update when ister is replaced by clr-installer
-include(os-installer)
+include(clr-installer)
 
 mixer-tools
