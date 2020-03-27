@@ -13,3 +13,4 @@ include(python3-basic)
 
 # main package
 spyder-ide
+spyder-kernels
