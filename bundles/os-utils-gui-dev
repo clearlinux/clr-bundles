@@ -17,6 +17,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 include(devpkg-SDL)
+include(devpkg-SDL2)
 include(Sphinx)
 Thunar-dev
 Vulkan-Headers-dev

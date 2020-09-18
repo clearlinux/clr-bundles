@@ -872,7 +872,6 @@ qemu
 include(devpkg-qpdf)
 include(devpkg-qtbase)
 qtbase-extras
-include(devpkg-qtdeclarative)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32

@@ -603,7 +603,6 @@ python3-dev
 qemu
 include(devpkg-qtbase)
 qtbase-extras
-include(devpkg-qtdeclarative)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32

@@ -50,6 +50,7 @@ Pygments
 R
 Routes
 include(devpkg-SDL)
+include(devpkg-SDL2)
 SFCGAL-dev
 include(Sphinx)
 Sphinx-python
