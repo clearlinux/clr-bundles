@@ -76,6 +76,7 @@ cscope
 ctags
 include(devpkg-cups)
 include(devpkg-curl)
+curl-dev32
 datefudge
 db
 include(devpkg-dbus)
@@ -426,6 +427,7 @@ perl-Test-Exception-perl
 perl-Test-Fatal-perl
 perl-Test-File-ShareDir-Dist-perl
 perl-Test-Fork-perl
+perl-Test-Memory-Cycle-perl
 perl-Test-Needs-perl
 perl-Test-NoWarnings-perl
 perl-Test-Output-perl

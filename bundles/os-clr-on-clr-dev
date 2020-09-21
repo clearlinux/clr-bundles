@@ -330,6 +330,7 @@ include(devpkg-gobject-introspection)
 google-api-python-client
 google-auth
 google-auth-httplib2
+googleapis-common-protos
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)
@@ -864,6 +865,7 @@ perl-Test-Fatal-perl
 perl-Test-File-ShareDir-Dist-perl
 perl-Test-File-perl
 perl-Test-Fork-perl
+perl-Test-Memory-Cycle-perl
 perl-Test-Needs-perl
 perl-Test-NoWarnings-perl
 perl-Test-Output-perl

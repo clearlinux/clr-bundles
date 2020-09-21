@@ -200,6 +200,7 @@ include(devpkg-gobject-introspection)
 google-api-python-client
 google-auth
 google-auth-httplib2
+googleapis-common-protos
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)

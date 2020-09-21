@@ -45,6 +45,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
+curl-dev32
 include(devpkg-dbus)
 dbus-dev32
 dejagnu

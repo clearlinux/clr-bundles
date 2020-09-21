@@ -60,6 +60,7 @@ cryptography_vectors
 include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
+curl-dev32
 db
 include(devpkg-dbus)
 dbus-dev32

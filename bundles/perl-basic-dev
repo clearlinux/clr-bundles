@@ -294,6 +294,7 @@ perl-Test-Deep-perl
 perl-Test-Exception-perl
 perl-Test-Fatal-perl
 perl-Test-File-ShareDir-Dist-perl
+perl-Test-Memory-Cycle-perl
 perl-Test-Needs-perl
 perl-Test-NoWarnings-perl
 perl-Test-Output-perl

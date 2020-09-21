@@ -52,6 +52,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
+curl-dev32
 datefudge
 db
 include(devpkg-dbus)
