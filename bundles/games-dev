@@ -402,7 +402,6 @@ mingw-gcc
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mod_perl-perl
-include(devpkg-mozjs68)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)

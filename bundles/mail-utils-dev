@@ -8,6 +8,7 @@ include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
 CUnit-dev
+CUnit-dev32
 Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -28,6 +29,7 @@ bats
 include(binutils)
 include(bison)
 bison-dev
+include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -68,6 +70,7 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-expat)
+expat-dev32
 expect
 file-dev
 include(findutils)
@@ -93,9 +96,11 @@ glib-bin
 include(devpkg-glib)
 glib-dev32
 glibc-bin
+glibc-dev
 glibc-dev32
 glibc-libc32
 include(glibc-locale)
+glibc-staticdev
 glibc-utils
 gmime
 include(devpkg-gmime)
@@ -133,9 +138,11 @@ kmod-dev32
 include(devpkg-krb5)
 less-bin
 include(devpkg-libX11)
+libX11-dev32
 libabigail
 libaio-dev
 include(devpkg-libassuan)
+libc6
 libc6-dev
 libcap
 include(devpkg-libcap)
@@ -143,6 +150,9 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+libev-dev
+include(devpkg-libevent)
+libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
@@ -204,6 +214,8 @@ include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
+include(devpkg-nghttp2)
+nghttp2-dev32
 nss-altfiles
 openldap-dev
 include(openssl)
