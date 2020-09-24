@@ -481,7 +481,7 @@ pkgconfig(md4c)	devpkg-md4c
 pkgconfig(mit-krb5)	devpkg-krb5
 pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mount)	devpkg-util-linux
-pkgconfig(mozjs-68)	devpkg-mozjs68
+pkgconfig(mozjs-78)	devpkg-mozjs78
 pkgconfig(ncurses)	devpkg-ncurses
 pkgconfig(ncursesw)	devpkg-ncurses
 pkgconfig(nettle)	devpkg-nettle

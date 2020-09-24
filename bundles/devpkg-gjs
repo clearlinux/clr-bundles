@@ -11,6 +11,6 @@ include(devpkg-glib)
 include(libglib)
 include(devpkg-gobject-introspection)
 include(devpkg-libffi)
-include(devpkg-mozjs68)
+include(devpkg-mozjs78)
 
 gjs-dev

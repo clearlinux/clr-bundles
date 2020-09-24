@@ -8,6 +8,5 @@
 include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
-include(devpkg-libffi)
 
 gobject-introspection-dev
