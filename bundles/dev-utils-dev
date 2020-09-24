@@ -28,6 +28,7 @@ include(devpkg-alsa-lib)
 appdirs
 armadillo-data
 asciidoc
+astroid
 include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
@@ -65,8 +66,10 @@ cffi
 check-dev
 clr-rpm-config
 cmake
+colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
+contextlib2
 coreutils
 cppcheck
 cppunit-dev
@@ -170,6 +173,7 @@ help2man
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
+importlib_metadata
 intel-ipsec-mb
 intel-ipsec-mb-dev
 include(intltool)
@@ -177,6 +181,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 iso8601
+isort
 include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
@@ -184,6 +189,7 @@ keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
+lazy-object-proxy
 include(less)
 less-bin
 include(devpkg-libX11)
@@ -271,6 +277,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
+logilab-common
 include(devpkg-lua)
 lxml
 include(lynx)
@@ -280,6 +287,7 @@ lzo-dev
 m4
 include(make)
 man-db
+mccabe
 include(devpkg-mesa)
 mesa-dev32
 meson
@@ -316,6 +324,7 @@ openssl-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
+packaging
 include(pandoc)
 include(patch)
 patchelf
@@ -471,7 +480,12 @@ py
 py-python
 pycodestyle
 pycparser
+pyflakes
+pylint
+pyparsing
 pytest
+pytest-runner
+pytest-timeout
 python3
 python3-core
 python3-dev
@@ -487,6 +501,7 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
+setuptools_scm-python
 shadow
 shared-mime-info
 six
@@ -516,10 +531,14 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+toml
 tox
 tqdm
 traceback2
+typed_ast
 include(tzdata)
+unittest2
+unittest2-python
 include(unzip)
 util-linux
 util-linux-bin
@@ -534,6 +553,7 @@ vim
 virtualenv
 include(wget)
 include(which)
+wrapt
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -546,6 +566,7 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 include(yasm)
+zipp
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

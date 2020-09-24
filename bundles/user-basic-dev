@@ -55,6 +55,7 @@ include(devpkg-apr)
 armadillo-data
 asciidoc
 include(aspell)
+astroid
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
@@ -118,6 +119,7 @@ colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
 confuse-dev
+contextlib2
 coreutils
 cppcheck
 cppunit-dev
@@ -270,6 +272,7 @@ include(devpkg-icu4c)
 icu4c-dev32
 idna
 imagesize
+importlib_metadata
 influxdb
 intel-ipsec-mb
 intel-ipsec-mb-dev
@@ -283,6 +286,7 @@ iptables-dev32
 isa-l-dev
 include(devpkg-iso-codes)
 iso8601
+isort
 include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
@@ -298,6 +302,7 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 kubernetes
+lazy-object-proxy
 ldb-dev
 ldb-extras
 include(less)
@@ -434,6 +439,7 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
+logilab-common
 include(devpkg-lua)
 lxml
 include(lynx)
@@ -443,6 +449,7 @@ lzo-dev
 m4
 include(make)
 man-db
+mccabe
 include(devpkg-mesa)
 mesa-dev32
 meson
@@ -501,6 +508,7 @@ orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
+packaging
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
@@ -680,8 +688,12 @@ py-python
 pyOpenSSL
 pycodestyle
 pycparser
+pyflakes
+pylint
 pyparsing
 pytest
+pytest-runner
+pytest-timeout
 python3
 python3-core
 python3-dev
@@ -710,6 +722,7 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
+setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -760,12 +773,16 @@ include(devpkg-tiff)
 tk
 tk-dev
 tokyocabinet-dev
+toml
 tox
 tox-python
 tpm2-tss-dev
 tqdm
 traceback2
+typed_ast
 include(tzdata)
+unittest2
+unittest2-python
 include(unzip)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
@@ -788,6 +805,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
 include(which)
+wrapt
 include(devpkg-xapian-core)
 xauth
 xcb-proto
@@ -808,6 +826,7 @@ xz-dev32
 yajl-dev
 yajl-lib
 include(yasm)
+zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
