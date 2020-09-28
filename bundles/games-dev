@@ -276,6 +276,7 @@ libabigail
 libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
+libavtp-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
