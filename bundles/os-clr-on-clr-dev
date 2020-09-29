@@ -777,6 +777,7 @@ perl-DateTime
 perl-DateTime-Locale-perl
 perl-DateTime-TimeZone-perl
 perl-Devel-Caller-perl
+perl-Devel-Cycle-perl
 perl-Devel-LexAlias-perl
 perl-Devel-OverrideGlobalRequire-perl
 perl-Devel-StackTrace-perl

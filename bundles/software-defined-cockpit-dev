@@ -21,7 +21,6 @@ SDL2-dev32
 include(devpkg-SDL2_image)
 SmartXbar-dev
 include(Sphinx)
-Vulkan-Headers-data
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
@@ -294,7 +293,6 @@ include(devpkg-libpng)
 libpng-dev32
 libpsl-dev32
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)
@@ -463,7 +461,6 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xdg-utils
 include(devpkg-xkeyboard-config)
 xmlto
