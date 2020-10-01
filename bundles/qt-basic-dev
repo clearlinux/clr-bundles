@@ -8,7 +8,6 @@ include(dev-utils)
 include(os-core-dev)
 include(qt-basic)
 CUnit-dev
-CUnit-dev32
 Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -162,7 +161,6 @@ glibc-dev
 glibc-dev32
 glibc-libc32
 include(glibc-locale)
-glibc-staticdev
 glibc-utils
 include(devpkg-glu)
 gmp-dev
@@ -237,7 +235,6 @@ libabigail
 libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
-libc6
 libc6-dev
 libcap
 include(devpkg-libcap)
@@ -251,10 +248,7 @@ libdatrie-dev32
 include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
-libev-dev
 include(devpkg-libevdev)
-include(devpkg-libevent)
-libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libfontenc)
@@ -354,8 +348,6 @@ include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
-include(devpkg-nghttp2)
-nghttp2-dev32
 nose
 nss-altfiles
 numpy
