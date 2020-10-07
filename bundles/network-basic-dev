@@ -17,7 +17,6 @@ Linux-PAM-dev32
 include(Sphinx)
 include(devpkg-acl)
 acl-dev32
-include(devpkg-apr)
 asciidoc
 include(devpkg-attr)
 attr-dev32

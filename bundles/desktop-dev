@@ -54,7 +54,6 @@ alsa-lib-dev32
 appdirs
 appstream-glib
 include(devpkg-appstream-glib)
-include(devpkg-apr)
 asciidoc
 asn1crypto-python
 include(aspell)

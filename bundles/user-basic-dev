@@ -51,7 +51,6 @@ include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
 appdirs
-include(devpkg-apr)
 armadillo-data
 asciidoc
 include(aspell)
