@@ -457,6 +457,7 @@ R-rngWELL
 R-rngtools
 R-robCompositions
 R-robustbase
+R-rootSolve
 R-rotl
 R-roxygen2
 R-rprojroot
@@ -837,6 +838,7 @@ include(devpkg-libarchive)
 include(devpkg-libass)
 libatomic_ops-dev
 libatomic_ops-dev32
+libbsd-dev
 libc6
 libc6-dev
 libcap
