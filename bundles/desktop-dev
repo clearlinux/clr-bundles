@@ -885,6 +885,7 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
 requests
+requests-file
 requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)

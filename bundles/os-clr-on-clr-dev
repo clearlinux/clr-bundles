@@ -1011,6 +1011,7 @@ include(devpkg-readline)
 readline-dev32
 recommonmark
 requests
+requests-file
 requests-kerberos
 requests-mock
 requests-toolbelt
