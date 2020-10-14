@@ -838,7 +838,6 @@ include(devpkg-libarchive)
 include(devpkg-libass)
 libatomic_ops-dev
 libatomic_ops-dev32
-libbsd-dev
 libc6
 libc6-dev
 libcap
