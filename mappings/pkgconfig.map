@@ -228,6 +228,7 @@ pkgconfig(libattr)	devpkg-attr
 pkgconfig(libbrotlicommon)	devpkg-brotli
 pkgconfig(libbrotlidec)	devpkg-brotli
 pkgconfig(libbrotlienc)	devpkg-brotli
+pkgconfig(libbsd)	devpkg-libbsd
 pkgconfig(libcanberra)	devpkg-libcanberra
 pkgconfig(libcanberra-gtk)	devpkg-libcanberra
 pkgconfig(libcanberra-gtk3)	devpkg-libcanberra
