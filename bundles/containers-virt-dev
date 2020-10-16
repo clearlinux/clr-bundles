@@ -57,6 +57,7 @@ datefudge
 db
 include(devpkg-dbus)
 dbus-dev32
+dbus-python
 dejagnu
 desktop-file-utils
 include(diffutils)

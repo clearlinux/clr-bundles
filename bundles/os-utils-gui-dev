@@ -114,6 +114,7 @@ include(devpkg-dbus)
 dbus-dev32
 dbus-extras
 include(devpkg-dbus-glib)
+dbus-python
 dconf-dev
 dejagnu
 desktop-file-utils

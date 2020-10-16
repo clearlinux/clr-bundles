@@ -410,6 +410,7 @@ include(devpkg-libXfont2)
 include(devpkg-libXft)
 include(devpkg-libXmu)
 include(devpkg-libXpm)
+libXpresent-dev
 include(devpkg-libXres)
 include(devpkg-libXt)
 libXt-dev32
