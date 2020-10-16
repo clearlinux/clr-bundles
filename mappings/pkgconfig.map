@@ -228,7 +228,6 @@ pkgconfig(libattr)	devpkg-attr
 pkgconfig(libbrotlicommon)	devpkg-brotli
 pkgconfig(libbrotlidec)	devpkg-brotli
 pkgconfig(libbrotlienc)	devpkg-brotli
-pkgconfig(libbsd)	devpkg-libbsd
 pkgconfig(libcanberra)	devpkg-libcanberra
 pkgconfig(libcanberra-gtk)	devpkg-libcanberra
 pkgconfig(libcanberra-gtk3)	devpkg-libcanberra
@@ -356,7 +355,6 @@ pkgconfig(libopenvswitch)	devpkg-openvswitch
 pkgconfig(libosinfo-1.0)	devpkg-libosinfo
 pkgconfig(libout123)	devpkg-mpg123
 pkgconfig(libovsdb)	devpkg-openvswitch
-pkgconfig(libpanel-applet)	devpkg-gnome-panel
 pkgconfig(libparted)	devpkg-parted
 pkgconfig(libpathplan)	devpkg-graphviz
 pkgconfig(libpcap)	devpkg-libpcap
