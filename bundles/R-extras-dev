@@ -104,6 +104,7 @@ R-adegenet
 R-analogue
 R-ape
 R-arm
+R-arsenal
 R-ash
 R-askpass
 R-assertthat
@@ -115,7 +116,6 @@ R-bbmle
 R-bdsmatrix
 R-benchr
 R-betareg
-R-bibtex
 R-bindr
 R-bit
 R-bit64
@@ -150,12 +150,14 @@ R-colorspace
 R-colourpicker
 R-combinat
 R-commonmark
+R-conditionz
 R-config
 R-conquer
 R-contfrac
 R-corpcor
 R-corrplot
 R-covr
+R-cpp11
 R-crayon
 R-crosstalk
 R-crul
@@ -422,6 +424,7 @@ R-rappdirs
 R-raster
 R-rasterVis
 R-rbenchmark
+R-rbibutils
 R-rcmdcheck
 R-reactR
 R-readr
@@ -450,6 +453,7 @@ R-ritis
 R-rjags
 R-rjson
 R-rlang
+R-rle
 R-rmarkdown
 R-rms
 R-rmutil
@@ -493,6 +497,7 @@ R-shinyjs
 R-shinystan
 R-shinythemes
 R-slam
+R-slider
 R-sm
 R-sn
 R-sna
