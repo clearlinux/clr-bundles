@@ -958,8 +958,6 @@ udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
 unicodedata2
-unittest2
-unittest2-python
 include(unzip)
 upower-dev
 urllib3

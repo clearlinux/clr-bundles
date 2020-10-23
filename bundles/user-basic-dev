@@ -780,8 +780,6 @@ tqdm
 traceback2
 typed_ast
 include(tzdata)
-unittest2
-unittest2-python
 include(unzip)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
