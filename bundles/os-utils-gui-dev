@@ -80,7 +80,6 @@ ccid
 certifi
 cffi
 chardet
-check
 check-dev
 check-dev32
 chrpath

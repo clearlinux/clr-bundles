@@ -59,7 +59,6 @@ asn1crypto-python
 include(aspell)
 aspell-dev
 aspell-en
-astroid
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
@@ -140,7 +139,6 @@ colord-gtk-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 compat-libhandy-0.0-dev
-contextlib2
 coreutils
 coverage
 cppcheck
@@ -361,7 +359,6 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagescan
-importlib_metadata
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -374,7 +371,6 @@ ipython
 include(devpkg-iso-codes)
 iso8601
 isodate
-isort
 itsdangerous
 itsdangerous-python
 itstool
@@ -392,7 +388,6 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 kyotocabinet-dev
-lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -590,7 +585,6 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
-logilab-common
 include(devpkg-lua)
 lxml
 include(devpkg-lz4)
@@ -601,7 +595,6 @@ m4
 include(make)
 man-db
 include(devpkg-mariadb)
-mccabe
 include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
@@ -864,12 +857,9 @@ pyflakes
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
-pylint
 pyparsing
 pyroma
 pytest
-pytest-runner
-pytest-timeout
 python-pocketlint
 python-polib
 python3
@@ -905,7 +895,6 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
-setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -952,7 +941,6 @@ tornado
 tox
 tpm2-tss-dev
 tracker-dev
-typed_ast
 include(tzdata)
 udisks2
 udisks2-dev
@@ -989,7 +977,6 @@ include(webkitgtk)
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
-wrapt
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -1029,7 +1016,6 @@ yelp-dev
 yelp-xsl
 yelp-xsl-dev
 include(zenity)
-zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
