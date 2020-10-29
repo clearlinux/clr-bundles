@@ -86,7 +86,6 @@ include(aspell)
 aspell-dev
 aspell-en
 assimp-dev
-astroid
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
@@ -396,7 +395,6 @@ isa-l-dev
 include(devpkg-iso-codes)
 iso8601
 isodate
-isort
 itsdangerous
 itsdangerous-python
 include(devpkg-jansson)
@@ -454,7 +452,6 @@ kwallet-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
-lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -624,7 +621,6 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
-logilab-common
 lua
 include(devpkg-lua)
 lxml
@@ -1147,7 +1143,6 @@ webencodings
 include(wget)
 include(which)
 include(devpkg-woff2)
-wrapt
 include(devpkg-xapian-core)
 xauth
 xcb-proto
