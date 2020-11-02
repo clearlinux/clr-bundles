@@ -130,6 +130,7 @@ include(devpkg-clutter-gst)
 clutter-gtk-dev
 cmake
 cmocka-dev
+cmrt
 include(devpkg-cmrt)
 include(devpkg-cogl)
 colorama
