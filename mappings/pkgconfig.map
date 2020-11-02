@@ -76,7 +76,6 @@ pkgconfig(fontsproto)	devpkg-xorgproto
 pkgconfig(fontutil)	devpkg-font-util
 pkgconfig(form)	devpkg-ncurses
 pkgconfig(formw)	devpkg-ncurses
-pkgconfig(freeglut)	devpkg-freeglut
 pkgconfig(freetype2)	devpkg-freetype
 pkgconfig(fribidi)	devpkg-fribidi
 pkgconfig(fuse)	devpkg-compat-fuse-soname2
