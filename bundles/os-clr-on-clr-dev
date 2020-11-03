@@ -375,7 +375,6 @@ include(devpkg-icu4c)
 icu4c-dev32
 idna
 idna-python
-ilmbase-dev
 imagesize
 importlib_metadata
 influxdb

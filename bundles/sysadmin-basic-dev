@@ -68,6 +68,7 @@ include(doxygen)
 dracut-dev
 e2fsprogs
 include(devpkg-e2fsprogs)
+ed
 efivar-dev
 include(devpkg-elfutils)
 elfutils-dev32

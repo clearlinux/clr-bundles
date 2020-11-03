@@ -191,6 +191,7 @@ e2fsprogs-data
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
+ed
 efivar-dev
 include(devpkg-eigen)
 elfutils
@@ -358,7 +359,6 @@ icu4c-dev32
 idna
 idna-python
 igt-gpu-tools-dev
-ilmbase-dev
 imagescan
 intel-gmmlib-dev
 intel-media-driver-dev

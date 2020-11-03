@@ -799,7 +799,6 @@ ibus-dev
 ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
-ilmbase-dev
 include(intltool)
 intltool-dev
 include(devpkg-iptables)

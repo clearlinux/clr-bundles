@@ -229,7 +229,6 @@ ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
 igt-gpu-tools-dev
-ilmbase-dev
 intel-gmmlib-dev
 include(intltool)
 intltool-dev

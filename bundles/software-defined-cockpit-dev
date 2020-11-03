@@ -199,7 +199,6 @@ ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
 igt-gpu-tools-dev
-ilmbase-dev
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -287,6 +286,7 @@ libnice-dev
 include(devpkg-libnl)
 include(devpkg-libogg)
 libogg-dev32
+include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
