@@ -48,7 +48,6 @@ check-dev
 check-dev32
 clr-hardware-files
 clr-rpm-config
-cmake
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

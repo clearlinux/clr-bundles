@@ -154,7 +154,6 @@ linux-libc-headers
 lxml
 include(devpkg-lz4)
 lz4-dev32
-m4
 include(make)
 mod_perl-perl
 mpc-dev
