@@ -418,6 +418,7 @@ shared-mime-info
 six
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
+sssd-dev
 startup-notification
 include(devpkg-startup-notification)
 include(strace)

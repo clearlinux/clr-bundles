@@ -1063,6 +1063,7 @@ spice-protocol-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
+sssd-dev
 startup-notification
 include(devpkg-startup-notification)
 stoken-dev
