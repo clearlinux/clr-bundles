@@ -112,6 +112,7 @@ bats
 include(bc)
 bcrypt
 bdftopcf
+bind-utils
 include(binutils)
 binutils-dev
 binutils-staticdev
@@ -140,6 +141,7 @@ buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
+c-ares-dev
 ca-certs
 cached-property
 include(devpkg-cairo)
@@ -201,6 +203,7 @@ dejagnu
 desktop-file-utils
 dhcp
 include(diffutils)
+ding-libs-dev
 distlib
 distro
 dnf-plugins-core
@@ -285,6 +288,7 @@ gdbm-dev
 gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
+include(devpkg-gdm)
 geos-dev
 gettext
 gettext-bin
@@ -677,6 +681,7 @@ nettle-lib
 nettle-lib32
 include(devpkg-newt)
 include(nfs-utils)
+nfs-utils-dev
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
