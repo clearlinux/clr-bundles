@@ -183,6 +183,7 @@ include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
+include(devpkg-libsodium)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
