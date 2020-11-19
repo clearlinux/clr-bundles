@@ -204,6 +204,8 @@ libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
 linux-libc-headers
+include(llvm)
+include(devpkg-llvm)
 lmdb-dev
 lxml
 include(devpkg-lz4)
