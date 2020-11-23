@@ -361,6 +361,7 @@ R-openxlsx
 R-optextras
 R-pROC
 R-packrat
+R-parallelly
 R-parsedate
 R-partitions
 R-party
@@ -401,6 +402,7 @@ R-processx
 R-prodlim
 R-profileModel
 R-progress
+R-projpred
 R-promises
 R-protolite
 R-proxy
