@@ -709,6 +709,7 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
+setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -760,6 +761,7 @@ include(devpkg-tiff)
 tk
 tk-dev
 tokyocabinet-dev
+toml-python
 tox
 tox-python
 tpm2-tss-dev

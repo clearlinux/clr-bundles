@@ -487,6 +487,7 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
+setuptools_scm-python
 shadow
 shared-mime-info
 six
@@ -516,6 +517,7 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+toml-python
 tox
 tqdm
 traceback2

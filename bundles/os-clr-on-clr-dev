@@ -1107,6 +1107,7 @@ tk
 tk-dev
 tokyocabinet-dev
 toml
+toml-python
 tornado
 tox
 tox-python
