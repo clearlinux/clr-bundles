@@ -5,6 +5,7 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(c-basic)
 include(llvm)
 
 ldc
