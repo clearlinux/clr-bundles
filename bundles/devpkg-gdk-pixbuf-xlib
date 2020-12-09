@@ -1,13 +1,16 @@
-# [TITLE]: devpkg-gdk-pixbuf
-# [DESCRIPTION]: All content for pkgconfig file gdk-pixbuf.pc.
+# [TITLE]: devpkg-gdk-pixbuf-xlib
+# [DESCRIPTION]: All content for pkgconfig file gdk-pixbuf-xlib.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-gdk-pixbuf)
+include(libX11client)
 include(devpkg-glib)
 include(libglib)
+include(devpkg-libX11)
 include(devpkg-shared-mime-info)
 
-gdk-pixbuf-dev
+gdk-pixbuf-xlib-dev

@@ -92,7 +92,7 @@ pkgconfig(gcr-ui-3)	devpkg-gcr
 pkgconfig(gdk-2.0)	devpkg-gtkplus
 pkgconfig(gdk-3.0)	devpkg-gtk3
 pkgconfig(gdk-pixbuf-2.0)	devpkg-gdk-pixbuf
-pkgconfig(gdk-pixbuf-xlib-2.0)	devpkg-gdk-pixbuf
+pkgconfig(gdk-pixbuf-xlib-2.0)	devpkg-gdk-pixbuf-xlib
 pkgconfig(gdk-wayland-3.0)	devpkg-gtk3
 pkgconfig(gdk-x11-2.0)	devpkg-gtkplus
 pkgconfig(gdk-x11-3.0)	devpkg-gtk3
