@@ -8,9 +8,6 @@
 include(devpkg-base)
 include(devpkg-gdk-pixbuf)
 include(libX11client)
-include(devpkg-glib)
-include(libglib)
 include(devpkg-libX11)
-include(devpkg-shared-mime-info)
 
 gdk-pixbuf-xlib-dev
