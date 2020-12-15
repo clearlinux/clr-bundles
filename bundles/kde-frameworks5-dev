@@ -517,6 +517,7 @@ qtsensors-dev
 qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
+qtwayland-dev
 include(devpkg-qtwebchannel)
 qtwebsockets-dev
 qtx11extras-dev

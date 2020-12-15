@@ -355,6 +355,7 @@ include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
+gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 guile
@@ -998,6 +999,7 @@ include(devpkg-qtsvg)
 include(devpkg-qttools)
 qttranslations
 qtvirtualkeyboard-dev
+qtwayland-dev
 include(devpkg-qtwebchannel)
 include(devpkg-qtwebengine)
 qtwebsockets-dev
