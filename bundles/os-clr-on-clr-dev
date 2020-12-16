@@ -118,6 +118,7 @@ binutils-dev
 binutils-staticdev
 include(bison)
 bison-dev
+black
 include(devpkg-bluez)
 include(devpkg-boost)
 boto3
