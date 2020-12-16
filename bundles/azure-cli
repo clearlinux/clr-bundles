@@ -1,15 +1,8 @@
 # [TITLE]: azure-cli
 # [DESCRIPTION]: Microsoft Azure Command-Line Tools
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
-azure-cli
+filesystem
