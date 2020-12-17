@@ -24,6 +24,7 @@ CUnit-dev32
 Cheetah3
 CherryPy
 Cython
+Django
 Flask
 Jinja2
 LVM2
