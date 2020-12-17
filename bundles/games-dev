@@ -640,6 +640,7 @@ include(devpkg-taglib)
 tar
 tcl
 tcl-dev
+tcl-staticdev
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)

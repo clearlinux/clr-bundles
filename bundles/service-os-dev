@@ -40,6 +40,7 @@ bison-dev
 include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
+buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -48,7 +49,9 @@ buildreq-meson
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
+include(devpkg-cairo)
 certifi
 cffi
 check-dev
@@ -87,6 +90,10 @@ filelock
 include(findutils)
 include(flex)
 flex-dev
+fontconfig-data
+include(devpkg-fontconfig)
+include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fuse)
 gawk
 gcc
@@ -121,6 +128,7 @@ go
 gobject-introspection
 include(devpkg-gobject-introspection)
 gperf
+include(devpkg-graphite)
 include(graphviz)
 grep
 groff
@@ -128,6 +136,7 @@ gtk-doc
 include(devpkg-gtk-doc)
 guile
 include(gzip)
+include(devpkg-harfbuzz)
 hostname
 hypothesis-python
 include(devpkg-icu4c)
@@ -139,12 +148,15 @@ include(devpkg-iptables)
 iptables-dev32
 iso8601
 include(devpkg-json-c)
+json-c-dev32
 keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
 libX11-dev32
+include(devpkg-libXScrnSaver)
+include(devpkg-libXft)
 libabigail
 libaio-dev
 libc6
@@ -179,6 +191,9 @@ libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libpciaccess)
+include(devpkg-libpng)
+libpng-dev32
+include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -277,6 +292,7 @@ systemd-lib
 tar
 tcl
 tcl-dev
+tcl-staticdev
 telemetrics-client
 include(devpkg-telemetrics-client)
 include(texinfo)
@@ -299,7 +315,13 @@ valgrind-dev
 virtualenv
 include(which)
 xauth
+xcb-proto
+include(devpkg-xcb-proto)
 xmlto
+include(devpkg-xorgproto)
+xorgproto-dev32
+include(devpkg-xtrans)
+xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

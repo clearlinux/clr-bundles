@@ -40,7 +40,9 @@ buildreq-kde
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
+include(devpkg-cairo)
 certifi
 cffi
 check-dev
@@ -85,6 +87,10 @@ filelock
 include(findutils)
 include(flex)
 flex-dev
+fontconfig-data
+include(devpkg-fontconfig)
+include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fuse)
 gawk
 gcc
@@ -123,8 +129,11 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg)
 include(devpkg-gnutls)
+gobject-introspection
+include(devpkg-gobject-introspection)
 gperf
 gpgme-dev
+include(devpkg-graphite)
 include(graphviz)
 grep
 groff
@@ -133,6 +142,7 @@ gtk-doc
 include(devpkg-gtk-doc)
 guile
 include(gzip)
+include(devpkg-harfbuzz)
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
@@ -144,6 +154,7 @@ iptables-dev32
 iso8601
 include(devpkg-jansson)
 include(devpkg-json-c)
+json-c-dev32
 kdoctools-dev
 keyutils-dev
 kmod
@@ -155,6 +166,8 @@ ldb-extras
 less-bin
 include(devpkg-libX11)
 libX11-dev32
+include(devpkg-libXScrnSaver)
+include(devpkg-libXft)
 libabigail
 libaio-dev
 include(devpkg-libarchive)
@@ -190,6 +203,9 @@ libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
+include(devpkg-libpng)
+libpng-dev32
+include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -432,6 +448,7 @@ talloc-extras
 tar
 tcl
 tcl-dev
+tcl-staticdev
 tdb-dev
 tdb-python3
 tevent-dev
@@ -448,13 +465,21 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
+include(devpkg-util-macros)
+util-macros-dev32
 include(valgrind)
 valgrind-dev
 virtualenv
 include(which)
 xauth
+xcb-proto
+include(devpkg-xcb-proto)
 xdg-utils
 xmlto
+include(devpkg-xorgproto)
+xorgproto-dev32
+include(devpkg-xtrans)
+xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

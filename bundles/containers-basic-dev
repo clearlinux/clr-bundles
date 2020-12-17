@@ -39,7 +39,9 @@ buildreq-golang
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
+include(devpkg-cairo)
 ccid
 certifi
 check-dev
@@ -75,6 +77,10 @@ include(findutils)
 include(flex)
 flex-dev
 fltk-dev
+fontconfig-data
+include(devpkg-fontconfig)
+include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fuse)
 gawk
 gcc
@@ -85,6 +91,7 @@ gcc-libstdc++32
 gcc7-dev
 gcc8-dev
 include(devpkg-gcr)
+include(gdb)
 gdb-dev
 gdbm-dev
 gettext
@@ -110,9 +117,11 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(devpkg-gnutls)
 go
+gobject-introspection
 include(devpkg-gobject-introspection)
 golang-github-cpuguy83-go-md2man
 gperf
+include(devpkg-graphite)
 include(graphviz)
 grep
 groff
@@ -122,6 +131,7 @@ include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 guile
 include(gzip)
+include(devpkg-harfbuzz)
 hostname
 include(devpkg-icu4c)
 include(intltool)
@@ -129,6 +139,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
+json-c-dev32
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -136,7 +147,9 @@ kmod-dev32
 include(less)
 include(devpkg-libX11)
 libX11-dev32
+include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
+include(devpkg-libXft)
 libabigail
 libaio-dev
 include(devpkg-libassuan)
@@ -175,6 +188,9 @@ libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libpipeline)
+include(devpkg-libpng)
+libpng-dev32
+include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -266,6 +282,7 @@ systemd-lib
 tar
 tcl
 tcl-dev
+tcl-staticdev
 include(texinfo)
 thin-provisioning-tools
 tk
@@ -277,12 +294,20 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
+include(devpkg-util-macros)
+util-macros-dev32
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev
 include(which)
 xauth
+xcb-proto
+include(devpkg-xcb-proto)
 xmlto
+include(devpkg-xorgproto)
+xorgproto-dev32
+include(devpkg-xtrans)
+xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

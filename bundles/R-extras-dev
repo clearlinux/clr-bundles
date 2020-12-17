@@ -112,6 +112,7 @@ R-bayesm
 R-bayesplot
 R-bbmle
 R-bdsmatrix
+R-bench
 R-benchr
 R-betareg
 R-bindr
@@ -402,6 +403,7 @@ R-princurve
 R-processx
 R-prodlim
 R-profileModel
+R-profmem
 R-progress
 R-projpred
 R-promises

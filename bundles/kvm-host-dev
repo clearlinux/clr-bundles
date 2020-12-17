@@ -507,6 +507,7 @@ systemd-lib
 tar
 tcl
 tcl-dev
+tcl-staticdev
 tempora
 include(texinfo)
 thin-provisioning-tools

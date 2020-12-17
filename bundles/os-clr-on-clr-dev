@@ -27,6 +27,7 @@ Cython
 Django
 Flask
 Jinja2
+Jinja2-python
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -38,6 +39,7 @@ Mako
 Mako-python
 Markdown
 MarkupSafe
+MarkupSafe-python
 MarkupSafe-python3
 ModemManager-dev
 include(devpkg-NetworkManager)
@@ -69,6 +71,9 @@ Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
+aiodns
+aiohttp
+aiohttp-cors
 alabaster
 include(devpkg-alsa-lib)
 alsa-lib-dev32
@@ -79,6 +84,7 @@ appstream-glib
 include(devpkg-apr)
 include(devpkg-apr-util)
 argcomplete
+argon2-cffi
 argon2-dev
 armadillo-data
 asciidoc
@@ -87,6 +93,7 @@ include(aspell)
 aspell-dev
 aspell-en
 assimp-dev
+async-timeout
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
@@ -147,6 +154,7 @@ c-ares-dev
 ca-certs
 cached-property
 include(devpkg-cairo)
+cchardet
 ccid
 ceph-dev
 certifi
@@ -190,6 +198,7 @@ include(curl)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
+dataclasses
 datefudge
 db
 db-dev
@@ -382,6 +391,7 @@ include(devpkg-icu4c)
 icu4c-dev32
 idna
 idna-python
+idna-ssl
 imagesize
 importlib_metadata
 influxdb
@@ -665,6 +675,7 @@ mpc-dev
 mpfr-dev
 msmtp
 mtdev-dev
+multidict
 munge-dev
 mypy
 mypy_extensions
@@ -744,6 +755,7 @@ include(patch)
 patchelf
 patchutils
 pathlib2
+pathspec
 pbr
 include(devpkg-pciutils)
 pcre
@@ -950,6 +962,7 @@ pyOpenSSL
 pyasn1
 pycairo
 pycairo-dev
+pycares
 pycodestyle
 pycparser
 pycparser-python
@@ -965,8 +978,10 @@ pytest-timeout
 pytest-xdist
 python-dateutil
 python-future
+python-memcached
 python-mimeparse
 python-mock
+python-mock-python
 python-multilib
 python-subunit
 python3
@@ -1013,6 +1028,7 @@ re2c
 include(devpkg-readline)
 readline-dev32
 recommonmark
+regex
 requests
 requests-file
 requests-kerberos
@@ -1037,6 +1053,7 @@ sbsigntools
 scikit-learn
 scipy
 sed
+selenium
 serf-dev
 setuptools
 setuptools-python
@@ -1072,6 +1089,7 @@ spice-protocol-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
+sqlparse
 sssd-dev
 startup-notification
 include(devpkg-startup-notification)
@@ -1176,6 +1194,7 @@ xz-dev32
 yajl-dev
 yajl-lib
 yaml-dev
+yarl
 include(yasm)
 include(zip)
 zipp
