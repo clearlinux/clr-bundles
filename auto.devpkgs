@@ -3,6 +3,7 @@ apr-1
 apr-util-1
 atk
 audit
+bcc
 bigreqsproto
 blkid
 bluez
