@@ -8,5 +8,6 @@ filesystem
 also-add(bc)
 also-add(compat-common)
 also-add(linux-dev)
+also-add(devpkg-openssl)
 also-add(rsync)
 also-add(zip)
