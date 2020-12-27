@@ -6,7 +6,6 @@
 # [MAINTAINER]: Alexander Koskovich <zvnexus@outlook.com>
 filesystem
 also-add(bc)
-also-add(ccache)
 also-add(compat-common)
 also-add(linux-dev)
 also-add(rsync)
