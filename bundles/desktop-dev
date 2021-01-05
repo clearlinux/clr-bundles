@@ -386,7 +386,6 @@ itsdangerous-python
 itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
-jarn.viewdoc
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
@@ -864,10 +863,8 @@ pyasn1
 pycairo
 pycairo-dev
 pycares
-pycodestyle
 pycparser
 pycparser-python
-pyflakes
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python

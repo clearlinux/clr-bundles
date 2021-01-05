@@ -396,6 +396,7 @@ imagesize
 importlib_metadata
 influxdb
 iniconfig
+inih-dev
 iniparse
 intel-ipsec-mb
 intel-ipsec-mb-dev
@@ -414,7 +415,6 @@ isodate
 itsdangerous
 itsdangerous-python
 include(devpkg-jansson)
-jarn.viewdoc
 jemalloc-dev
 include(joe)
 include(devpkg-json-c)
@@ -815,6 +815,7 @@ perl-File-ShareDir-Install-perl
 perl-File-ShareDir-perl
 perl-File-Slurp
 perl-File-Which-perl
+perl-GD
 perl-Getopt-Long-Descriptive-perl
 perl-HTML-Form-perl
 perl-HTML-Parser-perl

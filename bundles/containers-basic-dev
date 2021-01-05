@@ -134,6 +134,7 @@ include(gzip)
 include(devpkg-harfbuzz)
 hostname
 include(devpkg-icu4c)
+inih-dev
 include(intltool)
 intltool-dev
 include(devpkg-iptables)

@@ -270,6 +270,7 @@ icu4c-dev32
 idna
 imagesize
 influxdb
+inih-dev
 intel-ipsec-mb
 intel-ipsec-mb-dev
 include(intltool)
@@ -559,6 +560,7 @@ perl-File-Listing-perl
 perl-File-ShareDir-Install-perl
 perl-File-ShareDir-perl
 perl-File-Which-perl
+perl-GD
 perl-Getopt-Long-Descriptive-perl
 perl-HTML-Form-perl
 perl-HTML-Parser-perl

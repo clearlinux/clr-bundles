@@ -146,6 +146,7 @@ include(devpkg-harfbuzz)
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
+inih-dev
 include(intltool)
 intltool-dev
 include(devpkg-ipmctl)

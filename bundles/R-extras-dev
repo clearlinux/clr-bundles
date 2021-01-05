@@ -321,6 +321,7 @@ R-mapproj
 R-maps
 R-maptools
 R-markdown
+R-mathjaxr
 R-matrixStats
 R-matrixcalc
 R-maxLik
@@ -363,6 +364,7 @@ R-optextras
 R-optimx
 R-pROC
 R-packrat
+R-pander
 R-parallelly
 R-parsedate
 R-partitions
@@ -572,6 +574,7 @@ R-webshot
 R-whisker
 R-whoami
 R-wikitaxa
+R-winch
 R-withr
 R-worrms
 R-xfun
