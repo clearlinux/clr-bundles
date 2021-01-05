@@ -357,6 +357,7 @@ include(devpkg-libxml2)
 libxml2-dev32
 include(libxslt)
 libxslt-bin
+include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
@@ -395,6 +396,7 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 include(devpkg-nspr)
 nss-altfiles
+nss-bin
 include(devpkg-nss)
 numactl
 include(devpkg-numactl)

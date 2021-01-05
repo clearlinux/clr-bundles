@@ -227,6 +227,7 @@ R-fpc
 R-fracdiff
 R-fs
 R-furrr
+R-futile.logger
 R-futile.options
 R-future
 R-gam
@@ -403,6 +404,7 @@ R-prefmod
 R-prettyunits
 R-princurve
 R-processx
+R-procmaps
 R-prodlim
 R-profileModel
 R-profmem
@@ -534,6 +536,7 @@ R-survey
 R-sys
 R-systemfit
 R-systemfonts
+R-tables
 R-tensor
 R-tensorA
 R-tensorflow

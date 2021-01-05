@@ -474,6 +474,7 @@ ninja
 nose
 include(devpkg-nspr)
 nss-altfiles
+nss-bin
 include(devpkg-nss)
 numactl
 include(devpkg-numactl)

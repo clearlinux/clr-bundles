@@ -708,6 +708,7 @@ nosexcover-python
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
+nss-bin
 include(devpkg-nss)
 ntlm-auth
 numactl
