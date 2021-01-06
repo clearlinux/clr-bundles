@@ -523,6 +523,7 @@ pkgconfig(taglib)	devpkg-taglib
 pkgconfig(talloc)	devpkg-talloc
 pkgconfig(tesseract)	devpkg-tesseract
 pkgconfig(theora)	devpkg-libtheora
+pkgconfig(tinfow)	devpkg-ncurses
 pkgconfig(uuid)	devpkg-util-linux
 pkgconfig(videoproto)	devpkg-xorgproto
 pkgconfig(vorbis)	devpkg-libvorbis
