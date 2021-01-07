@@ -668,6 +668,7 @@ openjade-dev
 openjdk11
 openjdk11-dev
 openjpeg
+openjpeg-dev
 openldap-dev
 include(devpkg-openmpi)
 openssh
