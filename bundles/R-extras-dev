@@ -124,6 +124,7 @@ R-bold
 R-brew
 R-brglm
 R-bridgesampling
+R-brio
 R-broom
 R-ca
 R-caTools
@@ -210,6 +211,7 @@ R-fastmap
 R-fastmatch
 R-fauxpas
 R-fda
+R-fds
 R-fields
 R-filehash
 R-findpython
@@ -243,6 +245,7 @@ R-ggplot2movies
 R-ggridges
 R-gh
 R-git2r
+R-gitcreds
 R-globals
 R-glue
 R-gmodels
@@ -322,7 +325,6 @@ R-mapproj
 R-maps
 R-maptools
 R-markdown
-R-mathjaxr
 R-matrixStats
 R-matrixcalc
 R-maxLik
@@ -426,6 +428,7 @@ R-quantmod
 R-quantreg
 R-questionr
 R-qvcalc
+R-rainbow
 R-randomNames
 R-randtoolbox
 R-ranger
@@ -572,6 +575,7 @@ R-vctrs
 R-vegan
 R-viridis
 R-viridisLite
+R-waldo
 R-webmockr
 R-webshot
 R-whisker
