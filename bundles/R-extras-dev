@@ -159,6 +159,7 @@ R-corrplot
 R-covr
 R-cpp11
 R-crayon
+R-credentials
 R-crosstalk
 R-crul
 R-cubature
@@ -239,12 +240,12 @@ R-gclus
 R-gdata
 R-generics
 R-geometry
+R-gert
 R-getopt
 R-ggplot2
 R-ggplot2movies
 R-ggridges
 R-gh
-R-git2r
 R-gitcreds
 R-globals
 R-glue
@@ -260,6 +261,7 @@ R-gss
 R-gtable
 R-gtools
 R-haven
+R-hdrcde
 R-hexbin
 R-highlight
 R-highr
@@ -296,6 +298,7 @@ R-labelled
 R-laeken
 R-lambda.r
 R-languageR
+R-lars
 R-later
 R-latticeExtra
 R-lava
