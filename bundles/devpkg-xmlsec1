@@ -10,5 +10,6 @@ include(devpkg-libxml2)
 include(devpkg-libxslt)
 include(devpkg-nspr)
 include(devpkg-nss)
+include(devpkg-openssl)
 
 xmlsec1-dev
