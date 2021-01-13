@@ -112,7 +112,7 @@ include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
 gawk
-gc-dev
+include(devpkg-gc)
 gcc
 gcc-dev
 gcc-dev32

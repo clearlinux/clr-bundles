@@ -183,6 +183,7 @@ R-doMPI
 R-doParallel
 R-doRNG
 R-dotCall64
+R-downlit
 R-dplyr
 R-dygraphs
 R-dynamicTreeCut
@@ -263,7 +264,6 @@ R-gtools
 R-haven
 R-hdrcde
 R-hexbin
-R-highlight
 R-highr
 R-hms
 R-htmlTable
@@ -431,6 +431,7 @@ R-quantmod
 R-quantreg
 R-questionr
 R-qvcalc
+R-ragg
 R-rainbow
 R-randomNames
 R-randtoolbox
@@ -737,7 +738,7 @@ include(devpkg-fribidi)
 fs
 include(devpkg-fuse)
 gawk
-gc-dev
+include(devpkg-gc)
 gcc
 gcc-dev
 gcc-dev32

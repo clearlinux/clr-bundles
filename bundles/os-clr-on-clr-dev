@@ -282,7 +282,7 @@ fs
 funcsigs
 include(devpkg-fuse)
 gawk
-gc-dev
+include(devpkg-gc)
 gcc
 gcc-dev
 gcc-dev32

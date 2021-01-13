@@ -111,6 +111,7 @@ include(diffutils)
 distlib
 include(docbook-utils)
 docbook-xml
+include(docutils)
 double-conversion-dev
 include(doxygen)
 e2fsprogs

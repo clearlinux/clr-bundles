@@ -181,7 +181,7 @@ freetype-dev32
 include(devpkg-fribidi)
 include(devpkg-fuse)
 gawk
-gc-dev
+include(devpkg-gc)
 gcc
 gcc-dev
 gcc-dev32
