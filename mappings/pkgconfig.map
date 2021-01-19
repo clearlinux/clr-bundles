@@ -408,6 +408,7 @@ pkgconfig(libsoup-2.4)	devpkg-libsoup
 pkgconfig(libsoup-gnome-2.4)	devpkg-libsoup
 pkgconfig(libspectre)	devpkg-libspectre
 pkgconfig(libsrtp)	devpkg-libsrtp
+pkgconfig(libssh)	devpkg-libssh
 pkgconfig(libssh2)	devpkg-libssh2
 pkgconfig(libssl)	devpkg-openssl
 pkgconfig(libstartup-notification-1.0)	devpkg-startup-notification
