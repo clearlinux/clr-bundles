@@ -305,7 +305,7 @@ libsndfile-dev32
 include(devpkg-libsoup)
 libsrtp
 include(devpkg-libsrtp)
-libssh-dev
+include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)

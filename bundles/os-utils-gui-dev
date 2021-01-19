@@ -399,7 +399,7 @@ libsigc++-dev
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
-libssh-dev
+include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 libstoragemgmt

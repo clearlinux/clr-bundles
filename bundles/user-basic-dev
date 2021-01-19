@@ -399,7 +399,7 @@ libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsodium)
 include(devpkg-libsoup)
-libssh-dev
+include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)

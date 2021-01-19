@@ -593,7 +593,7 @@ include(devpkg-libsodium)
 include(devpkg-libsolv)
 include(devpkg-libsoup)
 libspatialite-dev
-libssh-dev
+include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)

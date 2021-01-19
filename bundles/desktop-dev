@@ -548,7 +548,7 @@ include(devpkg-libsoup)
 libspiro-dev
 libsrtp
 include(devpkg-libsrtp)
-libssh-dev
+include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 libstoragemgmt

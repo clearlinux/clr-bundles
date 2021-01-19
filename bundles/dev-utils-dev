@@ -249,7 +249,7 @@ include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
-libssh-dev
+include(devpkg-libssh)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
