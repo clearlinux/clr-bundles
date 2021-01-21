@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-compat-atkmm-soname16
+# [DESCRIPTION]: All content for pkgconfig file compat-atkmm-soname16.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-atk)
+include(devpkg-compat-glibmm-soname24)
+
+compat-atkmm-soname16-dev

@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-compat-glibmm-soname24
+# [DESCRIPTION]: All content for pkgconfig file compat-glibmm-soname24.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-compat-libsigcplusplus-soname20)
+include(devpkg-glib)
+include(libglib)
+
+compat-glibmm-soname24-dev

@@ -6,12 +6,12 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-atkmm)
-include(devpkg-cairomm)
+include(devpkg-compat-atkmm-soname16)
+include(devpkg-compat-cairomm-soname10)
+include(devpkg-compat-glibmm-soname24)
+include(devpkg-compat-pangomm-soname14)
 include(devpkg-gdk-pixbuf)
 include(libX11client)
-include(devpkg-glibmm)
 include(devpkg-gtk3)
-include(devpkg-pangomm)
 
 gtkmm3-dev

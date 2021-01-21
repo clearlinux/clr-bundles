@@ -21,7 +21,7 @@ pkgconfig(apr-1)	devpkg-apr
 pkgconfig(apr-util-1)	devpkg-apr-util
 pkgconfig(atk)	devpkg-atk
 pkgconfig(atk-bridge-2.0)	devpkg-at-spi2-atk
-pkgconfig(atkmm-1.6)	devpkg-atkmm
+pkgconfig(atkmm-1.6)	devpkg-compat-atkmm-soname16
 pkgconfig(atspi-2)	devpkg-at-spi2-core
 pkgconfig(audit)	devpkg-audit
 pkgconfig(babl)	devpkg-babl
@@ -33,7 +33,7 @@ pkgconfig(bzip2)	devpkg-bzip2
 pkgconfig(cairo)	devpkg-cairo
 pkgconfig(cairo-gobject)	devpkg-cairo
 pkgconfig(cairo-xlib)	devpkg-cairo
-pkgconfig(cairomm-1.0)	devpkg-cairomm
+pkgconfig(cairomm-1.0)	devpkg-compat-cairomm-soname10
 pkgconfig(camel-1.2)	devpkg-evolution-data-server
 pkgconfig(cheese)	devpkg-cheese
 pkgconfig(clutter-1.0)	devpkg-clutter
@@ -113,7 +113,7 @@ pkgconfig(gimpthumb-2.0)	devpkg-gimp
 pkgconfig(gimpui-2.0)	devpkg-gimp
 pkgconfig(gio-2.0)	devpkg-glib
 pkgconfig(gio-unix-2.0)	devpkg-glib
-pkgconfig(giomm-2.4)	devpkg-glibmm
+pkgconfig(giomm-2.4)	devpkg-compat-glibmm-soname24
 pkgconfig(gjs-1.0)	devpkg-gjs
 pkgconfig(gl)	devpkg-mesa
 pkgconfig(glesv1_cm)	devpkg-mesa
@@ -121,7 +121,7 @@ pkgconfig(glesv2)	devpkg-mesa
 pkgconfig(glew)	devpkg-glew
 pkgconfig(glfw3)	devpkg-glfw
 pkgconfig(glib-2.0)	devpkg-glib
-pkgconfig(glibmm-2.4)	devpkg-glibmm
+pkgconfig(glibmm-2.4)	devpkg-compat-glibmm-soname24
 pkgconfig(glm)	devpkg-glm
 pkgconfig(glproto)	devpkg-xorgproto
 pkgconfig(glu)	devpkg-glu
@@ -499,7 +499,7 @@ pkgconfig(p11-kit-1)	devpkg-p11-kit
 pkgconfig(pango)	devpkg-pango
 pkgconfig(pangocairo)	devpkg-pango
 pkgconfig(pangoft2)	devpkg-pango
-pkgconfig(pangomm-1.4)	devpkg-pangomm
+pkgconfig(pangomm-1.4)	devpkg-compat-pangomm-soname14
 pkgconfig(pciaccess)	devpkg-libpciaccess
 pkgconfig(pixman-1)	devpkg-pixman
 pkgconfig(popt)	devpkg-popt
@@ -516,7 +516,7 @@ pkgconfig(scrnsaverproto)	devpkg-xorgproto
 pkgconfig(sdl)	devpkg-SDL
 pkgconfig(sdl2)	devpkg-SDL2
 pkgconfig(shared-mime-info)	devpkg-shared-mime-info
-pkgconfig(sigc++-2.0)	devpkg-libsigcplusplus
+pkgconfig(sigc++-2.0)	devpkg-compat-libsigcplusplus-soname20
 pkgconfig(sm)	devpkg-libX11
 pkgconfig(speex)	devpkg-speex
 pkgconfig(sqlite3)	devpkg-sqlite-autoconf
