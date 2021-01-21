@@ -38,7 +38,6 @@ aspell-en
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
-include(devpkg-atkmm)
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -92,8 +91,13 @@ cmrt
 include(devpkg-cmrt)
 colord
 include(devpkg-colord)
+include(devpkg-compat-atkmm-soname16)
+include(devpkg-compat-cairomm-soname10)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
+include(devpkg-compat-glibmm-soname24)
+compat-libsigc++-soname20-dev
+include(devpkg-compat-pangomm-soname14)
 coreutils
 coverage
 cppcheck
@@ -455,6 +459,7 @@ mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
+mm-common-data
 mod_perl-perl
 include(devpkg-mozjs78)
 mpc-dev
@@ -500,7 +505,6 @@ p11-kit-dev32
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
-include(devpkg-pangomm)
 include(devpkg-parted)
 include(patch)
 patchelf

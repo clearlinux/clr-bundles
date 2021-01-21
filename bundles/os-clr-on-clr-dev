@@ -154,6 +154,7 @@ c-ares-dev
 ca-certs
 cached-property
 include(devpkg-cairo)
+capstone-dev
 cchardet
 ccid
 ceph-dev

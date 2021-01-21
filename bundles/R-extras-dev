@@ -264,6 +264,7 @@ R-gss
 R-gtable
 R-gtools
 R-haven
+R-hdrcde
 R-hexbin
 R-highr
 R-hms
@@ -444,6 +445,7 @@ R-rbenchmark
 R-rbibutils
 R-rcmdcheck
 R-reactR
+R-reactable
 R-readr
 R-readstata13
 R-readxl
