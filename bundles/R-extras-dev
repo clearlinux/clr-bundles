@@ -250,6 +250,7 @@ R-ggplot2movies
 R-ggridges
 R-gh
 R-gitcreds
+R-gld
 R-globals
 R-glue
 R-gmodels
@@ -315,6 +316,7 @@ R-lintr
 R-listenv
 R-lme4
 R-lmerTest
+R-lmom
 R-lmtest
 R-locfit
 R-loo

@@ -151,7 +151,6 @@ include(less)
 include(devpkg-libX11)
 libX11-dev32
 include(devpkg-libXScrnSaver)
-include(devpkg-libXcursor)
 include(devpkg-libXft)
 libabigail
 libaio-dev
