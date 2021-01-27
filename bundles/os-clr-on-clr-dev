@@ -131,7 +131,6 @@ include(devpkg-bluez)
 include(devpkg-boost)
 boto3
 bridge-utils
-brotli
 include(devpkg-brotli)
 brotlipy
 bsdiff-dev
@@ -154,7 +153,7 @@ c-ares-dev
 ca-certs
 cached-property
 include(devpkg-cairo)
-capstone-dev
+include(devpkg-capstone)
 cchardet
 ccid
 ceph-dev
@@ -1143,7 +1142,6 @@ traceback2-python
 typed_ast
 typing_extensions
 include(tzdata)
-unicodedata2
 unittest2
 unittest2-python
 unixODBC-dev
@@ -1206,6 +1204,5 @@ include(devpkg-zlib)
 zlib-dev32
 zope.event
 zope.interface
-zopfli
 include(devpkg-zstd)
 zstd-dev32

@@ -50,7 +50,6 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
-brotli
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -74,7 +73,6 @@ check-dev32
 clear-font
 clr-rpm-config
 include(devpkg-clutter)
-cmake
 coreutils
 coverage
 cracklib-dev
@@ -472,7 +470,6 @@ include(devpkg-tiff)
 tk-dev
 tox
 include(tzdata)
-unicodedata2
 include(unzip)
 util-linux
 util-linux-bin
@@ -510,6 +507,5 @@ include(yasm)
 include(devpkg-zlib)
 zlib-dev32
 zope.interface
-zopfli
 include(devpkg-zstd)
 zstd-dev32

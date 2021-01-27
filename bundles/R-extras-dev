@@ -651,7 +651,6 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
-brotli
 buildreq-R
 buildreq-cmake
 buildreq-configure
@@ -1290,7 +1289,6 @@ tox
 traceback2
 include(tzdata)
 udunits-dev
-unicodedata2
 unixODBC-dev
 include(unzip)
 util-linux
@@ -1334,6 +1332,5 @@ include(zip)
 include(devpkg-zlib)
 zlib-dev32
 zope.interface
-zopfli
 include(devpkg-zstd)
 zstd-dev32

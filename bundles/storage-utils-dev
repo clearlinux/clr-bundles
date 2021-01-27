@@ -21,6 +21,7 @@ include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
 autoconf
+autofs-dev
 autogen
 automake
 automake-dev

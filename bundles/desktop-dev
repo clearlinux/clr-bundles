@@ -91,7 +91,6 @@ bison-dev
 black
 include(devpkg-bluez)
 include(devpkg-boost)
-brotli
 include(devpkg-brotli)
 brotlipy
 btrfs-progs-dev
@@ -968,7 +967,6 @@ include(tzdata)
 udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
-unicodedata2
 include(unzip)
 upower-dev
 urllib3
@@ -1045,6 +1043,5 @@ include(devpkg-zlib)
 zlib-dev32
 zope.event
 zope.interface
-zopfli
 include(devpkg-zstd)
 zstd-dev32
