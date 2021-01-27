@@ -35,6 +35,7 @@ pkgconfig(cairo-gobject)	devpkg-cairo
 pkgconfig(cairo-xlib)	devpkg-cairo
 pkgconfig(cairomm-1.0)	devpkg-compat-cairomm-soname10
 pkgconfig(camel-1.2)	devpkg-evolution-data-server
+pkgconfig(capstone)	devpkg-capstone
 pkgconfig(cheese)	devpkg-cheese
 pkgconfig(clutter-1.0)	devpkg-clutter
 pkgconfig(clutter-gst-3.0)	devpkg-clutter-gst
