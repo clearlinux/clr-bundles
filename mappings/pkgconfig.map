@@ -202,6 +202,7 @@ pkgconfig(gutenprint)	devpkg-gutenprint
 pkgconfig(gutenprintui2)	devpkg-gutenprint
 pkgconfig(gweather-3.0)	devpkg-libgweather
 pkgconfig(harfbuzz)	devpkg-harfbuzz
+pkgconfig(harfbuzz-gobject)	devpkg-harfbuzz
 pkgconfig(hogweed)	devpkg-nettle
 pkgconfig(hwloc)	devpkg-hwloc
 pkgconfig(ice)	devpkg-libX11
