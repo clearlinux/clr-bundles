@@ -126,8 +126,10 @@ R-brglm
 R-bridgesampling
 R-brio
 R-broom
+R-bslib
 R-ca
 R-caTools
+R-cachem
 R-calibrate
 R-calibrator
 R-callr
@@ -290,6 +292,7 @@ R-janitor
 R-joineR
 R-jpeg
 R-jqr
+R-jquerylib
 R-jsonlite
 R-kernlab
 R-kimisc
@@ -497,6 +500,7 @@ R-rversions
 R-rvest
 R-sROC
 R-sandwich
+R-sass
 R-scales
 R-scatterplot3d
 R-segmented
@@ -532,6 +536,8 @@ R-spData
 R-spam
 R-spatstat
 R-spatstat.data
+R-spatstat.geom
+R-spatstat.sparse
 R-spatstat.utils
 R-spdep
 R-spelling
