@@ -1,0 +1,19 @@
+# [TITLE]: blivet-gui
+# [DESCRIPTION]: A graphical tool for storage configuration using blivet library
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities
+# [MAINTAINER]: Karthik Prabhu Vinod <karthik.prabhu.vinod@intel.com>
+
+# start of custom additions (edits outside this area will be removed automatically)
+blivet
+parted
+pyparted
+pid
+ped
+libblockdev
+also-add(storage-utils)
+# end of custom additions
+
+# main package
+blivet-gui
