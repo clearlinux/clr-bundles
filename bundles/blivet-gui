@@ -7,7 +7,7 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 blivet
-parted
+include(parted)
 pyparted
 pid
 ped
