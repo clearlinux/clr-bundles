@@ -10,5 +10,6 @@ include(devpkg-enchant)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-gtk3)
+include(devpkg-icu4c)
 
 gspell-dev
