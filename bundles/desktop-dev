@@ -267,7 +267,6 @@ gettext
 gettext-bin
 gettext-dev
 include(devpkg-gexiv2)
-include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 include(devpkg-gimp)

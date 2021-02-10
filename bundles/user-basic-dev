@@ -252,6 +252,8 @@ groff
 grpcio
 gsettings-desktop-schemas
 include(devpkg-gsl)
+include(devpkg-gst-plugins-base)
+include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
 include(devpkg-gtk-doc)

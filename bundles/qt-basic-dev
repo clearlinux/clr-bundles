@@ -146,7 +146,6 @@ include(devpkg-gdk-pixbuf)
 gettext
 gettext-bin
 gettext-dev
-include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 include(git)
