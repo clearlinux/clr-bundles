@@ -21,6 +21,7 @@ attr-dev32
 audisp-json
 include(devpkg-audit)
 autoconf
+autoconf-archive-dev
 autogen
 automake
 automake-dev

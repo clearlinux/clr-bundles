@@ -728,7 +728,6 @@ opencl-headers-dev
 include(devpkg-opencv)
 openexr-dev
 openjade-dev
-openjdk
 openjdk-dev
 openjdk11
 openjdk11-dev
@@ -767,7 +766,6 @@ pcsc-lite
 pcsc-lite-dev
 pecan
 pep517
-pep8
 pep8-python
 perl
 perl-Algorithm-Diff-perl
