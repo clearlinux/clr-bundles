@@ -177,7 +177,6 @@ R-dendextend
 R-desc
 include(devpkg-R)
 R-dichromat
-R-diffobj
 R-diffusionMap
 R-digest
 R-diptest
