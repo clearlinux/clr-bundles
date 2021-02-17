@@ -6,5 +6,6 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 lua
 lua52
+lua53
 LuaJIT
 luarocks
