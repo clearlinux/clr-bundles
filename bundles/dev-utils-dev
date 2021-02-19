@@ -271,7 +271,6 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
-include(devpkg-lua)
 lxml
 include(lynx)
 include(devpkg-lz4)

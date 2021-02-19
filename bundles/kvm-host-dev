@@ -187,6 +187,7 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 include(devpkg-glu)
+glusterfs-dev
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -307,6 +308,7 @@ libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
 include(devpkg-libinput)
+include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -337,6 +339,7 @@ libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
+include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
@@ -367,7 +370,6 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
-include(devpkg-lua)
 lxml
 include(devpkg-lz4)
 lz4-dev32
@@ -541,6 +543,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(which)
+wireshark-dev
 xauth
 xcb-proto
 include(devpkg-xcb-proto)

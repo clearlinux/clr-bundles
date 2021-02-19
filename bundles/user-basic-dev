@@ -219,6 +219,7 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 include(devpkg-glu)
+glusterfs-dev
 gmime
 include(devpkg-gmime)
 gmp-dev
@@ -364,6 +365,7 @@ libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
 include(devpkg-libinput)
+include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libkcapi-dev
@@ -796,6 +798,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
 include(which)
+wireshark-dev
 include(devpkg-xapian-core)
 xauth
 xcb-proto

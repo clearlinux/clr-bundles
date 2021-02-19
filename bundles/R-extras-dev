@@ -192,6 +192,7 @@ R-dynamicTreeCut
 R-dynlm
 R-e1071
 R-ecodist
+R-eddington
 R-ellipse
 R-ellipsis
 R-elliptic
@@ -332,6 +333,7 @@ R-mapproj
 R-maps
 R-maptools
 R-markdown
+R-mathjaxr
 R-matrixStats
 R-matrixcalc
 R-maxLik
@@ -586,6 +588,7 @@ R-vcd
 R-vcr
 R-vctrs
 R-vegan
+R-vembedr
 R-viridis
 R-viridisLite
 R-webmockr
@@ -974,7 +977,6 @@ linux-libc-headers
 include(llvm)
 llvm-dev32
 lmdb-dev
-include(devpkg-lua)
 lxml
 include(devpkg-lz4)
 lz4-dev32

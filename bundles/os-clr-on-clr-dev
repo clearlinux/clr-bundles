@@ -327,6 +327,7 @@ glibc-utils
 glslang-bin
 glslang-dev
 include(devpkg-glu)
+glusterfs-dev
 gmime
 include(devpkg-gmime)
 gmp-dev
@@ -542,6 +543,7 @@ libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
 include(devpkg-libinput)
+include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libkcapi-dev
@@ -1168,6 +1170,7 @@ wayland-protocols-dev32
 webencodings
 include(wget)
 include(which)
+wireshark-dev
 include(devpkg-woff2)
 include(devpkg-xapian-core)
 xauth
