@@ -177,6 +177,7 @@ R-dendextend
 R-desc
 include(devpkg-R)
 R-dichromat
+R-diffobj
 R-diffusionMap
 R-digest
 R-diptest
@@ -592,6 +593,7 @@ R-vembedr
 R-viridis
 R-viridisLite
 R-waldo
+R-warp
 R-webmockr
 R-webshot
 R-whisker

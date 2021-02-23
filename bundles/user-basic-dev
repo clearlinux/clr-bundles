@@ -98,6 +98,7 @@ buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
+c-ares-dev
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)
@@ -114,6 +115,7 @@ clr-rpm-config
 cmake
 cmd2
 cmocka-dev
+collectd-dev
 colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
@@ -163,6 +165,7 @@ execnet
 include(devpkg-expat)
 expat-dev32
 expect
+extra-cmake-modules
 extras
 fcgi-dev
 include(devpkg-fftw)
@@ -440,6 +443,8 @@ include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
+lua52-dev
+lua52-staticdev
 lxml
 include(lynx)
 include(devpkg-lz4)
@@ -672,6 +677,7 @@ include(plzip)
 include(polkit)
 polkit-dev
 include(devpkg-popt)
+portaudio-dev
 include(devpkg-postgresql)
 prettytable
 processor-trace-dev
@@ -694,6 +700,7 @@ python3-dev
 python3-staticdev
 qemu
 include(devpkg-qtbase)
+include(devpkg-qttools)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
@@ -798,6 +805,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
 include(which)
+wireshark
 wireshark-dev
 include(devpkg-xapian-core)
 xauth

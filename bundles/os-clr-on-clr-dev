@@ -165,7 +165,6 @@ check
 check-dev
 check-dev32
 check-manifest
-chrpath
 clear-font
 click
 clr-avx-tools
@@ -176,6 +175,7 @@ include(devpkg-clutter)
 cmake
 cmd2
 cmocka-dev
+collectd-dev
 colorama
 commonmark
 include(devpkg-compat-enchant-soname1)
@@ -339,6 +339,7 @@ gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg)
+include(gnuplot)
 include(devpkg-gnutls)
 go
 gobject-introspection
@@ -641,6 +642,8 @@ llvm-dev32
 lmdb-dev
 lua
 include(devpkg-lua)
+lua52-dev
+lua52-staticdev
 lxml
 include(lynx)
 include(devpkg-lz4)
@@ -939,6 +942,7 @@ include(poppler)
 poppler-dev
 poppler-extras
 include(devpkg-popt)
+portaudio-dev
 include(devpkg-postgresql)
 potrace-dev
 ppp
@@ -1170,6 +1174,7 @@ wayland-protocols-dev32
 webencodings
 include(wget)
 include(which)
+wireshark
 wireshark-dev
 include(devpkg-woff2)
 include(devpkg-xapian-core)
