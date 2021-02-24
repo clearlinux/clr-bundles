@@ -193,7 +193,6 @@ R-dynamicTreeCut
 R-dynlm
 R-e1071
 R-ecodist
-R-eddington
 R-ellipse
 R-ellipsis
 R-elliptic
@@ -239,7 +238,6 @@ R-futile.logger
 R-futile.options
 R-future
 R-gamm4
-R-gbRd
 R-gclus
 R-gdata
 R-generics
