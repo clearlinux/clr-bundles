@@ -233,7 +233,6 @@ include(devpkg-libXv)
 libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
-include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
 libatomic_ops-dev

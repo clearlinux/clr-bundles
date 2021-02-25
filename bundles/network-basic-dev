@@ -266,7 +266,6 @@ perl-Class-Load-XS-perl
 perl-Class-Load-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
-perl-Clone-PP-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
@@ -275,7 +274,9 @@ perl-Data-OptList-perl
 perl-DateTime
 perl-DateTime-Locale-perl
 perl-DateTime-TimeZone-perl
+perl-Devel-GlobalDestruction-perl
 perl-Devel-LexAlias-perl
+perl-Devel-OverloadInfo-perl
 perl-Devel-OverrideGlobalRequire-perl
 perl-Devel-StackTrace-perl
 perl-Digest-HMAC-perl
@@ -324,10 +325,13 @@ perl-Module-Build-perl
 perl-Module-Implementation-perl
 perl-Module-Pluggable-perl
 perl-Module-Runtime-perl
+perl-Moo-perl
+perl-Moose-perl
 perl-Mozilla-CA-perl
 perl-Net-Daemon-perl
 perl-Net-HTTP-perl
 perl-Net-SSLeay-perl
+perl-Package-DeprecationManager-perl
 perl-Package-Stash-perl
 perl-PadWalker-perl
 perl-Params-Util
@@ -338,7 +342,6 @@ perl-Path-Class-perl
 perl-Path-Tiny-perl
 perl-PerlIO-utf8_strict-perl
 perl-Role-Tiny-perl
-perl-Sort-Naturally-perl
 perl-Specio-perl
 perl-Spiffy-perl
 perl-Sub-Exporter-Progressive-perl
@@ -346,6 +349,7 @@ perl-Sub-Exporter-perl
 perl-Sub-Identify-perl
 perl-Sub-Info-perl
 perl-Sub-Install-perl
+perl-Sub-Name-perl
 perl-Sub-Quote-perl
 perl-Sub-Uplevel-perl
 perl-Test-Base-perl
