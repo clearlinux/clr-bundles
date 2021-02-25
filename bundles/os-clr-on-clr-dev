@@ -783,6 +783,7 @@ perl-Class-Data-Inheritable-perl
 perl-Class-Inspector-perl
 perl-Class-Load-XS-perl
 perl-Class-Load-perl
+perl-Class-Method-Modifiers-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
 perl-Config-INI-Reader-Ordered-perl
@@ -854,6 +855,7 @@ perl-Module-Build-Tiny-perl
 perl-Module-Build-perl
 perl-Module-Implementation-perl
 perl-Module-Pluggable-perl
+perl-Module-Runtime-Conflicts-perl
 perl-Module-Runtime-perl
 perl-Moo-perl
 perl-Moose-perl
@@ -862,6 +864,7 @@ perl-Net-Daemon-perl
 perl-Net-HTTP-perl
 perl-Net-SSLeay-perl
 perl-Package-DeprecationManager-perl
+perl-Package-Stash-XS-perl
 perl-Package-Stash-perl
 perl-PadWalker-perl
 perl-Params-Util
@@ -887,6 +890,7 @@ perl-Sub-Quote-perl
 perl-Sub-Uplevel-perl
 perl-Term-Table-perl
 perl-Test-Base-perl
+perl-Test-CleanNamespaces-perl
 perl-Test-Deep-perl
 perl-Test-Exception-perl
 perl-Test-Fatal-perl
