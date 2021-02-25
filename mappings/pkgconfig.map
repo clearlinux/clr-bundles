@@ -588,7 +588,6 @@ pkgconfig(xextproto)	devpkg-xorgproto
 pkgconfig(xf86bigfontproto)	devpkg-xorgproto
 pkgconfig(xf86dgaproto)	devpkg-xorgproto
 pkgconfig(xf86driproto)	devpkg-xorgproto
-pkgconfig(xf86miscproto)	devpkg-xorgproto
 pkgconfig(xf86vidmodeproto)	devpkg-xorgproto
 pkgconfig(xfixes)	devpkg-libX11
 pkgconfig(xfont)	devpkg-libXfont
@@ -612,7 +611,6 @@ pkgconfig(xorg-server)	devpkg-xorg-server
 pkgconfig(xorg-wacom)	devpkg-xf86-input-wacom
 pkgconfig(xpm)	devpkg-libXpm
 pkgconfig(xproto)	devpkg-xorgproto
-pkgconfig(xproxymngproto)	devpkg-xorgproto
 pkgconfig(xrandr)	devpkg-libX11
 pkgconfig(xrdp)	devpkg-xrdp
 pkgconfig(xrender)	devpkg-libX11
@@ -625,6 +623,5 @@ pkgconfig(xtrans)	devpkg-xtrans
 pkgconfig(xtst)	devpkg-libXtst
 pkgconfig(xv)	devpkg-libXv
 pkgconfig(xvmc)	devpkg-libXvMC
-pkgconfig(xxf86misc)	devpkg-libXxf86misc
 pkgconfig(xxf86vm)	devpkg-libX11
 pkgconfig(zlib)	devpkg-zlib
