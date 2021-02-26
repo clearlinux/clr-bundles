@@ -7,7 +7,6 @@
 
 include(devpkg-base)
 include(devpkg-libX11)
-include(devpkg-libXv)
 include(devpkg-xorgproto)
 
 libXvMC-dev
