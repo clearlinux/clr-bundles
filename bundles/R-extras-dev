@@ -211,6 +211,7 @@ R-fMultivar
 R-fOptions
 R-fansi
 R-farver
+R-fastGHQuad
 R-fastICA
 R-fastmap
 R-fastmatch
@@ -260,6 +261,7 @@ R-gower
 R-gplots
 R-gridBase
 R-gridExtra
+R-gsl
 R-gss
 R-gtable
 R-gtools
@@ -493,6 +495,7 @@ R-rredlist
 R-rsconnect
 R-rstan
 R-rstantools
+R-rstpm2
 R-rstudioapi
 R-rversions
 R-rvest
