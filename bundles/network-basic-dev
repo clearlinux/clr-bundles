@@ -48,7 +48,6 @@ include(devpkg-cairo)
 check-dev
 check-dev32
 clr-rpm-config
-cmake
 cmocka-dev
 confuse-dev
 coreutils
