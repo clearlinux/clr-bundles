@@ -183,6 +183,7 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+include(devpkg-libdrm)
 include(devpkg-libevent)
 include(devpkg-libffi)
 libffi-dev32
