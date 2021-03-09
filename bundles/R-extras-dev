@@ -37,6 +37,7 @@ R-DEoptimR
 R-DRR
 R-DT
 R-Deriv
+R-DiagrammeR
 R-DistributionUtils
 R-Ecfun
 R-Exact
@@ -348,6 +349,7 @@ R-mime
 R-miniUI
 R-minpack.lm
 R-minqa
+R-misc3d
 R-miscTools
 R-mitools
 R-mlbench
@@ -400,6 +402,7 @@ R-pkgload
 R-pkgmaker
 R-plm
 R-plogr
+R-plot3D
 R-plotly
 R-plotmo
 R-plotrix
