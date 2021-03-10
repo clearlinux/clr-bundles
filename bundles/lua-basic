@@ -5,6 +5,7 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 lua
-lua52
+compat-lua-52
+compat-lua-53
 LuaJIT
 luarocks
