@@ -641,8 +641,8 @@ llvm-dev32
 lmdb-dev
 lua
 include(devpkg-lua)
-lua52-dev
-lua52-staticdev
+compat-lua-52-dev
+compat-lua-52-staticdev
 lxml
 include(lynx)
 include(devpkg-lz4)

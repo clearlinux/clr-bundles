@@ -373,8 +373,8 @@ include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
-lua52-dev
-lua52-staticdev
+compat-lua-52-dev
+compat-lua-52-staticdev
 lxml
 include(devpkg-lz4)
 lz4-dev32
