@@ -180,6 +180,10 @@ colorama
 commonmark
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
+compat-lua-52-dev
+compat-lua-52-staticdev
+compat-lua-53-dev
+compat-lua-53-staticdev
 confuse-dev
 contextlib2
 coreutils
@@ -639,10 +643,7 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
-lua
 include(devpkg-lua)
-compat-lua-52-dev
-compat-lua-52-staticdev
 lxml
 include(lynx)
 include(devpkg-lz4)
@@ -1055,6 +1056,7 @@ rpm-extras
 include(rsync)
 rtkit
 ruby
+ruby-dev
 rust-std32
 rustc
 samba-dev

@@ -97,6 +97,8 @@ cmd2
 collectd-dev
 colorama
 include(devpkg-compat-fuse-soname2)
+compat-lua-52-dev
+compat-lua-52-staticdev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -373,8 +375,6 @@ include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
-compat-lua-52-dev
-compat-lua-52-staticdev
 lxml
 include(devpkg-lz4)
 lz4-dev32

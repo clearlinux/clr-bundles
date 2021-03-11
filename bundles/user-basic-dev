@@ -119,6 +119,8 @@ collectd-dev
 colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
+compat-lua-52-dev
+compat-lua-52-staticdev
 confuse-dev
 coreutils
 cppcheck
@@ -442,8 +444,6 @@ include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
-compat-lua-52-dev
-compat-lua-52-staticdev
 lxml
 include(lynx)
 include(devpkg-lz4)
