@@ -471,11 +471,8 @@ ncurses-dev32
 include(devpkg-ndctl)
 include(net-tools)
 netbase
-nettle
 include(devpkg-nettle)
 nettle-dev32
-nettle-lib
-nettle-lib32
 include(nfs-utils)
 include(devpkg-nghttp2)
 nghttp2-dev32

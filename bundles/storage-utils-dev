@@ -253,11 +253,8 @@ ncurses-dev32
 include(devpkg-ndctl)
 include(net-tools)
 netbase
-nettle
 include(devpkg-nettle)
 nettle-dev32
-nettle-lib
-nettle-lib32
 nss-altfiles
 include(devpkg-ntfs-3g)
 include(devpkg-open-iscsi)

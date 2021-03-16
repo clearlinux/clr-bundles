@@ -93,6 +93,7 @@ include(aspell)
 aspell-dev
 aspell-en
 assimp-dev
+astroid
 async-timeout
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
@@ -127,6 +128,7 @@ binutils-staticdev
 include(bison)
 bison-dev
 black
+bleach
 include(devpkg-bluez)
 include(devpkg-boost)
 boto3
@@ -173,6 +175,7 @@ clr-python-timestamp
 clr-rpm-config
 include(devpkg-clutter)
 cmake
+cmarkgfm
 cmd2
 cmocka-dev
 collectd-dev
@@ -418,9 +421,11 @@ isa-l-dev
 include(devpkg-iso-codes)
 iso8601
 isodate
+isort
 itsdangerous
 itsdangerous-python
 include(devpkg-jansson)
+jeepney
 jemalloc-dev
 include(joe)
 include(devpkg-json-c)
@@ -446,6 +451,7 @@ kdesignerplugin-dev
 kdoctools-dev
 kemoticons-dev
 kerberos
+keyring
 keyutils-dev
 kglobalaccel
 kglobalaccel-dev
@@ -474,6 +480,7 @@ kwallet-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
+lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -643,6 +650,7 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
+logilab-common
 include(devpkg-lua)
 lxml
 include(lynx)
@@ -693,11 +701,8 @@ ndg_httpsclient
 include(net-tools)
 netbase
 netcdf-dev
-nettle
 include(devpkg-nettle)
 nettle-dev32
-nettle-lib
-nettle-lib32
 include(devpkg-newt)
 include(nfs-utils)
 nfs-utils-dev
@@ -938,6 +943,7 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
+pkginfo
 pluggy
 pluggy-python
 ply
@@ -982,6 +988,7 @@ pycparser-python
 pyflakes
 pyflakes-python
 include(pygobject)
+pylint
 pyparsing
 pyroma
 pyroute2
@@ -1049,6 +1056,7 @@ requests-mock
 requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
+rfc3986
 rpcbind
 rpm
 rpm-dev
@@ -1066,6 +1074,7 @@ sbc-dev32
 sbsigntools
 scikit-learn
 scipy
+secretstorage
 sed
 selenium
 serf-dev
@@ -1151,6 +1160,7 @@ tpm2-tss-dev
 tqdm
 traceback2
 traceback2-python
+twine
 typed_ast
 typing_extensions
 include(tzdata)
@@ -1186,6 +1196,7 @@ include(which)
 wireshark
 wireshark-dev
 include(devpkg-woff2)
+wrapt
 include(devpkg-xapian-core)
 xauth
 xcb-proto
