@@ -306,7 +306,6 @@ include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
 include(devpkg-libgudev)
-libgudev-dev32
 include(devpkg-libical)
 include(devpkg-libidn)
 libidn-dev32

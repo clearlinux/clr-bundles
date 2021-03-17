@@ -490,7 +490,6 @@ include(devpkg-libgphoto2)
 include(devpkg-libgsystem)
 include(devpkg-libgtop)
 include(devpkg-libgudev)
-libgudev-dev32
 include(devpkg-libgusb)
 include(devpkg-libgweather)
 libhandy-dev
