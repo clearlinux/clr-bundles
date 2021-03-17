@@ -692,7 +692,6 @@ pycodestyle
 pycparser
 pycparser-python
 include(pygobject)
-pylint
 pyparsing
 pytest
 pytest-runner

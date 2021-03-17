@@ -988,7 +988,6 @@ pycparser-python
 pyflakes
 pyflakes-python
 include(pygobject)
-pylint
 pyparsing
 pyroma
 pyroute2

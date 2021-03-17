@@ -882,7 +882,6 @@ pycparser-python
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
-pylint
 pyparsing
 pyroma
 pytest
