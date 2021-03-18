@@ -156,7 +156,6 @@ perl-DBIx-ContextualFetch
 perl-DBIx-DBSchema
 perl-DBIx-Simple
 perl-DB_File
-perl-Data-Alias
 perl-Data-Compare
 perl-Data-Denter
 perl-Data-Dump
