@@ -466,6 +466,7 @@ R-remotes
 R-rentrez
 R-repr
 R-reprex
+R-repurrrsive
 R-reshape
 R-reshape2
 R-reticulate
@@ -598,6 +599,7 @@ R-viridis
 R-viridisLite
 R-waldo
 R-warp
+R-webfakes
 R-webmockr
 R-webshot
 R-whisker
