@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-include(devpkg-mozjs68)
+include(devpkg-mozjs78)
