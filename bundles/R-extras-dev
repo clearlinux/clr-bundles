@@ -257,7 +257,6 @@ R-glue
 R-gmodels
 R-gmp
 R-gnm
-R-goftest
 R-gower
 R-gplots
 R-gridBase
@@ -268,6 +267,7 @@ R-gtable
 R-gtools
 R-haven
 R-hdrcde
+R-here
 R-hexbin
 R-highr
 R-hms
@@ -411,7 +411,6 @@ R-plyr
 R-pmml
 R-png
 R-polspline
-R-polyclip
 R-polynom
 R-prabclus
 R-praise
@@ -540,8 +539,10 @@ R-sp
 R-spData
 R-spam
 R-spatstat
+R-spatstat.core
 R-spatstat.data
 R-spatstat.geom
+R-spatstat.linnet
 R-spatstat.sparse
 R-spatstat.utils
 R-spdep
