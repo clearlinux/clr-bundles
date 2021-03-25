@@ -257,6 +257,7 @@ R-glue
 R-gmodels
 R-gmp
 R-gnm
+R-goftest
 R-gower
 R-gplots
 R-gridBase
@@ -411,6 +412,7 @@ R-plyr
 R-pmml
 R-png
 R-polspline
+R-polyclip
 R-polynom
 R-prabclus
 R-praise
