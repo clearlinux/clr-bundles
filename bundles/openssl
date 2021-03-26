@@ -12,3 +12,4 @@ include(lib-openssl)
 
 # main package
 openssl
+QAT_engine-lib
