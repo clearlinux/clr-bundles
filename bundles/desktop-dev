@@ -373,9 +373,11 @@ idna-ssl
 igt-gpu-tools-dev
 imagescan
 intel-gmmlib-dev
+intel-ipsec-mb-dev
 intel-media-driver-dev
 include(intltool)
 intltool-dev
+ipp-crypto-dev
 include(iproute2)
 include(iptables)
 include(devpkg-iptables)

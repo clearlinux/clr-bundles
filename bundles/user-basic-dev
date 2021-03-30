@@ -284,6 +284,7 @@ intel-ipsec-mb
 intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
+ipp-crypto-dev
 include(iproute2)
 ipset
 include(iptables)
