@@ -29,6 +29,7 @@ include(devpkg-NetworkManager)
 Pillow
 PyQt5
 PySocks
+PyYAML
 Pygments
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -274,6 +275,7 @@ include(git)
 include(gjs)
 include(devpkg-gjs)
 include(devpkg-glew)
+glib
 glib-bin
 include(devpkg-glib)
 glib-dev32
