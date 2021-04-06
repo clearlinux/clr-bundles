@@ -144,6 +144,7 @@ desktop-file-utils
 include(diffutils)
 distlib
 dnsmasq
+dnspython
 include(docbook-utils)
 docbook-xml
 docopt

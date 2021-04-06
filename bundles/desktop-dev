@@ -22,6 +22,7 @@ Linux-PAM-dev32
 include(devpkg-LuaJIT)
 Mako
 Mako-python
+Markdown
 MarkupSafe
 ModemManager-dev
 include(NetworkManager)
@@ -193,6 +194,7 @@ dialog
 include(diffutils)
 distlib
 dnsmasq
+dnspython
 include(docbook-utils)
 docbook-xml
 include(docutils)

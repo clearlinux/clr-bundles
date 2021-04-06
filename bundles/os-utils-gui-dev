@@ -16,6 +16,7 @@ include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
+Markdown
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(Sphinx)
@@ -124,6 +125,7 @@ desktop-file-utils
 dialog
 include(diffutils)
 distlib
+dnspython
 include(docbook-utils)
 docbook-xml
 include(docutils)

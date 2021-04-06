@@ -12,6 +12,7 @@ Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
+Markdown
 include(Sphinx)
 include(devpkg-acl)
 acl-dev32
@@ -69,6 +70,7 @@ dejagnu
 desktop-file-utils
 include(diffutils)
 distlib
+dnspython
 include(docbook-utils)
 docbook-xml
 include(docutils)

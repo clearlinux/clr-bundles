@@ -223,6 +223,7 @@ distlib
 distro
 dnf-plugins-core
 dnsmasq
+dnspython
 include(docbook-utils)
 docbook-xml
 docopt
