@@ -239,6 +239,7 @@ include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
+ecdsa
 ed
 efivar-dev
 eigen-data
@@ -340,6 +341,7 @@ gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
+gmpy2
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
