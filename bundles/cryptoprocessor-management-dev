@@ -221,7 +221,7 @@ include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 include(which)
 xauth
 xmlto

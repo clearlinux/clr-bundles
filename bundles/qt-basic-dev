@@ -96,7 +96,6 @@ include(diffutils)
 distlib
 include(docbook-utils)
 docbook-xml
-include(docutils)
 double-conversion-dev
 include(doxygen)
 e2fsprogs
@@ -344,7 +343,6 @@ include(net-tools)
 netbase
 include(devpkg-nettle)
 nettle-dev32
-nose
 nss-altfiles
 numpy
 octave-dev
@@ -477,7 +475,7 @@ util-macros-dev32
 vala
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 virtualenv
 include(devpkg-wayland)
 wayland-dev32
@@ -502,6 +500,5 @@ xz-dev32
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
-zope.interface
 include(devpkg-zstd)
 zstd-dev32

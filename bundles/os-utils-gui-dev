@@ -479,7 +479,6 @@ include(devpkg-nettle)
 nettle-dev32
 include(devpkg-nghttp2)
 nghttp2-dev32
-nose
 not-ffmpeg-dev
 npth-dev
 nss-altfiles
@@ -742,7 +741,7 @@ util-macros-dev32
 vala
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 virtualenv
 volume_key-dev
 vte-dev
@@ -791,6 +790,5 @@ yaml-dev
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
-zope.interface
 include(devpkg-zstd)
 zstd-dev32

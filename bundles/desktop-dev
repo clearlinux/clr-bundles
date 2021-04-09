@@ -985,7 +985,7 @@ vala
 vala-bin
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 virtualenv
 volume_key-dev
 vpnc
@@ -1044,6 +1044,5 @@ zlib
 include(devpkg-zlib)
 zlib-dev32
 zope.event
-zope.interface
 include(devpkg-zstd)
 zstd-dev32

@@ -658,7 +658,7 @@ include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 virtualenv
 vpnc
 wavpack-dev

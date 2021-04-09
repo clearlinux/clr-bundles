@@ -1173,7 +1173,7 @@ util-macros-dev32
 vala
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 vim
 virtualenv
 include(devpkg-wayland)
@@ -1217,6 +1217,5 @@ zlib
 include(devpkg-zlib)
 zlib-dev32
 zope.event
-zope.interface
 include(devpkg-zstd)
 zstd-dev32

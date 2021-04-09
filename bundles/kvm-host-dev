@@ -541,7 +541,7 @@ util-macros-dev32
 vala
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 virtualenv
 include(devpkg-wayland)
 wayland-dev32

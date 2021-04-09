@@ -452,7 +452,7 @@ include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 wavpack-dev
 include(devpkg-wayland)
 wayland-dev32

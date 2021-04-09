@@ -110,7 +110,6 @@ include(diffutils)
 distlib
 include(docbook-utils)
 docbook-xml
-include(docutils)
 double-conversion-dev
 include(doxygen)
 e2fsprogs
@@ -574,7 +573,7 @@ include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 virtualenv
 include(devpkg-wayland)
 wayland-dev32
@@ -600,6 +599,5 @@ xz-dev32
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
-zope.interface
 include(devpkg-zstd)
 zstd-dev32

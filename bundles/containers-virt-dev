@@ -302,7 +302,7 @@ include(devpkg-util-macros)
 util-macros-dev32
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 include(which)
 xauth
 xcb-proto

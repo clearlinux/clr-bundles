@@ -1317,7 +1317,7 @@ include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
-valgrind-dev
+include(devpkg-valgrind)
 virtualenv
 include(devpkg-wayland)
 wayland-dev32
@@ -1346,6 +1346,5 @@ include(yasm)
 include(zip)
 include(devpkg-zlib)
 zlib-dev32
-zope.interface
 include(devpkg-zstd)
 zstd-dev32
