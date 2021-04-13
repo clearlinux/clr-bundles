@@ -350,6 +350,7 @@ gtk-doc
 include(devpkg-gtk-doc)
 gtk3-bin
 include(devpkg-gtk3)
+gtk4-dev
 gtkmm2-dev
 include(devpkg-gtkmm3)
 include(devpkg-gtkspell3)
