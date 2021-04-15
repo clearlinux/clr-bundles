@@ -565,6 +565,7 @@ R-tables
 R-tensor
 R-tensorA
 R-tensorflow
+R-terra
 R-testthat
 R-texreg
 R-textshaping

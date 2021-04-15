@@ -241,10 +241,6 @@ include(devpkg-gnutls)
 go
 gobject-introspection
 include(devpkg-gobject-introspection)
-google-api-python-client
-google-auth
-google-auth-httplib2
-googleapis-common-protos
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)
@@ -256,7 +252,6 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-grpcio
 gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
@@ -459,6 +454,7 @@ mesa-dev32
 meson
 mingw-gcc
 mod_perl-perl
+mono-dev
 more-itertools
 include(devpkg-mozjs78)
 mpc-dev
