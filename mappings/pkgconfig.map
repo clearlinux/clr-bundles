@@ -145,6 +145,8 @@ pkgconfig(gobject-2.0)	devpkg-glib
 pkgconfig(gobject-introspection-1.0)	devpkg-gobject-introspection
 pkgconfig(gobject-introspection-no-export-1.0)	devpkg-gobject-introspection
 pkgconfig(gpg-error)	devpkg-libgpg-error
+pkgconfig(graphene-1.0)	devpkg-graphene
+pkgconfig(graphene-gobject-1.0)	devpkg-graphene
 pkgconfig(graphite2)	devpkg-graphite
 pkgconfig(grilo-0.3)	devpkg-grilo
 pkgconfig(grilo-net-0.3)	devpkg-grilo
@@ -192,6 +194,7 @@ pkgconfig(gtk+-wayland-3.0)	devpkg-gtk3
 pkgconfig(gtk+-x11-2.0)	devpkg-gtkplus
 pkgconfig(gtk+-x11-3.0)	devpkg-gtk3
 pkgconfig(gtk-doc)	devpkg-gtk-doc
+pkgconfig(gtk4)	devpkg-gtk4
 pkgconfig(gtkmm-3.0)	devpkg-gtkmm3
 pkgconfig(gtksourceview-3.0)	devpkg-compat-gtksourceview-soname3
 pkgconfig(gtkspell3-3.0)	devpkg-gtkspell3
@@ -533,6 +536,7 @@ pkgconfig(valgrind)	devpkg-valgrind
 pkgconfig(videoproto)	devpkg-xorgproto
 pkgconfig(vorbis)	devpkg-libvorbis
 pkgconfig(vpx)	devpkg-libvpx
+pkgconfig(vulkan)	devpkg-Vulkan-Loader
 pkgconfig(wayland-client)	devpkg-wayland
 pkgconfig(wayland-cursor)	devpkg-wayland
 pkgconfig(wayland-egl)	devpkg-wayland
