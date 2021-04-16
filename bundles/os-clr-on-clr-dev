@@ -60,7 +60,7 @@ Sphinx-python
 VTK-dev
 Vulkan-Headers-data
 Vulkan-Headers-dev
-Vulkan-Loader-dev
+include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
 Werkzeug
@@ -357,7 +357,7 @@ include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
-graphene-dev
+include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 include(devpkg-graphviz)

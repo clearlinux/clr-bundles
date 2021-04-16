@@ -631,7 +631,7 @@ include(Sphinx)
 SuiteSparse-dev
 VTK-dev
 Vulkan-Headers-dev
-Vulkan-Loader-dev
+include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
 Z3-dev
@@ -813,7 +813,7 @@ gobject-introspection
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
-graphene-dev
+include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 include(devpkg-graphviz)

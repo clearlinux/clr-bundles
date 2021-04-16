@@ -22,7 +22,7 @@ include(devpkg-SDL2)
 include(Sphinx)
 Thunar-dev
 Vulkan-Headers-dev
-Vulkan-Loader-dev
+include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
 Z3-dev
@@ -226,7 +226,7 @@ include(devpkg-googletest)
 gperf
 gpgme-dev
 gpm-dev
-graphene-dev
+include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 graphviz-extras

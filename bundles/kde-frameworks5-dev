@@ -24,7 +24,7 @@ SDL2-dev32
 include(devpkg-SDL2_image)
 include(Sphinx)
 Vulkan-Headers-dev
-Vulkan-Loader-dev
+include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
 Z3-dev
@@ -194,7 +194,7 @@ include(devpkg-googletest)
 gperf
 include(gpgme)
 gpgme-dev
-graphene-dev
+include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 graphviz-extras

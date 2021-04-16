@@ -22,7 +22,7 @@ include(devpkg-SDL2_image)
 SmartXbar-dev
 include(Sphinx)
 Vulkan-Headers-dev
-Vulkan-Loader-dev
+include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
 Z3-dev
@@ -173,7 +173,7 @@ gobject-introspection
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
-graphene-dev
+include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 graphviz-extras

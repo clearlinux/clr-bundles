@@ -40,7 +40,7 @@ include(Sphinx)
 UCD
 Vulkan-Headers-data
 Vulkan-Headers-dev
-Vulkan-Loader-dev
+include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
 Werkzeug
@@ -329,7 +329,7 @@ gperf
 include(gpgme)
 gpgme-dev
 gpm-dev
-graphene-dev
+include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 graphviz-extras
@@ -350,7 +350,7 @@ gtk-doc
 include(devpkg-gtk-doc)
 gtk3-bin
 include(devpkg-gtk3)
-gtk4-dev
+include(devpkg-gtk4)
 gtkmm2-dev
 include(devpkg-gtkmm3)
 include(devpkg-gtkspell3)

@@ -27,7 +27,7 @@ include(Sphinx)
 Sphinx-python
 VTK-dev
 Vulkan-Headers-dev
-Vulkan-Loader-dev
+include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
 Werkzeug

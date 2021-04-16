@@ -12,7 +12,7 @@ include(hardware-gpu)
 SPIRV-Headers-dev
 SPIRV-Tools-dev
 Vulkan-Headers-dev
-Vulkan-Loader-dev
+include(devpkg-Vulkan-Loader)
 Vulkan-ValidationLayers-dev
 glslang-bin
 renderdoc
