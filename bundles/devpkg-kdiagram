@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-kdiagram
+# [DESCRIPTION]: All development content for kdiagram package.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
+
+include(devpkg-base)
+
+kdiagram-dev
