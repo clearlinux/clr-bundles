@@ -1,5 +1,5 @@
 # [TITLE]: llvm10
-# [DESCRIPTION]: LLVM/Clang modular and reusable compiler toolchain, version 10.
+# [DESCRIPTION]: LLVM/Clang modular and reusable compiler toolchain, version 11.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -12,4 +12,4 @@ include(libstdcpp)
 # end of custom additions
 
 # main package
-llvm10
+include(llvm)
