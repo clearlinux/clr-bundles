@@ -462,6 +462,7 @@ opencv
 openssl
 opus
 popt
+proj
 pygobject-3.0
 Qt5Core
 Qt5Svg
