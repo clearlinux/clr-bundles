@@ -509,6 +509,7 @@ pkgconfig(pciaccess)	devpkg-libpciaccess
 pkgconfig(pixman-1)	devpkg-pixman
 pkgconfig(popt)	devpkg-popt
 pkgconfig(presentproto)	devpkg-xorgproto
+pkgconfig(proj)	devpkg-proj
 pkgconfig(pygobject-3.0)	devpkg-pygobject
 pkgconfig(randrproto)	devpkg-xorgproto
 pkgconfig(readline)	devpkg-readline
