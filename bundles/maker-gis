@@ -29,5 +29,5 @@ postgis
 # core dev compoments
 gdal-dev
 geos-dev
-proj-dev
+include(devpkg-proj)
 CGAL-dev

@@ -958,7 +958,7 @@ procmail
 include(procps-ng)
 procps-ng-bin
 proj
-proj-dev
+include(devpkg-proj)
 protobuf-dev
 psutil
 psycopg2

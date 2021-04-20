@@ -1217,7 +1217,7 @@ include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 proj
-proj-dev
+include(devpkg-proj)
 protobuf-dev
 psmisc
 include(devpkg-pulseaudio)
