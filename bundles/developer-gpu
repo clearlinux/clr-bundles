@@ -17,4 +17,5 @@ Vulkan-ValidationLayers-dev
 glslang-bin
 renderdoc
 waffle-dev
-intel-graphics-compiler-dev
+
+#intel-graphics-compiler-dev

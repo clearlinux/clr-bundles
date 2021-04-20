@@ -12,4 +12,6 @@ include(lib-opengl)
 # gpu firmware
 include(linux-firmware-extras)
 
-intel-graphics-compiler
+# Too ancient LLVM required; not suitable for general use
+
+#intel-graphics-compiler

@@ -18,7 +18,7 @@ include(machine-learning-tensorflow)
 
 clinfo
 darkflow
-intel-compute-runtime
+#intel-compute-runtime
 tensorflow
 
 # support packages
