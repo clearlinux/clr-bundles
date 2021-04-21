@@ -387,6 +387,7 @@ include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 lxml
@@ -589,6 +590,7 @@ ppp
 ppp-dev
 include(procps-ng)
 procps-ng-bin
+protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py

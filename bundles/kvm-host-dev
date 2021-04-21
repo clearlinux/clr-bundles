@@ -459,6 +459,7 @@ portaudio-dev
 prettytable
 include(procps-ng)
 procps-ng-bin
+protobuf-dev
 psutil
 include(devpkg-pulseaudio)
 py

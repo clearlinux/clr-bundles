@@ -334,6 +334,7 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 lxml
@@ -397,6 +398,7 @@ polkit-dev
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
+protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 python3

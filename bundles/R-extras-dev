@@ -986,6 +986,7 @@ include(devpkg-libzip)
 include(devpkg-libzmq)
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 lxml
