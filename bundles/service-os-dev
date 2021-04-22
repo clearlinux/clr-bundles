@@ -103,6 +103,8 @@ gcc-libgcc32
 gcc-libstdc++32
 gcc7-dev
 gcc8-dev
+gcc9
+gcc9-dev
 include(gdb)
 gdb-dev
 gdbm-dev
