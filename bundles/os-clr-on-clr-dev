@@ -54,6 +54,8 @@ R
 Routes
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SDL2-dev32
+include(devpkg-SDL2_image)
 SFCGAL-dev
 include(Sphinx)
 Sphinx-python
@@ -177,6 +179,7 @@ cmd2
 cmocka-dev
 collectd-dev
 colorama
+include(devpkg-colord)
 commonmark
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
@@ -197,6 +200,7 @@ include(devpkg-cryptsetup)
 cscope
 cssselect
 ctags
+cups
 include(devpkg-cups)
 include(curl)
 include(devpkg-curl)
@@ -204,6 +208,7 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 dataclasses
 datefudge
+dav1d-dev
 db
 db-dev
 dbus
@@ -332,9 +337,11 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+glslang
 glslang-bin
 glslang-dev
 include(devpkg-glu)
+glu-dev32
 glusterfs-dev
 gmime
 include(devpkg-gmime)
@@ -368,6 +375,7 @@ grep
 groff
 gsettings-desktop-schemas
 include(devpkg-gsl)
+include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
@@ -503,9 +511,11 @@ libabigail
 include(devpkg-libabigail)
 libaio-dev
 include(devpkg-libarchive)
+include(devpkg-libass)
 include(devpkg-libassuan)
 libatomic_ops-dev
 libatomic_ops-dev32
+libavtp-dev
 libc6
 libc6-dev
 libcacard-dev
@@ -530,6 +540,7 @@ libev-dev
 include(devpkg-libevdev)
 include(devpkg-libevent)
 libevent-dev32
+include(devpkg-libexif)
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libfontenc)
@@ -570,6 +581,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+libnice-dev
 include(devpkg-libnl)
 include(devpkg-libogg)
 libogg-dev32
@@ -599,6 +611,8 @@ include(devpkg-libsodium)
 include(devpkg-libsolv)
 include(devpkg-libsoup)
 libspatialite-dev
+libsrtp
+include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
@@ -614,6 +628,7 @@ libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
+libusb-dev32
 include(devpkg-libuser)
 libuv
 include(devpkg-libuv)
@@ -621,6 +636,7 @@ include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
 libvorbis-dev32
+include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -658,6 +674,7 @@ mccabe
 mccabe-python
 include(devpkg-md4c)
 media-player-info
+include(devpkg-mediasdk)
 memkind-dev
 include(devpkg-mesa)
 mesa-dev32
@@ -679,6 +696,7 @@ more-itertools
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
+include(devpkg-mpg123)
 msmtp
 mtdev-dev
 multidict
@@ -708,6 +726,7 @@ nose
 nose-python
 nosexcover
 nosexcover-python
+not-ffmpeg-dev
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -1053,6 +1072,7 @@ rpm-dev
 rpm-extras
 include(rsync)
 rtkit
+rtmpdump-dev
 ruby
 ruby-dev
 rust-std32
@@ -1168,6 +1188,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)

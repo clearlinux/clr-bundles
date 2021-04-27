@@ -291,6 +291,7 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 include(devpkg-glibmm)
+glslang
 include(devpkg-glu)
 glu-dev32
 gmp-dev
