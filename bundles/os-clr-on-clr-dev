@@ -865,6 +865,7 @@ perl-LWP-MediaTypes-perl
 perl-LWP-Protocol-https-perl
 perl-List-MoreUtils-XS-perl
 perl-List-MoreUtils-perl
+perl-List-Util-perl
 perl-MRO-Compat-perl
 perl-Math-BigInt-GMP
 perl-Mixin-Linewise-perl
