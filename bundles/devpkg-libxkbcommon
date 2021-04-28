@@ -7,5 +7,6 @@
 
 include(devpkg-base)
 include(devpkg-libX11)
+include(devpkg-libxml2)
 
 libxkbcommon-dev

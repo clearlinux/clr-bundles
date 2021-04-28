@@ -533,7 +533,6 @@ pkgconfig(tesseract)	devpkg-tesseract
 pkgconfig(theora)	devpkg-libtheora
 pkgconfig(tinfow)	devpkg-ncurses
 pkgconfig(uuid)	devpkg-util-linux
-pkgconfig(valgrind)	devpkg-valgrind
 pkgconfig(videoproto)	devpkg-xorgproto
 pkgconfig(vorbis)	devpkg-libvorbis
 pkgconfig(vpx)	devpkg-libvpx
@@ -606,6 +605,7 @@ pkgconfig(xkbcommon)	devpkg-libxkbcommon
 pkgconfig(xkbcommon-x11)	devpkg-libxkbcommon
 pkgconfig(xkbcomp)	devpkg-xkbcomp
 pkgconfig(xkbfile)	devpkg-libxkbfile
+pkgconfig(xkbregistry)	devpkg-libxkbcommon
 pkgconfig(xkeyboard-config)	devpkg-xkeyboard-config
 pkgconfig(xmlsec1)	devpkg-xmlsec1
 pkgconfig(xmlsec1-nss)	devpkg-xmlsec1

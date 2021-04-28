@@ -14,6 +14,7 @@ include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gtk3)
 include(devpkg-iso-codes)
 include(devpkg-libseccomp)
+include(devpkg-libxkbcommon)
 include(devpkg-systemd)
 include(devpkg-xkeyboard-config)
 
