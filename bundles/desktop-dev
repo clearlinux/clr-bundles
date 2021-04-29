@@ -57,6 +57,7 @@ aiohttp-cors
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
+appstream-dev
 appstream-glib
 include(devpkg-appstream-glib)
 asciidoc
@@ -244,9 +245,7 @@ freetype-dev32
 include(devpkg-fribidi)
 fs
 include(devpkg-fuse)
-include(devpkg-fwupd)
 gawk
-include(devpkg-gcab)
 gcc
 gcc-dev
 gcc-dev32
@@ -894,6 +893,7 @@ qemu
 include(devpkg-qpdf)
 include(devpkg-qtbase)
 qtbase-extras
+include(devpkg-qttools)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
@@ -1021,6 +1021,7 @@ xf86-video-vesa
 xkbcomp-bin
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
+xmlb-dev
 xmlto
 xorg-fonts
 xorg-server
