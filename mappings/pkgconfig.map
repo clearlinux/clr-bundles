@@ -16,7 +16,7 @@ pkgconfig(SDL_mixer)	devpkg-SDL_mixer
 pkgconfig(SDL_net)	devpkg-SDL_net
 pkgconfig(SDL_ttf)	devpkg-SDL_ttf
 pkgconfig(alsa)	devpkg-alsa-lib
-pkgconfig(appstream-glib)	devpkg-appstream-glib
+pkgconfig(appstream)	devpkg-appstream
 pkgconfig(apr-1)	devpkg-apr
 pkgconfig(apr-util-1)	devpkg-apr-util
 pkgconfig(atk)	devpkg-atk
@@ -507,6 +507,7 @@ pkgconfig(pangoft2)	devpkg-pango
 pkgconfig(pangomm-1.4)	devpkg-compat-pangomm-soname14
 pkgconfig(pciaccess)	devpkg-libpciaccess
 pkgconfig(pixman-1)	devpkg-pixman
+pkgconfig(polkit-gobject-1)	devpkg-polkit
 pkgconfig(popt)	devpkg-popt
 pkgconfig(presentproto)	devpkg-xorgproto
 pkgconfig(proj)	devpkg-proj
@@ -533,6 +534,7 @@ pkgconfig(tesseract)	devpkg-tesseract
 pkgconfig(theora)	devpkg-libtheora
 pkgconfig(tinfow)	devpkg-ncurses
 pkgconfig(uuid)	devpkg-util-linux
+pkgconfig(valgrind)	devpkg-valgrind
 pkgconfig(videoproto)	devpkg-xorgproto
 pkgconfig(vorbis)	devpkg-libvorbis
 pkgconfig(vpx)	devpkg-libvpx

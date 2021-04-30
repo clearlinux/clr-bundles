@@ -6,11 +6,14 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-appstream-glib)
-include(devpkg-atk)
+include(devpkg-appstream)
 include(devpkg-glib)
 include(libglib)
+include(devpkg-gnome-online-accounts)
 include(devpkg-gtk3)
+include(devpkg-json-glib)
 include(devpkg-libsoup)
+include(devpkg-polkit)
+include(devpkg-valgrind)
 
 gnome-software-dev
