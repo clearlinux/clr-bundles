@@ -394,7 +394,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin

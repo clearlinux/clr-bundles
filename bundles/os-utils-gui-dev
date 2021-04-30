@@ -654,7 +654,7 @@ pkg-config-dev
 pluggy
 pluggy-python
 ply
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin

@@ -673,7 +673,7 @@ pluggy-python
 ply
 include(plzip)
 include(polkit)
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 portaudio-dev
 include(devpkg-postgresql)

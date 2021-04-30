@@ -81,7 +81,7 @@ include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
 appdirs
-appstream-dev
+include(devpkg-appstream)
 appstream-glib
 include(devpkg-apr)
 include(devpkg-apr-util)
@@ -962,7 +962,7 @@ ply
 include(plzip)
 pmix-dev
 include(polkit)
-polkit-dev
+include(devpkg-polkit)
 polkit-qt-dev
 include(poppler)
 poppler-dev

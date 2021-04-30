@@ -1210,7 +1210,7 @@ pkg-config-dev
 pluggy
 pluggy-python
 pmix-dev
-polkit-dev
+include(devpkg-polkit)
 poppler-dev
 poppler-extras
 include(devpkg-popt)

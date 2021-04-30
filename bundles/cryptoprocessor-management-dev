@@ -190,7 +190,7 @@ perl-perl
 pigz
 pkg-config
 pkg-config-dev
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 python3

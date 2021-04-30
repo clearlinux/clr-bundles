@@ -461,7 +461,7 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 include(devpkg-postgresql)
 processor-trace-dev

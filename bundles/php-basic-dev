@@ -248,7 +248,7 @@ php-dev
 pigz
 pkg-config
 pkg-config-dev
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)

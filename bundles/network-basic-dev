@@ -384,7 +384,7 @@ include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
 ply
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 pytest

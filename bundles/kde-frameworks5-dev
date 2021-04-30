@@ -35,7 +35,7 @@ include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
 appdirs
-appstream-dev
+include(devpkg-appstream)
 appstream-glib
 asciidoc
 aspell-dev
@@ -479,7 +479,7 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
-polkit-dev
+include(devpkg-polkit)
 polkit-qt-dev
 poppler-dev
 poppler-extras

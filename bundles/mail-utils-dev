@@ -367,7 +367,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 procmail
 include(procps-ng)

@@ -57,7 +57,7 @@ aiohttp-cors
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
-appstream-dev
+include(devpkg-appstream)
 appstream-glib
 include(devpkg-appstream-glib)
 asciidoc
@@ -848,7 +848,7 @@ pkg-config-dev
 pluggy
 pluggy-python
 ply
-polkit-dev
+include(devpkg-polkit)
 include(poppler)
 poppler-data-clr-rename-dev
 poppler-dev

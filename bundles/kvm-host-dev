@@ -453,7 +453,7 @@ pkg-config-dev
 pluggy
 pluggy-python
 include(polkit)
-polkit-dev
+include(devpkg-polkit)
 include(devpkg-popt)
 portaudio-dev
 prettytable
