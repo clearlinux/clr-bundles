@@ -143,6 +143,7 @@ dejagnu
 desktop-file-utils
 include(diffutils)
 distlib
+dmidecode
 dnsmasq
 dnspython
 include(docbook-utils)
@@ -697,6 +698,7 @@ python3-core
 python3-dev
 python3-staticdev
 qemu
+qemu-setuid
 include(devpkg-qtbase)
 include(devpkg-qttools)
 rabbitmq-c-dev
