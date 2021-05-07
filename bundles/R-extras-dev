@@ -188,6 +188,7 @@ R-doRNG
 R-dotCall64
 R-downlit
 R-dplyr
+R-dtplyr
 R-dygraphs
 R-dynamicTreeCut
 R-dynlm
@@ -257,6 +258,8 @@ R-gmodels
 R-gmp
 R-gnm
 R-goftest
+R-googledrive
+R-googlesheets4
 R-gower
 R-gplots
 R-gridBase
@@ -302,6 +305,7 @@ R-ks
 R-labeling
 R-labelled
 R-laeken
+R-lamW
 R-lambda.r
 R-languageR
 R-lars

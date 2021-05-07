@@ -76,7 +76,6 @@ buildreq-kde
 buildreq-meson
 buildreq-nginx
 buildreq-qmake
-buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
@@ -381,7 +380,6 @@ include(make)
 include(devpkg-mesa)
 mesa-dev32
 mingw-gcc
-mono-dev
 more-itertools
 include(devpkg-mozjs78)
 mpc-dev

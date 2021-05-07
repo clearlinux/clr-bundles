@@ -692,7 +692,6 @@ mobile-broadband-provider-info-dev
 mock
 mod_perl-perl
 include(modules)
-mono-dev
 more-itertools
 include(devpkg-mozjs78)
 mpc-dev
