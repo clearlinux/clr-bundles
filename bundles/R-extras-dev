@@ -240,6 +240,7 @@ R-futile.logger
 R-futile.options
 R-future
 R-gamm4
+R-gargle
 R-gclus
 R-gdata
 R-generics
@@ -282,6 +283,7 @@ R-httpuv
 R-httr
 R-hunspell
 R-hypergeo
+R-ids
 R-igraph
 R-ini
 R-inline
