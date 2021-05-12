@@ -119,6 +119,7 @@ dbus-dev32
 dbus-extras
 include(devpkg-dbus-glib)
 dbus-python
+dbus-python-dev
 dconf-dev
 dejagnu
 desktop-file-utils
@@ -666,6 +667,7 @@ pyaml
 pycparser
 include(pygobject)
 pytest
+python-dbusmock
 python-pocketlint
 python-polib
 python3

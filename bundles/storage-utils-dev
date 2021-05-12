@@ -141,7 +141,6 @@ include(devpkg-graphite)
 include(graphviz)
 grep
 groff
-gtk+-dev
 gtk-doc
 include(devpkg-gtk-doc)
 guile
@@ -209,6 +208,7 @@ libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
+libnsl-dev
 include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libpthread-stubs)

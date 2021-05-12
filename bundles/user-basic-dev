@@ -138,6 +138,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
+dbus-python-dev
 dejagnu
 desktop-file-utils
 include(diffutils)
@@ -384,6 +385,7 @@ libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
+libnsl-dev
 include(devpkg-libogg)
 libogg-dev32
 include(devpkg-libpcap)
@@ -691,6 +693,7 @@ pycodestyle
 pycparser
 pyparsing
 pytest
+python-dbusmock
 python3
 python3-core
 python3-dev

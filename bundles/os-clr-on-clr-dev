@@ -584,6 +584,7 @@ include(devpkg-libnftnl)
 libnftnl-dev32
 libnice-dev
 include(devpkg-libnl)
+libnsl-dev
 include(devpkg-libogg)
 libogg-dev32
 include(devpkg-libpcap)
@@ -1008,6 +1009,7 @@ pytest-runner
 pytest-timeout
 pytest-xdist
 python-dateutil
+python-dbusmock
 python-future
 python-memcached
 python-mimeparse

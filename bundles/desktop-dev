@@ -882,6 +882,7 @@ pyparsing
 pyroma
 pytest
 pytest-runner
+python-dbusmock
 python-pocketlint
 python-polib
 python3
