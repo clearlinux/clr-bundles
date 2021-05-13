@@ -24,6 +24,7 @@ Mako
 Mako-python
 Markdown
 MarkupSafe
+MarkupSafe-python
 ModemManager-dev
 include(NetworkManager)
 include(devpkg-NetworkManager)
