@@ -49,6 +49,7 @@ Werkzeug-python
 Z3-dev
 Z3-dev32
 accountsservice-dev
+acl-bin
 include(devpkg-acl)
 acl-dev32
 adwaita-icon-theme-dev

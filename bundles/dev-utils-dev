@@ -139,6 +139,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+include(devpkg-glu)
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -522,6 +523,7 @@ tk-dev
 toml-python
 tox
 tqdm
+trace-cmd-dev
 traceback2
 include(tzdata)
 include(unzip)

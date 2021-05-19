@@ -15,6 +15,7 @@ include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 include(Sphinx)
+acl-bin
 include(devpkg-acl)
 acl-dev32
 asciidoc
