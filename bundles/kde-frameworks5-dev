@@ -18,7 +18,6 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 MarkupSafe
-MarkupSafe-python
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32

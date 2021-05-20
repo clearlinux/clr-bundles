@@ -24,7 +24,6 @@ Mako
 Mako-python
 Markdown
 MarkupSafe
-MarkupSafe-python
 ModemManager-dev
 include(NetworkManager)
 include(devpkg-NetworkManager)
@@ -84,6 +83,7 @@ autoconf213
 autogen
 automake
 automake-dev
+include(devpkg-avahi)
 include(devpkg-babl)
 backports.ssl_match_hostname
 bash-completion-dev
@@ -464,6 +464,7 @@ libclc-dev
 include(devpkg-libconfig)
 include(devpkg-libcroco)
 libcryptui-dev
+libdaemon-dev
 include(devpkg-libdatrie)
 libdatrie-dev32
 include(devpkg-libdazzle)
