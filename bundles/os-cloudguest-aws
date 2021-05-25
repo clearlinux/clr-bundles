@@ -9,3 +9,4 @@ include(libglib)
 
 e2fsprogs-extras
 micro-config-drive-aws
+amazon-ssm-agent
