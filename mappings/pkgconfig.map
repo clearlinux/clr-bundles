@@ -249,6 +249,7 @@ pkgconfig(libcrypto)	devpkg-openssl
 pkgconfig(libcryptsetup)	devpkg-cryptsetup
 pkgconfig(libcupsfilters)	devpkg-cups-filters
 pkgconfig(libcurl)	devpkg-curl
+pkgconfig(libdaemon)	devpkg-libdaemon
 pkgconfig(libdaxctl)	devpkg-ndctl
 pkgconfig(libdazzle-1.0)	devpkg-libdazzle
 pkgconfig(libdmmp)	devpkg-multipath-tools
