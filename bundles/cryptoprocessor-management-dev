@@ -58,6 +58,7 @@ include(doxygen)
 e2fsprogs
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
+efivar-dev
 include(devpkg-elfutils)
 elfutils-dev32
 include(devpkg-expat)

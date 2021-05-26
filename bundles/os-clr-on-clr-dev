@@ -91,6 +91,7 @@ argon2-cffi
 argon2-dev
 armadillo-data
 asciidoc
+asgiref
 asn1crypto-python
 include(aspell)
 aspell-dev
@@ -115,6 +116,7 @@ autogen
 automake
 automake-dev
 babeltrace-dev
+backcall
 backports.ssl_match_hostname
 bash
 bash-completion
@@ -130,6 +132,7 @@ binutils-staticdev
 include(bison)
 bison-dev
 black
+bleach
 include(devpkg-bluez)
 include(devpkg-boost)
 boto3
@@ -176,6 +179,7 @@ clr-python-timestamp
 clr-rpm-config
 include(devpkg-clutter)
 cmake
+cmarkgfm
 cmd2
 cmocka-dev
 collectd-dev
@@ -219,6 +223,7 @@ dbus-dev32
 include(devpkg-dbus-glib)
 dbus-python
 dbus-python-dev
+decorator
 defusedxml
 dejagnu
 desktop-file-utils
@@ -424,7 +429,9 @@ ipset
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
+ipykernel
 ipython
+ipython_genutils
 isa-l-dev
 include(devpkg-iso-codes)
 iso8601
@@ -432,6 +439,8 @@ isodate
 itsdangerous
 itsdangerous-python
 include(devpkg-jansson)
+jedi
+jeepney
 jemalloc-dev
 include(joe)
 include(devpkg-json-c)
@@ -439,6 +448,9 @@ json-c-dev32
 include(devpkg-json-glib)
 jsoncpp-dev
 jsonpatch
+jsonschema-python
+jupyter_client
+jupyter_core
 karchive-dev
 kauth
 kauth-dev
@@ -457,6 +469,7 @@ kdesignerplugin-dev
 kdoctools-dev
 kemoticons-dev
 kerberos
+keyring
 keyutils-dev
 kglobalaccel
 kglobalaccel-dev
@@ -673,6 +686,7 @@ m4
 include(make)
 man-db
 include(devpkg-mariadb)
+matplotlib-inline
 mccabe
 mccabe-python
 include(devpkg-md4c)
@@ -774,6 +788,7 @@ packaging
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
+parso
 include(devpkg-parted)
 include(patch)
 patchelf
@@ -950,6 +965,7 @@ perl-perl
 pexpect
 phonon-dev
 php-dev
+pickleshare
 pigz
 pinentry
 pip
@@ -958,6 +974,7 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
+pkginfo
 pluggy
 pluggy-python
 ply
@@ -983,9 +1000,11 @@ include(procps-ng)
 procps-ng-bin
 proj
 include(devpkg-proj)
+prompt_toolkit
 protobuf-dev
 psutil
 psycopg2
+ptyprocess
 pugixml-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
@@ -1011,6 +1030,7 @@ pytest-timeout
 pytest-xdist
 python-dateutil
 python-dbusmock
+python-dotenv
 python-future
 python-memcached
 python-mimeparse
@@ -1023,6 +1043,7 @@ python3-core
 python3-dev
 python3-staticdev
 pytz
+pyzmq
 qemu
 qemu-setuid
 qhull-dev
@@ -1071,6 +1092,7 @@ requests-mock
 requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
+rfc3986
 rpcbind
 rpm
 rpm-dev
@@ -1089,6 +1111,7 @@ sbc-dev32
 sbsigntools
 scikit-learn
 scipy
+secretstorage
 sed
 selenium
 serf-dev
@@ -1174,6 +1197,8 @@ tpm2-tss-dev
 tqdm
 traceback2
 traceback2-python
+traitlets
+twine
 typed_ast
 typing_extensions
 include(tzdata)
@@ -1204,8 +1229,10 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wcwidth
 webencodings
 include(wget)
+wheel
 include(which)
 wireshark
 wireshark-dev

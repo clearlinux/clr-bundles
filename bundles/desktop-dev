@@ -62,6 +62,7 @@ include(devpkg-appstream)
 appstream-glib
 include(devpkg-appstream-glib)
 asciidoc
+asgiref
 asn1crypto-python
 include(aspell)
 aspell-dev
@@ -85,6 +86,7 @@ automake
 automake-dev
 include(devpkg-avahi)
 include(devpkg-babl)
+backcall
 backports.ssl_match_hostname
 bash-completion-dev
 bats
@@ -94,6 +96,7 @@ binutils-dev
 include(bison)
 bison-dev
 black
+bleach
 include(devpkg-bluez)
 include(devpkg-boost)
 include(devpkg-brotli)
@@ -139,6 +142,7 @@ include(devpkg-clutter)
 include(devpkg-clutter-gst)
 clutter-gtk-dev
 cmake
+cmarkgfm
 cmocka-dev
 cmrt
 include(devpkg-cmrt)
@@ -187,6 +191,7 @@ dbus-python
 dbus-python-dev
 dconf
 dconf-dev
+decorator
 defusedxml
 dejagnu
 dejavu-fonts
@@ -231,6 +236,7 @@ filelock
 include(findutils)
 include(devpkg-flac)
 flac-dev32
+flake8
 include(devpkg-flatpak)
 include(flex)
 flex-dev
@@ -380,6 +386,7 @@ idna-python
 idna-ssl
 igt-gpu-tools-dev
 imagescan
+importlib_metadata
 intel-gmmlib-dev
 intel-ipsec-mb-dev
 intel-media-driver-dev
@@ -390,7 +397,9 @@ include(iproute2)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
+ipykernel
 ipython
+ipython_genutils
 include(devpkg-iso-codes)
 iso8601
 isodate
@@ -399,11 +408,17 @@ itsdangerous-python
 itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
+jedi
+jeepney
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
+jsonschema-python
+jupyter_client
+jupyter_core
 kdoctools-dev
+keyring
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -464,7 +479,7 @@ libclc-dev
 include(devpkg-libconfig)
 include(devpkg-libcroco)
 libcryptui-dev
-libdaemon-dev
+include(devpkg-libdaemon)
 include(devpkg-libdatrie)
 libdatrie-dev32
 include(devpkg-libdazzle)
@@ -615,6 +630,9 @@ m4
 include(make)
 man-db
 include(devpkg-mariadb)
+matplotlib-inline
+mccabe
+mccabe-python
 include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
@@ -641,6 +659,7 @@ mutter-data
 include(devpkg-mutter)
 mypaint-brushes
 mypaint-brushes-dev
+mypy
 mypy_extensions
 include(nasm)
 nasm-bin
@@ -698,6 +717,7 @@ include(pandoc)
 include(devpkg-pango)
 include(devpkg-pangomm)
 include(parallel)
+parso
 include(devpkg-parted)
 include(patch)
 patchelf
@@ -709,6 +729,7 @@ include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
 pep517
+pep8-python
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
@@ -842,6 +863,8 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
+pexpect
+pickleshare
 pigz
 pip
 include(devpkg-pipewire)
@@ -849,6 +872,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
+pkginfo
 pluggy
 pluggy-python
 ply
@@ -863,9 +887,11 @@ ppp-dev
 pretend
 include(procps-ng)
 procps-ng-bin
+prompt_toolkit
 protobuf-dev
 psmisc
 psutil
+ptyprocess
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
@@ -876,8 +902,11 @@ pyasn1
 pycairo
 pycairo-dev
 pycares
+pycodestyle
 pycparser
 pycparser-python
+pyflakes
+pyflakes-python
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
@@ -885,7 +914,11 @@ pyparsing
 pyroma
 pytest
 pytest-runner
+pytest-timeout
+python-dateutil
 python-dbusmock
+python-dotenv
+python-mock
 python-pocketlint
 python-polib
 python3
@@ -894,6 +927,7 @@ python3-dev
 pytz
 pyudev
 pywbem
+pyzmq
 qemu
 include(devpkg-qpdf)
 include(devpkg-qtbase)
@@ -908,6 +942,7 @@ requests-file
 requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
+rfc3986
 rtkit
 rtmpdump-dev
 ruby
@@ -919,6 +954,7 @@ sane-backends-dev
 sassc
 sbc-dev
 sbc-dev32
+secretstorage
 sed
 setuptools
 setuptools-python
@@ -966,10 +1002,14 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 toml
+toml-python
 tornado
 tox
 tpm2-tss-dev
+tqdm
 tracker-dev
+traitlets
+twine
 typed_ast
 typing_extensions
 include(tzdata)
@@ -1002,9 +1042,11 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wcwidth
 webencodings
 include(webkitgtk)
 include(devpkg-webkitgtk)
+wheel
 include(which)
 include(devpkg-woff2)
 xauth
@@ -1048,6 +1090,7 @@ yelp-dev
 yelp-xsl
 yelp-xsl-dev
 include(zenity)
+zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
