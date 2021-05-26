@@ -1,0 +1,11 @@
+# [TITLE]: c-extras-gcc10
+# [DESCRIPTION]: Build and run C/C++ language programs using the GCC 10.x compiler
+# [STATUS]: Active
+# [CAPABILITIES]: Build and run C language programs
+# [TAGS]: Programming Languages
+# [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
+
+include(c-basic)
+
+compat-gcc-10
+compat-gcc-10-dev
