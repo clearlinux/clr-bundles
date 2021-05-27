@@ -13,6 +13,7 @@ CUnit-dev
 CUnit-dev32
 Cython
 include(devpkg-ImageMagick)
+Imath-dev
 JAGS-dev
 Jinja2
 include(devpkg-LVM2)
@@ -92,6 +93,7 @@ R-TTR
 R-TeachingDemos
 R-VGAM
 R-VIM
+R-WikidataQueryServiceR
 R-WikidataR
 R-WikipediR
 R-XML
@@ -456,6 +458,7 @@ R-ranger
 R-rappdirs
 R-raster
 R-rasterVis
+R-ratelimitr
 R-rbenchmark
 R-rbibutils
 R-rcmdcheck
