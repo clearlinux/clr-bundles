@@ -119,6 +119,7 @@ collectd-dev
 colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
+compat-gcc-10-dev
 compat-lua-52-dev
 compat-lua-52-staticdev
 confuse-dev

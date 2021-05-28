@@ -67,6 +67,7 @@ clr-rpm-config
 cmake
 commonmark
 include(devpkg-compat-fuse-soname2)
+compat-gcc-10-dev
 coreutils
 cppcheck
 cppunit-dev

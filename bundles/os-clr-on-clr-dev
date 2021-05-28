@@ -188,6 +188,7 @@ include(devpkg-colord)
 commonmark
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
+compat-gcc-10-dev
 compat-lua-52-dev
 compat-lua-52-staticdev
 compat-lua-53-dev
