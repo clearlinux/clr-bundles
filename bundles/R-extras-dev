@@ -24,14 +24,17 @@ Mako-python
 MarkupSafe
 R
 R-AER
+R-AmesHousing
 R-BBmisc
 R-BH
 R-BMA
 R-BMS
 R-BiasedUrn
 R-Brobdingnag
+R-C50
 R-CVST
 R-Cairo
+R-Cubist
 R-DBI
 R-DEoptim
 R-DEoptimR
@@ -505,6 +508,7 @@ R-robustbase
 R-rootSolve
 R-rotl
 R-roxygen2
+R-rpart.plot
 R-rprojroot
 R-rrcov
 R-rredlist
