@@ -9,7 +9,6 @@ include(Sphinx)
 
 Django
 django-appconf
-django-babel
 django_compressor
 django-discover-runner
 django-nose
