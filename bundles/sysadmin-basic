@@ -102,6 +102,7 @@ include(tzdata)
 include(unzip)
 usbutils
 util-linux
+util-linux-man
 # mkpasswd tool is part of whois
 whois-extras
 include(xz)
