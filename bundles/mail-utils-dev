@@ -213,7 +213,6 @@ lz4-dev32
 m4
 include(make)
 mingw-gcc
-mod_perl-perl
 mpc-dev
 mpfr-dev
 msmtp

@@ -287,7 +287,6 @@ mesa-dev32
 meson
 include(devpkg-metrics-discovery)
 mingw-gcc
-mod_perl-perl
 mpc-dev
 mpfr-dev
 msmtp

@@ -457,7 +457,6 @@ include(devpkg-mesa)
 mesa-dev32
 meson
 mingw-gcc
-mod_perl-perl
 more-itertools
 include(devpkg-mozjs78)
 mpc-dev

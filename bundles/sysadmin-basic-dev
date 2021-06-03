@@ -203,7 +203,6 @@ lzo-dev
 m4
 include(make)
 man-db
-mod_perl-perl
 mpc-dev
 mpfr-dev
 msmtp

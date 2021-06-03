@@ -276,9 +276,12 @@ include(devpkg-readline)
 readline-dev32
 ruby
 runc-dev
+rust-std32
+rustc
 sed
 setuptools
 setuptools-python
+setuptools-rust
 setuptools_scm
 shadow
 shared-mime-info

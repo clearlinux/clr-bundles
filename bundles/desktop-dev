@@ -646,7 +646,6 @@ mm-common-data
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
-mod_perl-perl
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
@@ -958,6 +957,7 @@ secretstorage
 sed
 setuptools
 setuptools-python
+setuptools-rust
 setuptools_scm
 setuptools_scm-python
 sg3_utils-dev

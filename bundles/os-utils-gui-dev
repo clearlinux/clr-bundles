@@ -465,7 +465,6 @@ mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mm-common-data
-mod_perl-perl
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev

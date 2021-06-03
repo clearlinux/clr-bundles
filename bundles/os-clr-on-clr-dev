@@ -707,7 +707,6 @@ mkfontscale-bin
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
-mod_perl-perl
 include(modules)
 more-itertools
 include(devpkg-mozjs78)
@@ -1125,6 +1124,7 @@ selenium
 serf-dev
 setuptools
 setuptools-python
+setuptools-rust
 setuptools_scm
 setuptools_scm-python
 sg3_utils-dev
