@@ -79,6 +79,7 @@ clr-fwupd-hooks
 cups
 cups-filters
 cups-pk-helper
+system-config-printer
 dhcp
 also-add(ghostscript)
 gutenprint
