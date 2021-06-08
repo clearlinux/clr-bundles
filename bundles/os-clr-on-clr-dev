@@ -502,6 +502,7 @@ kxmlgui-dev
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
+include(devpkg-leptonica)
 include(less)
 less-bin
 leveldb-dev

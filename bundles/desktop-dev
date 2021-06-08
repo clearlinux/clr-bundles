@@ -14,6 +14,7 @@ CUnit-dev32
 Cython
 Flask
 ImageMagick
+Imath-dev
 Jinja2
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
@@ -429,6 +430,7 @@ include(devpkg-lcms2)
 ldb-dev
 ldb-extras
 lensfun-dev
+include(devpkg-leptonica)
 include(less)
 less-bin
 include(devpkg-libX11)
