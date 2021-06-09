@@ -357,6 +357,7 @@ include(devpkg-gstreamer)
 gtk+
 gtk+-dev
 gtk-doc
+gtk-doc-data
 include(devpkg-gtk-doc)
 gtk3-bin
 include(devpkg-gtk3)
