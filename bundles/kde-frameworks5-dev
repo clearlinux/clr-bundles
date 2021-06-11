@@ -13,6 +13,7 @@ CUnit-dev
 CUnit-dev32
 Cython
 Jinja2
+LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32

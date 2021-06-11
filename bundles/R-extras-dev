@@ -16,6 +16,7 @@ include(devpkg-ImageMagick)
 Imath-dev
 JAGS-dev
 Jinja2
+LVM2
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
 Linux-PAM-dev

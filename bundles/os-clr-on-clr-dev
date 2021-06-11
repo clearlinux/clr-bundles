@@ -26,6 +26,7 @@ CherryPy
 Cython
 Django
 Flask
+Imath-dev
 Jinja2
 Jinja2-python
 LVM2

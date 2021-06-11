@@ -12,6 +12,7 @@ CUnit-dev
 CUnit-dev32
 Cython
 FreeRDP-dev
+LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32

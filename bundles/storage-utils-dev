@@ -9,6 +9,7 @@ include(os-core-dev)
 include(storage-utils)
 CUnit-dev
 Cython
+LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
