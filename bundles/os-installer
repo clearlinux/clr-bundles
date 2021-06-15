@@ -1,30 +1,7 @@
 # [TITLE]: os-installer
-# [DESCRIPTION]: Run image creation and installation for Clear Linux OS.
+# [DESCRIPTION]: Vanity name for the clr-installer to maintain old bundle
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(iproute2)
-include(python3-basic)
-include(wpa_supplicant)
-bind-utils
-btrfs-progs
-include(curl)
-dosfstools-bin
-e2fsprogs-extras
-gptfdisk-bin
-iputils
-ister
-ister-extras
-include(kbd)
-include(less)
-include(linux-firmware-extras)
-include(linux-firmware-wifi)
-nano
-netifaces-python3
-parted-bin
-pycurl
-python-urwid-python3
-python3-core
-qemu-extras
-xfsprogs-bin
+# [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
+include(clr-installer)
