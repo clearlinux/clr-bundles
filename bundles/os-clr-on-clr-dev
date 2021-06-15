@@ -1168,11 +1168,13 @@ include(strace)
 include(devpkg-subunit)
 include(subversion)
 swig
+syndication-dev
 systemd
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
 systemd-lib
+include(devpkg-taglib)
 talloc
 include(devpkg-talloc)
 talloc-extras
@@ -1235,6 +1237,7 @@ include(valgrind)
 include(devpkg-valgrind)
 vim
 virtualenv
+wayland
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)

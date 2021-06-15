@@ -551,6 +551,7 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
 swig
+syndication-dev
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

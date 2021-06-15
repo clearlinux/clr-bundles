@@ -243,7 +243,6 @@ R-fpc
 R-fracdiff
 R-fs
 R-furrr
-R-futile.logger
 R-futile.options
 R-future
 R-gamm4
@@ -335,6 +334,7 @@ R-lmerTest
 R-lmom
 R-lmtest
 R-locfit
+R-logger
 R-loo
 R-lpSolve
 R-lsei
