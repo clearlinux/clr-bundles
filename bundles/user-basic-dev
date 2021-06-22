@@ -474,6 +474,7 @@ netbase
 include(devpkg-nettle)
 nettle-dev32
 include(nfs-utils)
+nfs-utils-dev
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
