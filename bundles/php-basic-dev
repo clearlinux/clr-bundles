@@ -152,6 +152,7 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+liberation-fonts
 libev-dev
 include(devpkg-libevent)
 libevent-dev32

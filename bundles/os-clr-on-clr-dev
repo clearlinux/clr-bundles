@@ -554,6 +554,7 @@ libdnf
 include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
+liberation-fonts
 libev-dev
 include(devpkg-libevdev)
 include(devpkg-libevent)

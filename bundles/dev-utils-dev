@@ -216,6 +216,7 @@ include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
 include(devpkg-libcroco)
+liberation-fonts
 libev-dev
 include(devpkg-libevent)
 libevent-dev32
