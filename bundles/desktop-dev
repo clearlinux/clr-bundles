@@ -155,10 +155,8 @@ include(devpkg-colord)
 colord-gtk-dev
 include(devpkg-compat-atkmm-soname16)
 include(devpkg-compat-cairomm-soname10)
-include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-glibmm-soname24)
-compat-libhandy-0.0-dev
 compat-libsigc++-soname20-dev
 include(devpkg-compat-pangomm-soname14)
 coreutils
