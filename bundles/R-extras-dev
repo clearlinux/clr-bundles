@@ -201,6 +201,7 @@ R-dynamicTreeCut
 R-dynlm
 R-e1071
 R-ecodist
+R-effects
 R-ellipse
 R-ellipsis
 R-elliptic
@@ -601,7 +602,6 @@ R-tm
 R-tmvnsim
 R-toOrdinal
 R-triebeard
-R-truncdist
 R-truncnorm
 R-tseries
 R-ucminf
