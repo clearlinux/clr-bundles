@@ -79,7 +79,6 @@ include(devpkg-bzip2)
 bzip2-dev32
 ca-certs
 include(devpkg-cairo)
-certifi
 cffi
 chardet
 check-dev

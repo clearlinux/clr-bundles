@@ -369,6 +369,7 @@ R-mitools
 R-mlbench
 R-mnormt
 R-mockery
+R-mockr
 R-modeldata
 R-modelr
 R-modeltools
@@ -705,7 +706,6 @@ include(devpkg-bzip2)
 bzip2-dev32
 ca-certs
 include(devpkg-cairo)
-certifi
 cffi
 chardet
 check-dev

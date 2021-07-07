@@ -78,7 +78,6 @@ ca-certs
 include(devpkg-cairo)
 include(devpkg-cairomm)
 ccid
-certifi
 cffi
 chardet
 check-dev

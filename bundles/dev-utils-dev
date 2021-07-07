@@ -61,11 +61,11 @@ include(devpkg-bzip2)
 bzip2-dev32
 ca-certs
 include(devpkg-cairo)
-certifi
 cffi
 check-dev
 clr-rpm-config
 cmake
+colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
@@ -141,7 +141,6 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
-include(devpkg-glu)
 gmp-dev
 gmp-dev32
 gmp-gmpxx

@@ -47,7 +47,6 @@ bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 ccid
-certifi
 check-dev
 clr-rpm-config
 conmon
