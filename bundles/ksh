@@ -1,0 +1,14 @@
+# [TITLE]: ksh
+# [DESCRIPTION]: ksh shell
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+ksh
