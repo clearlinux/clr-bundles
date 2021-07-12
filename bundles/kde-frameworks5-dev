@@ -232,7 +232,6 @@ include(devpkg-iso-codes)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
-include(devpkg-json-glib)
 jsoncpp-dev
 kactivities-dev
 karchive-dev
@@ -526,7 +525,6 @@ re2-dev
 include(devpkg-readline)
 readline-dev32
 requests
-include(devpkg-rest)
 rtkit
 rtmpdump-dev
 ruby

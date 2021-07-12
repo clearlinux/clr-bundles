@@ -245,7 +245,6 @@ include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
 json-c-dev32
-include(devpkg-json-glib)
 jsonpatch
 keyutils-dev
 kmod
@@ -484,7 +483,6 @@ include(devpkg-readline)
 readline-dev32
 requests
 requests-mock
-include(devpkg-rest)
 rpcbind
 rtkit
 ruby

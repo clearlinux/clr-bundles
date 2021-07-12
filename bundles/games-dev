@@ -607,7 +607,6 @@ qtbase-extras
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
-include(devpkg-rest)
 rtkit
 ruby
 rust-std32

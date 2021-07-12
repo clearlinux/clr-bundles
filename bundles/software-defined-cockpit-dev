@@ -210,7 +210,6 @@ iptables-dev32
 include(devpkg-iso-codes)
 include(devpkg-json-c)
 json-c-dev32
-include(devpkg-json-glib)
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -410,7 +409,6 @@ include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-readline)
 readline-dev32
-include(devpkg-rest)
 rtkit
 ruby
 rust-std32

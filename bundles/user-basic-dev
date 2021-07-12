@@ -296,7 +296,6 @@ include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
 json-c-dev32
-include(devpkg-json-glib)
 jsoncpp-dev
 jsonpatch
 kdoctools-dev
@@ -711,7 +710,6 @@ include(devpkg-readline)
 readline-dev32
 requests
 requests-mock
-include(devpkg-rest)
 rpcbind
 rpm
 include(rsync)

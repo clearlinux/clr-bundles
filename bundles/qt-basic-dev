@@ -208,7 +208,6 @@ include(devpkg-iso-codes)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
-include(devpkg-json-glib)
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -435,7 +434,6 @@ qtx11extras-dev
 qtxmlpatterns-dev
 include(devpkg-readline)
 readline-dev32
-include(devpkg-rest)
 rtkit
 ruby
 sassc

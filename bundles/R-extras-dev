@@ -874,7 +874,6 @@ jemalloc-dev
 jq-dev
 include(devpkg-json-c)
 json-c-dev32
-include(devpkg-json-glib)
 jsoncpp-dev
 keyutils-dev
 kmod
@@ -1274,7 +1273,6 @@ qtxmlpatterns-dev
 re2-dev
 include(devpkg-readline)
 readline-dev32
-include(devpkg-rest)
 include(rsync)
 rtkit
 rtmpdump-dev

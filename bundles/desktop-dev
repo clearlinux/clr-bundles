@@ -1082,6 +1082,8 @@ xset
 include(devpkg-xtrans)
 xtrans-dev32
 xvfb-run
+xwayland
+xwayland-dev
 include(xz)
 include(devpkg-xz)
 xz-dev32
