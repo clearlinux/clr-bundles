@@ -322,6 +322,7 @@ libatomic_ops-dev32
 libavtp-dev
 libblockdev
 libblockdev-dev
+include(devpkg-libbsd)
 libburn-dev
 libbytesize
 libbytesize-dev

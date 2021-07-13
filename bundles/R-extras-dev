@@ -726,7 +726,6 @@ cscope
 cssselect
 ctags
 include(devpkg-cups)
-include(curl)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
@@ -809,8 +808,6 @@ include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 glib-dev32
-glib-networking
-glib-networking-lib32
 glibc-bin
 glibc-dev
 glibc-dev32
@@ -960,7 +957,6 @@ include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
 libpng-dev32
-libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpwquality-dev
 librsvg
@@ -970,7 +966,6 @@ include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
-include(devpkg-libsoup)
 libspatialite-dev
 include(devpkg-libsrtp)
 include(devpkg-libssh)
@@ -1333,8 +1328,6 @@ util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
 include(devpkg-v4l-utils)
-vala
-include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 virtualenv

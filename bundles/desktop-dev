@@ -466,6 +466,7 @@ libatomic_ops-dev32
 libavtp-dev
 libblockdev
 libblockdev-dev
+include(devpkg-libbsd)
 libbytesize
 libbytesize-dev
 libc6
