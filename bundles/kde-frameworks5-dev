@@ -594,6 +594,7 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 include(yasm)
+zipp
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

@@ -19,7 +19,6 @@ include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
 acrn-hypervisor-dev
-appdirs
 asciidoc
 asn1crypto-python
 include(devpkg-attr)
@@ -330,6 +329,7 @@ xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32
+zipp
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

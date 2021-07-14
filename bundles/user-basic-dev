@@ -51,7 +51,6 @@ include(acpica-unix2)
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
-appdirs
 armadillo-data
 asciidoc
 include(aspell)
@@ -823,6 +822,7 @@ xz-dev32
 yajl-dev
 yajl-lib
 include(yasm)
+zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32

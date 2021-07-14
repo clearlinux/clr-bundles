@@ -44,7 +44,6 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
-appdirs
 asciidoc
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
@@ -687,6 +686,7 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 include(yasm)
+zipp
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

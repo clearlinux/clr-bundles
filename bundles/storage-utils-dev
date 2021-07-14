@@ -17,7 +17,6 @@ Markdown
 include(Sphinx)
 include(devpkg-acl)
 acl-dev32
-appdirs
 asciidoc
 include(devpkg-attr)
 attr-dev32
@@ -489,6 +488,7 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 include(yasm)
+zipp
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
