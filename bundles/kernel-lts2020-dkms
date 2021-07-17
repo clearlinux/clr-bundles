@@ -1,0 +1,10 @@
+# [TITLE]: kernel-lts2020-dkms
+# [DESCRIPTION]: Support for module building/loading via Dynamic Kernel Module System (DKMS) in LTS2020 kernel.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+include(c-basic)
+include(linux-lts2020-dev)
+clr-ignore-mod-sig
+dkms
