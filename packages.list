@@ -445,4 +445,6 @@ gnome-desktop-testing # Test runner for GNOME-style installed tests
 alsa-tools # Device-specific tools from the ALSA project
 tgt # The SCSI target daemon and utility programs
 gst-python # No detailed summary available
-ksh # No detailed summary available 
+ksh # No detailed summary available
+guile # GNU's Ubiquitous Intelligent Language for Extension (uninstalled)
+postgresql13 # No detailed summary available 
