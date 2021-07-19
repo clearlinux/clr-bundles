@@ -162,7 +162,7 @@ include(devpkg-gsl)
 gtk+-dev
 gtk-doc
 include(devpkg-gtk-doc)
-guile
+include(guile)
 include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)

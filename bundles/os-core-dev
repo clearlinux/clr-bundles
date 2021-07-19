@@ -90,7 +90,7 @@ include(graphviz)
 grep
 gtk-doc
 include(devpkg-gtk-doc)
-guile
+include(guile)
 include(gzip)
 hostname
 include(intltool)

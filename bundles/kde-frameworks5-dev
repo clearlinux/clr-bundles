@@ -208,7 +208,7 @@ gtk-doc
 gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
-guile
+include(guile)
 include(gzip)
 include(devpkg-harfbuzz)
 help2man

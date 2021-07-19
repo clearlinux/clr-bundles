@@ -247,7 +247,7 @@ include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(devpkg-gtkmm3)
 include(devpkg-gtkspell3)
-guile
+include(guile)
 gvfs
 gvfs-dev
 include(gzip)

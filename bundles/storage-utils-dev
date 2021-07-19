@@ -142,7 +142,7 @@ grep
 groff
 gtk-doc
 include(devpkg-gtk-doc)
-guile
+include(guile)
 include(gzip)
 include(devpkg-harfbuzz)
 hostname

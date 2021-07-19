@@ -123,7 +123,7 @@ grep
 groff
 gtk-doc
 include(devpkg-gtk-doc)
-guile
+include(guile)
 include(gzip)
 hostname
 include(devpkg-icu4c)

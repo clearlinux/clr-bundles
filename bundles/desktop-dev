@@ -364,7 +364,7 @@ include(devpkg-gtk4)
 gtkmm2-dev
 include(devpkg-gtkmm3)
 include(devpkg-gtkspell3)
-guile
+include(guile)
 include(devpkg-gutenprint)
 gvfs-dev
 include(gzip)

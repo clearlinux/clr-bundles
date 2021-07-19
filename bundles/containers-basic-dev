@@ -130,7 +130,7 @@ gtk+-dev
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
-guile
+include(guile)
 include(gzip)
 include(devpkg-harfbuzz)
 hostname
