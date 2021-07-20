@@ -290,6 +290,7 @@ mingw-gcc
 mpc-dev
 mpfr-dev
 msmtp
+mypy
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
