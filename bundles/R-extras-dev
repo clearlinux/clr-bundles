@@ -345,7 +345,6 @@ R-magick
 R-magrittr
 R-manipulateWidget
 R-mapdata
-R-mapproj
 R-maps
 R-maptools
 R-markdown
@@ -492,7 +491,6 @@ R-reticulate
 R-rex
 R-rgdal
 R-rgenoud
-R-rgeos
 R-rgl
 R-rhandsontable
 R-rio
@@ -559,7 +557,6 @@ R-sourcetools
 R-sp
 R-spData
 R-spam
-R-spatstat
 R-spatstat.core
 R-spatstat.data
 R-spatstat.geom

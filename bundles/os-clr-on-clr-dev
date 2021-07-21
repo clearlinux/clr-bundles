@@ -1202,6 +1202,7 @@ tk-dev
 tokyocabinet-dev
 toml
 toml-python
+tomli
 tornado
 tox
 tox-python
