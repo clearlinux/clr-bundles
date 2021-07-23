@@ -251,7 +251,6 @@ include(patch)
 patchelf
 include(devpkg-pcre)
 pcre-dev32
-include(devpkg-pcre2)
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl

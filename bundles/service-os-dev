@@ -244,7 +244,6 @@ patchelf
 pathlib2
 include(devpkg-pcre)
 pcre-dev32
-include(devpkg-pcre2)
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl

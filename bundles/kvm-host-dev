@@ -429,7 +429,6 @@ pathlib2
 pbr
 include(devpkg-pcre)
 pcre-dev32
-include(devpkg-pcre2)
 pcsc-lite-dev
 pecan
 perl

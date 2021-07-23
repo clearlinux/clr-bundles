@@ -185,7 +185,6 @@ include(pandoc)
 include(patch)
 include(devpkg-pcre)
 pcre-dev32
-include(devpkg-pcre2)
 perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
