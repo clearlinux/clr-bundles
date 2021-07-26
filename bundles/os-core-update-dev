@@ -10,6 +10,7 @@ include(os-core-update)
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -128,6 +129,7 @@ libX11-dev32
 libabigail
 libaio-dev
 include(devpkg-libarchive)
+libbpf-dev
 libc6
 libc6-dev
 libcap

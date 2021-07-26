@@ -12,6 +12,7 @@ CUnit-dev
 CUnit-dev32
 Cython
 FreeRDP-dev
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -322,6 +323,7 @@ libatomic_ops-dev32
 libavtp-dev
 libblockdev
 libblockdev-dev
+libbpf-dev
 include(devpkg-libbsd)
 libburn-dev
 libbytesize

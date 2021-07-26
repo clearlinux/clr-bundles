@@ -11,6 +11,7 @@ AVB-AudioModules-dev
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -238,6 +239,7 @@ libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
 libavtp-dev
+libbpf-dev
 libc6
 libc6-dev
 libcap

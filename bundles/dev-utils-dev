@@ -10,6 +10,7 @@ include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -205,6 +206,7 @@ libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev
 libatomic_ops-dev32
+libbpf-dev
 libc6
 libc6-dev
 libcap

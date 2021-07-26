@@ -29,6 +29,7 @@ Flask
 Imath-dev
 Jinja2
 Jinja2-python
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -427,6 +428,7 @@ include(intltool)
 intltool-dev
 ipp-crypto-dev
 include(iproute2)
+iproute2-dev
 ipset
 include(iptables)
 include(devpkg-iptables)
@@ -534,6 +536,7 @@ include(devpkg-libassuan)
 libatomic_ops-dev
 libatomic_ops-dev32
 libavtp-dev
+libbpf-dev
 libc6
 libc6-dev
 libcacard-dev

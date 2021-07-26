@@ -11,6 +11,7 @@ include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -136,6 +137,7 @@ icu4c-dev32
 include(intltool)
 intltool-dev
 include(iproute2)
+iproute2-dev
 include(devpkg-ipset)
 include(iptables)
 include(devpkg-iptables)
@@ -152,6 +154,7 @@ include(devpkg-libX11)
 libX11-dev32
 libabigail
 libaio-dev
+libbpf-dev
 libc6
 libc6-dev
 libcap

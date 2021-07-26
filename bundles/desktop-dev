@@ -16,6 +16,7 @@ Flask
 ImageMagick
 Imath-dev
 Jinja2
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
@@ -466,6 +467,7 @@ libatomic_ops-dev32
 libavtp-dev
 libblockdev
 libblockdev-dev
+libbpf-dev
 include(devpkg-libbsd)
 libbytesize
 libbytesize-dev

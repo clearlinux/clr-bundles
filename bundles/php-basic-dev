@@ -10,6 +10,7 @@ include(php-basic)
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -144,6 +145,7 @@ include(devpkg-libXt)
 libXt-dev32
 libabigail
 libaio-dev
+libbpf-dev
 libc6
 libc6-dev
 libcap

@@ -11,6 +11,7 @@ include(os-core-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -156,6 +157,7 @@ include(devpkg-libXft)
 libabigail
 libaio-dev
 include(devpkg-libassuan)
+libbpf-dev
 libc6
 libc6-dev
 libcap

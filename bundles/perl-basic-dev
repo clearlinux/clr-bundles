@@ -9,6 +9,7 @@ include(os-core-dev)
 include(perl-basic)
 CUnit-dev
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -107,6 +108,7 @@ kmod-dev32
 less-bin
 libabigail
 libaio-dev
+libbpf-dev
 libc6-dev
 libcap
 include(devpkg-libcap)

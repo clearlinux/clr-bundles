@@ -13,6 +13,7 @@ CUnit-dev
 CUnit-dev32
 Cython
 Jinja2
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -299,6 +300,7 @@ include(devpkg-libass)
 include(devpkg-libassuan)
 libatomic_ops-dev
 libatomic_ops-dev32
+libbpf-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)

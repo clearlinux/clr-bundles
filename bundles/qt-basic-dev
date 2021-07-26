@@ -9,6 +9,7 @@ include(os-core-dev)
 include(qt-basic)
 CUnit-dev
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -231,6 +232,7 @@ libabigail
 libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
+libbpf-dev
 libc6-dev
 libcap
 include(devpkg-libcap)

@@ -10,6 +10,7 @@ include(service-os)
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -160,6 +161,7 @@ include(devpkg-libXScrnSaver)
 include(devpkg-libXft)
 libabigail
 libaio-dev
+libbpf-dev
 libc6
 libc6-dev
 libcap

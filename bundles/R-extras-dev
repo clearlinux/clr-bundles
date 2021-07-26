@@ -16,6 +16,7 @@ include(devpkg-ImageMagick)
 Imath-dev
 JAGS-dev
 Jinja2
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
@@ -470,7 +471,6 @@ R-rbibutils
 R-rcmdcheck
 R-rcorpora
 R-reactR
-R-reactable
 R-readr
 R-readstata13
 R-readxl
@@ -899,6 +899,7 @@ include(devpkg-libarchive)
 include(devpkg-libass)
 libatomic_ops-dev
 libatomic_ops-dev32
+libbpf-dev
 libc6
 libc6-dev
 libcap

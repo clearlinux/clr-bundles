@@ -13,6 +13,7 @@ CUnit-dev32
 CherryPy
 Cython
 Jinja2
+Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -273,6 +274,7 @@ libabigail
 libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
+libbpf-dev
 libc6
 libc6-dev
 libcacard-dev
