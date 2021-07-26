@@ -6,4 +6,4 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 
 # This is a meta-bundle which include the latest longterm native kernel
-include(kernel-lts2019)
+include(kernel-lts2020)
