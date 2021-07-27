@@ -106,6 +106,7 @@ include(devpkg-brotli)
 brotlipy
 btrfs-progs-dev
 bubblewrap
+build
 buildreq-cmake
 buildreq-configure
 buildreq-cpan

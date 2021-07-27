@@ -12,8 +12,6 @@ CUnit-dev
 CUnit-dev32
 Cython
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 include(Sphinx)
@@ -56,7 +54,6 @@ confuse-dev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
@@ -145,7 +142,6 @@ iptables-dev32
 include(devpkg-jansson)
 include(devpkg-json-c)
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -153,7 +149,6 @@ less-bin
 include(devpkg-libX11)
 libX11-dev32
 libabigail
-libaio-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -388,7 +383,6 @@ pkg-config
 pkg-config-dev
 ply
 include(devpkg-polkit)
-include(devpkg-popt)
 include(procps-ng)
 pytest
 python3
@@ -397,7 +391,6 @@ python3-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
-ruby
 sed
 shadow
 shared-mime-info
@@ -411,7 +404,6 @@ tar
 tcl
 tcl-dev
 include(texinfo)
-thin-provisioning-tools
 tpm2-tss-dev
 include(tzdata)
 include(unzip)

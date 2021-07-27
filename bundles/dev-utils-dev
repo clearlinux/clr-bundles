@@ -11,8 +11,6 @@ CUnit-dev
 CUnit-dev32
 Cython
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 Pygments
@@ -202,7 +200,6 @@ libXt-dev32
 include(devpkg-libXtst)
 include(devpkg-libXv)
 libabigail
-libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev
 libatomic_ops-dev32
@@ -293,6 +290,7 @@ mpc-dev
 mpfr-dev
 msmtp
 mypy
+mypy_extensions
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -519,15 +517,17 @@ testscenarios
 testtools
 include(texinfo)
 include(texlive)
-thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+toml
 toml-python
 tox
 tqdm
 trace-cmd-dev
 traceback2
+typed_ast
+typing_extensions
 include(tzdata)
 include(unzip)
 util-linux

@@ -11,8 +11,6 @@ CUnit-dev
 CUnit-dev32
 Cython
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 include(Sphinx)
@@ -62,7 +60,6 @@ cracklib-dev
 include(cryptography)
 cryptography_vectors
 include(devpkg-cryptsetup)
-ctags
 include(devpkg-curl)
 curl-dev32
 db
@@ -151,8 +148,6 @@ iptables-dev32
 iso8601
 include(devpkg-json-c)
 json-c-dev32
-keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
@@ -160,7 +155,6 @@ libX11-dev32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXft)
 libabigail
-libaio-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -274,7 +268,6 @@ python3-dev
 pytz
 include(devpkg-readline)
 readline-dev32
-ruby
 runc-dev
 rust-std32
 rustc
@@ -301,7 +294,6 @@ tcl-staticdev
 telemetrics-client
 include(devpkg-telemetrics-client)
 include(texinfo)
-thin-provisioning-tools
 tk-dev
 tox
 tox-python

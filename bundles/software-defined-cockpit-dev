@@ -12,8 +12,6 @@ CUnit-dev
 CUnit-dev32
 Cython
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
@@ -212,7 +210,6 @@ include(devpkg-iso-codes)
 include(devpkg-json-c)
 json-c-dev32
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -235,7 +232,6 @@ libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
 libabigail
-libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
 libavtp-dev
@@ -396,7 +392,6 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
-include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 protobuf-dev
@@ -411,7 +406,6 @@ qtbase-extras
 include(devpkg-readline)
 readline-dev32
 rtkit
-ruby
 rust-std32
 rustc
 sassc
@@ -437,7 +431,6 @@ include(devpkg-tbb)
 tcl
 tcl-dev
 include(texinfo)
-thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 include(tzdata)

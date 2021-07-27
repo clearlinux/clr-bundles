@@ -7,11 +7,8 @@
 include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
-CUnit-dev
 Cython
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 OpenSP
@@ -50,7 +47,6 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
@@ -144,7 +140,6 @@ iptables-dev32
 include(devpkg-json-c)
 json-c-dev32
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -369,7 +364,6 @@ pip
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
-include(devpkg-popt)
 procmail
 include(procps-ng)
 procps-ng-bin
@@ -401,7 +395,6 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
-thin-provisioning-tools
 tk-dev
 tokyocabinet-dev
 include(tzdata)

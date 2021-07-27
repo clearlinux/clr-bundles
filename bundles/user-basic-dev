@@ -462,6 +462,7 @@ mpfr-dev
 msmtp
 mtdev-dev
 mypy
+mypy_extensions
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -776,12 +777,15 @@ include(devpkg-tiff)
 tk
 tk-dev
 tokyocabinet-dev
+toml
 toml-python
 tox
 tox-python
 tpm2-tss-dev
 tqdm
 traceback2
+typed_ast
+typing_extensions
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)

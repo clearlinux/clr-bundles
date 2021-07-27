@@ -17,8 +17,6 @@ Imath-dev
 JAGS-dev
 Jinja2
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 include(devpkg-LibRaw)
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -869,7 +867,6 @@ include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -1224,7 +1221,6 @@ pmix-dev
 include(devpkg-polkit)
 poppler-dev
 poppler-extras
-include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
@@ -1307,7 +1303,6 @@ testscenarios
 testtools
 include(texinfo)
 include(texlive)
-thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev

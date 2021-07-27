@@ -11,7 +11,6 @@ CUnit-dev
 CUnit-dev32
 Cython
 Jinja2-python3
-LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -143,7 +142,6 @@ include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
 json-c-dev32
-keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
@@ -258,7 +256,6 @@ pip
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
-include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 include(pygobject)

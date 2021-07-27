@@ -11,8 +11,6 @@ CUnit-dev
 CUnit-dev32
 Cython
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 include(devpkg-acl)
@@ -49,7 +47,6 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 include(devpkg-curl)
 datefudge
 db
@@ -133,8 +130,6 @@ include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
 json-c-dev32
-keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -144,7 +139,6 @@ include(devpkg-libXpm)
 include(devpkg-libXt)
 libXt-dev32
 libabigail
-libaio-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -253,7 +247,6 @@ pigz
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
-include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 python3
@@ -262,7 +255,6 @@ python3-dev
 re2c
 include(devpkg-readline)
 readline-dev32
-ruby
 sed
 shadow
 shared-mime-info
@@ -275,7 +267,6 @@ systemd-lib
 tar
 tcl
 include(texinfo)
-thin-provisioning-tools
 include(devpkg-tiff)
 include(tzdata)
 include(unzip)

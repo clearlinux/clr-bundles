@@ -14,8 +14,6 @@ CUnit-dev32
 Cython
 Jinja2
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
@@ -93,7 +91,6 @@ coverage
 cracklib-dev
 include(devpkg-cryptsetup)
 cssselect
-ctags
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -259,7 +256,6 @@ kitemmodels-dev
 kitemviews-dev
 kjobwidgets-dev
 kjs-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 knewstuff-dev
@@ -481,7 +477,6 @@ include(devpkg-polkit)
 polkit-qt-dev
 poppler-dev
 poppler-extras
-include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
@@ -556,7 +551,6 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
-thin-provisioning-tools
 threadweaver-dev
 include(devpkg-tiff)
 tk-dev

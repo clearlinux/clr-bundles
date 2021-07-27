@@ -13,8 +13,6 @@ CUnit-dev32
 Cython
 include(devpkg-GConf)
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
@@ -93,7 +91,6 @@ cmocka-dev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 include(devpkg-cups)
 include(curl)
 include(devpkg-curl)
@@ -244,7 +241,6 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -273,7 +269,6 @@ include(devpkg-libXvMC)
 libXvMC-dev32
 libXxf86dga-dev
 libabigail
-libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
 libavtp-dev
@@ -641,7 +636,6 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
-thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 tox

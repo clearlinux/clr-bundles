@@ -7,11 +7,8 @@
 include(dev-utils)
 include(os-core-dev)
 include(qt-basic)
-CUnit-dev
 Cython
 Jinja2-python3
-LVM2
-include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
@@ -80,7 +77,6 @@ coverage
 cracklib-dev
 include(devpkg-cryptsetup)
 cssselect
-ctags
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -207,7 +203,6 @@ jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -384,7 +379,6 @@ pkg-config-dev
 pluggy
 pluggy-python
 include(devpkg-polkit)
-include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
@@ -432,7 +426,6 @@ qtxmlpatterns-dev
 include(devpkg-readline)
 readline-dev32
 rtkit
-ruby
 sassc
 sbc-dev
 sbc-dev32
@@ -458,7 +451,6 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
-thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 tox
