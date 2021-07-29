@@ -170,6 +170,7 @@ certifi
 cffi
 cffi-python
 chardet
+charset-normalizer
 check
 check-dev
 check-dev32
@@ -1219,6 +1220,7 @@ twine
 typed_ast
 typing_extensions
 include(tzdata)
+unicodedata2
 unittest2
 unittest2-python
 unixODBC-dev

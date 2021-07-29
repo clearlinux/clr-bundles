@@ -130,6 +130,7 @@ certifi
 cffi
 cffi-python
 chardet
+charset-normalizer
 check
 check-dev
 check-dev32
@@ -1024,6 +1025,7 @@ include(tzdata)
 udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
+unicodedata2
 include(unzip)
 upower-dev
 urllib3
