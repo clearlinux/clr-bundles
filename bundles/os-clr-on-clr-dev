@@ -212,6 +212,7 @@ cssselect
 ctags
 cups
 include(devpkg-cups)
+curio
 include(curl)
 include(devpkg-curl)
 curl-dev32
@@ -256,7 +257,6 @@ include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
-ecdsa
 ed
 efivar-dev
 eigen-data
@@ -1144,6 +1144,7 @@ slang-dev
 smartcols
 smmap
 snappy-dev
+sniffio
 snowballstemmer
 solid-dev
 sonnet-dev

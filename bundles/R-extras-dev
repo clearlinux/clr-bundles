@@ -105,6 +105,8 @@ R-abind
 R-actuar
 R-ade4
 R-adegenet
+R-adegraphics
+R-adespatial
 R-analogue
 R-ape
 R-arm
@@ -255,6 +257,7 @@ R-gert
 R-getopt
 R-ggplot2
 R-ggplot2movies
+R-ggrepel
 R-ggridges
 R-gh
 R-gitcreds
@@ -305,6 +308,7 @@ R-jpeg
 R-jqr
 R-jquerylib
 R-jsonlite
+R-kableExtra
 R-kernlab
 R-kimisc
 R-kmi
@@ -501,7 +505,6 @@ R-rmutil
 R-rncl
 R-rngWELL
 R-rngtools
-R-robCompositions
 R-robustbase
 R-rootSolve
 R-rotl
