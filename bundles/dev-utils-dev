@@ -461,6 +461,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+platformdirs
 pluggy
 pluggy-python
 include(devpkg-polkit)
@@ -490,7 +491,6 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
-setuptools_scm-python
 shadow
 shared-mime-info
 six
@@ -521,7 +521,6 @@ include(devpkg-tiff)
 tk
 tk-dev
 toml
-toml-python
 tox
 tqdm
 trace-cmd-dev

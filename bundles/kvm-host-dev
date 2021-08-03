@@ -46,6 +46,7 @@ include(devpkg-at-spi2-core)
 include(devpkg-atk)
 include(devpkg-attr)
 attr-dev32
+audisp-json
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
@@ -417,6 +418,7 @@ openssh
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
+include(openvswitch)
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)
@@ -447,6 +449,7 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
+platformdirs
 pluggy
 pluggy-python
 include(polkit)
@@ -506,6 +509,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
+swig
 systemd
 systemd-bin
 include(devpkg-systemd)

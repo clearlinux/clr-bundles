@@ -30,7 +30,6 @@ MarkupSafe
 ModemManager-dev
 include(NetworkManager)
 include(devpkg-NetworkManager)
-Pillow
 PyQt5
 PySocks
 PyYAML
@@ -55,9 +54,6 @@ acl-bin
 include(devpkg-acl)
 acl-dev32
 adwaita-icon-theme-dev
-aiodns
-aiohttp
-aiohttp-cors
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
@@ -70,7 +66,6 @@ asn1crypto-python
 include(aspell)
 aspell-dev
 aspell-en
-async-timeout
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
@@ -98,7 +93,6 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-black
 bleach
 include(devpkg-bluez)
 include(devpkg-boost)
@@ -106,7 +100,6 @@ include(devpkg-brotli)
 brotlipy
 btrfs-progs-dev
 bubblewrap
-build
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -125,7 +118,6 @@ cached-property
 include(devpkg-cairo)
 include(devpkg-cairomm)
 caribou-dev
-cchardet
 certifi
 cffi
 cffi-python
@@ -134,7 +126,6 @@ charset-normalizer
 check
 check-dev
 check-dev32
-check-manifest
 include(devpkg-cheese)
 chrpath
 clear-font
@@ -387,7 +378,6 @@ include(devpkg-icu4c)
 icu4c-dev32
 idna
 idna-python
-idna-ssl
 igt-gpu-tools-dev
 imagescan
 importlib_metadata
@@ -660,7 +650,6 @@ mpfr-dev
 include(devpkg-mpg123)
 msmtp
 mtdev-dev
-multidict
 mutter
 mutter-data
 include(devpkg-mutter)
@@ -694,7 +683,6 @@ include(devpkg-ntfs-3g)
 ntlm-auth
 numpy
 octave-dev
-olefile
 onig-dev
 openal-soft-dev
 openconnect-dev
@@ -729,13 +717,11 @@ include(devpkg-parted)
 include(patch)
 patchelf
 pathlib2
-pathspec
 pbr
 include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
-pep517
 pep8-python
 perl
 perl-B-Hooks-EndOfScope-perl
@@ -880,6 +866,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 pkginfo
+platformdirs
 pluggy
 pluggy-python
 ply
@@ -908,7 +895,6 @@ pyaml
 pyasn1
 pycairo
 pycairo-dev
-pycares
 pycodestyle
 pycparser
 pycparser-python
@@ -918,7 +904,6 @@ include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
 pyparsing
-pyroma
 pytest
 pytest-runner
 pytest-timeout
@@ -943,7 +928,6 @@ include(devpkg-qttools)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
-regex
 requests
 requests-file
 requests-toolbelt
@@ -1011,7 +995,6 @@ include(devpkg-tiff)
 tk-dev
 toml
 toml-python
-tomli
 tornado
 tox
 tpm2-tss-dev
@@ -1096,7 +1079,6 @@ include(devpkg-xz)
 xz-dev32
 yajl-dev
 yaml-dev
-yarl
 include(yasm)
 yelp-dev
 yelp-xsl
@@ -1106,6 +1088,5 @@ zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
-zope.event
 include(devpkg-zstd)
 zstd-dev32

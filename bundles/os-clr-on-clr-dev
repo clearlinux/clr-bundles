@@ -76,9 +76,6 @@ acl-bin
 include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
-aiodns
-aiohttp
-aiohttp-cors
 alabaster
 include(devpkg-alsa-lib)
 alsa-lib-dev32
@@ -99,7 +96,6 @@ include(aspell)
 aspell-dev
 aspell-en
 assimp-dev
-async-timeout
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
@@ -133,7 +129,6 @@ binutils-dev
 binutils-staticdev
 include(bison)
 bison-dev
-black
 bleach
 include(devpkg-bluez)
 include(devpkg-boost)
@@ -143,7 +138,6 @@ include(devpkg-brotli)
 brotlipy
 bsdiff-dev
 btrfs-progs-dev
-build
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -163,7 +157,6 @@ ca-certs
 cached-property
 include(devpkg-cairo)
 include(devpkg-capstone)
-cchardet
 ccid
 ceph-dev
 certifi
@@ -174,7 +167,6 @@ charset-normalizer
 check
 check-dev
 check-dev32
-check-manifest
 clear-font
 click
 clr-avx-tools
@@ -362,7 +354,6 @@ gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
-gmpy2
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
@@ -417,7 +408,6 @@ include(devpkg-icu4c)
 icu4c-dev32
 idna
 idna-python
-idna-ssl
 imagesize
 importlib_metadata
 influxdb
@@ -723,7 +713,6 @@ mpfr-dev
 include(devpkg-mpg123)
 msmtp
 mtdev-dev
-multidict
 munge-dev
 mypy
 mypy_extensions
@@ -763,7 +752,6 @@ oath-toolkit
 include(devpkg-oath-toolkit)
 ocl-icd-dev
 octave-dev
-olefile
 onig-dev
 open-iscsi
 open-isns-dev
@@ -785,6 +773,7 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
+include(openvswitch)
 include(devpkg-opus)
 include(devpkg-orc)
 orc-dev32
@@ -801,7 +790,6 @@ include(patch)
 patchelf
 patchutils
 pathlib2
-pathspec
 pbr
 include(devpkg-pciutils)
 pcre
@@ -811,7 +799,6 @@ include(devpkg-pcre2)
 pcsc-lite
 pcsc-lite-dev
 pecan
-pep517
 pep8-python
 perl
 perl-Algorithm-Diff-perl
@@ -982,6 +969,7 @@ include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
 pkginfo
+platformdirs
 pluggy
 pluggy-python
 ply
@@ -1021,7 +1009,6 @@ pyOpenSSL
 pyasn1
 pycairo
 pycairo-dev
-pycares
 pycodestyle
 pycparser
 pycparser-python
@@ -1029,7 +1016,6 @@ pyflakes
 pyflakes-python
 include(pygobject)
 pyparsing
-pyroma
 pyroute2
 pyroute2.core
 pyroute2.ethtool
@@ -1098,7 +1084,6 @@ re2c
 include(devpkg-readline)
 readline-dev32
 recommonmark
-regex
 requests
 requests-file
 requests-kerberos
@@ -1208,7 +1193,6 @@ tk-dev
 tokyocabinet-dev
 toml
 toml-python
-tomli
 tornado
 tox
 tox-python
@@ -1281,13 +1265,11 @@ xz-dev32
 yajl-dev
 yajl-lib
 yaml-dev
-yarl
 include(yasm)
 include(zip)
 zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
-zope.event
 include(devpkg-zstd)
 zstd-dev32

@@ -248,6 +248,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+platformdirs
 pluggy
 pluggy-python
 include(devpkg-polkit)

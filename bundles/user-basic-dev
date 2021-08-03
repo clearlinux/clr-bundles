@@ -503,6 +503,7 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
+include(openvswitch)
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)
@@ -670,6 +671,7 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
+platformdirs
 pluggy
 pluggy-python
 ply
@@ -724,7 +726,6 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
-setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -778,7 +779,6 @@ tk
 tk-dev
 tokyocabinet-dev
 toml
-toml-python
 tox
 tox-python
 tpm2-tss-dev
