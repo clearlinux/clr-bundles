@@ -605,6 +605,7 @@ R-toOrdinal
 R-triebeard
 R-truncnorm
 R-tseries
+R-tzdb
 R-ucminf
 R-units
 R-urca
@@ -619,6 +620,7 @@ R-vegan
 R-vembedr
 R-viridis
 R-viridisLite
+R-vroom
 R-waldo
 R-warp
 R-webfakes
