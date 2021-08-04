@@ -4,4 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include(kernel-lts2019-dkms)
+include(kernel-lts2020-dkms)
