@@ -963,6 +963,7 @@ pickleshare
 pigz
 pinentry
 pip
+include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
 include(devpkg-pkcs11-helper)

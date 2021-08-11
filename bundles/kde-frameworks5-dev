@@ -467,6 +467,7 @@ perl-perl
 phonon-dev
 pigz
 pip
+include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
 pkg-config
