@@ -222,7 +222,6 @@ include(devpkg-dbus-glib)
 dbus-python
 dbus-python-dev
 decorator
-defusedxml
 dejagnu
 desktop-file-utils
 dhcp
@@ -1193,7 +1192,6 @@ tk
 tk-dev
 tokyocabinet-dev
 toml
-toml-python
 tornado
 tox
 tox-python

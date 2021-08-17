@@ -186,7 +186,6 @@ dbus-python-dev
 dconf
 dconf-dev
 decorator
-defusedxml
 dejagnu
 dejavu-fonts
 desktop-file-utils
@@ -994,7 +993,6 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 toml
-toml-python
 tornado
 tox
 tpm2-tss-dev
