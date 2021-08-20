@@ -6,5 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-userspace-rcu)
 
 lttng-ust-dev
