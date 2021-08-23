@@ -11,10 +11,12 @@ autoconf
 automake
 automake-dev
 include(binutils)
+buildreq-golang
 bzip2
 clr-rpm-config
 coreutils
 include(diffutils)
+include(docutils)
 gawk
 gcc
 gcc-dev
@@ -32,15 +34,19 @@ grep
 groff
 include(gzip)
 hostname
+include(devpkg-jansson)
 libc6-dev
+include(devpkg-libseccomp)
 libtool
 libtool-dev
+include(devpkg-libxml2)
 linux-libc-headers
 include(make)
 include(devpkg-ncurses)
 netbase
 nss-altfiles
 include(patch)
+perl
 pigz
 pkg-config
 pkg-config-dev
@@ -57,3 +63,4 @@ tar
 include(unzip)
 include(which)
 include(xz)
+yaml-dev

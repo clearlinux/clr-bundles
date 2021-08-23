@@ -828,6 +828,7 @@ include(devpkg-xz)
 xz-dev32
 yajl-dev
 yajl-lib
+yaml-dev
 include(yasm)
 zipp
 zlib
