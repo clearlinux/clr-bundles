@@ -143,6 +143,7 @@ R-calibrator
 R-callr
 R-car
 R-carData
+R-caret
 R-cellranger
 R-checkmate
 R-circlize
@@ -190,6 +191,7 @@ R-diffusionMap
 R-digest
 R-diptest
 R-distr
+R-distributional
 R-doMPI
 R-doParallel
 R-doRNG
@@ -433,6 +435,7 @@ R-png
 R-polspline
 R-polyclip
 R-polynom
+R-posterior
 R-prabclus
 R-pracma
 R-praise

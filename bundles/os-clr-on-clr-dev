@@ -56,8 +56,6 @@ R
 Routes
 include(devpkg-SDL)
 include(devpkg-SDL2)
-SDL2-dev32
-include(devpkg-SDL2_image)
 SFCGAL-dev
 include(Sphinx)
 Sphinx-python
@@ -211,7 +209,6 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 dataclasses
 datefudge
-dav1d-dev
 db
 db-dev
 dbus
@@ -332,7 +329,6 @@ glib-bin
 include(devpkg-glib)
 glib-dev32
 glib-networking
-glib-networking-lib32
 glibc-bin
 glibc-dev
 glibc-dev32
@@ -344,7 +340,6 @@ glslang
 glslang-bin
 glslang-dev
 include(devpkg-glu)
-glu-dev32
 glusterfs-dev
 gmime
 include(devpkg-gmime)
@@ -440,7 +435,6 @@ jemalloc-dev
 include(joe)
 include(devpkg-json-c)
 json-c-dev32
-include(devpkg-json-glib)
 jsoncpp-dev
 jsonpatch
 jsonschema-python
@@ -522,7 +516,6 @@ libabigail
 include(devpkg-libabigail)
 libaio-dev
 include(devpkg-libarchive)
-include(devpkg-libass)
 include(devpkg-libassuan)
 libatomic_ops-dev
 libatomic_ops-dev32
@@ -605,7 +598,6 @@ libpciaccess-dev32
 include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
-libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
@@ -642,7 +634,6 @@ libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
-libusb-dev32
 include(devpkg-libuser)
 libuv
 include(devpkg-libuv)
@@ -650,7 +641,6 @@ include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
 libvorbis-dev32
-include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -737,7 +727,6 @@ nose
 nose-python
 nosexcover
 nosexcover-python
-not-ffmpeg-dev
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -962,7 +951,6 @@ pickleshare
 pigz
 pinentry
 pip
-include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
 include(devpkg-pkcs11-helper)
@@ -1090,7 +1078,6 @@ requests-kerberos
 requests-mock
 requests-toolbelt
 requests-toolbelt-python
-include(devpkg-rest)
 rfc3986
 rpcbind
 rpm
@@ -1098,7 +1085,6 @@ rpm-dev
 rpm-extras
 include(rsync)
 rtkit
-rtmpdump-dev
 ruby
 ruby-dev
 rust-std32
@@ -1221,7 +1207,6 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
-include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
