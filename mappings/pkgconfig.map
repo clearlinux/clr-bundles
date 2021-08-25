@@ -539,7 +539,6 @@ pkgconfig(valgrind)	devpkg-valgrind
 pkgconfig(videoproto)	devpkg-xorgproto
 pkgconfig(vorbis)	devpkg-libvorbis
 pkgconfig(vpx)	devpkg-libvpx
-pkgconfig(vulkan)	devpkg-Vulkan-Loader
 pkgconfig(wayland-client)	devpkg-wayland
 pkgconfig(wayland-cursor)	devpkg-wayland
 pkgconfig(wayland-egl)	devpkg-wayland

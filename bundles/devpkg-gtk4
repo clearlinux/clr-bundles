@@ -6,7 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-Vulkan-Loader)
 include(devpkg-cairo)
 include(devpkg-fontconfig)
 include(devpkg-gdk-pixbuf)
