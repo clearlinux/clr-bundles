@@ -393,6 +393,7 @@ httpd-dev
 httpd-extras
 hunspell-dev
 include(devpkg-hwloc)
+hypothesis
 hypothesis-python
 ibus
 ibus-dev
@@ -1235,6 +1236,7 @@ xdg-utils
 xerces-c-dev
 xfsprogs-dev
 include(devpkg-xkeyboard-config)
+xmlschema
 include(devpkg-xmlsec1)
 xmlto
 xorg-fonts
