@@ -634,6 +634,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
+liburing-dev
 include(devpkg-libusb)
 include(devpkg-libuser)
 libuv
@@ -963,6 +964,7 @@ pluggy
 pluggy-python
 ply
 include(plzip)
+include(devpkg-pmdk)
 pmix-dev
 include(polkit)
 include(devpkg-polkit)
@@ -1123,6 +1125,7 @@ sonnet-dev
 source-highlight
 include(devpkg-speex)
 speexdsp-dev
+sphinx_rtd_theme
 sphinxcontrib-applehelp
 sphinxcontrib-devhelp
 sphinxcontrib-htmlhelp
@@ -1213,7 +1216,9 @@ include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 vim
+virglrenderer-dev
 virtualenv
+vte-dev
 wayland
 include(devpkg-wayland)
 wayland-dev32

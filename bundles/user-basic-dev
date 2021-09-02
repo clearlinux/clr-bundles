@@ -420,6 +420,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
+liburing-dev
 include(devpkg-libusb)
 include(devpkg-libuser)
 include(devpkg-libuv)
@@ -676,6 +677,7 @@ pluggy
 pluggy-python
 ply
 include(plzip)
+include(devpkg-pmdk)
 include(polkit)
 include(devpkg-polkit)
 include(devpkg-popt)
@@ -735,6 +737,7 @@ snappy-dev
 source-highlight
 include(devpkg-speex)
 speexdsp-dev
+sphinx_rtd_theme
 spice
 spice-dev
 spice-protocol
@@ -797,10 +800,13 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 vim
+virglrenderer-dev
 virtualenv
+vte-dev
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)

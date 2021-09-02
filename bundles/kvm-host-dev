@@ -350,6 +350,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
+liburing-dev
 include(devpkg-libusb)
 include(devpkg-libva)
 libvdpau-dev
@@ -388,6 +389,7 @@ include(nasm)
 nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
+include(devpkg-ndctl)
 include(net-tools)
 netbase
 include(devpkg-nettle)
@@ -433,6 +435,7 @@ pathlib2
 pbr
 include(devpkg-pcre)
 pcre-dev32
+include(devpkg-pcre2)
 pcsc-lite-dev
 pecan
 perl
@@ -452,6 +455,7 @@ pkg-config-dev
 platformdirs
 pluggy
 pluggy-python
+include(devpkg-pmdk)
 include(polkit)
 include(devpkg-polkit)
 include(devpkg-popt)
@@ -473,6 +477,7 @@ python3
 python3-core
 python3-dev
 qemu
+qemu-dev
 qemu-setuid
 include(devpkg-qtbase)
 include(devpkg-qttools)
@@ -501,6 +506,7 @@ six
 snappy-dev
 include(devpkg-speex)
 speexdsp-dev
+sphinx_rtd_theme
 spice
 spice-dev
 spice-protocol
@@ -537,9 +543,12 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
+virglrenderer-dev
 virtualenv
+vte-dev
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
