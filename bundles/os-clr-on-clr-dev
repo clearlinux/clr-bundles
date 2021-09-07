@@ -657,7 +657,6 @@ libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
 linecache2
-linecache2-python
 links
 linux-firmware-wifi
 linux-libc-headers
@@ -1189,7 +1188,6 @@ tox-python
 tpm2-tss-dev
 tqdm
 traceback2
-traceback2-python
 traitlets
 twine
 typed_ast
