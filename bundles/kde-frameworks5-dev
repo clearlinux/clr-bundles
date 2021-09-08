@@ -118,6 +118,7 @@ e2fsprogs-dev32
 e2fsprogs-extras
 include(devpkg-elfutils)
 elfutils-dev32
+include(devpkg-exiv2)
 include(devpkg-expat)
 expat-dev32
 expect
