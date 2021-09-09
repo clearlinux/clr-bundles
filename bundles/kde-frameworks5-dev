@@ -360,6 +360,7 @@ libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsrtp)
+include(devpkg-libssh)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
