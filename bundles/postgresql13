@@ -1,8 +1,8 @@
 # [TITLE]: postgresql13
-# [DESCRIPTION]: No detailed summary available
+# [DESCRIPTION]: Object-relational SQL database, version 13.x
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 
 include(lib-openssl)

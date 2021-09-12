@@ -447,5 +447,5 @@ tgt # The SCSI target daemon and utility programs
 gst-python # No detailed summary available
 ksh # No detailed summary available
 guile # GNU's Ubiquitous Intelligent Language for Extension (uninstalled)
-postgresql13 # No detailed summary available
+postgresql13 # Object-relational SQL database, version 13.x
 podman # Builds Dockerfile using the Docker client 
