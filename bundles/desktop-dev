@@ -673,7 +673,6 @@ include(devpkg-newt)
 include(devpkg-nghttp2)
 nghttp2-dev32
 nose
-nose-python
 not-ffmpeg-dev
 include(devpkg-nspr)
 nss-altfiles

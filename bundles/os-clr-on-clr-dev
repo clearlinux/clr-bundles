@@ -227,6 +227,7 @@ ding-libs-dev
 distlib
 distro
 dmidecode
+include(dnf)
 dnf-plugins-core
 dnsmasq
 dnspython
@@ -273,6 +274,7 @@ fixtures-python
 include(devpkg-flac)
 flac-dev32
 flake8
+flake8-import-order
 include(flex)
 flex-dev
 fltk-dev
@@ -725,7 +727,6 @@ nghttp2-dev32
 ninja
 nodejs
 nose
-nose-python
 nosexcover
 nosexcover-python
 npth-dev
@@ -1076,6 +1077,7 @@ readline-dev32
 recommonmark
 requests
 requests-file
+requests-gssapi
 requests-kerberos
 requests-mock
 requests-toolbelt
@@ -1085,6 +1087,7 @@ rpcbind
 rpm
 rpm-dev
 rpm-extras
+rpm-py-installer
 include(rsync)
 rtkit
 ruby
