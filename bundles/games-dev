@@ -12,6 +12,7 @@ CUnit-dev
 CUnit-dev32
 Cython
 include(devpkg-GConf)
+Imath-dev
 Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32

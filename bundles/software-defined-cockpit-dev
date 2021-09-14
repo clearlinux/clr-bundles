@@ -11,6 +11,7 @@ AVB-AudioModules-dev
 CUnit-dev
 CUnit-dev32
 Cython
+Imath-dev
 Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -87,7 +88,6 @@ include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
-db
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -386,7 +386,6 @@ perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl
 pigz
-pip
 include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
@@ -394,7 +393,6 @@ pkg-config
 pkg-config-dev
 include(devpkg-polkit)
 include(procps-ng)
-procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
@@ -418,7 +416,6 @@ shared-mime-info
 six
 include(devpkg-speex)
 speexdsp-dev
-sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
@@ -433,7 +430,6 @@ tcl
 tcl-dev
 include(texinfo)
 include(devpkg-tiff)
-tk-dev
 include(tzdata)
 include(unzip)
 upower-dev

@@ -374,6 +374,7 @@ grep
 groff
 gsettings-desktop-schemas
 include(devpkg-gsl)
+gssapi
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
