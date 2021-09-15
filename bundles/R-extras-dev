@@ -249,6 +249,7 @@ R-fs
 R-furrr
 R-futile.options
 R-future
+R-future.apply
 R-gamm4
 R-gargle
 R-gclus
@@ -405,7 +406,6 @@ R-parsedate
 R-partitions
 R-party
 R-partykit
-R-patchwork
 R-pbapply
 R-pbdZMQ
 R-pbivnorm
@@ -447,6 +447,7 @@ R-prodlim
 R-profileModel
 R-profmem
 R-progress
+R-progressr
 R-projpred
 R-promises
 R-protolite
