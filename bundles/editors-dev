@@ -58,7 +58,6 @@ netbase
 nss-altfiles
 include(devpkg-openssl)
 include(patch)
-perl
 pigz
 pkg-config
 pkg-config-dev

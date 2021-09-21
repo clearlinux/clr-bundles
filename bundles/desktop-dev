@@ -316,7 +316,7 @@ include(devpkg-gnome-settings-daemon)
 gnome-shell
 include(devpkg-gnome-software)
 gnome-terminal-doc
-gnome-video-effects-data
+include(devpkg-gnome-video-effects)
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
@@ -639,7 +639,7 @@ mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
-mm-common-data
+mm-common-dev
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock

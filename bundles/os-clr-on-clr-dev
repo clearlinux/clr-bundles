@@ -185,8 +185,6 @@ include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
 compat-lua-52-dev
 compat-lua-52-staticdev
-compat-lua-53-dev
-compat-lua-53-staticdev
 confuse-dev
 contextlib2
 coreutils
@@ -210,7 +208,6 @@ include(devpkg-cyrus-sasl)
 dataclasses
 datefudge
 db
-db-dev
 dbus
 dbus-broker
 include(devpkg-dbus)
@@ -218,6 +215,7 @@ dbus-dev32
 include(devpkg-dbus-glib)
 dbus-python
 dbus-python-dev
+debugedit
 decorator
 dejagnu
 desktop-file-utils

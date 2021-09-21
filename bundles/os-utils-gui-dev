@@ -468,7 +468,7 @@ mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
-mm-common-data
+mm-common-dev
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
