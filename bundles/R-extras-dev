@@ -237,7 +237,6 @@ R-flashClust
 R-flexmix
 R-fontBitstreamVera
 R-fontLiberation
-R-fontquiver
 R-forcats
 R-foreach
 R-forecast
@@ -579,7 +578,6 @@ R-strucchange
 R-styler
 R-subplex
 R-survey
-R-svglite
 R-sys
 R-systemfit
 R-systemfonts
