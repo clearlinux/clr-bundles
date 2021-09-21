@@ -542,7 +542,6 @@ pkgconfig(vpx)	devpkg-libvpx
 pkgconfig(wayland-client)	devpkg-wayland
 pkgconfig(wayland-cursor)	devpkg-wayland
 pkgconfig(wayland-egl)	devpkg-wayland
-pkgconfig(wayland-protocols)	devpkg-wayland-protocols
 pkgconfig(wayland-server)	devpkg-wayland
 pkgconfig(webkit2gtk-4.0)	devpkg-webkitgtk
 pkgconfig(x11)	devpkg-libX11
