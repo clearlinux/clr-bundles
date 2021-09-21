@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-gnome-video-effects-data
+gnome-video-effects-dev

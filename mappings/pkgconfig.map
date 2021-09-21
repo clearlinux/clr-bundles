@@ -138,6 +138,7 @@ pkgconfig(gnome-bluetooth-1.0)	devpkg-gnome-bluetooth
 pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
 pkgconfig(gnome-settings-daemon)	devpkg-gnome-settings-daemon
 pkgconfig(gnome-software)	devpkg-gnome-software
+pkgconfig(gnome-video-effects)	devpkg-gnome-video-effects
 pkgconfig(gnutls)	devpkg-gnutls
 pkgconfig(goa-1.0)	devpkg-gnome-online-accounts
 pkgconfig(goa-backend-1.0)	devpkg-gnome-online-accounts
