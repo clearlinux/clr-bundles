@@ -12,6 +12,7 @@ include(python3-basic)
 # included apps
 also-add(baobab)
 also-add(cheese)
+also-add(connections)
 also-add(eog)
 also-add(evince)
 also-add(evolution)
