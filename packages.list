@@ -448,4 +448,5 @@ gst-python # No detailed summary available
 ksh # No detailed summary available
 guile # GNU's Ubiquitous Intelligent Language for Extension (uninstalled)
 postgresql13 # Object-relational SQL database, version 13.x
-podman # Builds Dockerfile using the Docker client 
+podman # Builds Dockerfile using the Docker client
+connections # No detailed summary available 
