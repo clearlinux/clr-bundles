@@ -19,5 +19,6 @@ include(devpkg-libepoxy)
 include(devpkg-libxkbcommon)
 include(devpkg-pango)
 include(devpkg-wayland)
+include(devpkg-wayland-protocols)
 
 gtk4-dev
