@@ -57,6 +57,7 @@ Routes
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SFCGAL-dev
+SVT-AV1-dev
 include(Sphinx)
 Sphinx-python
 VTK-dev
@@ -207,6 +208,7 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 dataclasses
 datefudge
+dav1d-dev
 db
 dbus
 dbus-broker
@@ -521,6 +523,7 @@ include(devpkg-libarchive)
 include(devpkg-libassuan)
 libatomic_ops-dev
 libatomic_ops-dev32
+libavif-dev
 libavtp-dev
 libbpf-dev
 libc6
@@ -1166,6 +1169,7 @@ tcl-dev
 tcl-staticdev
 tdb-dev
 tdb-python3
+templated-dictionary
 tempora
 testrepository
 testresources

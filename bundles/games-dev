@@ -89,6 +89,7 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 cmocka-dev
+include(devpkg-compat-libsoup-soname-24)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -272,6 +273,7 @@ libXxf86dga-dev
 libabigail
 libatomic_ops-dev
 libatomic_ops-dev32
+libavif-dev
 libavtp-dev
 libbpf-dev
 libc6

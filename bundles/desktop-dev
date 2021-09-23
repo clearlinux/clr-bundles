@@ -38,6 +38,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_image)
+SVT-AV1-dev
 include(Sphinx)
 UCD
 Vulkan-Headers-data
@@ -152,6 +153,7 @@ include(devpkg-compat-cairomm-soname10)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-glibmm-soname24)
 compat-libsigc++-soname20-dev
+include(devpkg-compat-libsoup-soname-24)
 include(devpkg-compat-pangomm-soname14)
 coreutils
 coverage
@@ -455,6 +457,7 @@ libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libatomic_ops-dev32
+libavif-dev
 libavtp-dev
 libblockdev
 libblockdev-dev

@@ -21,6 +21,7 @@ Mako-python
 Markdown
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SVT-AV1-dev
 include(Sphinx)
 Thunar-dev
 Vulkan-Headers-dev
@@ -99,6 +100,7 @@ include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-glibmm-soname24)
 compat-libsigc++-soname20-dev
+include(devpkg-compat-libsoup-soname-24)
 include(devpkg-compat-pangomm-soname14)
 coreutils
 coverage
@@ -113,6 +115,7 @@ include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
+dav1d-dev
 db
 dbus
 dbus-broker
@@ -320,6 +323,7 @@ libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libatomic_ops-dev32
+libavif-dev
 libavtp-dev
 libblockdev
 libblockdev-dev

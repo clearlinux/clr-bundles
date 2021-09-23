@@ -15,6 +15,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Pygments
 include(devpkg-SDL)
+SVT-AV1-dev
 include(Sphinx)
 VTK-dev
 Vulkan-Headers-dev
@@ -79,6 +80,7 @@ include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
 datefudge
+dav1d-dev
 db
 include(devpkg-dbus)
 dbus-dev32
@@ -204,6 +206,7 @@ libabigail
 include(devpkg-libarchive)
 libatomic_ops-dev
 libatomic_ops-dev32
+libavif-dev
 libbpf-dev
 libc6
 libc6-dev

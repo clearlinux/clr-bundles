@@ -13,6 +13,7 @@ Cython
 Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
+SVT-AV1-dev
 include(devpkg-acl)
 acl-dev32
 argon2-dev
@@ -49,6 +50,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 datefudge
+dav1d-dev
 db
 include(devpkg-dbus)
 dbus-dev32
@@ -139,6 +141,7 @@ include(devpkg-libXpm)
 include(devpkg-libXt)
 libXt-dev32
 libabigail
+libavif-dev
 libbpf-dev
 libc6
 libc6-dev
