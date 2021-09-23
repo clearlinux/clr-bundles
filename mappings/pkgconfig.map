@@ -411,8 +411,8 @@ pkgconfig(libsflow)	devpkg-openvswitch
 pkgconfig(libsmbios_c)	devpkg-libsmbios
 pkgconfig(libsolv)	devpkg-libsolv
 pkgconfig(libsolvext)	devpkg-libsolv
-pkgconfig(libsoup-2.4)	devpkg-libsoup
-pkgconfig(libsoup-gnome-2.4)	devpkg-libsoup
+pkgconfig(libsoup-2.4)	devpkg-compat-libsoup-soname-24
+pkgconfig(libsoup-gnome-2.4)	devpkg-compat-libsoup-soname-24
 pkgconfig(libspectre)	devpkg-libspectre
 pkgconfig(libsrtp)	devpkg-libsrtp
 pkgconfig(libssh)	devpkg-libssh

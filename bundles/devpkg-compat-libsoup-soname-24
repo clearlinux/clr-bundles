@@ -1,0 +1,16 @@
+# [TITLE]: devpkg-compat-libsoup-soname-24
+# [DESCRIPTION]: All content for pkgconfig file compat-libsoup-soname-24.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-glib)
+include(libglib)
+include(devpkg-libpsl)
+include(devpkg-libxml2)
+include(devpkg-sqlite-autoconf)
+include(devpkg-zlib)
+
+compat-libsoup-soname-24-dev
