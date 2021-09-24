@@ -19,6 +19,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 Markdown
+include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SVT-AV1-dev
@@ -323,7 +324,7 @@ libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libatomic_ops-dev32
-libavif-dev
+include(devpkg-libavif)
 libavtp-dev
 libblockdev
 libblockdev-dev

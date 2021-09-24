@@ -141,7 +141,7 @@ include(devpkg-libXpm)
 include(devpkg-libXt)
 libXt-dev32
 libabigail
-libavif-dev
+include(devpkg-libavif)
 libbpf-dev
 libc6
 libc6-dev

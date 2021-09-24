@@ -34,6 +34,7 @@ PyQt5
 PySocks
 PyYAML
 Pygments
+include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32
@@ -457,7 +458,7 @@ libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libatomic_ops-dev32
-libavif-dev
+include(devpkg-libavif)
 libavtp-dev
 libblockdev
 libblockdev-dev

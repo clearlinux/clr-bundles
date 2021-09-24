@@ -336,7 +336,7 @@ include(devpkg-libarchive)
 include(devpkg-libassuan)
 libatomic_ops-dev
 libatomic_ops-dev32
-libavif-dev
+include(devpkg-libavif)
 libbpf-dev
 libc6
 libc6-dev
