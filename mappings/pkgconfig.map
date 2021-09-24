@@ -231,6 +231,7 @@ pkgconfig(libass)	devpkg-libass
 pkgconfig(libassuan)	devpkg-libassuan
 pkgconfig(libatasmart)	devpkg-libatasmart
 pkgconfig(libattr)	devpkg-attr
+pkgconfig(libavif)	devpkg-libavif
 pkgconfig(libbrotlicommon)	devpkg-brotli
 pkgconfig(libbrotlidec)	devpkg-brotli
 pkgconfig(libbrotlienc)	devpkg-brotli
