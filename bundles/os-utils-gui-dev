@@ -103,6 +103,7 @@ include(devpkg-compat-glibmm-soname24)
 compat-libsigc++-soname20-dev
 include(devpkg-compat-libsoup-soname-24)
 include(devpkg-compat-pangomm-soname14)
+include(devpkg-compat-webkitgtk-soname40)
 coreutils
 coverage
 cppcheck
@@ -764,7 +765,6 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 webencodings
-include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
 xauth
