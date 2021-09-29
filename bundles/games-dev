@@ -394,6 +394,7 @@ lmdb-dev
 lxml
 include(devpkg-lz4)
 lz4-dev32
+lzo-dev
 m4
 include(make)
 include(devpkg-mediasdk)

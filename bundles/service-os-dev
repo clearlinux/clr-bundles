@@ -212,6 +212,7 @@ linux-libc-headers
 lxml
 include(devpkg-lz4)
 lz4-dev32
+lzo-dev
 m4
 include(make)
 mingw-gcc

@@ -1063,7 +1063,7 @@ xf86-video-vesa
 xkbcomp-bin
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
-xmlb-dev
+include(devpkg-xmlb)
 xmlto
 xorg-fonts
 xorg-server
