@@ -8,5 +8,6 @@
 include(devpkg-base)
 include(devpkg-xz)
 include(devpkg-zlib)
+include(devpkg-zstd)
 
 elfutils-dev
