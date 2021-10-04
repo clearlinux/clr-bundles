@@ -687,6 +687,7 @@ include(devpkg-md4c)
 media-player-info
 include(devpkg-mediasdk)
 memkind-dev
+mercurial
 include(devpkg-mesa)
 mesa-dev32
 meson
