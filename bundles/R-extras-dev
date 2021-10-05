@@ -62,6 +62,7 @@ R-MatrixModels
 R-ModelMetrics
 R-NADA
 R-NLP
+R-ParamHelpers
 R-R.cache
 R-R.methodsS3
 R-R.oo
@@ -75,6 +76,7 @@ R-RCurl
 R-RJSONIO
 R-RNeXML
 R-ROCR
+R-ROSE
 R-RSQLite
 R-RUnit
 R-RandomFieldsUtils
@@ -369,6 +371,7 @@ R-misc3d
 R-miscTools
 R-mitools
 R-mlbench
+R-mlr
 R-mnormt
 R-mockery
 R-mockr
@@ -399,6 +402,7 @@ R-pROC
 R-packrat
 R-palmerpenguins
 R-pander
+R-parallelMap
 R-parallelly
 R-parsedate
 R-partitions
@@ -588,6 +592,7 @@ R-terra
 R-testthat
 R-textshaping
 R-tfruns
+R-themis
 R-threejs
 R-tibble
 R-tidyr
@@ -602,10 +607,12 @@ R-tm
 R-tmvnsim
 R-toOrdinal
 R-triebeard
+R-trtf
 R-truncnorm
 R-tseries
 R-tzdb
 R-ucminf
+R-unbalanced
 R-units
 R-urca
 R-urltools
