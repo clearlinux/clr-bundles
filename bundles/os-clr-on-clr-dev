@@ -1226,6 +1226,7 @@ vim
 virglrenderer-dev
 virtualenv
 vte-dev
+watchdog
 wayland
 include(devpkg-wayland)
 wayland-dev32

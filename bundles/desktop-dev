@@ -1032,6 +1032,7 @@ virtualenv
 volume_key-dev
 vpnc
 vte-dev
+watchdog
 wavpack-dev
 include(devpkg-wayland)
 wayland-dev32
