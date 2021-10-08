@@ -8,5 +8,6 @@
 include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
+include(devpkg-xz)
 
 xmlb-dev
