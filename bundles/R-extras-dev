@@ -48,7 +48,6 @@ R-FNN
 R-Formula
 R-GGally
 R-GPArotation
-R-GetoptLong
 R-GlobalOptions
 R-Guerry
 R-Hmisc
@@ -62,7 +61,6 @@ R-MatrixModels
 R-ModelMetrics
 R-NADA
 R-NLP
-R-ParamHelpers
 R-R.cache
 R-R.methodsS3
 R-R.oo
@@ -76,7 +74,6 @@ R-RCurl
 R-RJSONIO
 R-RNeXML
 R-ROCR
-R-ROSE
 R-RSQLite
 R-RUnit
 R-RandomFieldsUtils
@@ -259,6 +256,7 @@ R-generics
 R-geometry
 R-gert
 R-getopt
+R-ggfortify
 R-ggplot2
 R-ggplot2movies
 R-ggridges
@@ -401,7 +399,6 @@ R-pROC
 R-packrat
 R-palmerpenguins
 R-pander
-R-parallelMap
 R-parallelly
 R-parsedate
 R-partitions
@@ -477,7 +474,6 @@ R-ratelimitr
 R-rbenchmark
 R-rbibutils
 R-rcmdcheck
-R-rcorpora
 R-reactR
 R-readr
 R-readstata13
@@ -502,7 +498,6 @@ R-rhandsontable
 R-rio
 R-ritis
 R-rjags
-R-rjson
 R-rlang
 R-rmarkdown
 R-rms
@@ -510,6 +505,7 @@ R-rmutil
 R-rncl
 R-rngWELL
 R-rngtools
+R-robustHD
 R-robustbase
 R-rootSolve
 R-rotl
@@ -526,7 +522,6 @@ R-rstudioapi
 R-rversions
 R-rvest
 R-s2
-R-sROC
 R-sandwich
 R-sass
 R-scales
@@ -611,7 +606,6 @@ R-truncnorm
 R-tseries
 R-tzdb
 R-ucminf
-R-unbalanced
 R-units
 R-urca
 R-urltools
