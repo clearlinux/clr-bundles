@@ -24,14 +24,12 @@ Mako-python
 MarkupSafe
 R
 R-AER
-R-AmesHousing
 R-BBmisc
 R-BH
 R-BMA
 R-BMS
 R-BiasedUrn
 R-Brobdingnag
-R-C50
 R-CVST
 R-Cairo
 R-Cubist
@@ -105,7 +103,6 @@ R-ade4
 R-adegenet
 R-adegraphics
 R-adephylo
-R-adespatial
 R-analogue
 R-ape
 R-arm
@@ -201,7 +198,6 @@ R-dynamicTreeCut
 R-dynlm
 R-e1071
 R-ecodist
-R-effects
 R-ellipse
 R-ellipsis
 R-elliptic
@@ -397,7 +393,6 @@ R-optimx
 R-ordinal
 R-pROC
 R-packrat
-R-palmerpenguins
 R-pander
 R-parallelly
 R-parsedate
@@ -510,7 +505,6 @@ R-robustbase
 R-rootSolve
 R-rotl
 R-roxygen2
-R-rpart.plot
 R-rprojroot
 R-rrcov
 R-rredlist
@@ -590,7 +584,6 @@ R-themis
 R-threejs
 R-tibble
 R-tidyr
-R-tidyrules
 R-tidyselect
 R-tidyverse
 R-timeDate
@@ -601,7 +594,6 @@ R-tm
 R-tmvnsim
 R-toOrdinal
 R-triebeard
-R-trtf
 R-truncnorm
 R-tseries
 R-tzdb
@@ -717,6 +709,7 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 include(devpkg-compat-fuse-soname2)
+compat-gcc-10-dev
 coreutils
 coverage
 cppunit-dev
@@ -1241,6 +1234,7 @@ pulseaudio-dev32
 py
 py-python
 pycparser
+include(pygobject)
 pytest
 python3
 python3-core

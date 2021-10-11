@@ -1032,6 +1032,7 @@ python-mimeparse
 python-mock
 python-mock-python
 python-multilib
+python-rpm-packaging
 python-subunit
 python3
 python3-core

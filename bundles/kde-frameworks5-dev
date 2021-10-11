@@ -490,6 +490,7 @@ pulseaudio-dev32
 py
 py-python
 pycparser
+include(pygobject)
 pytest
 python-dbusmock
 python3

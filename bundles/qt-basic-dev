@@ -390,6 +390,7 @@ pulseaudio-dev32
 py
 py-python
 pycparser
+include(pygobject)
 pytest
 python3
 python3-core
