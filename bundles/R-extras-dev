@@ -32,7 +32,6 @@ R-BiasedUrn
 R-Brobdingnag
 R-CVST
 R-Cairo
-R-Cubist
 R-DBI
 R-DEoptim
 R-DEoptimR
@@ -101,8 +100,6 @@ R-abind
 R-actuar
 R-ade4
 R-adegenet
-R-adegraphics
-R-adephylo
 R-analogue
 R-ape
 R-arm
@@ -364,7 +361,6 @@ R-misc3d
 R-miscTools
 R-mitools
 R-mlbench
-R-mlr
 R-mnormt
 R-mockery
 R-mockr
@@ -405,6 +401,7 @@ R-pbivnorm
 R-pbkrtest
 R-pcaPP
 R-permute
+R-perry
 R-phangorn
 R-phylobase
 R-phytools
