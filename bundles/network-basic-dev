@@ -112,7 +112,6 @@ glibc-utils
 gmp-dev
 gmp-dev32
 gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
