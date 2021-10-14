@@ -216,6 +216,7 @@ include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
+ell-dev
 emacs
 include(devpkg-enchant)
 eog-dev

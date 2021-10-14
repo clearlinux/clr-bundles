@@ -742,7 +742,9 @@ e2fsprogs-extras
 include(devpkg-eigen)
 include(devpkg-elfutils)
 elfutils-dev32
+ell-dev
 emacs
+include(devpkg-evolution-data-server)
 include(devpkg-expat)
 expat-dev32
 expect

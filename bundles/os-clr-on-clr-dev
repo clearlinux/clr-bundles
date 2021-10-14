@@ -254,8 +254,10 @@ include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
+ell-dev
 emacs
 include(devpkg-enchant)
+include(devpkg-evolution-data-server)
 execnet
 include(devpkg-exiv2)
 include(devpkg-expat)
