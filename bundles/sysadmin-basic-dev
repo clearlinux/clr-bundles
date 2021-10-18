@@ -198,6 +198,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+include(llvm)
 lxml
 include(devpkg-lz4)
 lz4-dev32
@@ -377,12 +378,10 @@ include(devpkg-readline)
 readline-dev32
 ruby
 sed
-setuptools
 sg3_utils-dev
 shadow
 shadow-dev
 shared-mime-info
-six
 slang-dev
 include(strace)
 swig
