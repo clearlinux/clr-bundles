@@ -446,6 +446,7 @@ jsonpatch
 jsonschema-python
 jupyter_client
 jupyter_core
+kactivities-dev
 karchive-dev
 kauth
 kauth-dev
@@ -460,7 +461,9 @@ kcrash-dev
 kdbusaddons-dev
 kdeclarative-dev
 kded-dev
+kdelibs4support-dev
 kdesignerplugin-dev
+kdesu-dev
 kdoctools-dev
 kemoticons-dev
 kerberos
@@ -490,6 +493,7 @@ ktextwidgets-dev
 kubernetes
 kunitconversion-dev
 kwallet-dev
+kwayland-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
@@ -520,6 +524,9 @@ include(devpkg-libXvMC)
 libXvMC-dev32
 libabigail
 include(devpkg-libabigail)
+libaccounts-glib
+libaccounts-glib-dev
+libaccounts-qt-dev
 libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libassuan)
@@ -964,6 +971,7 @@ include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
 pkginfo
+plasma-wayland-protocols-dev
 platformdirs
 pluggy
 pluggy-python
@@ -1060,6 +1068,7 @@ include(devpkg-qtlocation)
 qtmultimedia-dev
 qtquickcontrols
 qtquickcontrols2
+qtquickcontrols2-dev
 qtscript-dev
 qtscxml-dev
 qtsensors-dev
@@ -1119,6 +1128,7 @@ setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
+signond-dev
 sip
 sip-dev
 six
@@ -1236,6 +1246,8 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
 webencodings
+weston
+weston-dev
 include(wget)
 wheel
 include(which)
