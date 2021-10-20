@@ -1091,5 +1091,6 @@ zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
+zstd-bin
 include(devpkg-zstd)
 zstd-dev32
