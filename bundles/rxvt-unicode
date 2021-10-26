@@ -1,8 +1,8 @@
 # [TITLE]: rxvt-unicode
-# [DESCRIPTION]: No detailed summary available
+# [DESCRIPTION]: A lightweight VT102 terminal emulator for the X window system
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)
