@@ -440,6 +440,7 @@ libvorbis-dev32
 include(devpkg-libwebp)
 libwnck-dev
 include(devpkg-libwnck3)
+libxcvt-dev
 libxfce4ui-dev
 libxfce4util-dev
 libxfce4util-lib
