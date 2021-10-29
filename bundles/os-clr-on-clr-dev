@@ -739,8 +739,6 @@ nghttp2-dev32
 ninja
 nodejs
 nose
-nosexcover
-nosexcover-python
 npth-dev
 include(devpkg-nspr)
 nss-altfiles

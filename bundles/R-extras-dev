@@ -137,7 +137,6 @@ R-car
 R-carData
 R-cellranger
 R-checkmate
-R-circlize
 R-classInt
 R-cli
 R-clipr
@@ -157,7 +156,6 @@ R-config
 R-conquer
 R-contfrac
 R-corpcor
-R-corrplot
 R-covr
 R-cpp11
 R-crayon
@@ -191,7 +189,6 @@ R-downlit
 R-dplyr
 R-dtplyr
 R-dygraphs
-R-dynamicTreeCut
 R-dynlm
 R-e1071
 R-ecodist
