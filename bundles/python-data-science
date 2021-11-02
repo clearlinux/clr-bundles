@@ -38,4 +38,4 @@ plotly
 
 
 # IDE
-also-add(spyder-ide)
+#also-add(spyder-ide)
