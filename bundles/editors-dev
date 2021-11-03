@@ -74,6 +74,7 @@ include(devpkg-systemd)
 systemd-lib
 tar
 include(unzip)
+include(devpkg-valgrind)
 include(which)
 include(xz)
 include(devpkg-xz)
