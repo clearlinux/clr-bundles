@@ -138,6 +138,7 @@ include(devpkg-brotli)
 brotlipy
 bsdiff-dev
 btrfs-progs-dev
+build-python
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
