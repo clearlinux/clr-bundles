@@ -450,4 +450,5 @@ guile # GNU's Ubiquitous Intelligent Language for Extension (uninstalled)
 postgresql13 # Object-relational SQL database, version 13.x
 podman # Builds Dockerfile using the Docker client
 connections # No detailed summary available
-postgresql14 # No detailed summary available 
+postgresql14 # No detailed summary available
+yq # Command-line YAML/XML processor - jq wrapper for YAML/XML documents 
