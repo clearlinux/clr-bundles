@@ -1213,8 +1213,6 @@ typed_ast
 typing_extensions
 include(tzdata)
 unicodedata2
-unittest2
-unittest2-python
 unixODBC-dev
 include(unzip)
 urllib3

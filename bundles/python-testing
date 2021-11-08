@@ -31,7 +31,6 @@ pytest-timeout
 pytest-xdist
 python-mock
 traceback2
-unittest2
 
 
 #
