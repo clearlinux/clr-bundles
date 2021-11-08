@@ -604,6 +604,7 @@ include(devpkg-libvpx)
 include(devpkg-libwacom)
 include(devpkg-libwebp)
 include(devpkg-libwnck3)
+libxcvt
 include(devpkg-libxcvt)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
