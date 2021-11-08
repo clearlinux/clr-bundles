@@ -10,7 +10,7 @@ include(computer-vision-models)
 include(computer-vision-openvino)
 also-add(python-extras)
 include(python-data-science)
-include(machine-learning-tensorflow)
+#include(machine-learning-tensorflow)
 
 #
 # Key ML frameworks and tools
@@ -19,7 +19,7 @@ include(machine-learning-tensorflow)
 clinfo
 darkflow
 #intel-compute-runtime
-tensorflow
+#tensorflow
 
 # support packages
 
