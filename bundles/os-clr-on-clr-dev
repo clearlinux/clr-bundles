@@ -281,6 +281,7 @@ flake8
 flake8-import-order
 include(flex)
 flex-dev
+flit_core
 fltk-dev
 include(devpkg-fmt)
 include(devpkg-font-util)
