@@ -956,7 +956,6 @@ setuptools
 setuptools-python
 setuptools-rust
 setuptools_scm
-setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info

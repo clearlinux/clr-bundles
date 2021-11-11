@@ -801,6 +801,7 @@ include(devpkg-pcre2)
 pcsc-lite
 pcsc-lite-dev
 pecan
+pep517
 pep8-python
 perl
 perl-Algorithm-Diff-perl
@@ -1124,7 +1125,6 @@ setuptools
 setuptools-python
 setuptools-rust
 setuptools_scm
-setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
