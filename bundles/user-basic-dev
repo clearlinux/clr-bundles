@@ -183,6 +183,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+flit_core
 include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)

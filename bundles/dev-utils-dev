@@ -109,6 +109,7 @@ filelock
 include(findutils)
 include(flex)
 flex-dev
+flit_core
 fontconfig-data
 include(devpkg-fontconfig)
 include(devpkg-freeglut)

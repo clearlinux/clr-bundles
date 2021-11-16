@@ -238,6 +238,7 @@ flake8
 include(devpkg-flatpak)
 include(flex)
 flex-dev
+flit_core
 fltk-dev
 include(devpkg-font-util)
 font-util-dev32
