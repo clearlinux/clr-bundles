@@ -29,7 +29,6 @@ statsmodels
 #
 
 gensim
-nltk
 seaborn
 
 # misc tools to support the above
