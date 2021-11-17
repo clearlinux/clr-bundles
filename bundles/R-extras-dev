@@ -1324,6 +1324,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 webencodings
 include(wget)
+wheel
 include(which)
 xauth
 xcb-proto

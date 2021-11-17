@@ -545,6 +545,7 @@ include(devpkg-valgrind)
 vim
 virtualenv
 include(wget)
+wheel
 include(which)
 xauth
 xcb-proto

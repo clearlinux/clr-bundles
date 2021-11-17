@@ -765,6 +765,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 webencodings
+wheel
 include(which)
 include(devpkg-woff2)
 xauth

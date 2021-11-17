@@ -475,6 +475,7 @@ util-macros-dev32
 include(valgrind)
 include(devpkg-valgrind)
 virtualenv
+wheel
 include(which)
 xauth
 xcb-proto

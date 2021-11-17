@@ -815,6 +815,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
+wheel
 include(which)
 wireshark
 wireshark-dev
