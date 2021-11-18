@@ -571,6 +571,7 @@ R-tensorflow
 R-terra
 R-testthat
 R-textshaping
+R-tfautograph
 R-tfruns
 R-themis
 R-threejs
