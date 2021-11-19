@@ -745,7 +745,6 @@ udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
 include(unzip)
-usrbinvi
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

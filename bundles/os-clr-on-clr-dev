@@ -1220,7 +1220,6 @@ urllib3
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
 usrbinpython
-usrbinvi
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
