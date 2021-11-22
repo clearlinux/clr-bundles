@@ -61,6 +61,7 @@ SFCGAL-dev
 SVT-AV1-dev
 include(Sphinx)
 Sphinx-python
+Sphinx-python3
 VTK-dev
 Vulkan-Headers-data
 Vulkan-Headers-dev
@@ -183,6 +184,7 @@ collectd-dev
 colorama
 include(devpkg-colord)
 commonmark
+commonmark-python3
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
@@ -192,6 +194,7 @@ confuse-dev
 contextlib2
 coreutils
 coverage
+coverage-python3
 cppcheck
 cppunit-dev
 cracklib-dev
@@ -238,6 +241,7 @@ docbook-xml
 docopt
 include(docutils)
 docutils-python
+docutils-python3
 include(dosfstools)
 double-conversion-dev
 include(doxygen)
@@ -741,6 +745,7 @@ nghttp2-dev32
 ninja
 nodejs
 nose
+nose-python3
 npth-dev
 include(devpkg-nspr)
 nss-altfiles

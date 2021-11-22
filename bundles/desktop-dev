@@ -159,6 +159,7 @@ include(devpkg-compat-pangomm-soname14)
 include(devpkg-compat-webkitgtk-soname40)
 coreutils
 coverage
+coverage-python3
 cppcheck
 cracklib-dev
 include(cryptography)
@@ -630,7 +631,6 @@ lxml
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
-m17n-lib
 m4
 include(make)
 man-db
@@ -681,6 +681,7 @@ include(devpkg-newt)
 include(devpkg-nghttp2)
 nghttp2-dev32
 nose
+nose-python3
 not-ffmpeg-dev
 include(devpkg-nspr)
 nss-altfiles
