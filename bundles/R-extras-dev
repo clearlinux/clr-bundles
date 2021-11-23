@@ -435,7 +435,6 @@ R-prodlim
 R-profileModel
 R-progress
 R-progressr
-R-projpred
 R-promises
 R-protolite
 R-proxy
@@ -892,7 +891,6 @@ libatomic_ops-dev32
 libbpf-dev
 libc6
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)

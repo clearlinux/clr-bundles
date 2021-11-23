@@ -52,6 +52,7 @@ PyQt5
 PySocks
 PyYAML
 Pygments
+Pygments-python3
 R
 include(devpkg-R)
 Routes
@@ -545,7 +546,6 @@ libc6
 libc6-dev
 libcacard-dev
 include(devpkg-libcanberra)
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -985,6 +985,7 @@ ply
 include(plzip)
 include(devpkg-pmdk)
 pmix-dev
+poetry-core-python3
 include(polkit)
 include(devpkg-polkit)
 polkit-qt-dev

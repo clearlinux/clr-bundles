@@ -158,7 +158,6 @@ include(devpkg-libassuan)
 libbpf-dev
 libc6
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -292,6 +291,7 @@ tk
 tk-dev
 include(tzdata)
 include(unzip)
+include(devpkg-userspace-rcu)
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

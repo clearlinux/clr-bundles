@@ -13,7 +13,7 @@ Cython
 Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
-Pygments
+Pygments-python3
 include(devpkg-SDL)
 SVT-AV1-dev
 include(Sphinx)
@@ -210,7 +210,6 @@ include(devpkg-libavif)
 libbpf-dev
 libc6
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -306,7 +305,6 @@ nettle-dev32
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
-nose
 nss-altfiles
 include(devpkg-numactl)
 onig-dev

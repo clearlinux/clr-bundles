@@ -151,7 +151,6 @@ libaio-dev
 include(devpkg-libassuan)
 libbpf-dev
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)

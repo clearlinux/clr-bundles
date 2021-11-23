@@ -472,7 +472,6 @@ libbytesize-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -1000,6 +999,7 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 toml
+tomli
 tornado
 tox
 tpm2-tss-dev

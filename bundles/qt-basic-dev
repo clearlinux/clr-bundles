@@ -231,7 +231,6 @@ libatomic_ops-dev
 libatomic_ops-dev32
 libbpf-dev
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)

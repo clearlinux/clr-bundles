@@ -99,7 +99,6 @@ kmod-dev32
 libabigail
 libbpf-dev
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
