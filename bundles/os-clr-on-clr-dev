@@ -183,6 +183,7 @@ cmd2
 cmocka-dev
 collectd-dev
 colorama
+colorama-python3
 include(devpkg-colord)
 commonmark
 commonmark-python3
@@ -287,6 +288,7 @@ flake8-import-order
 include(flex)
 flex-dev
 flit_core
+flit_core-python3
 fltk-dev
 include(devpkg-fmt)
 include(devpkg-font-util)
@@ -417,6 +419,7 @@ idna
 idna-python
 imagesize
 importlib_metadata
+importlib_metadata-python3
 influxdb
 iniconfig
 inih-dev
@@ -475,6 +478,7 @@ kdoctools-dev
 kemoticons-dev
 kerberos
 keyring
+keyring-python3
 keyutils-dev
 kglobalaccel
 kglobalaccel-dev
@@ -803,7 +807,6 @@ pcre
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
-pcsc-lite
 pcsc-lite-dev
 pecan
 pep517
@@ -969,14 +972,13 @@ phonon-dev
 php-dev
 pickleshare
 pigz
-pinentry
 pip
 include(devpkg-pixman)
 pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
-pkginfo
+pkginfo-python3
 plasma-wayland-protocols-dev
 platformdirs
 pluggy
@@ -986,7 +988,6 @@ include(plzip)
 include(devpkg-pmdk)
 pmix-dev
 poetry-core-python3
-include(polkit)
 include(devpkg-polkit)
 polkit-qt-dev
 include(poppler)
@@ -1096,15 +1097,18 @@ include(devpkg-rdma-core)
 re2c
 include(devpkg-readline)
 readline-dev32
+readme_renderer-python3
 recommonmark
 requests
 requests-file
 requests-gssapi
 requests-kerberos
 requests-mock
+requests-python3
 requests-toolbelt
 requests-toolbelt-python
-rfc3986
+requests-toolbelt-python3
+rfc3986-python3
 rpcbind
 rpm
 rpm-dev
@@ -1129,8 +1133,10 @@ selenium
 serf-dev
 setuptools
 setuptools-python
+setuptools-python3
 setuptools-rust
 setuptools_scm
+setuptools_scm-python3
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -1213,6 +1219,7 @@ tox
 tox-python
 tpm2-tss-dev
 tqdm
+tqdm-python3
 traceback2
 traitlets
 twine
@@ -1253,9 +1260,9 @@ weston
 weston-dev
 include(wget)
 wheel
+wheel-python3
 include(which)
 wireshark
-wireshark-dev
 include(devpkg-woff2)
 include(devpkg-xapian-core)
 xauth

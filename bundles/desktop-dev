@@ -146,6 +146,7 @@ cmrt
 include(devpkg-cmrt)
 include(devpkg-cogl)
 colorama
+colorama-python3
 colord
 include(devpkg-colord)
 colord-gtk-dev
@@ -386,6 +387,7 @@ idna-python
 igt-gpu-tools-dev
 imagescan
 importlib_metadata
+importlib_metadata-python3
 intel-gmmlib-dev
 intel-ipsec-mb-dev
 intel-media-driver-dev
@@ -418,6 +420,7 @@ jupyter_client
 jupyter_core
 kdoctools-dev
 keyring
+keyring-python3
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -871,7 +874,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
-pkginfo
+pkginfo-python3
 platformdirs
 pluggy
 pluggy-python
@@ -934,12 +937,15 @@ include(devpkg-qttools)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
+readme_renderer-python3
 requests
 requests-file
+requests-python3
 requests-toolbelt
 requests-toolbelt-python
+requests-toolbelt-python3
 include(devpkg-rest)
-rfc3986
+rfc3986-python3
 rtkit
 rtmpdump-dev
 ruby
@@ -955,8 +961,10 @@ secretstorage
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools-rust
 setuptools_scm
+setuptools_scm-python3
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -1003,7 +1011,7 @@ tomli
 tornado
 tox
 tpm2-tss-dev
-tqdm
+tqdm-python3
 tracker-dev
 traitlets
 twine
@@ -1046,6 +1054,7 @@ webencodings
 include(webkitgtk)
 include(devpkg-webkitgtk)
 wheel
+wheel-python3
 include(which)
 include(devpkg-woff2)
 xauth

@@ -454,7 +454,6 @@ platformdirs
 pluggy
 pluggy-python
 include(devpkg-pmdk)
-include(polkit)
 include(devpkg-polkit)
 include(devpkg-popt)
 portaudio-dev
@@ -554,7 +553,6 @@ wayland-protocols-dev32
 wheel
 include(which)
 wireshark
-wireshark-dev
 xauth
 xcb-proto
 include(devpkg-xcb-proto)

@@ -679,7 +679,6 @@ pluggy-python
 ply
 include(plzip)
 include(devpkg-pmdk)
-include(polkit)
 include(devpkg-polkit)
 include(devpkg-popt)
 portaudio-dev
@@ -816,7 +815,6 @@ include(wget)
 wheel
 include(which)
 wireshark
-wireshark-dev
 include(devpkg-xapian-core)
 xauth
 xcb-proto
