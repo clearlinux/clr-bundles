@@ -99,7 +99,6 @@ buildreq-qmake
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
-c-ares-dev
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)
@@ -116,13 +115,10 @@ clr-rpm-config
 cmake
 cmd2
 cmocka-dev
-collectd-dev
 colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
-compat-lua-52-dev
-compat-lua-52-staticdev
 confuse-dev
 coreutils
 cppcheck
@@ -172,7 +168,6 @@ execnet
 include(devpkg-expat)
 expat-dev32
 expect
-extra-cmake-modules
 extras
 fcgi-dev
 include(devpkg-fftw)
@@ -681,7 +676,6 @@ include(plzip)
 include(devpkg-pmdk)
 include(devpkg-polkit)
 include(devpkg-popt)
-portaudio-dev
 include(devpkg-postgresql)
 prettytable
 processor-trace-dev
@@ -706,7 +700,6 @@ python3-staticdev
 qemu
 qemu-setuid
 include(devpkg-qtbase)
-include(devpkg-qttools)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
@@ -814,7 +807,6 @@ wayland-protocols-dev32
 include(wget)
 wheel
 include(which)
-wireshark
 include(devpkg-xapian-core)
 xauth
 xcb-proto

@@ -181,7 +181,6 @@ cmake
 cmarkgfm
 cmd2
 cmocka-dev
-collectd-dev
 colorama
 colorama-python3
 include(devpkg-colord)
@@ -190,8 +189,6 @@ commonmark-python3
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
-compat-lua-52-dev
-compat-lua-52-staticdev
 confuse-dev
 contextlib2
 coreutils
@@ -994,7 +991,6 @@ include(poppler)
 poppler-dev
 poppler-extras
 include(devpkg-popt)
-portaudio-dev
 include(devpkg-postgresql)
 potrace-dev
 ppp
@@ -1262,7 +1258,6 @@ include(wget)
 wheel
 wheel-python3
 include(which)
-wireshark
 include(devpkg-woff2)
 include(devpkg-xapian-core)
 xauth
