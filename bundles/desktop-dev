@@ -957,7 +957,6 @@ sane-backends-dev
 sassc
 sbc-dev
 sbc-dev32
-secretstorage
 sed
 setuptools
 setuptools-python
@@ -1021,7 +1020,6 @@ include(tzdata)
 udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
-unicodedata2
 include(unzip)
 upower-dev
 urllib3

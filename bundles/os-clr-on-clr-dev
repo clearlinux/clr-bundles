@@ -1123,7 +1123,6 @@ sbc-dev32
 sbsigntools
 scikit-learn
 scipy
-secretstorage
 sed
 selenium
 serf-dev
@@ -1222,7 +1221,6 @@ twine
 typed_ast
 typing_extensions
 include(tzdata)
-unicodedata2
 unixODBC-dev
 include(unzip)
 urllib3
