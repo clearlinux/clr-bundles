@@ -9,3 +9,4 @@ linux
 #linux-aws
 rng-tools
 rng-tools-autostart
+init-rdahead
