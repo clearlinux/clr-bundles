@@ -17,6 +17,7 @@ include(perl-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
 include(Babel)
+Babel-python3
 CGAL-dev
 CUnit
 CUnit-dev
@@ -78,7 +79,7 @@ acl-bin
 include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
-alabaster
+alabaster-python3
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
@@ -117,6 +118,7 @@ automake
 automake-dev
 babeltrace-dev
 backcall
+backcall-python3
 backports.ssl_match_hostname
 bash
 bash-completion
@@ -223,6 +225,7 @@ dbus-python
 dbus-python-dev
 debugedit
 decorator
+decorator-python3
 dejagnu
 desktop-file-utils
 dhcp
@@ -284,7 +287,6 @@ flake8
 flake8-import-order
 include(flex)
 flex-dev
-flit_core
 flit_core-python3
 fltk-dev
 include(devpkg-fmt)
@@ -415,6 +417,7 @@ icu4c-dev32
 idna
 idna-python
 imagesize
+imagesize-python3
 importlib_metadata
 importlib_metadata-python3
 influxdb
@@ -442,7 +445,7 @@ isodate
 itsdangerous
 itsdangerous-python
 include(devpkg-jansson)
-jedi
+jedi-python3
 jeepney
 jemalloc-dev
 include(joe)
@@ -695,7 +698,7 @@ m4
 include(make)
 man-db
 include(devpkg-mariadb)
-matplotlib-inline
+matplotlib-inline-python3
 mccabe
 mccabe-python
 include(devpkg-md4c)
@@ -789,6 +792,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
+packaging-python3
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
@@ -967,7 +971,7 @@ perl-perl
 pexpect
 phonon-dev
 php-dev
-pickleshare
+pickleshare-python3
 pigz
 pip
 include(devpkg-pixman)
@@ -1004,6 +1008,7 @@ procps-ng-bin
 proj
 include(devpkg-proj)
 prompt_toolkit
+prompt_toolkit-python3
 protobuf-dev
 psutil
 psycopg2
@@ -1039,7 +1044,6 @@ pytest-xdist
 python-dateutil
 python-dbusmock
 python-dotenv
-python-future
 python-memcached
 python-mimeparse
 python-mock
@@ -1144,19 +1148,20 @@ smartcols
 smmap
 snappy-dev
 sniffio
-snowballstemmer
+snowballstemmer-python3
 solid-dev
 sonnet-dev
 source-highlight
 include(devpkg-speex)
 speexdsp-dev
 sphinx_rtd_theme
-sphinxcontrib-applehelp
-sphinxcontrib-devhelp
-sphinxcontrib-htmlhelp
-sphinxcontrib-jsmath
-sphinxcontrib-qthelp
+sphinxcontrib-applehelp-python3
+sphinxcontrib-devhelp-python3
+sphinxcontrib-htmlhelp-python3
+sphinxcontrib-jsmath-python3
+sphinxcontrib-qthelp-python3
 sphinxcontrib-serializinghtml
+sphinxcontrib-serializinghtml-python3
 sphinxcontrib-websupport
 spice
 spice-dev
@@ -1213,10 +1218,10 @@ tornado
 tox
 tox-python
 tpm2-tss-dev
-tqdm
 tqdm-python3
 traceback2
 traitlets
+traitlets-python3
 twine
 typed_ast
 typing_extensions
@@ -1249,6 +1254,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
+wcwidth-python3
 webencodings
 weston
 weston-dev

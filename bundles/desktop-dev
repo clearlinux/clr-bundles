@@ -34,6 +34,7 @@ PyQt5
 PySocks
 PyYAML
 Pygments
+Pygments-python3
 include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -87,6 +88,7 @@ automake-dev
 include(devpkg-avahi)
 include(devpkg-babl)
 backcall
+backcall-python3
 backports.ssl_match_hostname
 bash-completion-dev
 bats
@@ -192,6 +194,7 @@ dbus-python-dev
 dconf
 dconf-dev
 decorator
+decorator-python3
 dejagnu
 dejavu-fonts
 desktop-file-utils
@@ -240,7 +243,7 @@ flake8
 include(devpkg-flatpak)
 include(flex)
 flex-dev
-flit_core
+flit_core-python3
 fltk-dev
 include(devpkg-font-util)
 font-util-dev32
@@ -409,7 +412,7 @@ itsdangerous-python
 itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
-jedi
+jedi-python3
 jeepney
 jemalloc-dev
 include(devpkg-json-c)
@@ -637,7 +640,7 @@ m4
 include(make)
 man-db
 include(devpkg-mariadb)
-matplotlib-inline
+matplotlib-inline-python3
 mccabe
 mccabe-python
 include(devpkg-md4c)
@@ -866,7 +869,7 @@ perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
 pexpect
-pickleshare
+pickleshare-python3
 pigz
 pip
 include(devpkg-pipewire)
@@ -891,6 +894,7 @@ pretend
 include(procps-ng)
 procps-ng-bin
 prompt_toolkit
+prompt_toolkit-python3
 protobuf-dev
 psmisc
 psutil
@@ -1006,13 +1010,13 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 toml
-tomli
 tornado
 tox
 tpm2-tss-dev
 tqdm-python3
 tracker-dev
 traitlets
+traitlets-python3
 twine
 typed_ast
 typing_extensions
@@ -1048,6 +1052,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
+wcwidth-python3
 webencodings
 include(webkitgtk)
 include(devpkg-webkitgtk)

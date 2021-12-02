@@ -178,7 +178,6 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
-flit_core
 include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
@@ -460,7 +459,6 @@ mpfr-dev
 msmtp
 mtdev-dev
 mypy
-mypy_extensions
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -688,7 +686,6 @@ include(devpkg-pulseaudio)
 py
 py-python
 pyOpenSSL
-pycodestyle
 pycparser
 pyparsing
 pytest
@@ -720,6 +717,7 @@ scipy
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 sg3_utils-dev
 shadow
@@ -774,14 +772,10 @@ include(devpkg-tiff)
 tk
 tk-dev
 tokyocabinet-dev
-toml
 tox
 tox-python
 tpm2-tss-dev
-tqdm
 traceback2
-typed_ast
-typing_extensions
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)
@@ -806,6 +800,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
 wheel
+wheel-python3
 include(which)
 include(devpkg-xapian-core)
 xauth
