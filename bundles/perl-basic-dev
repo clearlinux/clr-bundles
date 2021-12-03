@@ -150,7 +150,6 @@ lz4-dev32
 include(make)
 mpc-dev
 mpfr-dev
-msmtp
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)

@@ -1004,7 +1004,6 @@ mkfontscale-bin
 include(modules)
 mpc-dev
 mpfr-dev
-msmtp
 mtdev-dev
 munge-dev
 include(nasm)
@@ -1263,6 +1262,7 @@ sbc-dev32
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 shadow
 shared-mime-info
@@ -1320,6 +1320,7 @@ wayland-protocols-dev32
 webencodings
 include(wget)
 wheel
+wheel-python3
 include(which)
 xauth
 xcb-proto

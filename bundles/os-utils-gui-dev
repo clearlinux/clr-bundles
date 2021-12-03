@@ -477,7 +477,6 @@ mm-common-dev
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
-msmtp
 mtdev-dev
 include(nasm)
 nasm-bin
@@ -701,6 +700,7 @@ sbc-dev32
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 shadow
 shared-mime-info
@@ -762,6 +762,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 webencodings
 wheel
+wheel-python3
 include(which)
 include(devpkg-woff2)
 xauth

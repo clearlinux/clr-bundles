@@ -210,7 +210,6 @@ include(make)
 mingw-gcc
 mpc-dev
 mpfr-dev
-msmtp
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)

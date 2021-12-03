@@ -195,7 +195,6 @@ confuse-dev
 contextlib2
 coreutils
 coverage
-coverage-python3
 cppcheck
 cppunit-dev
 cracklib-dev
@@ -725,7 +724,6 @@ include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
-msmtp
 mtdev-dev
 munge-dev
 mypy
@@ -749,7 +747,6 @@ nghttp2-dev32
 ninja
 nodejs
 nose
-nose-python3
 npth-dev
 include(devpkg-nspr)
 nss-altfiles

@@ -456,7 +456,6 @@ more-itertools
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
-msmtp
 mtdev-dev
 mypy
 include(nasm)

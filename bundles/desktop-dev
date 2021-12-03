@@ -134,8 +134,6 @@ include(devpkg-cheese)
 chrpath
 clear-font
 click
-clr-bundle-icons
-clr-bundle-screenshots
 clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
@@ -162,7 +160,6 @@ include(devpkg-compat-pangomm-soname14)
 include(devpkg-compat-webkitgtk-soname40)
 coreutils
 coverage
-coverage-python3
 cppcheck
 cracklib-dev
 include(cryptography)
@@ -319,7 +316,6 @@ gnome-getting-started-docs
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
-gnome-screensaver
 gnome-session
 gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
@@ -660,7 +656,6 @@ include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
-msmtp
 mtdev-dev
 mutter
 mutter-data
@@ -686,7 +681,6 @@ include(devpkg-newt)
 include(devpkg-nghttp2)
 nghttp2-dev32
 nose
-nose-python3
 not-ffmpeg-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -1054,7 +1048,6 @@ wayland-protocols-dev32
 wcwidth
 wcwidth-python3
 webencodings
-include(webkitgtk)
 include(devpkg-webkitgtk)
 wheel
 wheel-python3

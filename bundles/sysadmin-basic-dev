@@ -142,7 +142,6 @@ include(devpkg-libX11)
 libX11-dev32
 libabigail
 libaio-dev
-libatomic_ops-dev
 libbpf-dev
 libc6-dev
 include(devpkg-libcap)
@@ -207,7 +206,6 @@ include(make)
 man-db
 mpc-dev
 mpfr-dev
-msmtp
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)

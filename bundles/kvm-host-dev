@@ -488,6 +488,7 @@ scipy
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 shadow
 shared-mime-info
@@ -543,6 +544,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wheel
+wheel-python3
 include(which)
 xauth
 xcb-proto
