@@ -312,7 +312,6 @@ include(devpkg-gnome-bluetooth)
 gnome-common-dev
 gnome-control-center-dev
 include(devpkg-gnome-desktop)
-gnome-getting-started-docs
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
@@ -1092,7 +1091,6 @@ yajl-dev
 yaml-dev
 include(yasm)
 yelp-dev
-yelp-xsl
 yelp-xsl-dev
 include(zenity)
 zipp
