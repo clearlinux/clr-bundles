@@ -94,6 +94,7 @@ argon2-dev
 armadillo-data
 asciidoc
 asgiref
+asgiref-python3
 asn1crypto-python
 include(aspell)
 aspell-dev
@@ -176,7 +177,6 @@ clear-font
 click
 clr-avx-tools
 clr-hardware-files
-clr-python-timestamp
 clr-rpm-config
 include(devpkg-clutter)
 cmake
@@ -423,7 +423,6 @@ influxdb
 iniconfig
 inih-dev
 iniparse
-intel-ipsec-mb
 intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
@@ -1169,6 +1168,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 sqlparse
+sqlparse-python3
 sssd-dev
 startup-notification
 include(devpkg-startup-notification)

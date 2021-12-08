@@ -171,7 +171,6 @@ help2man
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
-intel-ipsec-mb
 intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
