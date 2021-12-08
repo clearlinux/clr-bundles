@@ -451,4 +451,5 @@ postgresql13 # Object-relational SQL database, version 13.x
 podman # Builds Dockerfile using the Docker client
 connections # No detailed summary available
 postgresql14 # No detailed summary available
-yq # Command-line YAML/XML processor - jq wrapper for YAML/XML documents 
+yq # Command-line YAML/XML processor - jq wrapper for YAML/XML documents
+growpart # Extends a partition to fill available space
