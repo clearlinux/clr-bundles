@@ -10,6 +10,5 @@ include(python3-basic)
 
 clr-fwupd-hooks
 fwupd
-include(fwupdate)
 libsoup
 include(polkit)
