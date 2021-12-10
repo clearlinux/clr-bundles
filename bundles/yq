@@ -1,15 +1,15 @@
-# [TITLE]: spyder-ide
-# [DESCRIPTION]: Integrated development environment for scientific programming
+# [TITLE]: yq
+# [DESCRIPTION]: Command-line YAML/XML processor - jq wrapper for YAML/XML documents
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 
 include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
-#spyder-kernels
+
 # end of custom additions
 
 # main package
-#spyder-ide
+yq

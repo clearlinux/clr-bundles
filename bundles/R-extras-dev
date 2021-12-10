@@ -135,9 +135,9 @@ R-calibrator
 R-callr
 R-car
 R-carData
+R-caret
 R-cellranger
 R-checkmate
-R-circlize
 R-classInt
 R-cli
 R-clipr
@@ -157,7 +157,6 @@ R-config
 R-conquer
 R-contfrac
 R-corpcor
-R-corrplot
 R-covr
 R-cpp11
 R-crayon
@@ -191,7 +190,6 @@ R-downlit
 R-dplyr
 R-dtplyr
 R-dygraphs
-R-dynamicTreeCut
 R-dynlm
 R-e1071
 R-ecodist
@@ -241,7 +239,6 @@ R-furrr
 R-futile.options
 R-future
 R-future.apply
-R-gamm4
 R-gargle
 R-gclus
 R-gdata
@@ -385,8 +382,6 @@ R-numDeriv
 R-openssl
 R-openxlsx
 R-optextras
-R-optimx
-R-ordinal
 R-pROC
 R-packrat
 R-pander
@@ -437,7 +432,6 @@ R-prodlim
 R-profileModel
 R-progress
 R-progressr
-R-projpred
 R-promises
 R-protolite
 R-proxy
@@ -485,7 +479,6 @@ R-rex
 R-rgenoud
 R-rgl
 R-rhandsontable
-R-rio
 R-ritis
 R-rjags
 R-rlang
@@ -574,13 +567,13 @@ R-tensorflow
 R-terra
 R-testthat
 R-textshaping
+R-tfautograph
 R-tfruns
 R-themis
 R-threejs
 R-tibble
 R-tidyr
 R-tidyselect
-R-tidyverse
 R-timeDate
 R-timeSeries
 R-tinytex
@@ -894,7 +887,6 @@ libatomic_ops-dev32
 libbpf-dev
 libc6
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -1012,7 +1004,6 @@ mkfontscale-bin
 include(modules)
 mpc-dev
 mpfr-dev
-msmtp
 mtdev-dev
 munge-dev
 include(nasm)
@@ -1271,6 +1262,7 @@ sbc-dev32
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 shadow
 shared-mime-info
@@ -1327,6 +1319,8 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 webencodings
 include(wget)
+wheel
+wheel-python3
 include(which)
 xauth
 xcb-proto

@@ -151,7 +151,6 @@ libabigail
 libbpf-dev
 libc6
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -219,7 +218,6 @@ include(make)
 mingw-gcc
 mpc-dev
 mpfr-dev
-msmtp
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)

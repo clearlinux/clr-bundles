@@ -34,6 +34,7 @@ PyQt5
 PySocks
 PyYAML
 Pygments
+Pygments-python3
 include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -87,6 +88,7 @@ automake-dev
 include(devpkg-avahi)
 include(devpkg-babl)
 backcall
+backcall-python3
 backports.ssl_match_hostname
 bash-completion-dev
 bats
@@ -132,8 +134,6 @@ include(devpkg-cheese)
 chrpath
 clear-font
 click
-clr-bundle-icons
-clr-bundle-screenshots
 clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
@@ -146,6 +146,7 @@ cmrt
 include(devpkg-cmrt)
 include(devpkg-cogl)
 colorama
+colorama-python3
 colord
 include(devpkg-colord)
 colord-gtk-dev
@@ -190,6 +191,7 @@ dbus-python-dev
 dconf
 dconf-dev
 decorator
+decorator-python3
 dejagnu
 dejavu-fonts
 desktop-file-utils
@@ -238,6 +240,7 @@ flake8
 include(devpkg-flatpak)
 include(flex)
 flex-dev
+flit_core-python3
 fltk-dev
 include(devpkg-font-util)
 font-util-dev32
@@ -309,11 +312,9 @@ include(devpkg-gnome-bluetooth)
 gnome-common-dev
 gnome-control-center-dev
 include(devpkg-gnome-desktop)
-gnome-getting-started-docs
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
-gnome-screensaver
 gnome-session
 gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
@@ -384,6 +385,7 @@ idna-python
 igt-gpu-tools-dev
 imagescan
 importlib_metadata
+importlib_metadata-python3
 intel-gmmlib-dev
 intel-ipsec-mb-dev
 intel-media-driver-dev
@@ -405,7 +407,7 @@ itsdangerous-python
 itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
-jedi
+jedi-python3
 jeepney
 jemalloc-dev
 include(devpkg-json-c)
@@ -416,6 +418,7 @@ jupyter_client
 jupyter_core
 kdoctools-dev
 keyring
+keyring-python3
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -470,7 +473,6 @@ libbytesize-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -604,6 +606,8 @@ include(devpkg-libvpx)
 include(devpkg-libwacom)
 include(devpkg-libwebp)
 include(devpkg-libwnck3)
+libxcvt
+include(devpkg-libxcvt)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxkbfile)
@@ -627,12 +631,11 @@ lxml
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
-m17n-lib
 m4
 include(make)
 man-db
 include(devpkg-mariadb)
-matplotlib-inline
+matplotlib-inline-python3
 mccabe
 mccabe-python
 include(devpkg-md4c)
@@ -652,7 +655,6 @@ include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
-msmtp
 mtdev-dev
 mutter
 mutter-data
@@ -860,7 +862,7 @@ perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
 pexpect
-pickleshare
+pickleshare-python3
 pigz
 pip
 include(devpkg-pipewire)
@@ -868,7 +870,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
-pkginfo
+pkginfo-python3
 platformdirs
 pluggy
 pluggy-python
@@ -885,6 +887,7 @@ pretend
 include(procps-ng)
 procps-ng-bin
 prompt_toolkit
+prompt_toolkit-python3
 protobuf-dev
 psmisc
 psutil
@@ -931,12 +934,15 @@ include(devpkg-qttools)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
+readme_renderer-python3
 requests
 requests-file
+requests-python3
 requests-toolbelt
 requests-toolbelt-python
+requests-toolbelt-python3
 include(devpkg-rest)
-rfc3986
+rfc3986-python3
 rtkit
 rtmpdump-dev
 ruby
@@ -948,13 +954,13 @@ sane-backends-dev
 sassc
 sbc-dev
 sbc-dev32
-secretstorage
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools-rust
 setuptools_scm
-setuptools_scm-python
+setuptools_scm-python3
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -1000,9 +1006,10 @@ toml
 tornado
 tox
 tpm2-tss-dev
-tqdm
+tqdm-python3
 tracker-dev
 traitlets
+traitlets-python3
 twine
 typed_ast
 typing_extensions
@@ -1010,7 +1017,6 @@ include(tzdata)
 udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
-unicodedata2
 include(unzip)
 upower-dev
 urllib3
@@ -1039,10 +1045,11 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
+wcwidth-python3
 webencodings
-include(webkitgtk)
 include(devpkg-webkitgtk)
 wheel
+wheel-python3
 include(which)
 include(devpkg-woff2)
 xauth
@@ -1084,7 +1091,6 @@ yajl-dev
 yaml-dev
 include(yasm)
 yelp-dev
-yelp-xsl
 yelp-xsl-dev
 include(zenity)
 zipp

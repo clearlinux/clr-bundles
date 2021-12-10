@@ -336,7 +336,6 @@ libbytesize-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -440,6 +439,7 @@ libvorbis-dev32
 include(devpkg-libwebp)
 libwnck-dev
 include(devpkg-libwnck3)
+include(devpkg-libxcvt)
 libxfce4ui-dev
 libxfce4util-dev
 libxfce4util-lib
@@ -477,7 +477,6 @@ mm-common-dev
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
-msmtp
 mtdev-dev
 include(nasm)
 nasm-bin
@@ -521,7 +520,6 @@ pathlib2
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
-pcsc-lite
 pcsc-lite-dev
 perl
 perl-B-Hooks-EndOfScope-perl
@@ -655,7 +653,6 @@ perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
 pigz
-pinentry
 pip
 include(devpkg-pixman)
 pixman-dev32
@@ -703,6 +700,7 @@ sbc-dev32
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 shadow
 shared-mime-info
@@ -744,7 +742,6 @@ udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
 include(unzip)
-usrbinvi
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
@@ -764,6 +761,8 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 webencodings
+wheel
+wheel-python3
 include(which)
 include(devpkg-woff2)
 xauth

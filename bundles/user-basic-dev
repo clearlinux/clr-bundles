@@ -32,7 +32,7 @@ Markdown
 OpenSP
 PyJWT
 PyYAML
-Pygments
+Pygments-python3
 Routes
 include(devpkg-SDL)
 SVT-AV1-dev
@@ -99,7 +99,6 @@ buildreq-qmake
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
-c-ares-dev
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)
@@ -116,13 +115,10 @@ clr-rpm-config
 cmake
 cmd2
 cmocka-dev
-collectd-dev
 colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
-compat-lua-52-dev
-compat-lua-52-staticdev
 confuse-dev
 coreutils
 cppcheck
@@ -172,7 +168,6 @@ execnet
 include(devpkg-expat)
 expat-dev32
 expect
-extra-cmake-modules
 extras
 fcgi-dev
 include(devpkg-fftw)
@@ -278,7 +273,6 @@ idna
 imagesize
 influxdb
 inih-dev
-intel-ipsec-mb
 intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
@@ -340,7 +334,6 @@ libbpf-dev
 libc6
 libc6-dev
 libcacard-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -462,10 +455,8 @@ more-itertools
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
-msmtp
 mtdev-dev
 mypy
-mypy_extensions
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -480,7 +471,6 @@ nfs-utils-dev
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
-nose
 include(devpkg-nspr)
 nss-altfiles
 nss-bin
@@ -680,10 +670,8 @@ pluggy-python
 ply
 include(plzip)
 include(devpkg-pmdk)
-include(polkit)
 include(devpkg-polkit)
 include(devpkg-popt)
-portaudio-dev
 include(devpkg-postgresql)
 prettytable
 processor-trace-dev
@@ -696,7 +684,6 @@ include(devpkg-pulseaudio)
 py
 py-python
 pyOpenSSL
-pycodestyle
 pycparser
 pyparsing
 pytest
@@ -708,7 +695,6 @@ python3-staticdev
 qemu
 qemu-setuid
 include(devpkg-qtbase)
-include(devpkg-qttools)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
@@ -729,6 +715,7 @@ scipy
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 sg3_utils-dev
 shadow
@@ -783,14 +770,10 @@ include(devpkg-tiff)
 tk
 tk-dev
 tokyocabinet-dev
-toml
 tox
 tox-python
 tpm2-tss-dev
-tqdm
 traceback2
-typed_ast
-typing_extensions
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)
@@ -814,9 +797,9 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
+wheel
+wheel-python3
 include(which)
-wireshark
-wireshark-dev
 include(devpkg-xapian-core)
 xauth
 xcb-proto

@@ -474,6 +474,7 @@ pkgconfig(libwnck-3.0)	devpkg-libwnck3
 pkgconfig(libwoff2common)	devpkg-woff2
 pkgconfig(libwoff2dec)	devpkg-woff2
 pkgconfig(libwoff2enc)	devpkg-woff2
+pkgconfig(libxcvt)	devpkg-libxcvt
 pkgconfig(libxdot)	devpkg-graphviz
 pkgconfig(libxklavier)	devpkg-libxklavier
 pkgconfig(libxml-2.0)	devpkg-libxml2

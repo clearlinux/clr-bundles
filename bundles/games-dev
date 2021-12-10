@@ -281,7 +281,6 @@ libbpf-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -407,7 +406,6 @@ mobile-broadband-provider-info-dev
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
-msmtp
 mtdev-dev
 include(nasm)
 nasm-bin
@@ -620,6 +618,7 @@ sbc-dev32
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 shadow
 shared-mime-info
@@ -669,6 +668,8 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wheel
+wheel-python3
 include(which)
 include(devpkg-woff2)
 xauth

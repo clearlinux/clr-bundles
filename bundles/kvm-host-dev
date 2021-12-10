@@ -73,14 +73,12 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
-buildreq-kde
 buildreq-meson
 buildreq-nginx
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
-c-ares-dev
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)
@@ -94,11 +92,8 @@ clear-font
 clr-rpm-config
 cmake
 cmd2
-collectd-dev
 colorama
 include(devpkg-compat-fuse-soname2)
-compat-lua-52-dev
-compat-lua-52-staticdev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -140,7 +135,6 @@ execnet
 include(devpkg-expat)
 expat-dev32
 expect
-extra-cmake-modules
 fcgi-dev
 include(devpkg-fftw)
 file-dev
@@ -278,7 +272,6 @@ libbpf-dev
 libc6
 libc6-dev
 libcacard-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -455,10 +448,8 @@ platformdirs
 pluggy
 pluggy-python
 include(devpkg-pmdk)
-include(polkit)
 include(devpkg-polkit)
 include(devpkg-popt)
-portaudio-dev
 prettytable
 include(procps-ng)
 procps-ng-bin
@@ -479,7 +470,6 @@ qemu
 qemu-dev
 qemu-setuid
 include(devpkg-qtbase)
-include(devpkg-qttools)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
@@ -498,6 +488,7 @@ scipy
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 shadow
 shared-mime-info
@@ -552,9 +543,9 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wheel
+wheel-python3
 include(which)
-wireshark
-wireshark-dev
 xauth
 xcb-proto
 include(devpkg-xcb-proto)

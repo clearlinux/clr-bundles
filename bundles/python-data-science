@@ -29,7 +29,6 @@ statsmodels
 #
 
 gensim
-nltk
 seaborn
 
 # misc tools to support the above
@@ -38,4 +37,4 @@ plotly
 
 
 # IDE
-also-add(spyder-ide)
+#also-add(spyder-ide)

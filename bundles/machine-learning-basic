@@ -16,7 +16,7 @@ include(python-data-science)
 include(computer-vision-basic)
 include(machine-learning-mycroft)
 include(machine-learning-pytorch)
-include(machine-learning-tensorflow)
+#include(machine-learning-tensorflow)
 
 scikit-learn
 Theano
@@ -50,7 +50,7 @@ include(graphviz)
 h5py
 hdf5-dev
 hdf5-dev
-Keras
+#Keras
 leveldb-dev
 include(devpkg-libjpeg-turbo)
 lmdb-dev

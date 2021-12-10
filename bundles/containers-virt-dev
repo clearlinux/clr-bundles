@@ -158,7 +158,6 @@ include(devpkg-libassuan)
 libbpf-dev
 libc6
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -247,14 +246,12 @@ patchelf
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
-pcsc-lite
 pcsc-lite-dev
 perl-Error
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl
 pigz
-pinentry
 pip
 include(devpkg-pixman)
 pixman-dev32
@@ -292,6 +289,7 @@ tk
 tk-dev
 include(tzdata)
 include(unzip)
+include(devpkg-userspace-rcu)
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

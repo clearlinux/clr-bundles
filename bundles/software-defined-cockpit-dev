@@ -239,7 +239,6 @@ libavtp-dev
 libbpf-dev
 libc6
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -413,6 +412,7 @@ sassc
 sbc-dev
 sbc-dev32
 sed
+setuptools-python3
 shadow
 shared-mime-info
 six
@@ -452,6 +452,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wheel-python3
 include(which)
 xauth
 xcb-proto

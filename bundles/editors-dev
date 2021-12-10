@@ -58,6 +58,7 @@ netbase
 nss-altfiles
 include(devpkg-openssl)
 include(patch)
+include(devpkg-pcre2)
 pigz
 pkg-config
 pkg-config-dev
@@ -73,6 +74,7 @@ include(devpkg-systemd)
 systemd-lib
 tar
 include(unzip)
+include(devpkg-valgrind)
 include(which)
 include(xz)
 include(devpkg-xz)

@@ -13,7 +13,7 @@ Cython
 Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
-Pygments
+Pygments-python3
 include(devpkg-SDL)
 SVT-AV1-dev
 include(Sphinx)
@@ -65,7 +65,6 @@ cffi
 check-dev
 clr-rpm-config
 cmake
-colorama
 commonmark
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
@@ -172,7 +171,6 @@ help2man
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
-intel-ipsec-mb
 intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
@@ -209,7 +207,6 @@ include(devpkg-libavif)
 libbpf-dev
 libc6
 libc6-dev
-libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -291,9 +288,6 @@ include(devpkg-metrics-discovery)
 mingw-gcc
 mpc-dev
 mpfr-dev
-msmtp
-mypy
-mypy_extensions
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -305,7 +299,6 @@ nettle-dev32
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
-nose
 nss-altfiles
 include(devpkg-numactl)
 onig-dev
@@ -476,7 +469,6 @@ procps-ng-bin
 protobuf-dev
 py
 py-python
-pycodestyle
 pycparser
 pytest
 python3
@@ -493,6 +485,7 @@ scdoc-dev
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools_scm
 shadow
 shared-mime-info
@@ -523,13 +516,9 @@ include(texlive)
 include(devpkg-tiff)
 tk
 tk-dev
-toml
 tox
-tqdm
 trace-cmd-dev
 traceback2
-typed_ast
-typing_extensions
 include(tzdata)
 include(unzip)
 util-linux
@@ -544,6 +533,8 @@ include(devpkg-valgrind)
 vim
 virtualenv
 include(wget)
+wheel
+wheel-python3
 include(which)
 xauth
 xcb-proto
