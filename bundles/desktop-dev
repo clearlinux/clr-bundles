@@ -12,6 +12,7 @@ include(Babel)
 CUnit-dev
 CUnit-dev32
 Cython
+Cython-python3
 Flask
 ImageMagick
 Imath-dev
@@ -97,7 +98,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-bleach
+bleach-python3
 include(devpkg-bluez)
 include(devpkg-boost)
 include(devpkg-brotli)
@@ -125,7 +126,6 @@ caribou-dev
 certifi
 cffi
 cffi-python
-chardet
 charset-normalizer
 check
 check-dev
@@ -140,7 +140,6 @@ include(devpkg-clutter)
 include(devpkg-clutter-gst)
 clutter-gtk-dev
 cmake
-cmarkgfm
 cmocka-dev
 cmrt
 include(devpkg-cmrt)
@@ -165,7 +164,6 @@ cracklib-dev
 include(cryptography)
 cryptography_vectors
 include(devpkg-cryptsetup)
-cssselect
 ctags
 cups
 include(devpkg-cups)
@@ -205,6 +203,7 @@ dnspython
 include(docbook-utils)
 docbook-xml
 include(docutils)
+docutils-python3
 double-conversion-dev
 include(doxygen)
 e2fsprogs

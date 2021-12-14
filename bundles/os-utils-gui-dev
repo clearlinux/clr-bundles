@@ -11,6 +11,7 @@ include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+Cython-python3
 FreeRDP-dev
 Jinja2-python3
 LVM2
@@ -82,7 +83,6 @@ include(devpkg-cairo)
 include(devpkg-cairomm)
 ccid
 cffi
-chardet
 check-dev
 check-dev32
 chrpath
@@ -109,7 +109,6 @@ coverage
 cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
-cssselect
 ctags
 include(devpkg-cups)
 include(curl)
@@ -259,7 +258,6 @@ include(gzip)
 include(devpkg-harfbuzz)
 help2man
 hostname
-html5lib
 hunspell-dev
 ibus
 ibus-dev
@@ -760,7 +758,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-webencodings
 wheel
 wheel-python3
 include(which)

@@ -12,6 +12,7 @@ CGAL-dev
 CUnit-dev
 CUnit-dev32
 Cython
+Cython-python3
 include(devpkg-ImageMagick)
 Imath-dev
 JAGS-dev
@@ -309,7 +310,6 @@ R-labelled
 R-laeken
 R-lamW
 R-lambda.r
-R-languageR
 R-lars
 R-later
 R-latticeExtra
@@ -687,7 +687,6 @@ bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 cffi
-chardet
 check-dev
 check-dev32
 chrpath
@@ -704,7 +703,6 @@ cppunit-dev
 cracklib-dev
 include(devpkg-cryptsetup)
 cscope
-cssselect
 ctags
 include(devpkg-cups)
 include(devpkg-curl)
@@ -835,7 +833,6 @@ include(devpkg-harfbuzz)
 hdf5-dev
 help2man
 hostname
-html5lib
 include(devpkg-hwloc)
 ibus
 ibus-dev
@@ -1317,7 +1314,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-webencodings
 include(wget)
 wheel
 wheel-python3

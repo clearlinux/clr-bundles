@@ -106,6 +106,7 @@ ccid
 ceph-dev
 certifi
 cffi
+cffi-python3
 check
 check-dev
 check-dev32
