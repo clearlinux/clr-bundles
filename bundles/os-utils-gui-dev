@@ -318,18 +318,15 @@ libabigail
 libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libassuan)
-libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
 libavtp-dev
-libblockdev
 libblockdev-dev
 libbpf-dev
 include(devpkg-libbsd)
 libburn-dev
-libbytesize
 libbytesize-dev
 libc6
 libc6-dev
@@ -374,7 +371,6 @@ libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
 include(devpkg-libinput)
-libiscsi
 include(devpkg-libiscsi)
 libisofs-dev
 include(devpkg-libjpeg-turbo)
@@ -416,7 +412,6 @@ include(devpkg-libsoup)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
-libstoragemgmt
 include(devpkg-libstoragemgmt)
 include(devpkg-libtasn1)
 libtasn1-dev32

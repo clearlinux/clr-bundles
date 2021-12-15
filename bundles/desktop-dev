@@ -314,8 +314,6 @@ include(devpkg-gnome-desktop)
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
-gnome-session
-gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
 gnome-shell
 include(devpkg-gnome-software)
@@ -367,7 +365,6 @@ gvfs-dev
 include(gzip)
 include(devpkg-harfbuzz)
 help2man
-hicolor-icon-theme
 hostname
 html5lib
 hunspell-dev
@@ -457,17 +454,14 @@ libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libass)
 include(devpkg-libassuan)
-libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
 libavtp-dev
-libblockdev
 libblockdev-dev
 libbpf-dev
 include(devpkg-libbsd)
-libbytesize
 libbytesize-dev
 libc6
 libc6-dev
@@ -522,7 +516,6 @@ include(devpkg-libidn2)
 libidn2-dev32
 libindicator-dev
 include(devpkg-libinput)
-libiscsi
 include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
@@ -581,7 +574,6 @@ include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
-libstoragemgmt
 include(devpkg-libstoragemgmt)
 include(devpkg-libtasn1)
 libtasn1-dev32
