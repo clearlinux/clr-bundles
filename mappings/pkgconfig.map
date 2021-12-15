@@ -217,6 +217,7 @@ pkgconfig(iso-codes)	devpkg-iso-codes
 pkgconfig(jack)	devpkg-jack2
 pkgconfig(jansson)	devpkg-jansson
 pkgconfig(javascriptcoregtk-4.0)	devpkg-compat-webkitgtk-soname40
+pkgconfig(jcat)	devpkg-libjcat
 pkgconfig(json-c)	devpkg-json-c
 pkgconfig(json-glib-1.0)	devpkg-json-glib
 pkgconfig(kbproto)	devpkg-xorgproto
