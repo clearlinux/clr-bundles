@@ -1052,13 +1052,7 @@ xdg-dbus-proxy
 xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-utils
-xf86-input-libinput
 include(devpkg-xf86-input-wacom)
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-fbdev
-xf86-video-nouveau
-xf86-video-vesa
 xkbcomp-bin
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)

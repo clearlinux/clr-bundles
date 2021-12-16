@@ -764,13 +764,7 @@ xcursorgen
 xdg-dbus-proxy
 xdg-utils
 xf86-input-evdev-dev
-xf86-input-libinput
 xf86-input-synaptics-dev
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-fbdev
-xf86-video-nouveau
-xf86-video-vesa
 xfce4-dev-tools
 xfce4-panel-dev
 xfconf-dev
@@ -786,7 +780,6 @@ include(devpkg-xrdp)
 xset
 include(devpkg-xtrans)
 xtrans-dev32
-xwayland
 include(xz)
 include(devpkg-xz)
 xz-dev32
