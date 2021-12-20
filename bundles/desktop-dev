@@ -12,6 +12,7 @@ include(Babel)
 CUnit-dev
 CUnit-dev32
 Cython
+Cython-python3
 Flask
 ImageMagick
 Imath-dev
@@ -97,7 +98,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-bleach
+bleach-python3
 include(devpkg-bluez)
 include(devpkg-boost)
 include(devpkg-brotli)
@@ -125,7 +126,6 @@ caribou-dev
 certifi
 cffi
 cffi-python
-chardet
 charset-normalizer
 check
 check-dev
@@ -140,7 +140,6 @@ include(devpkg-clutter)
 include(devpkg-clutter-gst)
 clutter-gtk-dev
 cmake
-cmarkgfm
 cmocka-dev
 cmrt
 include(devpkg-cmrt)
@@ -165,7 +164,6 @@ cracklib-dev
 include(cryptography)
 cryptography_vectors
 include(devpkg-cryptsetup)
-cssselect
 ctags
 cups
 include(devpkg-cups)
@@ -205,6 +203,7 @@ dnspython
 include(docbook-utils)
 docbook-xml
 include(docutils)
+docutils-python3
 double-conversion-dev
 include(doxygen)
 e2fsprogs
@@ -315,8 +314,6 @@ include(devpkg-gnome-desktop)
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
-gnome-session
-gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
 gnome-shell
 include(devpkg-gnome-software)
@@ -368,7 +365,6 @@ gvfs-dev
 include(gzip)
 include(devpkg-harfbuzz)
 help2man
-hicolor-icon-theme
 hostname
 html5lib
 hunspell-dev
@@ -458,17 +454,14 @@ libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libass)
 include(devpkg-libassuan)
-libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
 libavtp-dev
-libblockdev
 libblockdev-dev
 libbpf-dev
 include(devpkg-libbsd)
-libbytesize
 libbytesize-dev
 libc6
 libc6-dev
@@ -523,7 +516,6 @@ include(devpkg-libidn2)
 libidn2-dev32
 libindicator-dev
 include(devpkg-libinput)
-libiscsi
 include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
@@ -582,7 +574,6 @@ include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
-libstoragemgmt
 include(devpkg-libstoragemgmt)
 include(devpkg-libtasn1)
 libtasn1-dev32
@@ -1061,13 +1052,7 @@ xdg-dbus-proxy
 xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-utils
-xf86-input-libinput
 include(devpkg-xf86-input-wacom)
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-fbdev
-xf86-video-nouveau
-xf86-video-vesa
 xkbcomp-bin
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)

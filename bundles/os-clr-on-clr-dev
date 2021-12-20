@@ -25,6 +25,7 @@ CUnit-dev32
 Cheetah3
 CherryPy
 Cython
+Cython-python3
 Django
 Flask
 Imath-dev
@@ -134,7 +135,7 @@ binutils-dev
 binutils-staticdev
 include(bison)
 bison-dev
-bleach
+bleach-python3
 include(devpkg-bluez)
 include(devpkg-boost)
 boto3
@@ -168,7 +169,7 @@ ceph-dev
 certifi
 cffi
 cffi-python
-chardet
+cffi-python3
 charset-normalizer
 check
 check-dev
@@ -180,7 +181,6 @@ clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 cmake
-cmarkgfm
 cmd2
 cmocka-dev
 colorama
@@ -202,7 +202,6 @@ include(cryptography)
 cryptography_vectors
 include(devpkg-cryptsetup)
 cscope
-cssselect
 ctags
 cups
 include(devpkg-cups)

@@ -11,6 +11,7 @@ include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+Cython-python3
 FreeRDP-dev
 Jinja2-python3
 LVM2
@@ -82,7 +83,6 @@ include(devpkg-cairo)
 include(devpkg-cairomm)
 ccid
 cffi
-chardet
 check-dev
 check-dev32
 chrpath
@@ -109,7 +109,6 @@ coverage
 cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
-cssselect
 ctags
 include(devpkg-cups)
 include(curl)
@@ -259,7 +258,6 @@ include(gzip)
 include(devpkg-harfbuzz)
 help2man
 hostname
-html5lib
 hunspell-dev
 ibus
 ibus-dev
@@ -320,18 +318,15 @@ libabigail
 libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libassuan)
-libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
 libavtp-dev
-libblockdev
 libblockdev-dev
 libbpf-dev
 include(devpkg-libbsd)
 libburn-dev
-libbytesize
 libbytesize-dev
 libc6
 libc6-dev
@@ -376,7 +371,6 @@ libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
 include(devpkg-libinput)
-libiscsi
 include(devpkg-libiscsi)
 libisofs-dev
 include(devpkg-libjpeg-turbo)
@@ -418,7 +412,6 @@ include(devpkg-libsoup)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
-libstoragemgmt
 include(devpkg-libstoragemgmt)
 include(devpkg-libtasn1)
 libtasn1-dev32
@@ -760,7 +753,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-webencodings
 wheel
 wheel-python3
 include(which)
@@ -772,13 +764,7 @@ xcursorgen
 xdg-dbus-proxy
 xdg-utils
 xf86-input-evdev-dev
-xf86-input-libinput
 xf86-input-synaptics-dev
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-fbdev
-xf86-video-nouveau
-xf86-video-vesa
 xfce4-dev-tools
 xfce4-panel-dev
 xfconf-dev
@@ -794,7 +780,6 @@ include(devpkg-xrdp)
 xset
 include(devpkg-xtrans)
 xtrans-dev32
-xwayland
 include(xz)
 include(devpkg-xz)
 xz-dev32

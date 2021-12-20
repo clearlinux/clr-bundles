@@ -8,6 +8,7 @@ include(dev-utils)
 include(os-core-dev)
 include(qt-basic)
 Cython
+Cython-python3
 Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -66,7 +67,6 @@ bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 cffi
-chardet
 check-dev
 check-dev32
 clear-font
@@ -76,7 +76,6 @@ coreutils
 coverage
 cracklib-dev
 include(devpkg-cryptsetup)
-cssselect
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -189,7 +188,6 @@ include(gzip)
 include(devpkg-harfbuzz)
 help2man
 hostname
-html5lib
 ibus
 ibus-dev
 ibus-libpinyin
@@ -475,7 +473,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-webencodings
 wheel
 wheel-python3
 include(which)
