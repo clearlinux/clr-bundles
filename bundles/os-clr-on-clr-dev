@@ -23,7 +23,7 @@ CUnit
 CUnit-dev
 CUnit-dev32
 Cheetah3
-CherryPy
+CherryPy-python3
 Cython
 Cython-python3
 Django
@@ -42,6 +42,7 @@ include(devpkg-LuaJIT)
 Mako
 Mako-python
 Markdown
+Markdown-python3
 MarkupSafe
 MarkupSafe-python
 MarkupSafe-python3
@@ -49,15 +50,16 @@ ModemManager-dev
 include(devpkg-NetworkManager)
 OpenSP
 Pillow
-PyJWT
+PyJWT-python3
 PyQt5
 PySocks
 PyYAML
+PyYAML-python3
 Pygments
 Pygments-python3
 R
 include(devpkg-R)
-Routes
+Routes-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SFCGAL-dev
@@ -128,6 +130,7 @@ bash-completion-dev
 bats
 include(bc)
 bcrypt
+bcrypt-python3
 bdftopcf
 bind-utils
 include(binutils)
@@ -181,7 +184,7 @@ clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 cmake
-cmd2
+cmd2-python3
 cmocka-dev
 colorama
 colorama-python3
@@ -238,7 +241,7 @@ dnsmasq
 dnspython
 include(docbook-utils)
 docbook-xml
-docopt
+docopt-python3
 include(docutils)
 docutils-python
 docutils-python3
@@ -264,6 +267,7 @@ emacs
 include(devpkg-enchant)
 include(devpkg-evolution-data-server)
 execnet
+execnet-python3
 include(devpkg-exiv2)
 include(devpkg-expat)
 expat-dev32
@@ -418,7 +422,6 @@ imagesize
 imagesize-python3
 importlib_metadata
 importlib_metadata-python3
-influxdb
 iniconfig
 inih-dev
 iniparse
@@ -449,7 +452,7 @@ include(joe)
 include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
-jsonpatch
+jsonpatch-python3
 jsonschema-python
 jupyter_client
 jupyter_core
@@ -498,7 +501,6 @@ kplotting-dev
 include(devpkg-krb5)
 kservice-dev
 ktextwidgets-dev
-kubernetes
 kunitconversion-dev
 kwallet-dev
 kwayland-dev
@@ -717,7 +719,7 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 include(modules)
-more-itertools
+more-itertools-python3
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
@@ -725,7 +727,7 @@ include(devpkg-mpg123)
 mtdev-dev
 munge-dev
 mypy
-mypy_extensions
+mypy-python3
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -754,7 +756,7 @@ ntlm-auth
 numactl
 include(devpkg-numactl)
 numpy
-oath-toolkit
+numpy-python3
 include(devpkg-oath-toolkit)
 ocl-icd-dev
 octave-dev
@@ -997,6 +999,7 @@ ppp
 ppp-dev
 pretend
 prettytable
+prettytable-python3
 processor-trace-dev
 procmail
 include(procps-ng)
@@ -1015,6 +1018,7 @@ pulseaudio-dev32
 py
 py-python
 pyOpenSSL
+pyOpenSSL-python3
 pyasn1
 pycairo
 pycairo-dev
@@ -1025,6 +1029,8 @@ pyflakes
 pyflakes-python
 include(pygobject)
 pyparsing
+pypi-kubernetes-python3
+pypi-pyfakefs-python3
 pyroute2
 pyroute2.core
 pyroute2.ethtool
@@ -1044,7 +1050,9 @@ python-memcached
 python-mimeparse
 python-mock
 python-mock-python
+python-mock-python3
 python-multilib
+python-remoto-python3
 python-rpm-packaging
 python-subunit
 python3
@@ -1100,6 +1108,7 @@ requests-file
 requests-gssapi
 requests-kerberos
 requests-mock
+requests-mock-python3
 requests-python3
 requests-toolbelt
 requests-toolbelt-python
@@ -1121,8 +1130,8 @@ sassc
 sbc-dev
 sbc-dev32
 sbsigntools
-scikit-learn
-scipy
+scikit-learn-python3
+scipy-python3
 sed
 selenium
 serf-dev
@@ -1139,6 +1148,7 @@ signond-dev
 sip
 sip-dev
 six
+six-python3
 slang-dev
 smartcols
 smmap
@@ -1193,7 +1203,6 @@ tcl-staticdev
 tdb-dev
 tdb-python3
 templated-dictionary
-tempora
 testrepository
 testresources
 testscenarios
@@ -1214,6 +1223,7 @@ tomli
 tornado
 tox
 tox-python
+tox-python3
 tpm2-tss-dev
 tqdm-python3
 traceback2
@@ -1221,7 +1231,7 @@ traitlets
 traitlets-python3
 twine
 typed_ast
-typing_extensions
+typing_extensions-python3
 include(tzdata)
 unixODBC-dev
 include(unzip)

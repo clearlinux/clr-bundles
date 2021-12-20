@@ -18,9 +18,8 @@ include(user-basic)
 CUnit
 CUnit-dev
 CUnit-dev32
-CherryPy
+CherryPy-python3
 Cython
-Jinja2
 Jinja2-python3
 LVM2
 include(devpkg-LVM2)
@@ -29,11 +28,12 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 Markdown
+Markdown-python3
 OpenSP
-PyJWT
-PyYAML
+PyJWT-python3
+PyYAML-python3
 Pygments-python3
-Routes
+Routes-python3
 include(devpkg-SDL)
 SVT-AV1-dev
 include(Sphinx)
@@ -43,7 +43,6 @@ Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
-Werkzeug
 Z3-dev
 Z3-dev32
 acl-bin
@@ -74,7 +73,7 @@ bash
 bash-completion-dev
 bats
 include(bc)
-bcrypt
+bcrypt-python3
 include(binutils)
 binutils-dev
 binutils-staticdev
@@ -114,9 +113,9 @@ clear-font
 clr-hardware-files
 clr-rpm-config
 cmake
-cmd2
+cmd2-python3
 cmocka-dev
-colorama
+colorama-python3
 commonmark
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
@@ -148,7 +147,7 @@ dnsmasq
 dnspython
 include(docbook-utils)
 docbook-xml
-docopt
+docopt-python3
 include(docutils)
 include(dosfstools)
 include(doxygen)
@@ -165,7 +164,7 @@ elfutils
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
-execnet
+execnet-python3
 include(devpkg-expat)
 expat-dev32
 expect
@@ -272,7 +271,6 @@ include(devpkg-icu4c)
 icu4c-dev32
 idna
 imagesize
-influxdb
 inih-dev
 intel-ipsec-mb-dev
 include(intltool)
@@ -292,7 +290,7 @@ include(joe)
 include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
-jsonpatch
+jsonpatch-python3
 kdoctools-dev
 keyutils-dev
 kmod
@@ -300,7 +298,6 @@ kmod-bin
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
-kubernetes
 ldb-dev
 ldb-extras
 include(less)
@@ -452,12 +449,12 @@ include(devpkg-mesa)
 mesa-dev32
 meson
 mingw-gcc
-more-itertools
+more-itertools-python3
 include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
 mtdev-dev
-mypy
+mypy-python3
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -478,8 +475,7 @@ nss-bin
 include(devpkg-nss)
 numactl
 include(devpkg-numactl)
-numpy
-oath-toolkit
+numpy-python3
 include(devpkg-oath-toolkit)
 octave-dev
 onig-dev
@@ -675,6 +671,7 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(devpkg-postgresql)
 prettytable
+prettytable-python3
 processor-trace-dev
 procmail
 include(procps-ng)
@@ -684,11 +681,15 @@ psutil
 include(devpkg-pulseaudio)
 py
 py-python
-pyOpenSSL
+pyOpenSSL-python3
 pycparser
 pyparsing
+pypi-kubernetes-python3
+pypi-pyfakefs-python3
 pytest
 python-dbusmock
+python-mock-python3
+python-remoto-python3
 python3
 python3-core
 python3-dev
@@ -701,7 +702,8 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
 requests
-requests-mock
+requests-mock-python3
+requests-python3
 rpcbind
 rpm
 include(rsync)
@@ -711,8 +713,8 @@ rustc
 sassc
 sbc-dev
 sbc-dev32
-scikit-learn
-scipy
+scikit-learn-python3
+scipy-python3
 sed
 setuptools
 setuptools-python
@@ -722,6 +724,7 @@ sg3_utils-dev
 shadow
 shared-mime-info
 six
+six-python3
 slang-dev
 snappy-dev
 source-highlight
@@ -757,7 +760,6 @@ tcl-dev
 tcl-staticdev
 tdb-dev
 tdb-python3
-tempora
 testrepository
 testresources
 testscenarios
@@ -773,8 +775,10 @@ tk-dev
 tokyocabinet-dev
 tox
 tox-python
+tox-python3
 tpm2-tss-dev
 traceback2
+typing_extensions-python3
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)

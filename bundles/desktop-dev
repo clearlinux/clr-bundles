@@ -653,7 +653,6 @@ include(devpkg-mutter)
 mypaint-brushes
 mypaint-brushes-dev
 mypy
-mypy_extensions
 include(nasm)
 nasm-bin
 include(devpkg-nautilus)
@@ -1003,7 +1002,6 @@ traitlets
 traitlets-python3
 twine
 typed_ast
-typing_extensions
 include(tzdata)
 udisks2
 udisks2-dev
