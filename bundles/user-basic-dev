@@ -51,7 +51,6 @@ acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
 alsa-lib-dev32
-apache-ant
 armadillo-data
 asciidoc
 include(aspell)

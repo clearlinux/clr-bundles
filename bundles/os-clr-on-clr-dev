@@ -85,7 +85,6 @@ include(acpica-unix2)
 alabaster-python3
 include(devpkg-alsa-lib)
 alsa-lib-dev32
-apache-ant
 appdirs
 include(devpkg-appstream)
 appstream-glib

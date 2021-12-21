@@ -37,7 +37,6 @@ acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
 alsa-lib-dev32
-apache-ant
 asciidoc
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)

@@ -23,6 +23,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 MarkupSafe
+R
 R-AER
 R-BBmisc
 R-BH
@@ -316,6 +317,7 @@ R-lava
 R-lazyeval
 R-leaflet.providers
 R-leaps
+R-lib
 R-libcoin
 R-lifecycle
 R-linprog
@@ -1032,6 +1034,7 @@ openblas-staticdev
 opencl-headers-dev
 openexr-dev
 openjade-dev
+openjdk
 openjdk11
 openjdk11-dev
 openjpeg
@@ -1209,6 +1212,7 @@ procps-ng-bin
 proj
 include(devpkg-proj)
 protobuf-dev
+psmisc
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
@@ -1237,6 +1241,7 @@ qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
 include(devpkg-qtwebchannel)
+include(devpkg-qtwebengine)
 qtwebsockets-dev
 qtxmlpatterns-dev
 re2-dev
