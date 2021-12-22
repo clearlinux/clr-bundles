@@ -22,7 +22,10 @@ include(devpkg-LibRaw)
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
+Markdown-python3
 MarkupSafe
+MarkupSafe-python3
+Pygments-python3
 R
 R-AER
 R-BBmisc
@@ -817,7 +820,6 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
-gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
@@ -1293,6 +1295,7 @@ include(texlive)
 include(devpkg-tiff)
 tk
 tk-dev
+toml-python3
 tox
 traceback2
 include(tzdata)
@@ -1339,6 +1342,5 @@ include(zip)
 zipp
 include(devpkg-zlib)
 zlib-dev32
-zstd-bin
 include(devpkg-zstd)
 zstd-dev32

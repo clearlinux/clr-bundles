@@ -20,6 +20,9 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 Markdown
+Markdown-python3
+MarkupSafe-python3
+Pygments-python3
 include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -728,6 +731,7 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+toml-python3
 tox
 tpm2-tss-dev
 include(tzdata)
@@ -789,6 +793,5 @@ include(yasm)
 zipp
 include(devpkg-zlib)
 zlib-dev32
-zstd-bin
 include(devpkg-zstd)
 zstd-dev32

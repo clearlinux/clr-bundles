@@ -29,6 +29,7 @@ Linux-PAM-dev32
 Mako-python
 Markdown
 Markdown-python3
+MarkupSafe-python3
 OpenSP
 PyJWT-python3
 PyYAML-python3
@@ -248,7 +249,6 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
@@ -772,6 +772,7 @@ include(devpkg-tiff)
 tk
 tk-dev
 tokyocabinet-dev
+toml-python3
 tox
 tox-python
 tox-python3
@@ -829,6 +830,5 @@ zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
-zstd-bin
 include(devpkg-zstd)
 zstd-dev32

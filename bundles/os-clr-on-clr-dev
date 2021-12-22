@@ -383,7 +383,6 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
-gsettings-desktop-schemas
 include(devpkg-gsl)
 gssapi
 include(devpkg-gst-plugins-bad)
@@ -1218,6 +1217,7 @@ tk
 tk-dev
 tokyocabinet-dev
 toml
+toml-python3
 tomli
 tornado
 tox
@@ -1299,6 +1299,5 @@ zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
-zstd-bin
 include(devpkg-zstd)
 zstd-dev32

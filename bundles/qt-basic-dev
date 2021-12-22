@@ -13,6 +13,9 @@ Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
+Markdown-python3
+MarkupSafe-python3
+Pygments-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(Sphinx)
@@ -176,7 +179,6 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
@@ -456,6 +458,7 @@ tcl-staticdev
 include(texinfo)
 include(devpkg-tiff)
 tk-dev
+toml-python3
 tox
 include(tzdata)
 include(unzip)
@@ -494,6 +497,5 @@ include(yasm)
 zipp
 include(devpkg-zlib)
 zlib-dev32
-zstd-bin
 include(devpkg-zstd)
 zstd-dev32

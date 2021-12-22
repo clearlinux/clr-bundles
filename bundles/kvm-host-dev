@@ -20,8 +20,10 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 Markdown-python3
+MarkupSafe-python3
 PyJWT-python3
 PyYAML-python3
+Pygments-python3
 Routes-python3
 include(Sphinx)
 Sphinx-python
@@ -203,7 +205,6 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
@@ -520,6 +521,7 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+toml-python3
 tox
 tox-python
 tox-python3
@@ -570,6 +572,5 @@ include(yasm)
 zipp
 include(devpkg-zlib)
 zlib-dev32
-zstd-bin
 include(devpkg-zstd)
 zstd-dev32

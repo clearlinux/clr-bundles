@@ -27,7 +27,9 @@ include(devpkg-LuaJIT)
 Mako
 Mako-python
 Markdown
+Markdown-python3
 MarkupSafe
+MarkupSafe-python3
 ModemManager-dev
 include(NetworkManager)
 include(devpkg-NetworkManager)
@@ -993,6 +995,7 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 toml
+toml-python3
 tornado
 tox
 tpm2-tss-dev
@@ -1080,6 +1083,5 @@ zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
-zstd-bin
 include(devpkg-zstd)
 zstd-dev32
