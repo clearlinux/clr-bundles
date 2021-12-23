@@ -162,6 +162,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+flit_core-python3
 fltk-dev
 include(devpkg-font-util)
 font-util-dev32
@@ -669,6 +670,7 @@ py-python
 pyaml
 pycparser
 include(pygobject)
+pypi-trampolim-python3
 pytest
 python-dbusmock
 python-pocketlint
@@ -698,6 +700,7 @@ setuptools
 setuptools-python
 setuptools-python3
 setuptools_scm
+setuptools_scm-python3
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
@@ -734,6 +737,7 @@ tk-dev
 toml-python3
 tox
 tpm2-tss-dev
+typing_extensions-python3
 include(tzdata)
 udisks2
 udisks2-dev
@@ -790,7 +794,7 @@ xz-dev32
 yajl-dev
 yaml-dev
 include(yasm)
-zipp
+zipp-python3
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

@@ -87,6 +87,7 @@ filelock
 include(findutils)
 include(flex)
 flex-dev
+flit_core-python3
 fontconfig-data
 include(devpkg-fontconfig)
 include(devpkg-freetype)
@@ -261,6 +262,7 @@ py
 py-python
 pycparser
 pyparsing
+pypi-trampolim-python3
 pytest
 python-kconfiglib
 python3
@@ -275,8 +277,10 @@ rustc
 sed
 setuptools
 setuptools-python
+setuptools-python3
 setuptools-rust
 setuptools_scm
+setuptools_scm-python3
 shadow
 shared-mime-info
 six
@@ -298,6 +302,7 @@ include(texinfo)
 tk-dev
 tox
 tox-python
+typing_extensions-python3
 include(tzdata)
 include(unzip)
 upower-dev
@@ -324,7 +329,7 @@ xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32
-zipp
+zipp-python3
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

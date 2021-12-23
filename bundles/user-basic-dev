@@ -178,6 +178,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+flit_core-python3
 include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
@@ -685,6 +686,7 @@ pycparser
 pyparsing
 pypi-kubernetes-python3
 pypi-pyfakefs-python3
+pypi-trampolim-python3
 pytest
 python-dbusmock
 python-mock-python3
@@ -719,6 +721,7 @@ setuptools
 setuptools-python
 setuptools-python3
 setuptools_scm
+setuptools_scm-python3
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -826,7 +829,7 @@ yajl-dev
 yajl-lib
 yaml-dev
 include(yasm)
-zipp
+zipp-python3
 zlib
 include(devpkg-zlib)
 zlib-dev32

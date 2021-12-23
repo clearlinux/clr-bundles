@@ -902,6 +902,7 @@ include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
 pyparsing
+pypi-trampolim-python3
 pytest
 pytest-runner
 pytest-timeout
@@ -1005,6 +1006,7 @@ traitlets
 traitlets-python3
 twine
 typed_ast
+typing_extensions-python3
 include(tzdata)
 udisks2
 udisks2-dev
@@ -1079,7 +1081,7 @@ include(yasm)
 yelp-dev
 yelp-xsl-dev
 include(zenity)
-zipp
+zipp-python3
 zlib
 include(devpkg-zlib)
 zlib-dev32

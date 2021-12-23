@@ -1029,6 +1029,7 @@ include(pygobject)
 pyparsing
 pypi-kubernetes-python3
 pypi-pyfakefs-python3
+pypi-trampolim-python3
 pyroute2
 pyroute2.core
 pyroute2.ethtool
@@ -1295,7 +1296,7 @@ yajl-lib
 yaml-dev
 include(yasm)
 include(zip)
-zipp
+zipp-python3
 zlib
 include(devpkg-zlib)
 zlib-dev32
