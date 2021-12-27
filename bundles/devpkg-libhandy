@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-libhandy
+# [DESCRIPTION]: All content for pkgconfig file libhandy.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-gtk3)
+
+libhandy-dev

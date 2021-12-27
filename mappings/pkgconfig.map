@@ -301,6 +301,7 @@ pkgconfig(libgsystem)	devpkg-libgsystem
 pkgconfig(libgtop-2.0)	devpkg-libgtop
 pkgconfig(libgvc)	devpkg-graphviz
 pkgconfig(libgvpr)	devpkg-graphviz
+pkgconfig(libhandy-1)	devpkg-libhandy
 pkgconfig(libibumad)	devpkg-rdma-core
 pkgconfig(libibverbs)	devpkg-rdma-core
 pkgconfig(libical)	devpkg-libical
