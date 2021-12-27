@@ -537,7 +537,6 @@ include(devpkg-valgrind)
 vim
 virtualenv
 include(wget)
-wheel
 wheel-python3
 include(which)
 xauth

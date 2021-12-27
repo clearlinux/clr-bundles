@@ -805,7 +805,6 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
-wheel
 wheel-python3
 include(which)
 include(devpkg-xapian-core)

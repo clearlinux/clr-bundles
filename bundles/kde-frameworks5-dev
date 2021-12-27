@@ -583,7 +583,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-wheel
 wheel-python3
 include(which)
 xauth

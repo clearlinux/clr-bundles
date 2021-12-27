@@ -510,7 +510,7 @@ include(devpkg-libgtop)
 include(devpkg-libgudev)
 include(devpkg-libgusb)
 include(devpkg-libgweather)
-libhandy-dev
+include(devpkg-libhandy)
 include(devpkg-libical)
 include(devpkg-libidn)
 libidn-dev32

@@ -316,7 +316,7 @@ util-macros-dev32
 include(valgrind)
 include(devpkg-valgrind)
 virtualenv
-wheel
+wheel-python3
 include(which)
 xauth
 xcb-proto
