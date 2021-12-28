@@ -960,6 +960,7 @@ shared-mime-info
 include(devpkg-shared-mime-info)
 sip
 six
+six-python3
 slang-dev
 source-highlight
 include(devpkg-speex)

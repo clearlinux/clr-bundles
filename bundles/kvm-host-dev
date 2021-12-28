@@ -127,6 +127,7 @@ e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
 ebtables-dev
+include(devpkg-eigen)
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
@@ -231,6 +232,7 @@ include(devpkg-iptables)
 iptables-dev32
 isa-l-dev
 include(devpkg-iso-codes)
+include(devpkg-jack2)
 include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
@@ -409,6 +411,7 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(openvswitch)
+include(devpkg-opus)
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)

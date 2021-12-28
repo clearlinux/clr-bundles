@@ -442,6 +442,7 @@ iso8601
 isodate
 itsdangerous
 itsdangerous-python
+include(devpkg-jack2)
 include(devpkg-jansson)
 jedi-python3
 jeepney
@@ -1027,7 +1028,9 @@ pyflakes
 pyflakes-python
 include(pygobject)
 pyparsing
+pypi-backports.cached_property-python3
 pypi-kubernetes-python3
+pypi-pep621-python3
 pypi-pyfakefs-python3
 pypi-trampolim-python3
 pyroute2
@@ -1220,6 +1223,7 @@ tokyocabinet-dev
 toml
 toml-python3
 tomli
+tomli-python3
 tornado
 tox
 tox-python
