@@ -134,7 +134,7 @@ dejagnu
 desktop-file-utils
 dialog
 include(diffutils)
-distlib
+distlib-python3
 dnspython
 include(docbook-utils)
 docbook-xml
@@ -156,7 +156,7 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
-filelock
+filelock-python3
 include(findutils)
 include(devpkg-flac)
 flac-dev32
@@ -271,6 +271,8 @@ icon-naming-utils-dev
 include(devpkg-icu4c)
 icu4c-dev32
 igt-gpu-tools-dev
+importlib_metadata-python3
+importlib_resources-python3
 intel-gmmlib-dev
 intel-ipsec-mb-dev
 intel-media-driver-dev
@@ -513,7 +515,7 @@ include(devpkg-pango)
 include(devpkg-parted)
 include(patch)
 patchelf
-pathlib2
+pathlib2-python3
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
@@ -655,7 +657,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
-platformdirs
+platformdirs-python3
 pluggy
 pluggy-python
 ply
@@ -705,6 +707,7 @@ shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 six
+six-python3
 include(devpkg-speex)
 speexdsp-dev
 spice-dev
@@ -793,6 +796,7 @@ xz-dev32
 yajl-dev
 yaml-dev
 include(yasm)
+zipp
 zipp-python3
 include(devpkg-zlib)
 zlib-dev32

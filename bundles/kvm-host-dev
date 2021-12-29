@@ -110,7 +110,7 @@ dbus-python-dev
 dejagnu
 desktop-file-utils
 include(diffutils)
-distlib
+distlib-python3
 dmidecode
 dnsmasq
 include(docbook-utils)
@@ -138,7 +138,7 @@ expect
 fcgi-dev
 include(devpkg-fftw)
 file-dev
-filelock
+filelock-python3
 include(findutils)
 include(devpkg-flac)
 flac-dev32
@@ -224,6 +224,8 @@ ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
 imagesize
+importlib_metadata-python3
+importlib_resources-python3
 include(intltool)
 intltool-dev
 include(iproute2)
@@ -422,7 +424,7 @@ include(devpkg-pango)
 include(devpkg-parted)
 include(patch)
 patchelf
-pathlib2
+pathlib2-python3
 pbr
 include(devpkg-pcre)
 pcre-dev32
@@ -443,7 +445,7 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
-platformdirs
+platformdirs-python3
 pluggy
 pluggy-python
 include(devpkg-pmdk)
@@ -574,6 +576,7 @@ xz-dev32
 yajl-dev
 yajl-lib
 include(yasm)
+zipp
 zipp-python3
 include(devpkg-zlib)
 zlib-dev32

@@ -231,7 +231,7 @@ desktop-file-utils
 dhcp
 include(diffutils)
 ding-libs-dev
-distlib
+distlib-python3
 distro
 dmidecode
 include(dnf)
@@ -279,6 +279,7 @@ include(devpkg-fftw)
 include(file)
 file-dev
 filelock
+filelock-python3
 include(findutils)
 fixtures
 fixtures-python
@@ -420,6 +421,7 @@ imagesize
 imagesize-python3
 importlib_metadata
 importlib_metadata-python3
+importlib_resources-python3
 iniconfig
 inih-dev
 iniparse
@@ -798,6 +800,7 @@ include(patch)
 patchelf
 patchutils
 pathlib2
+pathlib2-python3
 pbr
 include(devpkg-pciutils)
 pcre
@@ -979,6 +982,7 @@ pkg-config-dev
 pkginfo-python3
 plasma-wayland-protocols-dev
 platformdirs
+platformdirs-python3
 pluggy
 pluggy-python
 ply
@@ -1300,6 +1304,7 @@ yajl-lib
 yaml-dev
 include(yasm)
 include(zip)
+zipp
 zipp-python3
 zlib
 include(devpkg-zlib)

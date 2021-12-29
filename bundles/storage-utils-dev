@@ -69,7 +69,7 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
-distlib
+distlib-python3
 dnspython
 include(docbook-utils)
 docbook-xml
@@ -87,7 +87,7 @@ expat-dev32
 expect
 f2fs-tools-dev
 file-dev
-filelock
+filelock-python3
 include(findutils)
 include(flex)
 flex-dev
@@ -149,6 +149,8 @@ include(devpkg-harfbuzz)
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
+importlib_metadata-python3
+importlib_resources-python3
 inih-dev
 include(intltool)
 intltool-dev
@@ -270,7 +272,7 @@ p11-kit-dev32
 include(pandoc)
 include(patch)
 patchelf
-pathlib2
+pathlib2-python3
 include(devpkg-pcre)
 pcre-dev32
 perl
@@ -406,7 +408,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-platformdirs
+platformdirs-python3
 pluggy
 pluggy-python
 include(devpkg-polkit)
@@ -438,6 +440,7 @@ setuptools_scm-python3
 shadow
 shared-mime-info
 six
+six-python3
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sssd-dev
@@ -492,6 +495,7 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 include(yasm)
+zipp
 zipp-python3
 include(devpkg-zlib)
 zlib-dev32

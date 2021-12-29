@@ -199,7 +199,7 @@ dhcp
 dhcp-dev
 dialog
 include(diffutils)
-distlib
+distlib-python3
 dnsmasq
 dnspython
 include(docbook-utils)
@@ -234,6 +234,7 @@ extra-cmake-modules
 include(devpkg-fftw)
 file-dev
 filelock
+filelock-python3
 include(findutils)
 include(devpkg-flac)
 flac-dev32
@@ -384,6 +385,7 @@ igt-gpu-tools-dev
 imagescan
 importlib_metadata
 importlib_metadata-python3
+importlib_resources-python3
 intel-gmmlib-dev
 intel-ipsec-mb-dev
 intel-media-driver-dev
@@ -714,6 +716,7 @@ include(devpkg-parted)
 include(patch)
 patchelf
 pathlib2
+pathlib2-python3
 pbr
 include(devpkg-pciutils)
 include(devpkg-pcre)
@@ -864,6 +867,7 @@ pkg-config
 pkg-config-dev
 pkginfo-python3
 platformdirs
+platformdirs-python3
 pluggy
 pluggy-python
 ply
@@ -1082,6 +1086,7 @@ include(yasm)
 yelp-dev
 yelp-xsl-dev
 include(zenity)
+zipp
 zipp-python3
 zlib
 include(devpkg-zlib)
