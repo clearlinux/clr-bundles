@@ -233,7 +233,6 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
-filelock
 filelock-python3
 include(findutils)
 include(devpkg-flac)
@@ -706,6 +705,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
+packaging-python3
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
@@ -870,6 +870,7 @@ platformdirs
 platformdirs-python3
 pluggy
 pluggy-python
+pluggy-python3
 ply
 include(devpkg-polkit)
 include(poppler)
@@ -892,6 +893,7 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
 py-python
+py-python3
 pyOpenSSL
 pyaml
 pyasn1
@@ -1034,6 +1036,7 @@ include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 virtualenv
+virtualenv-python3
 volume_key-dev
 vpnc
 vte-dev

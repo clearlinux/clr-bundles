@@ -26,6 +26,8 @@ Pygments-python3
 include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SDL2-dev32
+include(devpkg-SDL2_image)
 SVT-AV1-dev
 include(Sphinx)
 Thunar-dev
@@ -217,6 +219,7 @@ glibc-staticdev
 glibc-utils
 include(devpkg-glibmm)
 include(devpkg-glu)
+glu-dev32
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -323,6 +326,7 @@ libXvMC-dev32
 libabigail
 libaio-dev
 include(devpkg-libarchive)
+include(devpkg-libass)
 include(devpkg-libassuan)
 include(devpkg-libatasmart)
 libatomic_ops-dev
@@ -431,10 +435,12 @@ libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
+libusb-dev32
 include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
 libvorbis-dev32
+include(devpkg-libvpx)
 include(devpkg-libwebp)
 libwnck-dev
 include(devpkg-libwnck3)
@@ -653,6 +659,7 @@ perl-namespace-clean-perl
 perl-perl
 pigz
 pip
+include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
 pkg-config
@@ -667,6 +674,7 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
+pulseaudio-dev32
 py
 py-python
 pyaml
@@ -690,6 +698,7 @@ readline-dev32
 requests
 include(devpkg-rest)
 rtkit
+rtmpdump-dev
 ruby
 rust-std32
 rustc
@@ -753,6 +762,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)

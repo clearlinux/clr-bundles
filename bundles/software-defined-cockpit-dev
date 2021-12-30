@@ -58,7 +58,6 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
-buildreq-R
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -93,6 +92,7 @@ include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
+dav1d-dev
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -218,7 +218,6 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
-include(less)
 include(devpkg-libX11)
 libX11-dev32
 libX11-lib
@@ -237,6 +236,7 @@ libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
 libabigail
+include(devpkg-libass)
 libatomic_ops-dev
 libatomic_ops-dev32
 libavtp-dev
@@ -367,8 +367,6 @@ not-ffmpeg-dev
 nss-altfiles
 octave-dev
 openal-soft-dev
-include(openblas)
-openblas-staticdev
 openexr-dev
 openldap-dev
 include(devpkg-openmpi)
@@ -388,7 +386,6 @@ include(patch)
 patchelf
 include(devpkg-pcre)
 pcre-dev32
-include(devpkg-pcre2)
 perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
@@ -413,6 +410,7 @@ qtbase-extras
 include(devpkg-readline)
 readline-dev32
 rtkit
+rtmpdump-dev
 rust-std32
 rustc
 sassc
@@ -437,10 +435,8 @@ tar
 include(devpkg-tbb)
 tcl
 tcl-dev
-tcl-staticdev
 include(texinfo)
 include(devpkg-tiff)
-tk-dev
 toml-python3
 include(tzdata)
 include(unzip)
@@ -479,7 +475,6 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 include(yasm)
-include(zip)
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
