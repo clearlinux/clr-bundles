@@ -1038,6 +1038,7 @@ pypi-kubernetes-python3
 pypi-pep621-python3
 pypi-pyfakefs-python3
 pypi-trampolim-python3
+pypi-typogrify-python3
 pyroute2
 pyroute2.core
 pyroute2.ethtool

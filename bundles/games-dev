@@ -604,6 +604,7 @@ py-python
 pycparser
 include(pygobject)
 pypi-trampolim-python3
+pypi-typogrify-python3
 pytest
 python3
 python3-core

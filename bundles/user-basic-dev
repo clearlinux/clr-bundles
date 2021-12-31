@@ -692,6 +692,7 @@ pyparsing
 pypi-kubernetes-python3
 pypi-pyfakefs-python3
 pypi-trampolim-python3
+pypi-typogrify-python3
 pytest
 python-dbusmock
 python-mock-python3

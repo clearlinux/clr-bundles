@@ -681,6 +681,7 @@ pyaml
 pycparser
 include(pygobject)
 pypi-trampolim-python3
+pypi-typogrify-python3
 pytest
 python-dbusmock
 python-pocketlint

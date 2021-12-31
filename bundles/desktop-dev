@@ -909,6 +909,7 @@ include(devpkg-pygobject)
 pygobject-python
 pyparsing
 pypi-trampolim-python3
+pypi-typogrify-python3
 pytest
 pytest-runner
 pytest-timeout
@@ -1060,7 +1061,6 @@ include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xcursorgen
 xdg-dbus-proxy
-xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-utils
 include(devpkg-xf86-input-wacom)
