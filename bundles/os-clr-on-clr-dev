@@ -659,7 +659,6 @@ libunwind-dev32
 liburing-dev
 include(devpkg-libusb)
 include(devpkg-libuser)
-libuv
 include(devpkg-libuv)
 include(devpkg-libva)
 libvdpau-dev

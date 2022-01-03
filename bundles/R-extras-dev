@@ -612,7 +612,6 @@ R-webshot
 R-whisker
 R-whoami
 R-wikitaxa
-R-winch
 R-withr
 R-wk
 R-worrms
@@ -1029,6 +1028,7 @@ nss-bin
 include(devpkg-nss)
 include(devpkg-numactl)
 numpy
+numpy-python3
 ocl-icd-dev
 octave-dev
 onig-dev
@@ -1299,7 +1299,6 @@ testtools
 include(texinfo)
 include(texlive)
 include(devpkg-tiff)
-tk
 tk-dev
 toml-python3
 tox
