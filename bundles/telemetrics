@@ -10,4 +10,4 @@ include(lib-openssl)
 clr-debug-info
 swupd-probe
 swupd-probe-autostart
-telemetrics-client
+# telemetrics-client
