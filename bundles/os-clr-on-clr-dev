@@ -169,6 +169,7 @@ include(devpkg-capstone)
 ccid
 ceph-dev
 certifi
+certifi-python3
 cffi
 cffi-python
 cffi-python3
@@ -1244,7 +1245,7 @@ typing_extensions-python3
 include(tzdata)
 unixODBC-dev
 include(unzip)
-urllib3
+urllib3-python3
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
 usrbinpython

@@ -126,6 +126,7 @@ include(devpkg-cairo)
 include(devpkg-cairomm)
 caribou-dev
 certifi
+certifi-python3
 cffi
 cffi-python
 charset-normalizer
@@ -1021,7 +1022,7 @@ udisks2-dev
 include(devpkg-uhttpmock)
 include(unzip)
 upower-dev
-urllib3
+urllib3-python3
 usrbinpython
 util-linux
 util-linux-bin
