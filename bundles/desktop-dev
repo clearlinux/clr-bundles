@@ -91,7 +91,7 @@ automake-dev
 include(devpkg-avahi)
 include(devpkg-babl)
 backcall
-backcall-python3
+pypi-backcall-python3
 backports.ssl_match_hostname
 bash-completion-dev
 bats

@@ -95,7 +95,7 @@ argon2-dev
 armadillo-data
 asciidoc
 asgiref
-asgiref-python3
+pypi-asgiref-python3
 asn1crypto-python
 include(aspell)
 aspell-dev
@@ -120,7 +120,7 @@ automake
 automake-dev
 babeltrace-dev
 backcall
-backcall-python3
+pypi-backcall-python3
 backports.ssl_match_hostname
 bash
 bash-completion
