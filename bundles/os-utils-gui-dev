@@ -42,7 +42,7 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
-appdirs
+pypi-appdirs
 appstream-glib
 asciidoc
 aspell-dev

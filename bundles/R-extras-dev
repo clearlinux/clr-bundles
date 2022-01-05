@@ -645,7 +645,7 @@ acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
-appdirs
+pypi-appdirs
 appstream-glib
 armadillo-data
 asciidoc

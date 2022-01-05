@@ -32,8 +32,8 @@ Pillow
 R-deepnet
 R-neuralnet
 R-statmod
-appdirs
-astroid
+pypi-appdirs
+pypi-astroid
 bazel
 bokeh
 include(devpkg-boost)

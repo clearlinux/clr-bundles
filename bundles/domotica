@@ -9,7 +9,7 @@ include(python3-basic)
 include(libglib)
 include(qt-basic)
 
-astral
+pypi-astral
 hammock
 home-assistant
 gmqtt
