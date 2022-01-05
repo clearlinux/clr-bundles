@@ -941,6 +941,7 @@ perl-Test-Memory-Cycle-perl
 perl-Test-Needs-perl
 perl-Test-NoWarnings-perl
 perl-Test-Output-perl
+perl-Test-Pod-perl
 perl-Test-Requires-perl
 perl-Test-RequiresInternet-perl
 perl-Test-Simple
