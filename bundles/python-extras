@@ -49,6 +49,7 @@ python-dateutil
 python-distutils-extra
 python-tabulate
 tap.py
+pypi-natsort
 include(python3-tcl)
 python-zeep
 python-zstandard
