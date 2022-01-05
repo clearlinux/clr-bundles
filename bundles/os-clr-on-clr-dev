@@ -82,7 +82,6 @@ acl-bin
 include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
-alabaster-python3
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
@@ -1034,6 +1033,7 @@ pyflakes
 pyflakes-python
 include(pygobject)
 pyparsing
+pypi-alabaster-python3
 pypi-backports.cached_property-python3
 pypi-kubernetes-python3
 pypi-pep621-python3
