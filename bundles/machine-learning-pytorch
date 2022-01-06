@@ -1,12 +1,7 @@
 # [TITLE]: machine-learning-pytorch
 # [DESCRIPTION]: Build machine learning applications with PyTorch, an optimized tensor library for deep learning.
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Data Science, Python
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(python3-basic)
-include(libstdcpp)
-include(Sphinx)
-include(libglib)
-
-pytorch
+filesystem

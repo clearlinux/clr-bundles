@@ -15,8 +15,6 @@ include(python-data-science)
 
 include(computer-vision-basic)
 include(machine-learning-mycroft)
-include(machine-learning-pytorch)
-#include(machine-learning-tensorflow)
 
 scikit-learn
 Theano
