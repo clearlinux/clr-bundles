@@ -9,8 +9,6 @@ include(go-basic)
 include(os-core-dev)
 CUnit-dev
 CUnit-dev32
-Cython
-Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
 include(devpkg-acl)
@@ -156,7 +154,6 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-lxml
 include(devpkg-lz4)
 lz4-dev32
 m4
@@ -187,6 +184,9 @@ pkg-config
 pkg-config-dev
 include(devpkg-polkit)
 include(procps-ng)
+pypi-cython
+pypi-jinja2
+pypi-lxml
 python3
 python3-core
 python3-dev

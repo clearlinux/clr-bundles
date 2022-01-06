@@ -5,8 +5,6 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
-Cython
-Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
 include(devpkg-acl)
@@ -136,7 +134,6 @@ include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-lxml
 include(devpkg-lz4)
 lz4-dev32
 m4
@@ -164,6 +161,9 @@ pkg-config
 pkg-config-dev
 include(devpkg-polkit)
 include(procps-ng)
+pypi-cython
+pypi-jinja2
+pypi-lxml
 python3
 python3-core
 python3-dev

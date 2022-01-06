@@ -10,8 +10,6 @@ include(os-core-dev)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
-Cython
-Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
 include(Sphinx)
@@ -209,7 +207,6 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 lmdb-dev
-lxml
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
@@ -382,6 +379,9 @@ pkg-config-dev
 ply
 include(devpkg-polkit)
 include(procps-ng)
+pypi-cython
+pypi-jinja2
+pypi-lxml
 pytest
 python3
 python3-core

@@ -9,8 +9,6 @@ include(dev-utils)
 include(os-core-dev)
 CUnit-dev
 CUnit-dev32
-Cython
-Jinja2-python3
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -213,7 +211,6 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-lxml
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
@@ -249,13 +246,16 @@ perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl
 pigz
-pip
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
 include(procps-ng)
 procps-ng-bin
 include(pygobject)
+pypi-cython
+pypi-jinja2
+pypi-lxml
+pypi-pip
 python3
 python3-core
 python3-dev

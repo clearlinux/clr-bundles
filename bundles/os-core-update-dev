@@ -9,8 +9,6 @@ include(os-core-dev)
 include(os-core-update)
 CUnit-dev
 CUnit-dev32
-Cython
-Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -181,7 +179,6 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-lxml
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
@@ -220,6 +217,9 @@ pkg-config-dev
 include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
+pypi-cython
+pypi-jinja2
+pypi-lxml
 python3
 python3-core
 python3-dev

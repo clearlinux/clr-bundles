@@ -7,7 +7,6 @@
 include(dev-utils)
 include(editors)
 include(os-core-dev)
-Cython
 autoconf
 automake
 automake-dev
@@ -63,6 +62,7 @@ pigz
 pkg-config
 pkg-config-dev
 include(plzip)
+pypi-cython
 python3-core
 python3-dev
 sed

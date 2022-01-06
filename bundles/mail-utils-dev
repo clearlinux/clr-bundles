@@ -7,8 +7,6 @@
 include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
-Cython
-Jinja2-python3
 Linux-PAM-dev
 Linux-PAM-dev32
 OpenSP
@@ -38,7 +36,6 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 ca-certs
-cffi-python3
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -115,7 +112,6 @@ include(devpkg-gtk-doc)
 include(guile)
 include(gzip)
 hostname
-idna
 include(intltool)
 intltool-dev
 include(devpkg-iptables)
@@ -176,7 +172,6 @@ libxslt-bin
 linux-libc-headers
 lmdb-dev
 include(devpkg-lua)
-lxml
 include(lynx)
 include(devpkg-lz4)
 lz4-dev32
@@ -339,6 +334,11 @@ pkg-config-dev
 include(devpkg-polkit)
 procmail
 include(procps-ng)
+pypi-cffi-python3
+pypi-cython
+pypi-idna
+pypi-jinja2
+pypi-lxml
 python3
 python3-core
 python3-dev

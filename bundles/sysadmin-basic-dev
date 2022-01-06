@@ -8,8 +8,6 @@ include(dev-utils)
 include(os-core-dev)
 include(sysadmin-basic)
 CUnit-dev
-Cython
-Jinja2-python3
 LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -197,7 +195,6 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
-lxml
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
@@ -368,6 +365,9 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 protobuf-dev
+pypi-cython
+pypi-jinja2
+pypi-lxml
 python3
 python3-core
 python3-dev
