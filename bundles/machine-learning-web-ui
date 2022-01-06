@@ -11,7 +11,7 @@ include(python-data-science)
 include(jupyter)
 
 Jinja2
-MarkupSafe
+pypi-markupsafe
 Pygments
 R-IRdisplay
 include(Sphinx)

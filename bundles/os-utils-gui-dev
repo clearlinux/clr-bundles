@@ -21,7 +21,7 @@ Linux-PAM-dev32
 Mako-python
 Markdown
 Markdown-python3
-MarkupSafe-python3
+pypi-markupsafe-python3
 Pygments-python3
 include(devpkg-R)
 include(devpkg-SDL)

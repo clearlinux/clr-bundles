@@ -18,7 +18,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 Markdown-python3
-MarkupSafe-python3
+pypi-markupsafe-python3
 ModemManager-dev
 include(NetworkManager)
 include(devpkg-NetworkManager)
