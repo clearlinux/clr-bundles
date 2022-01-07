@@ -384,6 +384,7 @@ pypi-markdown-python3
 pypi-numpy-python3
 pypi-pip
 pypi-pluggy
+pypi-pluggy-python3
 pypi-py
 pypi-py-python3
 pypi-pycparser
@@ -398,6 +399,7 @@ pypi-tox
 pypi-trampolim-python3
 pypi-typogrify-python3
 pypi-virtualenv
+pypi-virtualenv-python3
 pypi-zipp-python3
 python3
 python3-core

@@ -446,6 +446,7 @@ pypi-pbr
 pypi-pecan
 pypi-pip
 pypi-pluggy
+pypi-pluggy-python3
 pypi-prettytable
 pypi-prettytable-python3
 pypi-psutil
@@ -472,6 +473,7 @@ pypi-tox-python3
 pypi-trampolim-python3
 pypi-typogrify-python3
 pypi-virtualenv
+pypi-virtualenv-python3
 pypi-zipp-python3
 python-remoto-python3
 python3

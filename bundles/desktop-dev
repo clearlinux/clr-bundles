@@ -843,6 +843,7 @@ pypi-pillow-python3
 pypi-pip
 pypi-platformdirs
 pypi-pluggy
+pypi-pluggy-python3
 pypi-polib
 pypi-psutil
 pypi-py
@@ -870,6 +871,7 @@ pypi-tox
 pypi-trampolim-python3
 pypi-typogrify-python3
 pypi-virtualenv
+pypi-virtualenv-python3
 pypi-zipp-python3
 python-pocketlint
 python3

@@ -937,8 +937,9 @@ pypi-itsdangerous-python3
 pypi-jinja2
 pypi-jinja2-python3
 pypi-jsonpatch-python3
+pypi-jsonschema-python3
 pypi-kerberos
-pypi-keyring
+pypi-keyring-python3
 pypi-kubernetes-python3
 pypi-lxml
 pypi-mako

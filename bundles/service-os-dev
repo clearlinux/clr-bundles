@@ -253,6 +253,7 @@ pypi-lxml
 pypi-packaging
 pypi-pip
 pypi-pluggy
+pypi-pluggy-python3
 pypi-py
 pypi-py-python3
 pypi-pycparser
@@ -269,6 +270,7 @@ pypi-tox
 pypi-tox-python3
 pypi-trampolim-python3
 pypi-virtualenv
+pypi-virtualenv-python3
 pypi-zipp-python3
 python-kconfiglib
 python3
