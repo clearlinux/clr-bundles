@@ -15,7 +15,7 @@ pypi(bokeh)
 dask
 pypi-ipython
 matplotlib
-pypi0nose
+pypi-nose
 numpy
 scipy
 sympy
