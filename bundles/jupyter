@@ -16,7 +16,7 @@ pypi-jupyter
 pypi-jupyterlab
 pypi-jupyterlab_launcher
 pypi-jupyter_nbgallery
-pypi-jupyter_notebook_gist
+pypi(jupyter_notebook_gist)
 pypi-jupyter_client
 pypi-jupyter_console
 pypi-jupyter_core
@@ -31,4 +31,4 @@ pypi-widgetsnbextension
 # end of custom additions
 
 # main package
-pypi-jupyter
+pypi(jupyter)
