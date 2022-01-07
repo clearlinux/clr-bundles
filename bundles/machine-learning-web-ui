@@ -37,7 +37,7 @@ jupyter_core
 matplotlib
 mistune
 nbconvert
-nbformat
+pypi-nbformat
 notebook
 pandas
 pandocfilters
@@ -51,9 +51,9 @@ R-IRkernel
 simplegeneric
 sip
 six
-terminado
+pypi-terminado
 testpath
 tornado
 traitlets
 wcwidth
-widgetsnbextension
+pypi-widgetsnbextension
