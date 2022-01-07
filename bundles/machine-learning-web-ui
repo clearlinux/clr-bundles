@@ -27,13 +27,6 @@ ipython-sql
 pypi(ipywidgets)
 pypi(jsonschema)
 include(jupyter)
-jupyterlab
-jupyterlab_launcher
-jupyter-nbgallery
-jupyter-notebook-gist
-jupyter_client
-jupyter_console
-jupyter_core
 matplotlib
 mistune
 pypi(nbconvert)
