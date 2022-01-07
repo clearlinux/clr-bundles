@@ -20,12 +20,12 @@ bash_kernel
 pypi(bokeh)
 decorator
 entrypoints
-ipykernel
-ipython
-ipython_genutils
+pypi(ipykernel)
+pypi(ipython)
+pypi(ipython_genutils)
 ipython-sql
-ipywidgets
-jsonschema
+pypi(ipywidgets)
+pypi(jsonschema)
 include(jupyter)
 jupyterlab
 jupyterlab_launcher
@@ -36,7 +36,7 @@ jupyter_console
 jupyter_core
 matplotlib
 mistune
-nbconvert
+pypi(nbconvert)
 pypi-nbformat
 notebook
 pandas
