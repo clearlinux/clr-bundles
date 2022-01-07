@@ -12,7 +12,6 @@ CUnit-dev
 CUnit-dev32
 Linux-PAM-dev
 Linux-PAM-dev32
-include(Sphinx)
 acl-bin
 include(devpkg-acl)
 acl-dev32
@@ -62,7 +61,6 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -376,13 +374,15 @@ pigz
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
-ply
 include(devpkg-polkit)
 include(procps-ng)
 pypi-cython
+pypi-docutils
 pypi-jinja2
 pypi-lxml
-pytest
+pypi-ply-python3
+pypi-pytest
+pypi-sphinx
 python3
 python3-core
 python3-dev

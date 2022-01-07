@@ -14,13 +14,11 @@ Imath-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 MarkupSafe-python3
-Pygments-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_image)
 SmartXbar-dev
-include(Sphinx)
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
@@ -100,7 +98,6 @@ include(diffutils)
 dlt-daemon-dev
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -397,10 +394,15 @@ protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 pypi-cython
+pypi-docutils
 pypi-jinja2
 pypi-jinja2-python3
 pypi-lxml
+pypi-mako
 pypi-markdown-python3
+pypi-pygments-python3
+pypi-setuptools-python3
+pypi-sphinx
 pypi-typogrify-python3
 python3
 python3-core
@@ -418,7 +420,6 @@ sassc
 sbc-dev
 sbc-dev32
 sed
-setuptools-python3
 shadow
 shared-mime-info
 six

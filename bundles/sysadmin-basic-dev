@@ -63,7 +63,6 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(doxygen)
 dracut-dev
 e2fsprogs
@@ -366,6 +365,7 @@ include(devpkg-popt)
 include(procps-ng)
 protobuf-dev
 pypi-cython
+pypi-docutils
 pypi-jinja2
 pypi-lxml
 python3

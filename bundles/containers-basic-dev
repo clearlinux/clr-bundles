@@ -256,6 +256,7 @@ pypi-cython
 pypi-jinja2
 pypi-lxml
 pypi-pip
+pypi-setuptools
 python3
 python3-core
 python3-dev
@@ -263,7 +264,6 @@ include(devpkg-readline)
 readline-dev32
 ruby
 sed
-setuptools
 shadow
 shared-mime-info
 sqlite-autoconf
