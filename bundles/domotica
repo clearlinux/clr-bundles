@@ -10,7 +10,7 @@ include(libglib)
 include(qt-basic)
 
 pypi-astral
-hammock
+pypi(hammock)
 home-assistant
 gmqtt
 ouimeaux
