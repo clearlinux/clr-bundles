@@ -17,7 +17,7 @@ R-IRdisplay
 include(Sphinx)
 backports.ssl_match_hostname
 bash_kernel
-bokeh
+pypi(bokeh)
 decorator
 entrypoints
 ipykernel

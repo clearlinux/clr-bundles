@@ -11,24 +11,24 @@ include(python3-basic)
 include(libglib)
 include(Sphinx)
 
-ipykernel
-jupyter
-jupyterlab
-jupyterlab_launcher
-jupyter-nbgallery
-jupyter-notebook-gist
-jupyter_client
-jupyter_console
-jupyter_core
-matplotlib
-nbconvert
-nbformat
-notebook
+pypi-ipykernel
+pypi-jupyter
+pypi-jupyterlab
+pypi-jupyterlab_launcher
+pypi-jupyter_nbgallery
+pypi-jupyter_notebook_gist
+pypi-jupyter_client
+pypi-jupyter_console
+pypi-jupyter_core
+pypi-matplotlib
+pypi-nbconvert
+pypi-nbformat
+pypi-notebook
 pandas
 qtconsole
-widgetsnbextension
+pypi-widgetsnbextension
 
 # end of custom additions
 
 # main package
-jupyter
+pypi-jupyter

@@ -33,7 +33,7 @@ R-statmod
 pypi-appdirs
 pypi-astroid
 bazel
-bokeh
+pypi(bokeh)
 include(devpkg-boost)
 cycler-python
 include(devpkg-eigen)
