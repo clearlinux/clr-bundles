@@ -9,7 +9,7 @@ include(libstdcpp)
 
 awscli
 amazon-efs-utils
-boto
+pypi(boto)
 boto3
 botocore
 # testing use only:
