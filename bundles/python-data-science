@@ -13,9 +13,9 @@ include(python-extras)
 # Key pydata.org components
 pypi(bokeh)
 dask
-ipython
+pypi-ipython
 matplotlib
-nose
+pypi0nose
 numpy
 scipy
 sympy
