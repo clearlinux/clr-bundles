@@ -23,6 +23,6 @@ pycairo
 include(pygobject)
 PyOpenGL
 PyYAML
-svg.path
+pypi-svg.path
 tcl
 tk

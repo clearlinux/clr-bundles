@@ -287,7 +287,7 @@ setuptools_scm-python3
 shadow
 shared-mime-info
 six
-sortedcontainers
+pypi-sortedcontainers
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
@@ -303,7 +303,7 @@ telemetrics-client
 include(devpkg-telemetrics-client)
 include(texinfo)
 tk-dev
-typing_extensions-python3
+pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 upower-dev
@@ -316,7 +316,7 @@ include(devpkg-util-macros)
 util-macros-dev32
 include(valgrind)
 include(devpkg-valgrind)
-wheel-python3
+pypi-wheel-python3
 include(which)
 xauth
 xcb-proto

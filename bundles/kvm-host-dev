@@ -506,7 +506,7 @@ six-python3
 snappy-dev
 include(devpkg-speex)
 speexdsp-dev
-sphinx_rtd_theme
+pypi-sphinx_rtd_theme
 spice
 spice-dev
 spice-protocol
@@ -529,8 +529,8 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
-toml-python3
-typing_extensions-python3
+pypi-toml-python3
+pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)
@@ -551,7 +551,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-wheel-python3
+pypi-wheel-python3
 include(which)
 xauth
 xcb-proto

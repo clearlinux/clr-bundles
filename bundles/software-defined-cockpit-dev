@@ -439,7 +439,7 @@ tcl
 tcl-dev
 include(texinfo)
 include(devpkg-tiff)
-toml-python3
+pypi-toml-python3
 include(tzdata)
 include(unzip)
 upower-dev
@@ -460,7 +460,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-wheel-python3
+pypi-wheel-python3
 include(which)
 xauth
 xcb-proto

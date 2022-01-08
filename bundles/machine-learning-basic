@@ -17,7 +17,7 @@ include(computer-vision-basic)
 include(machine-learning-mycroft)
 
 scikit-learn
-Theano
+pypi-theano
 
 
 
@@ -39,7 +39,7 @@ cycler-python
 include(devpkg-eigen)
 include(devpkg-fann)
 funcsigs
-gensim
+pypi-gensim
 include(devpkg-gflags)
 include(devpkg-glog)
 glibc-lib-avx2
@@ -52,7 +52,7 @@ hdf5-dev
 leveldb-dev
 include(devpkg-libjpeg-turbo)
 lmdb-dev
-matplotlib
+pypi-matplotlib
 mido
 mkl-dnn-dev
 mpi4py
@@ -78,14 +78,14 @@ python-future
 python-Levenshtein
 python-mock
 PyYAML
-scikit-image
+pypi-scikit_image
 scipy-python
 six
-smart_open
+pypi-smart_open
 snappy-dev
 include(Sphinx)
 swig
 include(devpkg-tbb)
 tflearn
-tqdm
-wheel
+pypi-tqdm
+pypi-wheel

@@ -25,8 +25,8 @@ include(binutils)
 chardet
 include(gnupg)
 pycurl
-toml
-urllib3
+pypi-toml
+pypi-urllib3
 
 # koji command line utility
 koji

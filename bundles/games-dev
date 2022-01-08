@@ -653,9 +653,9 @@ tcl-staticdev
 include(texinfo)
 include(devpkg-tiff)
 tk-dev
-toml-python3
+pypi-toml-python3
 tpm2-tss-dev
-typing_extensions-python3
+pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 util-linux
@@ -676,7 +676,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-wheel-python3
+pypi-wheel-python3
 include(which)
 include(devpkg-woff2)
 xauth

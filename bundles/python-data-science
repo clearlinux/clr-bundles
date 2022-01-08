@@ -14,21 +14,21 @@ include(python-extras)
 pypi(bokeh)
 dask
 pypi-ipython
-matplotlib
+pypi-matplotlib
 pypi-nose
 numpy
 scipy
 sympy
 pandas
-scikit-image
+pypi-scikit_image
 scikit-learn
-statsmodels
+pypi-statsmodels
 
 #
 # Add from https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7
 #
 
-gensim
+pypi-gensim
 seaborn
 
 # misc tools to support the above

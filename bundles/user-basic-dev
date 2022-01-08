@@ -737,7 +737,7 @@ snappy-dev
 source-highlight
 include(devpkg-speex)
 speexdsp-dev
-sphinx_rtd_theme
+pypi-sphinx_rtd_theme
 spice
 spice-dev
 spice-protocol
@@ -780,10 +780,10 @@ include(devpkg-tiff)
 tk
 tk-dev
 tokyocabinet-dev
-toml-python3
+pypi-toml-python3
 tpm2-tss-dev
 traceback2
-typing_extensions-python3
+pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)
@@ -806,7 +806,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
-wheel-python3
+pypi-wheel-python3
 include(which)
 include(devpkg-xapian-core)
 xauth

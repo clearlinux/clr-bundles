@@ -27,7 +27,7 @@ mkl-dnn-dev
 include(openblas)
 include(devpkg-opencv)
 pandas
-scikit-image
+pypi-scikit_image
 scipy-python
 tflearn
-wheel
+pypi-wheel

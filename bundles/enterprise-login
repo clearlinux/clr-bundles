@@ -14,5 +14,5 @@ authconfig
 kerberos
 krb5
 nss-pam-ldapd
-requests-kerberos
+pypi-requests_kerberos
 sssd

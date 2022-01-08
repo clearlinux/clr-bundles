@@ -463,7 +463,7 @@ tevent-python3
 include(texinfo)
 thin-provisioning-tools
 tk-dev
-typing_extensions-python3
+pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 include(devpkg-userspace-rcu)
@@ -476,7 +476,7 @@ include(devpkg-util-macros)
 util-macros-dev32
 include(valgrind)
 include(devpkg-valgrind)
-wheel-python3
+pypi-wheel-python3
 include(which)
 xauth
 xcb-proto

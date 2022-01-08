@@ -13,4 +13,4 @@ include(libX11client)
 # end of custom additions
 
 # main package
-xpra
+pypi-xpra

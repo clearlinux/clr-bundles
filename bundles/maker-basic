@@ -20,5 +20,5 @@ libgpiod
 libmodbus
 libusb
 picocom
-pyusb
+pypi-pyusb
 usbutils

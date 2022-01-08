@@ -522,7 +522,7 @@ tk
 tk-dev
 trace-cmd-dev
 traceback2
-typing_extensions-python3
+pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 util-linux
@@ -536,7 +536,7 @@ include(valgrind)
 include(devpkg-valgrind)
 vim
 include(wget)
-wheel-python3
+pypi-wheel-python3
 include(which)
 xauth
 xcb-proto

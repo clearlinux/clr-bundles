@@ -40,7 +40,7 @@ include(devpkg-fribidi)
 include(devpkg-gdk-pixbuf)
 include(global)
 include(devpkg-gtk3)
-GitPython
+pypi-gitpython
 include(devpkg-gtk)
 libabigail
 also-add(libarchive)
@@ -70,7 +70,7 @@ pycurl
 pyOpenSSL
 python-magic
 rpm
-toml
+pypi-toml
 python-zeep
 requests-ntlm
 rpm
