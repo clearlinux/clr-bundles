@@ -67,7 +67,7 @@ pesign
 include(devpkg-pmdk)
 pycodestyle
 pycurl
-pyOpenSSL
+pypi-pyopenssl
 python-magic
 rpm
 pypi-toml
