@@ -31,4 +31,4 @@ pypi-widgetsnbextension
 # end of custom additions
 
 # main package
-pypi(jupyter)
+pypi-jupyter_core
