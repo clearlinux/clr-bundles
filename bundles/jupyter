@@ -12,7 +12,7 @@ include(libglib)
 include(Sphinx)
 
 pypi-ipykernel
-pypi-jupyter
+pypi-jupyter_core
 pypi-jupyterlab
 pypi-jupyterlab_launcher
 pypi-jupyter_nbgallery
