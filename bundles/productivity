@@ -9,6 +9,6 @@ include(perl-basic)
 include(python3-basic)
 asciinema
 also-add(irssi)
-khal
+pypi-khal
 taskwarrior
 also-add(weechat)
