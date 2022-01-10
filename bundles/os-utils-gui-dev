@@ -656,7 +656,6 @@ pypi-cython
 pypi-cython-python3
 pypi-dnspython
 pypi-docutils
-pypi-flit_core-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-jinja2
@@ -681,12 +680,18 @@ pypi-pywbem-python3
 pypi-requests
 pypi-setuptools
 pypi-setuptools-python3
+pypi-setuptools_scm
+pypi-setuptools_scm-python3
+pypi-six
 pypi-sphinx
+pypi-toml-python3
 pypi-tox
 pypi-trampolim-python3
+pypi-typing_extensions-python3
 pypi-typogrify-python3
 pypi-virtualenv
 pypi-virtualenv-python3
+pypi-wheel-python3
 pypi-zipp-python3
 python-pocketlint
 python3
@@ -707,12 +712,9 @@ sassc
 sbc-dev
 sbc-dev32
 sed
-setuptools_scm
-setuptools_scm-python3
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
-six
 include(devpkg-speex)
 speexdsp-dev
 spice-dev
@@ -742,9 +744,7 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
-pypi-toml-python3
 tpm2-tss-dev
-pypi-typing_extensions-python3
 include(tzdata)
 udisks2
 udisks2-dev
@@ -768,7 +768,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-pypi-wheel-python3
 include(which)
 include(devpkg-woff2)
 xauth

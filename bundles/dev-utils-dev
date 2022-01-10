@@ -456,7 +456,6 @@ pypi-cffi
 pypi-commonmark
 pypi-cython
 pypi-docutils
-pypi-flit_core-python3
 pypi-iso8601
 pypi-jinja2
 pypi-lxml
@@ -471,11 +470,17 @@ pypi-pygments-python3
 pypi-pytest
 pypi-setuptools
 pypi-setuptools-python3
+pypi-setuptools_scm
+pypi-setuptools_scm-python3
+pypi-six
 pypi-sphinx
+pypi-testtools
 pypi-tox
 pypi-trampolim-python3
+pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-virtualenv-python3
+pypi-wheel-python3
 pypi-zipp-python3
 python3
 python3-core
@@ -489,11 +494,8 @@ include(rsync)
 ruby
 scdoc-dev
 sed
-setuptools_scm
-setuptools_scm-python3
 shadow
 shared-mime-info
-six
 slang-dev
 source-highlight
 source-highlight-dev
@@ -514,7 +516,6 @@ tcl-staticdev
 testrepository
 testresources
 testscenarios
-testtools
 include(texinfo)
 include(texlive)
 include(devpkg-tiff)
@@ -522,7 +523,6 @@ tk
 tk-dev
 trace-cmd-dev
 traceback2
-pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 util-linux
@@ -536,7 +536,6 @@ include(valgrind)
 include(devpkg-valgrind)
 vim
 include(wget)
-pypi-wheel-python3
 include(which)
 xauth
 xcb-proto

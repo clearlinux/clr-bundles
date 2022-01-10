@@ -401,7 +401,6 @@ pypi-cffi
 pypi-cython
 pypi-dnspython
 pypi-docutils
-pypi-flit_core-python3
 pypi-iso8601
 pypi-jinja2
 pypi-lxml
@@ -417,11 +416,16 @@ pypi-pytest
 pypi-requests
 pypi-setuptools
 pypi-setuptools-python3
+pypi-setuptools_scm
+pypi-setuptools_scm-python3
+pypi-six
 pypi-sphinx
 pypi-tox
 pypi-trampolim-python3
+pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-virtualenv-python3
+pypi-wheel-python3
 pypi-zipp-python3
 python3
 python3-core
@@ -434,11 +438,8 @@ rpcbind
 ruby
 samba-dev
 sed
-setuptools_scm
-setuptools_scm-python3
 shadow
 shared-mime-info
-six
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sssd-dev
@@ -463,7 +464,6 @@ tevent-python3
 include(texinfo)
 thin-provisioning-tools
 tk-dev
-pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 include(devpkg-userspace-rcu)
@@ -476,7 +476,6 @@ include(devpkg-util-macros)
 util-macros-dev32
 include(valgrind)
 include(devpkg-valgrind)
-pypi-wheel-python3
 include(which)
 xauth
 xcb-proto

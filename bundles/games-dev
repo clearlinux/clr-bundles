@@ -585,7 +585,6 @@ pypi-cffi
 pypi-cython
 pypi-docutils
 pypi-evdev
-pypi-flit_core-python3
 pypi-jinja2
 pypi-jinja2-python3
 pypi-lxml
@@ -602,12 +601,18 @@ pypi-pygments-python3
 pypi-pytest
 pypi-setuptools
 pypi-setuptools-python3
+pypi-setuptools_scm
+pypi-setuptools_scm-python3
+pypi-six
 pypi-sphinx
+pypi-toml-python3
 pypi-tox
 pypi-trampolim-python3
+pypi-typing_extensions-python3
 pypi-typogrify-python3
 pypi-virtualenv
 pypi-virtualenv-python3
+pypi-wheel-python3
 pypi-zipp-python3
 python3
 python3-core
@@ -626,11 +631,8 @@ sassc
 sbc-dev
 sbc-dev32
 sed
-setuptools_scm
-setuptools_scm-python3
 shadow
 shared-mime-info
-six
 slang-dev
 include(devpkg-speex)
 speexdsp-dev
@@ -653,9 +655,7 @@ tcl-staticdev
 include(texinfo)
 include(devpkg-tiff)
 tk-dev
-pypi-toml-python3
 tpm2-tss-dev
-pypi-typing_extensions-python3
 include(tzdata)
 include(unzip)
 util-linux
@@ -676,7 +676,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-pypi-wheel-python3
 include(which)
 include(devpkg-woff2)
 xauth
