@@ -1125,9 +1125,6 @@ tcl-dev
 tcl-staticdev
 tdb-dev
 tdb-python3
-testrepository
-testresources
-testscenarios
 tevent-dev
 tevent-python3
 include(texinfo)

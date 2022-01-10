@@ -513,9 +513,6 @@ tar
 tcl
 tcl-dev
 tcl-staticdev
-testrepository
-testresources
-testscenarios
 include(texinfo)
 include(texlive)
 include(devpkg-tiff)

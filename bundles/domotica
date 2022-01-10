@@ -15,7 +15,6 @@ home-assistant
 gmqtt
 pypi-ouimeaux
 pyecobee
-pyhs100
 python-openzwave
 qtmqtt
 pypi-spyrk
