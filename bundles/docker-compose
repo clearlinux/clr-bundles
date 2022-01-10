@@ -12,4 +12,4 @@ include(containers-basic)
 # end of custom additions
 
 # main package
-pypi(docker_compose)
+pypi-docker_compose

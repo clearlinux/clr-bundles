@@ -19,7 +19,7 @@ glibc-bin
 
 #
 PyYAML
-pypi(boto)
+pypi-boto
 certifi
 cxxfilt
 deap

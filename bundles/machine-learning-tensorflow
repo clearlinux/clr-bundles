@@ -27,7 +27,7 @@ filesystem
 #gast
 #google-pasta
 #grpcio
-#pypi(h5py)
+#pypi-h5py
 #Markdown
 #numpy
 #pandas

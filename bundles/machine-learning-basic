@@ -33,7 +33,7 @@ R-statmod
 pypi-appdirs
 pypi-astroid
 bazel
-pypi(bokeh)
+pypi-bokeh
 include(devpkg-boost)
 cycler-python
 include(devpkg-eigen)
@@ -45,7 +45,7 @@ include(devpkg-glog)
 glibc-lib-avx2
 include(devpkg-googletest)
 include(graphviz)
-pypi(h5py)
+pypi-h5py
 hdf5-dev
 hdf5-dev
 #Keras

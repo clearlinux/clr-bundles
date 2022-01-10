@@ -7,9 +7,9 @@
 include(python3-basic)
 include(Sphinx)
 
-pypi(django)
-pypi(django_appconf)
-pypi(django_compressor)
-pypi(django_discover_runner)
-pypi(django_nose)
-pypi(django_pyscss)
+pypi-django
+pypi-django_appconf
+pypi-django_compressor
+pypi-django_discover_runner
+pypi-django_nose
+pypi-django_pyscss
