@@ -31,7 +31,7 @@ pypi-matplotlib
 mistune
 pypi-nbconvert
 pypi-nbformat
-notebook
+pypi-notebook
 pandas
 pandocfilters
 pexpect
