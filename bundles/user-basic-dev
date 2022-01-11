@@ -28,6 +28,7 @@ OpenSP
 PyYAML-python3
 include(devpkg-SDL)
 SVT-AV1-dev
+include(Sphinx)
 VTK-dev
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)
@@ -655,6 +656,7 @@ pypi-execnet-python3
 pypi-idna
 pypi-imagesize
 pypi-iso8601
+pypi-iso8601-python3
 pypi-jinja2
 pypi-jinja2-python3
 pypi-jsonpatch-python3

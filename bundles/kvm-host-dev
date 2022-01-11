@@ -17,6 +17,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 MarkupSafe-python3
 PyYAML-python3
+include(Sphinx)
 VTK-dev
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)

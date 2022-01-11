@@ -19,6 +19,7 @@ include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_image)
 SmartXbar-dev
+include(Sphinx)
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32

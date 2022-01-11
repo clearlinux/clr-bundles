@@ -41,6 +41,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 SFCGAL-dev
 SVT-AV1-dev
+include(Sphinx)
 VTK-dev
 Vulkan-Headers-data
 Vulkan-Headers-dev
@@ -166,7 +167,6 @@ include(diffutils)
 ding-libs-dev
 distro-python3
 dmidecode
-dnf-plugins-core
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -325,7 +325,6 @@ icu4c
 include(devpkg-icu4c)
 icu4c-dev32
 inih-dev
-iniparse
 intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
@@ -338,7 +337,6 @@ include(devpkg-iptables)
 iptables-dev32
 isa-l-dev
 include(devpkg-iso-codes)
-isodate
 include(devpkg-jack2)
 include(devpkg-jansson)
 jemalloc-dev
@@ -442,12 +440,10 @@ include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
 libclc-dev
-libcomps
 include(devpkg-libcroco)
 include(devpkg-libdatrie)
 libdatrie-dev32
 libdbusmenu-qt-dev
-libdnf
 include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
@@ -513,7 +509,6 @@ libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
 librdkafka-dev
-librepo
 include(devpkg-librepo)
 librsvg
 include(devpkg-librsvg)
@@ -564,7 +559,6 @@ include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
-linecache2
 links
 linux-firmware-wifi
 linux-libc-headers
@@ -872,10 +866,7 @@ pypi-appdirs
 pypi-atomicwrites-python3
 pypi-attrs
 pypi-attrs-python3
-pypi-babel
 pypi-bcrypt-python3
-pypi-build-python3
-pypi-cached_property
 pypi-certifi-python3
 pypi-cffi
 pypi-cffi-python3
@@ -887,7 +878,6 @@ pypi-cmd2-python3
 pypi-colorama-python3
 pypi-commonmark
 pypi-commonmark-python3
-pypi-contextlib2
 pypi-coverage
 pypi-coverage-python3
 pypi-cryptography-python3
@@ -913,6 +903,7 @@ pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
+pypi-iso8601-python3
 pypi-itsdangerous-python3
 pypi-jinja2
 pypi-jinja2-python3
@@ -921,7 +912,6 @@ pypi-kubernetes-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
-pypi-mock
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-nose
@@ -937,7 +927,6 @@ pypi-pexpect-python3
 pypi-pillow-python3
 pypi-pip
 pypi-pip-python3
-pypi-platformdirs
 pypi-pluggy
 pypi-pluggy-python3
 pypi-ply-python3
@@ -951,7 +940,6 @@ pypi-py-python3
 pypi-pycparser
 pypi-pycparser-python3
 pypi-pyfakefs-python3
-pypi-pygments
 pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pyopenssl-python3
@@ -976,7 +964,6 @@ pypi-pytz
 pypi-pytz-python3
 pypi-requests
 pypi-requests-python3
-pypi-requests_file
 pypi-requests_gssapi-python3
 pypi-requests_mock-python3
 pypi-requests_toolbelt
@@ -1008,7 +995,6 @@ pypi-werkzeug-python3
 pypi-wheel-python3
 pypi-xmlschema-python3
 pypi-zipp-python3
-python-mimeparse
 python-remoto-python3
 python-rpm-packaging
 python3
@@ -1081,7 +1067,6 @@ signond-dev
 sip
 sip-dev
 slang-dev
-smartcols
 snappy-dev
 solid-dev
 sonnet-dev

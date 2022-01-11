@@ -622,6 +622,7 @@ include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_image)
 SFCGAL-dev
+include(Sphinx)
 SuiteSparse-dev
 VTK-dev
 Vulkan-Headers-dev
@@ -1198,7 +1199,7 @@ pypi-cython
 pypi-cython-python3
 pypi-docutils
 pypi-ipython-python3
-pypi-iso8601
+pypi-iso8601-python3
 pypi-jinja2
 pypi-jinja2-python3
 pypi-lxml

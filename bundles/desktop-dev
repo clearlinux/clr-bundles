@@ -30,6 +30,7 @@ include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_image)
 SVT-AV1-dev
+include(Sphinx)
 UCD
 Vulkan-Headers-data
 Vulkan-Headers-dev
@@ -341,7 +342,6 @@ include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-iso-codes)
-isodate
 itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
@@ -800,7 +800,6 @@ include(devpkg-pygobject)
 pygobject-python
 pypi-appdirs
 pypi-attrs
-pypi-cached_property
 pypi-certifi-python3
 pypi-cffi
 pypi-cffi-python3
@@ -828,7 +827,6 @@ pypi-packaging
 pypi-pbr
 pypi-pillow-python3
 pypi-pip
-pypi-platformdirs
 pypi-pluggy
 pypi-pluggy-python3
 pypi-polib
@@ -845,7 +843,6 @@ pypi-pytz
 pypi-pywbem-python3
 pypi-requests
 pypi-requests-python3
-pypi-requests_file
 pypi-requests_toolbelt
 pypi-setuptools
 pypi-setuptools-python3

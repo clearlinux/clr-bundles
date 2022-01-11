@@ -29,6 +29,7 @@ include(devpkg-SDL_gfx)
 include(devpkg-SDL_image)
 include(devpkg-SDL_net)
 include(devpkg-SDL_ttf)
+include(Sphinx)
 Vulkan-Headers-data
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)

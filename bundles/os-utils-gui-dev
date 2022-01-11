@@ -22,6 +22,7 @@ include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_image)
 SVT-AV1-dev
+include(Sphinx)
 Thunar-dev
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)

@@ -13,6 +13,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 include(devpkg-SDL)
 SVT-AV1-dev
+include(Sphinx)
 VTK-dev
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)
@@ -455,7 +456,7 @@ pypi-cffi
 pypi-commonmark
 pypi-cython
 pypi-docutils
-pypi-iso8601
+pypi-iso8601-python3
 pypi-jinja2
 pypi-lxml
 pypi-pip
@@ -472,7 +473,6 @@ pypi-setuptools-python3
 pypi-setuptools_scm
 pypi-setuptools_scm-python3
 pypi-six
-pypi-sphinx
 pypi-tox
 pypi-trampolim-python3
 pypi-typing_extensions-python3

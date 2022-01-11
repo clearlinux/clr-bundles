@@ -12,6 +12,7 @@ Linux-PAM-dev32
 MarkupSafe-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(Sphinx)
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
