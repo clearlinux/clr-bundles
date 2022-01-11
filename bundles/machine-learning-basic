@@ -32,7 +32,6 @@ R-neuralnet
 R-statmod
 pypi-appdirs
 pypi-astroid
-bazel
 pypi-bokeh
 include(devpkg-boost)
 cycler-python
