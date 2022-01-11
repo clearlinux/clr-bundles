@@ -29,4 +29,3 @@ pypi-pytest_xdist
 pypi-mock
 pypi-tap.py
 pypi-testpath
-pypi-testtools

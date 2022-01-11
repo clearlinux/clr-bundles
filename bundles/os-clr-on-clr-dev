@@ -972,7 +972,6 @@ pypi-pytest_xdist-python3
 pypi-python_dateutil-python3
 pypi-python_dbusmock
 pypi-python_multilib-python3
-pypi-python_subunit
 pypi-pytz
 pypi-pytz-python3
 pypi-requests
@@ -995,8 +994,6 @@ pypi-sphinx
 pypi-sphinx-python3
 pypi-sphinx_rtd_theme-python3
 pypi-templated_dictionary-python3
-pypi-testtools
-pypi-testtools-python3
 pypi-toml-python3
 pypi-tomli-python3
 pypi-tox

@@ -1223,7 +1223,6 @@ pypi-setuptools_scm
 pypi-setuptools_scm-python3
 pypi-six
 pypi-sphinx
-pypi-testtools
 pypi-toml-python3
 pypi-tox
 pypi-trampolim-python3

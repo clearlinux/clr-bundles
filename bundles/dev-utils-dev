@@ -473,7 +473,6 @@ pypi-setuptools_scm
 pypi-setuptools_scm-python3
 pypi-six
 pypi-sphinx
-pypi-testtools
 pypi-tox
 pypi-trampolim-python3
 pypi-typing_extensions-python3
