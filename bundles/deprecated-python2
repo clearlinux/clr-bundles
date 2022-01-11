@@ -10,7 +10,5 @@ include(openblas)
 include(libglib)
 
 glibc-lib-avx2
-pip-legacy
-pip-legacypython
 python-core
 python-dev

@@ -146,7 +146,6 @@ emacs
 include(devpkg-expat)
 expat-dev32
 expect
-extras
 fcgi-dev
 include(devpkg-fftw)
 file-dev
@@ -782,7 +781,6 @@ tk
 tk-dev
 tokyocabinet-dev
 tpm2-tss-dev
-traceback2
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)

@@ -95,7 +95,6 @@ emacs
 include(devpkg-expat)
 expat-dev32
 expect
-extras
 include(findutils)
 include(flex)
 flex-dev
@@ -519,7 +518,6 @@ include(devpkg-tiff)
 tk
 tk-dev
 trace-cmd-dev
-traceback2
 include(tzdata)
 include(unzip)
 util-linux

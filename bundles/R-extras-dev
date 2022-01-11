@@ -724,7 +724,6 @@ include(devpkg-expat)
 expat-dev32
 expect
 extra-cmake-modules
-extras
 include(devpkg-fftw)
 file-dev
 include(findutils)
@@ -1295,7 +1294,6 @@ include(texinfo)
 include(texlive)
 include(devpkg-tiff)
 tk-dev
-traceback2
 include(tzdata)
 udunits-dev
 unixODBC-dev

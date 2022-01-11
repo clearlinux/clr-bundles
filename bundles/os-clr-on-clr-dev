@@ -197,14 +197,11 @@ expat-dev32
 expect
 extra-cmake-modules
 extra-cmake-modules-data
-extras
-extras-python3
 fcgi-dev
 include(devpkg-fftw)
 include(file)
 file-dev
 include(findutils)
-fixtures
 include(devpkg-flac)
 flac-dev32
 include(flex)
@@ -1136,7 +1133,6 @@ tk
 tk-dev
 tokyocabinet-dev
 tpm2-tss-dev
-traceback2
 include(tzdata)
 unixODBC-dev
 include(unzip)

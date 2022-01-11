@@ -30,7 +30,6 @@ pypi-pytest_tap
 pypi-pytest_timeout
 pypi-pytest_xdist
 pypi-mock
-traceback2
 
 
 #
