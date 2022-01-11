@@ -39,7 +39,7 @@ mypy
 nose
 numpy
 pathlib2
-pbr
+pypi-pbr
 pytest
 pytest-cov
 pytest-repeat
