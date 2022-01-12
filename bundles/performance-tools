@@ -40,10 +40,6 @@ include(powertop)
 powerstat
 include(procps-ng)
 psstop
-#
-# EVIL THIS PULLS IN PYTHON
-#
-python-hwinfo
 siege
 include(strace)
 sysdig
