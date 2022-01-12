@@ -25,10 +25,11 @@ cxxfilt
 deap
 distro
 docopt
-flake8
-flake8-blind-except
-flake8-class-newline
-flake8-docstrings
+pypi-flake8
+pypi-flake8_blind_except
+pypi-flake8_class_newline
+pypi-flake8_docstrings
+pypi-flake8_import_order
 glibc-lib-avx2
 intelhex
 jdcal
@@ -45,7 +46,7 @@ pytest-cov
 pytest-repeat
 pytest-rerunfailures
 pytest-tap
-python-dateutil
+pypi-python_dateutil
 python-distutils-extra
 python-tabulate
 pypi-tap.py
@@ -53,7 +54,7 @@ pypi-natsort
 include(python3-tcl)
 python-zeep
 python-zstandard
-requests
+pypi-requests
 requests-ntlm
 pypi-scikit_image
 scikit-learn

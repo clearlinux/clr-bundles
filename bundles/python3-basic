@@ -10,9 +10,9 @@ include(libstdcpp)
 pypi-cffi
 glibc-lib-avx2
 pip
-pycodestyle
+pypi-pycodestyle
 python3-core
 python3-dev
-setuptools
+pypi-setuptools
 swupd-search
 virtualenv

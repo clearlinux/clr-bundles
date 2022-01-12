@@ -62,10 +62,10 @@ include(devpkg-mesa)
 include(mkosi)
 ncurses-data-rare
 p7zip
-pep8
+pypi-pep8
 pesign
 include(devpkg-pmdk)
-pycodestyle
+pypi-pycodestyle
 pycurl
 pypi-pyopenssl
 python-magic

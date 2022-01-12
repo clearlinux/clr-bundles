@@ -51,7 +51,7 @@ glib-config
 
 # python specific deps
 python-zeep
-requests
+pypi-requests
 requests-ntlm
 
 # also-add apps
