@@ -12,5 +12,5 @@ include(python3-basic)
 
 compute-image-packages
 e2fsprogs-extras
-gsutil
+pypi-gsutil
 micro-config-drive
