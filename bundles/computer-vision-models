@@ -9,4 +9,4 @@ include(python3-basic)
 include(lib-imageformat)
 include(libX11client)
 
-open_model_zoo
+

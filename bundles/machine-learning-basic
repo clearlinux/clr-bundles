@@ -26,7 +26,7 @@ pypi-theano
 #
 
 ConfigArgParse
-Pillow
+pypi-pillow
 R-deepnet
 R-neuralnet
 R-statmod
@@ -63,7 +63,7 @@ include(devpkg-opencv)
 opencv-python
 openjdk-dev
 pandas
-Pillow
+pypi-pillow
 posix_ipc
 include(devpkg-protobuf-c)
 protobuf-dev
@@ -84,6 +84,6 @@ snappy-dev
 include(Sphinx)
 swig
 include(devpkg-tbb)
-tflearn
+
 pypi-tqdm
 pypi-wheel

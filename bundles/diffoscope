@@ -12,4 +12,4 @@ include(python3-basic)
 # end of custom additions
 
 # main package
-diffoscope
+pypi-diffoscope

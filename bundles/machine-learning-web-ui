@@ -18,7 +18,7 @@ include(Sphinx)
 backports.ssl_match_hostname
 pypi-bash_kernel
 pypi-bokeh
-decorator
+pypi-decorator
 entrypoints
 pypi-ipykernel
 pypi-ipython

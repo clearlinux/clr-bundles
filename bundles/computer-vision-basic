@@ -29,5 +29,5 @@ include(devpkg-opencv)
 pandas
 pypi-scikit_image
 scipy-python
-tflearn
+
 pypi-wheel
