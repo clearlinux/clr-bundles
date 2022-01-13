@@ -335,10 +335,12 @@ procmail
 include(procps-ng)
 pypi-cffi-python3
 pypi-cython
+pypi-cython-python3
+pypi-hkp4py-python3
 pypi-idna
 pypi-jinja2
 pypi-lxml
-pypi-requests
+pypi-requests-python3
 pypi-sphinx
 python3
 python3-core
