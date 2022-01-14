@@ -28,7 +28,7 @@ pypi-ipywidgets
 pypi-jsonschema
 include(jupyter)
 pypi-matplotlib
-mistune
+pypi-mistune
 pypi-nbconvert
 pypi-nbformat
 pypi-notebook
