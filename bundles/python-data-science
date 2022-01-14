@@ -12,7 +12,7 @@ include(python-extras)
 
 # Key pydata.org components
 pypi-bokeh
-dask
+pypi-dask
 pypi-ipython
 pypi-matplotlib
 pypi-nose
