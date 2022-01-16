@@ -38,12 +38,12 @@ pexpect
 pickleshare
 pypi-prompt_toolkit
 ptyprocess
-pyzmq
+pypi-pyzmq
 qtconsole
 R-IRkernel
 pypi-simplegeneric
 sip
-six
+pypi-six
 pypi-terminado
 pypi-testpath
 pypi-tornado
