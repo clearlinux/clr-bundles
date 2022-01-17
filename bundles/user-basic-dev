@@ -746,6 +746,7 @@ shared-mime-info
 slang-dev
 snappy-dev
 source-highlight
+source-highlight-dev
 include(devpkg-speex)
 speexdsp-dev
 spice

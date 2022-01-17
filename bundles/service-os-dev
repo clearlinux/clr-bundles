@@ -25,6 +25,7 @@ autoconf-archive-dev
 autogen
 automake
 automake-dev
+babeltrace-dev
 bash-completion-dev
 bats
 include(binutils)
@@ -281,6 +282,7 @@ rustc
 sed
 shadow
 shared-mime-info
+source-highlight-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)

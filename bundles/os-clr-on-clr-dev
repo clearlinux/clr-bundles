@@ -1115,6 +1115,7 @@ snappy-dev
 solid-dev
 sonnet-dev
 source-highlight
+source-highlight-dev
 include(devpkg-speex)
 speexdsp-dev
 spice
