@@ -73,6 +73,7 @@ R-RcppArmadillo
 R-RcppEigen
 R-RcppParallel
 R-RcppProgress
+R-RcppTOML
 R-Rdpack
 R-Rmpi
 R-SGPdata
@@ -1214,7 +1215,6 @@ pypi-mako
 pypi-markdown-python3
 pypi-mock-python3
 pypi-nose-python3
-pypi-numpy
 pypi-numpy-python3
 pypi-pip
 pypi-platformdirs-python3

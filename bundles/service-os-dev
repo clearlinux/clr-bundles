@@ -50,9 +50,11 @@ include(devpkg-cairo)
 check-dev
 check-dev32
 clr-rpm-config
+compat-gcc-10-dev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 curl-dev32
 db
@@ -127,6 +129,7 @@ include(devpkg-gtk-doc)
 include(guile)
 include(gzip)
 include(devpkg-harfbuzz)
+help2man
 hostname
 include(devpkg-icu4c)
 icu4c-dev32

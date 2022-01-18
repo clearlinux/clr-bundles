@@ -1004,7 +1004,6 @@ pypi-rpm_py_installer-python3
 pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_rust-python3
-pypi-setuptools_scm
 pypi-setuptools_scm-python3
 pypi-six
 pypi-six-python3
