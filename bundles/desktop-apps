@@ -31,15 +31,14 @@ also-add(gnome-photos)
 also-add(gnome-screenshot)
 also-add(gnome-system-monitor)
 also-add(gnome-todo)
-include(gnome-weather)
+also-add(gnome-weather)
+# underlying infra needs
 include(graphviz)
 include(libva-utils)
 include(seahorse)
 also-add(totem)
 # apps
 dconf-editor
-eog-plugins
-evolution-ews
 graphviz-extras
 libyami-utils
 pavucontrol
