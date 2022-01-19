@@ -34,7 +34,6 @@ buildreq-kde
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
-ca-certs
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -62,7 +61,6 @@ emacs
 include(devpkg-expat)
 expect
 file-dev
-include(findutils)
 include(flex)
 flex-dev
 include(devpkg-fuse)

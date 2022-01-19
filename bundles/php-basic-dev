@@ -68,7 +68,6 @@ include(devpkg-expat)
 expat-dev32
 expect
 file-dev
-include(findutils)
 include(flex)
 flex-dev
 fontconfig-data

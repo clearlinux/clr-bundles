@@ -29,7 +29,6 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-meson
 bzip2
-ca-certs
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -47,7 +46,6 @@ e2fsprogs
 include(devpkg-elfutils)
 include(devpkg-expat)
 expect
-include(findutils)
 include(flex)
 flex-dev
 gawk

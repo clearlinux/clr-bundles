@@ -144,7 +144,6 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
-include(findutils)
 include(devpkg-flac)
 flac-dev32
 include(flex)
@@ -711,7 +710,6 @@ include(devpkg-rest)
 rtkit
 rtmpdump-dev
 ruby
-rust-std32
 rustc
 samba-dev
 sassc

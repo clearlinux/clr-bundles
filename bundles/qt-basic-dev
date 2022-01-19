@@ -59,7 +59,6 @@ buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
-ca-certs
 include(devpkg-cairo)
 check-dev
 check-dev32
@@ -100,7 +99,6 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
-include(findutils)
 include(devpkg-flac)
 flac-dev32
 include(flex)

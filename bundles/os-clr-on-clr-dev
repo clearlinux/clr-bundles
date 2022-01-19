@@ -202,7 +202,6 @@ fcgi-dev
 include(devpkg-fftw)
 include(file)
 file-dev
-include(findutils)
 include(devpkg-flac)
 flac-dev32
 include(flex)

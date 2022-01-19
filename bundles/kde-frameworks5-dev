@@ -114,7 +114,6 @@ extra-cmake-modules
 extra-cmake-modules-data
 include(devpkg-fftw)
 file-dev
-include(findutils)
 include(devpkg-flac)
 flac-dev32
 include(flex)

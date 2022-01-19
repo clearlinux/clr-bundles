@@ -56,7 +56,6 @@ include(devpkg-elfutils)
 include(devpkg-expat)
 expat-dev32
 expect
-include(findutils)
 include(flex)
 flex-dev
 gawk

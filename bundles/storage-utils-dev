@@ -41,7 +41,6 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
-ca-certs
 include(devpkg-cairo)
 check-dev
 check-dev32
@@ -79,7 +78,6 @@ expat-dev32
 expect
 f2fs-tools-dev
 file-dev
-include(findutils)
 include(flex)
 flex-dev
 fontconfig-data
