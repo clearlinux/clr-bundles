@@ -179,10 +179,7 @@ elfutils-dev32
 ell-dev
 emacs
 include(devpkg-enchant)
-eog-dev
 include(devpkg-evolution-data-server)
-include(devpkg-evolution)
-exempi-dev
 include(devpkg-exiv2)
 include(devpkg-expat)
 expat-dev32
@@ -312,7 +309,6 @@ include(devpkg-gtk3)
 include(devpkg-gtk4)
 gtkmm2-dev
 include(devpkg-gtkmm3)
-include(devpkg-gtkspell3)
 include(guile)
 include(devpkg-gutenprint)
 gvfs-dev
@@ -408,7 +404,6 @@ include(devpkg-libcgroup)
 libclc-dev
 include(devpkg-libconfig)
 include(devpkg-libcroco)
-libcryptui-dev
 include(devpkg-libdaemon)
 include(devpkg-libdatrie)
 libdatrie-dev32
@@ -457,7 +452,6 @@ libmbim-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
-include(devpkg-libmspack)
 include(devpkg-libmtp)
 include(devpkg-libmypaint)
 include(devpkg-libndp)
@@ -477,7 +471,6 @@ libogg-dev32
 include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
-include(devpkg-libpeas)
 include(devpkg-libpinyin)
 include(devpkg-libpipeline)
 include(devpkg-libpng)
@@ -790,7 +783,6 @@ ppp-dev
 include(procps-ng)
 procps-ng-bin
 protobuf-dev
-psmisc
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 pycairo
