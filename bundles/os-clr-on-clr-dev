@@ -1087,6 +1087,7 @@ rpcbind
 rpm
 rpm-dev
 rpm-extras
+rrdtool-dev
 include(rsync)
 rtkit
 ruby

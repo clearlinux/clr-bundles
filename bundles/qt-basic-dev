@@ -279,6 +279,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
+liburing-dev
 include(devpkg-libusb)
 include(devpkg-libva)
 libvdpau-dev
@@ -321,6 +322,7 @@ netbase
 include(devpkg-nettle)
 nettle-dev32
 nss-altfiles
+include(devpkg-numactl)
 octave-dev
 openal-soft-dev
 openjade-dev
@@ -449,6 +451,7 @@ sbc-dev32
 sed
 shadow
 shared-mime-info
+snappy-dev
 include(devpkg-speex)
 speexdsp-dev
 sqlite-autoconf
