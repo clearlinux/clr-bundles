@@ -212,7 +212,6 @@ isa-l-dev
 include(devpkg-iso-codes)
 include(devpkg-jack2)
 include(devpkg-jansson)
-include(joe)
 include(devpkg-json-c)
 json-c-dev32
 keyutils-dev
@@ -463,7 +462,7 @@ pypi-pyfakefs-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pyopenssl-python3
-pypi-pyparsing
+pypi-pyparsing-python3
 pypi-pytest
 pypi-python_dbusmock
 pypi-requests-python3
