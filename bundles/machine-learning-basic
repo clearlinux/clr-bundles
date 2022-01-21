@@ -71,7 +71,7 @@ protobuf-python
 pydot
 pydotplus
 pydot_ng
-pyparsing
+pypi(pyparsing)
 python-future
 python-Levenshtein
 pypi-mock
