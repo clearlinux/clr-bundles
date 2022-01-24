@@ -1090,7 +1090,6 @@ include(rsync)
 rtkit
 ruby
 ruby-dev
-rust-std32
 rustc
 samba-dev
 sassc

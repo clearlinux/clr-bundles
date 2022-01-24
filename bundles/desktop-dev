@@ -924,7 +924,6 @@ rtkit
 rtmpdump-dev
 ruby
 ruby-dev
-rust-std32
 rustc
 samba-dev
 sane-backends-dev

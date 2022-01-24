@@ -279,7 +279,6 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 runc-dev
-rust-std32
 rustc
 sed
 shadow
