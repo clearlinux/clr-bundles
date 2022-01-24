@@ -44,7 +44,7 @@ pypi-gitpython
 include(devpkg-gtk)
 libabigail
 also-add(libarchive)
-libarchive-c
+pypi-libarchive-c
 include(devpkg-libarchive)
 include(libdeps)
 include(devpkg-libdrm)
