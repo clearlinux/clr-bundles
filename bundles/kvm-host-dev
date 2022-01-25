@@ -36,7 +36,6 @@ include(devpkg-at-spi2-core)
 include(devpkg-atk)
 include(devpkg-attr)
 attr-dev32
-audisp-json
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev

@@ -438,7 +438,6 @@ include(devpkg-qtbase)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
-rpcbind
 ruby
 samba-dev
 sed
