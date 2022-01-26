@@ -167,6 +167,7 @@ include(diffutils)
 ding-libs-dev
 distro-python3
 dmidecode
+include(dnf)
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -939,7 +940,6 @@ pypi-more_itertools-python3
 pypi-multidict-python3
 pypi-mypy_extensions-python3
 pypi-nose
-pypi-nose-python3
 pypi-numpy
 pypi-numpy-python3
 pypi-olefile-python3
