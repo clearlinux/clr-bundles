@@ -997,7 +997,6 @@ vpnc
 vte-dev
 wavpack-dev
 include(devpkg-wayland)
-wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(devpkg-webkitgtk)
