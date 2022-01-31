@@ -28,8 +28,6 @@ Z3-dev
 Z3-dev32
 include(devpkg-acl)
 acl-dev32
-acrn-hypervisor-dev
-acrn-hypervisor-staticdev
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 asciidoc
@@ -74,7 +72,6 @@ clear-font
 clr-rpm-config
 include(devpkg-clutter)
 cmocka-dev
-include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
 cppcheck

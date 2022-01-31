@@ -386,6 +386,7 @@ pypi-jinja2-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
+pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3

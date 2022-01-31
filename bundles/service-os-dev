@@ -13,8 +13,6 @@ Linux-PAM-dev
 Linux-PAM-dev32
 include(devpkg-acl)
 acl-dev32
-include(acpica-unix2)
-acrn-hypervisor-dev
 asciidoc
 include(devpkg-attr)
 attr-dev32
@@ -176,7 +174,6 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
-include(devpkg-libpciaccess)
 include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libpthread-stubs)
@@ -190,7 +187,6 @@ include(devpkg-libtirpc)
 libtool
 libtool-dev
 include(devpkg-libunwind)
-include(devpkg-libusb)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxml2)
@@ -214,7 +210,6 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 nss-altfiles
 nss-bin
-include(devpkg-numactl)
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -249,6 +244,7 @@ pypi-importlib_metadata-python3
 pypi-importlib_resources-python3
 pypi-jinja2
 pypi-lxml
+pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
@@ -271,7 +267,6 @@ pypi-virtualenv
 pypi-virtualenv-python3
 pypi-wheel-python3
 pypi-zipp-python3
-python-kconfiglib
 python3
 python3-core
 python3-dev
@@ -294,8 +289,6 @@ tar
 tcl
 tcl-dev
 tcl-staticdev
-telemetrics-client
-include(devpkg-telemetrics-client)
 include(texinfo)
 tk-dev
 include(tzdata)

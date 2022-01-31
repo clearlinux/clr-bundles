@@ -409,6 +409,7 @@ pypi-iso8601
 pypi-jinja2
 pypi-lxml
 pypi-markdown-python3
+pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
