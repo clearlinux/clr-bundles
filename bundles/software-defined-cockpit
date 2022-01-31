@@ -35,4 +35,4 @@ include(v4l-utils)
 
 # User tools
 fontconfig
-ioc-cbc-tools
+#ioc-cbc-tools
