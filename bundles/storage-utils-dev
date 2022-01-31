@@ -8,7 +8,6 @@ include(dev-utils)
 include(os-core-dev)
 include(storage-utils)
 CUnit-dev
-LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -410,7 +409,6 @@ pypi-iso8601
 pypi-jinja2
 pypi-lxml
 pypi-markdown-python3
-pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3

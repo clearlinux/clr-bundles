@@ -12,7 +12,6 @@ CUnit-dev
 CUnit-dev32
 ImageMagick
 Imath-dev
-LVM2
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
 Linux-PAM-dev

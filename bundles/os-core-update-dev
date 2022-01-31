@@ -9,7 +9,6 @@ include(os-core-dev)
 include(os-core-update)
 CUnit-dev
 CUnit-dev32
-LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32

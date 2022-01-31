@@ -8,7 +8,6 @@ include(dev-utils)
 include(os-core-dev)
 include(sysadmin-basic)
 CUnit-dev
-LVM2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
