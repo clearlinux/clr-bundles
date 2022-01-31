@@ -9,7 +9,7 @@ include(libstdcpp)
 
 pypi-cffi
 glibc-lib-avx2
-pip
+pypi-pip
 pypi-pycodestyle
 python3-core
 python3-dev
