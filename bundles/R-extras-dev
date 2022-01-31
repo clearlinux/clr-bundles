@@ -1315,6 +1315,7 @@ include(devpkg-v4l-utils)
 include(valgrind)
 include(devpkg-valgrind)
 include(devpkg-wayland)
+wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)

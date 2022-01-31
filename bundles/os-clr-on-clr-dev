@@ -1158,6 +1158,7 @@ virglrenderer-dev
 vte-dev
 wayland
 include(devpkg-wayland)
+wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 weston
