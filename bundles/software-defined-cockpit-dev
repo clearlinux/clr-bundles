@@ -38,7 +38,6 @@ include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
 autoconf
-autoconf-archive
 autoconf-archive-dev
 autogen
 automake
@@ -88,7 +87,6 @@ dav1d-dev
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
-include(devpkg-dbus-glib)
 dejagnu
 desktop-file-utils
 dialog
@@ -399,7 +397,6 @@ pypi-mako
 pypi-markdown-python3
 pypi-pygments-python3
 pypi-setuptools-python3
-pypi-six
 pypi-sphinx
 pypi-toml-python3
 pypi-typogrify-python3
@@ -439,7 +436,6 @@ include(texinfo)
 include(devpkg-tiff)
 include(tzdata)
 include(unzip)
-upower-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
