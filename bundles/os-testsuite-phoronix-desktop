@@ -109,7 +109,6 @@ perl
 perl-Digest-MD5
 include(phoronix-test-suite)
 pkg-config-dev
-pyperf
 also-add(devpkg-popt)
 pth-dev
 python3-dev

@@ -101,6 +101,5 @@ also-add(unzip)
 also-add(yasm)
 also-add(devpkg-zlib)
 also-add(devpkg-util-linux)
-pyperf
 also-add(python-extras)
 also-add(python-data-science)

@@ -114,7 +114,6 @@ pciutils
 also-add(devpkg-pcre)
 perl
 perl-Digest-MD5
-pyperf
 include(phoronix-test-suite)
 pkg-config-dev
 also-add(devpkg-popt)
