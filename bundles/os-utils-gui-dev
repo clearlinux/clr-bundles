@@ -15,6 +15,7 @@ include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 MarkupSafe-python3
+PyYAML-python3
 include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -333,6 +334,7 @@ libdatrie-dev32
 libdmx-dev
 include(devpkg-libdrm)
 libdrm-dev32
+include(devpkg-libedit)
 include(devpkg-libepoxy)
 liberation-fonts
 libev-dev
@@ -471,6 +473,7 @@ include(devpkg-nettle)
 nettle-dev32
 include(devpkg-nghttp2)
 nghttp2-dev32
+ninja
 not-ffmpeg-dev
 npth-dev
 nss-altfiles
@@ -492,6 +495,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 include(devpkg-pacrunner)
+pandas-python3
 include(pandoc)
 include(devpkg-pango)
 include(devpkg-parted)
@@ -648,6 +652,7 @@ protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 include(pygobject)
+pypi-absl_py-python3
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-booleanoperations-python3
@@ -660,9 +665,12 @@ pypi-distlib-python3
 pypi-dnspython
 pypi-docutils
 pypi-filelock-python3
+pypi-flit-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
+pypi-graphviz-python3
 pypi-hkp4py-python3
+pypi-humanize-python3
 pypi-importlib_metadata-python3
 pypi-importlib_resources-python3
 pypi-iso8601
@@ -671,19 +679,26 @@ pypi-jinja2-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
+pypi-matplotlib-python3
+pypi-numpy-python3
 pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
 pypi-polib
+pypi-psutil-python3
+pypi-ptyprocess-python3
 pypi-py
 pypi-py-python3
+pypi-pybind11
+pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pygments-python3
 pypi-pytest
 pypi-python_dbusmock
 pypi-pywbem-python3
 pypi-requests-python3
+pypi-seaborn-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six
@@ -707,6 +722,7 @@ include(devpkg-qtbase)
 include(devpkg-readline)
 readline-dev32
 include(devpkg-rest)
+include(rsync)
 rtkit
 rtmpdump-dev
 ruby
@@ -715,6 +731,7 @@ samba-dev
 sassc
 sbc-dev
 sbc-dev32
+scipy-python3
 sed
 shadow
 shared-mime-info

@@ -9,7 +9,7 @@ include(libX11client)
 include(qt-basic)
 include(hardware-gpu)
 
-llvm-dev
+include(devpkg-llvm)
 SPIRV-Tools-dev
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)

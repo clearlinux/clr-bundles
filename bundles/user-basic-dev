@@ -313,6 +313,7 @@ include(devpkg-libdatrie)
 libdatrie-dev32
 include(devpkg-libdrm)
 libdrm-dev32
+include(devpkg-libedit)
 include(devpkg-libepoxy)
 liberation-fonts
 libev-dev
@@ -468,6 +469,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 include(devpkg-pacrunner)
+pandas-python3
 include(pandoc)
 include(devpkg-pango)
 include(devpkg-parted)
@@ -638,6 +640,7 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
+pypi-absl_py-python3
 pypi-bcrypt-python3
 pypi-certifi-python3
 pypi-cffi-python3
@@ -653,8 +656,11 @@ pypi-docopt-python3
 pypi-docutils
 pypi-execnet-python3
 pypi-filelock-python3
+pypi-flit-python3
 pypi-flit_core-python3
+pypi-graphviz-python3
 pypi-hkp4py-python3
+pypi-humanize-python3
 pypi-idna
 pypi-imagesize
 pypi-importlib_metadata-python3
@@ -668,6 +674,7 @@ pypi-kubernetes-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
+pypi-matplotlib-python3
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-numpy-python3
@@ -682,8 +689,12 @@ pypi-pluggy-python3
 pypi-ply-python3
 pypi-prettytable-python3
 pypi-psutil
+pypi-psutil-python3
+pypi-ptyprocess-python3
 pypi-py
 pypi-py-python3
+pypi-pybind11
+pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pyfakefs-python3
 pypi-pygments-python3
@@ -695,6 +706,7 @@ pypi-python_dbusmock
 pypi-requests-python3
 pypi-requests_mock-python3
 pypi-routes-python3
+pypi-seaborn-python3
 pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_scm-python3

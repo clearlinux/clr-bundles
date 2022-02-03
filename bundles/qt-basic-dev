@@ -10,6 +10,7 @@ include(qt-basic)
 Linux-PAM-dev
 Linux-PAM-dev32
 MarkupSafe-python3
+PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(Sphinx)
@@ -65,6 +66,7 @@ check-dev32
 clear-font
 clr-rpm-config
 include(devpkg-clutter)
+cmake
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -224,6 +226,7 @@ include(devpkg-libdatrie)
 libdatrie-dev32
 include(devpkg-libdrm)
 libdrm-dev32
+include(devpkg-libedit)
 include(devpkg-libepoxy)
 include(devpkg-libevdev)
 include(devpkg-libffi)
@@ -278,7 +281,6 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
-libunwind-dev32
 liburing-dev
 include(devpkg-libusb)
 include(devpkg-libva)
@@ -297,6 +299,7 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
+include(devpkg-lua)
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
@@ -321,6 +324,7 @@ include(net-tools)
 netbase
 include(devpkg-nettle)
 nettle-dev32
+ninja
 nss-altfiles
 include(devpkg-numactl)
 octave-dev
@@ -341,6 +345,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 include(devpkg-pacrunner)
+pandas-python3
 include(pandoc)
 include(devpkg-pango)
 include(patch)
@@ -367,6 +372,7 @@ protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 include(pygobject)
+pypi-absl_py-python3
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-booleanoperations-python3
@@ -377,8 +383,11 @@ pypi-cython
 pypi-distlib-python3
 pypi-docutils
 pypi-filelock-python3
+pypi-flit-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
+pypi-graphviz-python3
+pypi-humanize-python3
 pypi-importlib_metadata-python3
 pypi-importlib_resources-python3
 pypi-jinja2
@@ -386,15 +395,22 @@ pypi-jinja2-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
+pypi-matplotlib-python3
+pypi-numpy-python3
 pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
+pypi-psutil-python3
+pypi-ptyprocess-python3
 pypi-py
 pypi-py-python3
+pypi-pybind11
+pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pygments-python3
 pypi-pytest
+pypi-seaborn-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six
@@ -444,10 +460,12 @@ qtx11extras-dev
 qtxmlpatterns-dev
 include(devpkg-readline)
 readline-dev32
+include(rsync)
 rtkit
 sassc
 sbc-dev
 sbc-dev32
+scipy-python3
 sed
 shadow
 shared-mime-info
@@ -458,6 +476,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
+swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

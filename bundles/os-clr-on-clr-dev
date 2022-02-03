@@ -443,6 +443,7 @@ libdatrie-dev32
 libdbusmenu-qt-dev
 include(devpkg-libdrm)
 libdrm-dev32
+include(devpkg-libedit)
 include(devpkg-libepoxy)
 liberation-fonts
 libev-dev
@@ -519,7 +520,6 @@ include(devpkg-libsodium)
 include(devpkg-libsolv)
 include(devpkg-libsoup)
 libspatialite-dev
-libsrtp
 include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
@@ -655,6 +655,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 include(devpkg-pacrunner)
+pandas-python3
 include(pandoc)
 include(devpkg-pango)
 include(devpkg-parted)
@@ -861,6 +862,7 @@ pulseaudio-dev32
 pycairo
 pycairo-dev
 include(pygobject)
+pypi-absl_py-python3
 pypi-aiohttp-python3
 pypi-aiosignal-python3
 pypi-alabaster-python3
@@ -905,14 +907,17 @@ pypi-filelock-python3
 pypi-flake8-python3
 pypi-flake8_import_order-python3
 pypi-flask-python3
+pypi-flit-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
 pypi-frozenlist-python3
 pypi-future-python3
 pypi-gitdb-python3
+pypi-graphviz-python3
 pypi-gssapi-python3
 pypi-hkp4py-python3
+pypi-humanize-python3
 pypi-idna
 pypi-idna-python3
 pypi-idna_ssl-python3
@@ -934,6 +939,7 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
+pypi-matplotlib-python3
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-multidict-python3
@@ -960,9 +966,13 @@ pypi-poetry-python3
 pypi-poetry_core-python3
 pypi-prettytable-python3
 pypi-psutil
+pypi-psutil-python3
 pypi-psycopg2-python3
+pypi-ptyprocess-python3
 pypi-py
 pypi-py-python3
+pypi-pybind11
+pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pyfakefs-python3
 pypi-pygments-python3
@@ -995,6 +1005,7 @@ pypi-requests_mock-python3
 pypi-requests_toolbelt
 pypi-routes-python3
 pypi-rpm_py_installer-python3
+pypi-seaborn-python3
 pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_rust-python3
