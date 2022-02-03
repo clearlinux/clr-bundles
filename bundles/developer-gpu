@@ -13,7 +13,6 @@ include(devpkg-llvm)
 SPIRV-Tools-dev
 Vulkan-Headers-dev
 include(devpkg-Vulkan-Loader)
-Vulkan-ValidationLayers-dev
 glslang-bin
 renderdoc
 waffle-dev
