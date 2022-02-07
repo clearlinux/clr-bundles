@@ -1,6 +1,6 @@
 # [TITLE]: service-os
 # [DESCRIPTION]: Provides the needed software for Service OS.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
@@ -16,7 +16,6 @@ thermal_daemon-autostart
 # The package below is a python script
 #
 include(python3-basic)
-include(iasimage)
 
 # User Software
 #acrn-hypervisor

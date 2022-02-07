@@ -187,7 +187,6 @@ include(gzip)
 include(devpkg-harfbuzz)
 help2man
 hostname
-ias-dev
 ibus
 ibus-dev
 ibus-libpinyin
