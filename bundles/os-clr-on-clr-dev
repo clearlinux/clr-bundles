@@ -133,6 +133,7 @@ include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
+include(devpkg-compat-libsoup-soname-24)
 confuse-dev
 coreutils
 cppcheck
@@ -340,6 +341,7 @@ include(devpkg-jansson)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
+include(devpkg-json-glib)
 jsoncpp-dev
 kactivities-dev
 karchive-dev
@@ -888,7 +890,6 @@ pypi-click-python3
 pypi-cmd2-python3
 pypi-colorama-python3
 pypi-commonmark
-pypi-compreffor-python3
 pypi-coverage
 pypi-coverage-python3
 pypi-cryptography-python3
@@ -1051,6 +1052,7 @@ python3-staticdev
 qemu
 qemu-setuid
 qhull-dev
+qrencode-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev

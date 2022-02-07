@@ -149,7 +149,6 @@ dbus-extras
 include(devpkg-dbus-glib)
 dbus-python
 dbus-python-dev
-dconf
 dconf-dev
 defusedxml-python3
 dejagnu
@@ -813,7 +812,6 @@ pypi-charset_normalizer-python3
 pypi-check_manifest-python3
 pypi-click-python3
 pypi-colorama-python3
-pypi-compreffor-python3
 pypi-coverage-python3
 pypi-cryptography-python3
 pypi-cu2qu-python3
@@ -924,6 +922,7 @@ python3-core
 python3-dev
 qemu
 include(devpkg-qpdf)
+qrencode-dev
 include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-qttools)

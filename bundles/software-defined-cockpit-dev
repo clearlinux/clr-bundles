@@ -203,6 +203,7 @@ iptables-dev32
 include(devpkg-iso-codes)
 include(devpkg-json-c)
 json-c-dev32
+include(devpkg-json-glib)
 keyutils-dev
 include(devpkg-kmod)
 kmod-dev32
@@ -420,6 +421,7 @@ python3
 python3-core
 python3-dev
 qemu
+qrencode-dev
 include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-readline)
