@@ -956,7 +956,6 @@ pypi-mypy_extensions-python3
 pypi-nose
 pypi-nose-python3
 pypi-numpy-python3
-pypi-oldest_supported_numpy-python3
 pypi-olefile-python3
 pypi-packaging-python3
 pypi-pathspec-python3
