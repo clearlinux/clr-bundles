@@ -9,6 +9,12 @@ include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-gstreamer)
+include(devpkg-libX11)
+include(devpkg-libdrm)
+include(devpkg-libgudev)
+include(devpkg-mesa)
 include(devpkg-orc)
+include(devpkg-wayland)
+include(devpkg-zlib)
 
 gst-plugins-base-dev

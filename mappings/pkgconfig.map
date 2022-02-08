@@ -173,6 +173,7 @@ pkgconfig(gstreamer-insertbin-1.0)	devpkg-gst-plugins-bad
 pkgconfig(gstreamer-mpegts-1.0)	devpkg-gst-plugins-bad
 pkgconfig(gstreamer-net-1.0)	devpkg-gstreamer
 pkgconfig(gstreamer-pbutils-1.0)	devpkg-gst-plugins-base
+pkgconfig(gstreamer-play-1.0)	devpkg-gst-plugins-bad
 pkgconfig(gstreamer-player-1.0)	devpkg-gst-plugins-bad
 pkgconfig(gstreamer-plugins-bad-1.0)	devpkg-gst-plugins-bad
 pkgconfig(gstreamer-plugins-base-1.0)	devpkg-gst-plugins-base
