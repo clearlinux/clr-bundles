@@ -1,6 +1,6 @@
 # [TITLE]: software-defined-cockpit-dev
 # [DESCRIPTION]: All packages required to build the software-defined-cockpit bundle.
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
@@ -80,12 +80,12 @@ cracklib-dev
 include(devpkg-cryptsetup)
 ctags
 include(devpkg-cups)
-include(curl)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 dav1d-dev
+db
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -146,8 +146,6 @@ include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 glib-dev32
-glib-networking
-glib-networking-lib32
 glibc-bin
 glibc-dev
 glibc-dev32
@@ -284,7 +282,6 @@ include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
 libpng-dev32
-libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpwquality-dev
 librsvg
@@ -390,6 +387,7 @@ pkg-config
 pkg-config-dev
 include(devpkg-polkit)
 include(procps-ng)
+procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
@@ -397,6 +395,7 @@ pypi-absl_py-python3
 pypi-cython
 pypi-docutils
 pypi-flit-python3
+pypi-future-python3
 pypi-graphviz-python3
 pypi-humanize-python3
 pypi-jinja2
@@ -406,6 +405,7 @@ pypi-mako
 pypi-markdown-python3
 pypi-matplotlib-python3
 pypi-numpy-python3
+pypi-pip
 pypi-psutil-python3
 pypi-ptyprocess-python3
 pypi-pybind11-python3
@@ -438,6 +438,7 @@ shadow
 shared-mime-info
 include(devpkg-speex)
 speexdsp-dev
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
@@ -453,6 +454,7 @@ tcl
 tcl-dev
 include(texinfo)
 include(devpkg-tiff)
+tk-dev
 include(tzdata)
 include(unzip)
 util-linux
@@ -463,8 +465,6 @@ util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
 include(devpkg-v4l-utils)
-vala
-include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 wavpack-dev

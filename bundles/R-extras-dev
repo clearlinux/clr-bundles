@@ -143,6 +143,7 @@ R-cmprsk
 R-cobs
 R-coda
 R-coin
+R-collapse
 R-collections
 R-colorspace
 R-colourpicker
@@ -217,6 +218,7 @@ R-fields
 R-filehash
 R-findpython
 R-fit.models
+R-fixest
 R-flashClust
 R-flexmix
 R-fontBitstreamVera
@@ -1208,6 +1210,7 @@ pypi-filelock-python3
 pypi-flit-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
+pypi-future-python3
 pypi-graphviz-python3
 pypi-humanize-python3
 pypi-importlib_metadata-python3

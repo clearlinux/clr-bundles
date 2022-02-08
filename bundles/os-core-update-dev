@@ -113,6 +113,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
+json-c-dev32
 keyutils-dev
 kmod
 include(devpkg-kmod)

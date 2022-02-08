@@ -1,6 +1,6 @@
 # [TITLE]: service-os-dev
 # [DESCRIPTION]: All packages required to build the service-os bundle.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
@@ -31,7 +31,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kernel
 buildreq-meson
 buildreq-qmake
@@ -210,11 +209,11 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
-pypi-cffi-python3
 pypi-cython
 pypi-distlib-python3
 pypi-filelock-python3
 pypi-flit_core-python3
+pypi-future-python3
 pypi-importlib_metadata-python3
 pypi-importlib_resources-python3
 pypi-jinja2
@@ -228,7 +227,6 @@ pypi-py-python3
 pypi-pycparser-python3
 pypi-pytest
 pypi-setuptools-python3
-pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3
 pypi-six
 pypi-six-python3
@@ -248,7 +246,6 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 runc-dev
-rustc
 sed
 shadow
 shared-mime-info

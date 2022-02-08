@@ -249,6 +249,7 @@ include(devpkg-polkit)
 include(devpkg-postgresql)
 include(procps-ng)
 pypi-cython
+pypi-future-python3
 pypi-jinja2
 pypi-lxml
 python3

@@ -257,6 +257,7 @@ include(procps-ng)
 procps-ng-bin
 include(pygobject)
 pypi-cython
+pypi-future-python3
 pypi-jinja2
 pypi-lxml
 pypi-pip
