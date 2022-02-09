@@ -45,7 +45,6 @@ include(devpkg-cairo)
 ccid
 check-dev
 clr-rpm-config
-conmon
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
