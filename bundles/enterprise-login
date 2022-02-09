@@ -11,7 +11,7 @@ include(python3-basic)
 include(samba)
 
 authconfig
-kerberos
+pypi-kerberos
 krb5
 nss-pam-ldapd
 pypi-requests_kerberos
