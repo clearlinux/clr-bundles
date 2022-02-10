@@ -16,6 +16,5 @@ include(devpkg-iso-codes)
 include(devpkg-libseccomp)
 include(devpkg-libxkbcommon)
 include(devpkg-systemd)
-include(devpkg-xkeyboard-config)
 
 gnome-desktop-dev

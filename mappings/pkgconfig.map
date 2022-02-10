@@ -613,7 +613,6 @@ pkgconfig(xkbcommon-x11)	devpkg-libxkbcommon
 pkgconfig(xkbcomp)	devpkg-xkbcomp
 pkgconfig(xkbfile)	devpkg-libxkbfile
 pkgconfig(xkbregistry)	devpkg-libxkbcommon
-pkgconfig(xkeyboard-config)	devpkg-xkeyboard-config
 pkgconfig(xmlb)	devpkg-xmlb
 pkgconfig(xmlsec1)	devpkg-xmlsec1
 pkgconfig(xmlsec1-nss)	devpkg-xmlsec1
