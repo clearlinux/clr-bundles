@@ -33,7 +33,7 @@ seaborn
 
 # misc tools to support the above
 asv
-plotly
+pypi-plotly
 
 
 # IDE
