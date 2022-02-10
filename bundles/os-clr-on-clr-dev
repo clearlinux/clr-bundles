@@ -873,7 +873,6 @@ pypi-aiosignal-python3
 pypi-alabaster-python3
 pypi-appdirs-python3
 pypi-async_timeout-python3
-pypi-asynctest-python3
 pypi-atomicwrites-python3
 pypi-attrs-python3
 pypi-babel-python3
@@ -927,7 +926,6 @@ pypi-hkp4py-python3
 pypi-humanize-python3
 pypi-idna
 pypi-idna-python3
-pypi-idna_ssl-python3
 pypi-imagesize
 pypi-imagesize-python3
 pypi-importlib_metadata-python3
@@ -1045,6 +1043,7 @@ pypi-tox
 pypi-tox-python3
 pypi-trampolim-python3
 pypi-typed_ast-python3
+pypi-typing_extensions-python3
 pypi-typogrify-python3
 pypi-ufolib2-python3
 pypi-unicodedata2-python3
