@@ -212,7 +212,6 @@ procps-ng-bin
 pypi-cython
 pypi-distlib-python3
 pypi-filelock-python3
-pypi-flit_core-python3
 pypi-future-python3
 pypi-importlib_metadata-python3
 pypi-importlib_resources-python3
@@ -235,7 +234,6 @@ pypi-sphinx
 pypi-sphinx-python3
 pypi-tox
 pypi-trampolim-python3
-pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-virtualenv-python3
 pypi-wheel-python3

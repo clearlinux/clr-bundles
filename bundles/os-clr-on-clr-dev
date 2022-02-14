@@ -1101,7 +1101,7 @@ ruby
 ruby-dev
 rustc
 samba-dev
-sassc
+include(sassc)
 sbc-dev
 sbc-dev32
 sbsigntools

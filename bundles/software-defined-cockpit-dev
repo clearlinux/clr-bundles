@@ -429,7 +429,7 @@ include(rsync)
 rtkit
 rtmpdump-dev
 rustc
-sassc
+include(sassc)
 sbc-dev
 sbc-dev32
 scipy-python3

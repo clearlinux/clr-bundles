@@ -933,7 +933,7 @@ ruby-dev
 rustc
 samba-dev
 sane-backends-dev
-sassc
+include(sassc)
 sbc-dev
 sbc-dev32
 scipy-python3

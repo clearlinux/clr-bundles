@@ -434,7 +434,6 @@ pypi-docutils
 pypi-execnet-python3
 pypi-filelock-python3
 pypi-flit-python3
-pypi-flit_core-python3
 pypi-future-python3
 pypi-graphviz-python3
 pypi-humanize-python3
@@ -514,7 +513,7 @@ include(rsync)
 rtkit
 ruby
 rustc
-sassc
+include(sassc)
 sbc-dev
 sbc-dev32
 scikit-learn-python3

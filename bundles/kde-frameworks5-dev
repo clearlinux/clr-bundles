@@ -481,7 +481,6 @@ pypi-distlib-python3
 pypi-docutils
 pypi-filelock-python3
 pypi-flit-python3
-pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-future-python3
 pypi-graphviz-python3
@@ -524,7 +523,6 @@ pypi-toml-python3
 pypi-tox
 pypi-tox-python3
 pypi-trampolim-python3
-pypi-typing_extensions-python3
 pypi-typogrify-python3
 pypi-virtualenv
 pypi-virtualenv-python3
@@ -560,7 +558,7 @@ include(rsync)
 rtkit
 rtmpdump-dev
 ruby
-sassc
+include(sassc)
 sbc-dev
 sbc-dev32
 scipy-python3

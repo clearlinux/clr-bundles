@@ -23,7 +23,7 @@ include(llvm)
 include(devpkg-mariadb)
 libXaw-dev
 include(memcached)
-moreutils
+include(moreutils)
 include(pandoc)
 ruby
 sg3_utils

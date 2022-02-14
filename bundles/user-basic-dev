@@ -747,7 +747,7 @@ include(rsync)
 rtkit
 ruby
 rustc
-sassc
+include(sassc)
 sbc-dev
 sbc-dev32
 scikit-learn-python3
