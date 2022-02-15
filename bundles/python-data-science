@@ -32,7 +32,7 @@ pypi-gensim
 seaborn
 
 # misc tools to support the above
-asv
+pypi-asv
 pypi-plotly
 
 
