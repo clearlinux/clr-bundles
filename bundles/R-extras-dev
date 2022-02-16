@@ -1187,6 +1187,7 @@ pkg-config-dev
 pmix-dev
 include(devpkg-polkit)
 poppler-dev
+poppler-extras
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
