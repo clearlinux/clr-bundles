@@ -156,7 +156,6 @@ dejavu-fonts
 desktop-file-utils
 dhcp
 dhcp-dev
-dialog
 include(diffutils)
 dnsmasq
 include(docbook-utils)
@@ -781,7 +780,6 @@ poppler-data-clr-rename-dev
 poppler-dev
 include(devpkg-popt)
 include(devpkg-postgresql)
-ppp
 ppp-dev
 include(procps-ng)
 procps-ng-bin
@@ -1002,7 +1000,6 @@ include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 volume_key-dev
-vpnc
 vte-dev
 wavpack-dev
 include(devpkg-wayland)

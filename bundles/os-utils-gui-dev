@@ -123,7 +123,6 @@ dbus-python-dev
 dconf-dev
 dejagnu
 desktop-file-utils
-dialog
 include(diffutils)
 include(docbook-utils)
 docbook-xml

@@ -852,7 +852,6 @@ poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
 potrace-dev
-ppp
 ppp-dev
 processor-trace-dev
 procmail

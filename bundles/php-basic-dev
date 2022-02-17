@@ -202,7 +202,6 @@ include(devpkg-libxslt)
 include(devpkg-libzip)
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 lmdb-dev
 include(devpkg-lz4)
 lz4-dev32
