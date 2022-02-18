@@ -83,7 +83,6 @@ buildreq-kde
 buildreq-meson
 buildreq-nginx
 buildreq-qmake
-buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
@@ -129,7 +128,6 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
-double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
 e2fsprogs
@@ -417,8 +415,6 @@ lzo-dev
 m4
 include(make)
 man-db
-include(devpkg-mariadb)
-include(devpkg-md4c)
 include(devpkg-mesa)
 mesa-dev32
 meson

@@ -11,9 +11,6 @@ CUnit-dev
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
-Vulkan-Headers-dev
-include(devpkg-Vulkan-Loader)
-Vulkan-Tools
 include(devpkg-acl)
 acl-dev32
 asciidoc
@@ -40,7 +37,6 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-kde
 buildreq-meson
-buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
@@ -68,7 +64,6 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-double-conversion-dev
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -187,8 +182,6 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
-include(devpkg-libinput)
-include(devpkg-libjpeg-turbo)
 libkcapi-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -235,9 +228,6 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
-include(devpkg-mariadb)
-include(devpkg-md4c)
-include(devpkg-mesa)
 mingw-gcc
 mpc-dev
 mpfr-dev
@@ -262,14 +252,12 @@ openssl-lib32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
-include(devpkg-pacrunner)
 include(pandoc)
 include(patch)
 patchelf
 pathlib2-python3
 include(devpkg-pcre)
 pcre-dev32
-include(devpkg-pcre2)
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
@@ -405,7 +393,6 @@ pkg-config
 pkg-config-dev
 include(devpkg-polkit)
 include(devpkg-popt)
-include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 pypi-cython
