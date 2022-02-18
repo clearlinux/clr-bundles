@@ -10,5 +10,6 @@ include(devpkg-glib)
 include(libglib)
 include(devpkg-gnutls)
 include(devpkg-json-glib)
+include(devpkg-nettle)
 
 libjcat-dev
