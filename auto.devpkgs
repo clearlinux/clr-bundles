@@ -429,6 +429,7 @@ libvirt
 libvirt-admin
 libvirt-lxc
 libvirt-qemu
+libvlc
 libvmem
 libvmmalloc
 libwacom
