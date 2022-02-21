@@ -21,7 +21,7 @@ gtk3
 potrace
 pycairo
 include(pygobject)
-PyOpenGL
+pypi-PyOpenGL
 PyYAML
 pypi-svg.path
 tcl
