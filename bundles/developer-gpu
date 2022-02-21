@@ -17,6 +17,6 @@ glslang-bin
 renderdoc
 waffle-dev
 glslang-dev
-SPRIV-Cross-dev
+SPIRV-Cross-dev
 
 #intel-graphics-compiler-dev
