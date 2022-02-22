@@ -32,7 +32,7 @@ include(devpkg-SDL_net)
 include(devpkg-SDL_ttf)
 include(Sphinx)
 Vulkan-Headers-data
-Vulkan-Headers-dev
+include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools

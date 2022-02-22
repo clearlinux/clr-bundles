@@ -631,7 +631,7 @@ SFCGAL-dev
 include(Sphinx)
 SuiteSparse-dev
 VTK-dev
-Vulkan-Headers-dev
+include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools

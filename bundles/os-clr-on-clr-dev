@@ -43,7 +43,7 @@ SVT-AV1-dev
 include(Sphinx)
 VTK-dev
 Vulkan-Headers-data
-Vulkan-Headers-dev
+include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools

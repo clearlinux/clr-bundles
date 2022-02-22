@@ -16,7 +16,7 @@ include(devpkg-SDL)
 SVT-AV1-dev
 include(Sphinx)
 VTK-dev
-Vulkan-Headers-dev
+include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Tools
 Z3-dev

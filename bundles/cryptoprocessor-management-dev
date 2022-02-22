@@ -104,6 +104,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
+json-c-dev32
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
