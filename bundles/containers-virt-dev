@@ -285,6 +285,7 @@ include(texinfo)
 thin-provisioning-tools
 tk
 tk-dev
+tpm2-tss-dev
 include(tzdata)
 include(unzip)
 include(devpkg-userspace-rcu)
