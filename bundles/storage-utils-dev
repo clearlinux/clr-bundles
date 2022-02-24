@@ -255,7 +255,6 @@ p11-kit-dev32
 include(pandoc)
 include(patch)
 patchelf
-pathlib2-python3
 include(devpkg-pcre)
 pcre-dev32
 perl
@@ -403,8 +402,6 @@ pypi-docutils
 pypi-filelock-python3
 pypi-future-python3
 pypi-hkp4py-python3
-pypi-importlib_metadata-python3
-pypi-importlib_resources-python3
 pypi-iso8601
 pypi-jinja2
 pypi-lxml

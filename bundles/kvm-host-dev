@@ -396,7 +396,6 @@ include(devpkg-pango)
 include(devpkg-parted)
 include(patch)
 patchelf
-pathlib2-python3
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
@@ -438,8 +437,6 @@ pypi-future-python3
 pypi-graphviz-python3
 pypi-humanize-python3
 pypi-imagesize
-pypi-importlib_metadata-python3
-pypi-importlib_resources-python3
 pypi-jinja2
 pypi-jinja2-python3
 pypi-jsonpatch-python3

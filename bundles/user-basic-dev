@@ -476,7 +476,6 @@ include(devpkg-parted)
 include(patch)
 patchelf
 patchutils
-pathlib2-python3
 include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
@@ -664,8 +663,6 @@ pypi-hkp4py-python3
 pypi-humanize-python3
 pypi-idna
 pypi-imagesize
-pypi-importlib_metadata-python3
-pypi-importlib_resources-python3
 pypi-iso8601
 pypi-iso8601-python3
 pypi-jinja2
