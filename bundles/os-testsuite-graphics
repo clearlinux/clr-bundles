@@ -12,7 +12,6 @@ glib
 gnome-session
 libXcursor-lib
 mutter
-piglit
 shared-mime-info
 xf86-input-libinput
 xkbcomp
