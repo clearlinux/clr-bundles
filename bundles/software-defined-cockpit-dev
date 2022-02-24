@@ -466,7 +466,7 @@ util-macros-dev32
 include(devpkg-v4l-utils)
 include(valgrind)
 include(devpkg-valgrind)
-wavpack-dev
+include(devpkg-wavpack)
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)

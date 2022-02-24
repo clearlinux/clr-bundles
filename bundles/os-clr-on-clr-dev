@@ -980,6 +980,7 @@ pypi-py
 pypi-py-python3
 pypi-pybind11-dev
 pypi-pybind11-python3
+pypi-pycares-python3
 pypi-pycparser-python3
 pypi-pyfakefs-python3
 pypi-pygments-python3
@@ -1051,6 +1052,7 @@ pypi-virtualenv
 pypi-virtualenv-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
+pypi-wikipedia-python3
 pypi-xmlschema-python3
 pypi-yarl-python3
 pypi-zipp-python3
