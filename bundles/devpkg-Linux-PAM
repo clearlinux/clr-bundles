@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-Linux-PAM
+# [DESCRIPTION]: All content for Linux-PAM
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+Linux-PAM-dev
