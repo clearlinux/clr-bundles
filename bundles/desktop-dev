@@ -14,7 +14,7 @@ ImageMagick
 Imath-dev
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 include(devpkg-LuaJIT)
 MarkupSafe-python3

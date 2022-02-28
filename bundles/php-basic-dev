@@ -9,7 +9,7 @@ include(os-core-dev)
 include(php-basic)
 CUnit-dev
 CUnit-dev32
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 SVT-AV1-dev
 include(devpkg-acl)

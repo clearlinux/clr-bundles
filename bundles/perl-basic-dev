@@ -7,7 +7,7 @@
 include(dev-utils)
 include(os-core-dev)
 include(perl-basic)
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 include(devpkg-acl)
 acl-dev32

@@ -10,7 +10,7 @@ include(os-core-dev)
 include(qt-basic-dev)
 CUnit-dev
 CUnit-dev32
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
 PyYAML-python3

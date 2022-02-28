@@ -24,7 +24,7 @@ Imath-dev
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 LuaJIT
 include(devpkg-LuaJIT)
@@ -605,6 +605,7 @@ munge-dev
 mypy-python3
 include(nasm)
 nasm-bin
+ncurses-bin
 include(devpkg-ncurses)
 ncurses-dev32
 include(devpkg-ndctl)

@@ -12,7 +12,7 @@ CUnit-dev
 CUnit-dev32
 include(devpkg-GConf)
 Imath-dev
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
 ModemManager-dev

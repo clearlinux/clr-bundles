@@ -7,7 +7,7 @@
 include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 OpenSP
 include(devpkg-acl)

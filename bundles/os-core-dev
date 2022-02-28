@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 include(devpkg-acl)
 acl-dev32

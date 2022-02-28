@@ -9,7 +9,7 @@ include(os-core-dev)
 include(storage-utils)
 CUnit-dev
 include(devpkg-LVM2)
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 include(devpkg-acl)
 acl-dev32

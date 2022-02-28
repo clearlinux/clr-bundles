@@ -9,7 +9,7 @@ include(dev-utils)
 include(os-core-dev)
 CUnit-dev
 CUnit-dev32
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 acl-bin
 include(devpkg-acl)

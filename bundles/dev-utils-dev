@@ -9,7 +9,7 @@ include(os-core-dev)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 PyYAML-python3
 include(devpkg-SDL)
@@ -281,6 +281,7 @@ mpc-dev
 mpfr-dev
 include(nasm)
 nasm-bin
+ncurses-bin
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)

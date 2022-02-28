@@ -14,7 +14,7 @@ include(devpkg-ImageMagick)
 Imath-dev
 JAGS-dev
 include(devpkg-LibRaw)
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
 PyYAML-python3

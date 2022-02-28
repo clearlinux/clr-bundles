@@ -13,7 +13,7 @@ CUnit-dev32
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
-Linux-PAM-dev
+include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
 PyYAML-python3
