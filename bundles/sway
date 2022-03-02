@@ -12,6 +12,7 @@ include(libglib)
 swaybg
 swayidle
 swaylock
+xdg-utils
 # end of custom additions
 
 # main package
