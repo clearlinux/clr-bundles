@@ -117,7 +117,6 @@ c-ares-dev
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)
-ccid
 ceph-dev
 check
 check-dev
@@ -876,7 +875,6 @@ pypi-async_timeout-python3
 pypi-atomicwrites-python3
 pypi-attrs-python3
 pypi-babel-python3
-pypi-backports.cached_property-python3
 pypi-bcrypt-python3
 pypi-black-python3
 pypi-booleanoperations-python3
@@ -960,7 +958,6 @@ pypi-pbr
 pypi-pbr-python3
 pypi-pecan-python3
 pypi-pep517-python3
-pypi-pep621-python3
 pypi-pexpect-python3
 pypi-pillow-python3
 pypi-pip

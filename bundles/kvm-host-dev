@@ -70,7 +70,6 @@ bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)
-ccid
 ceph-dev
 check-dev
 check-dev32

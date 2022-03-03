@@ -77,7 +77,6 @@ bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 include(devpkg-cairomm)
-ccid
 check-dev
 check-dev32
 chrpath
