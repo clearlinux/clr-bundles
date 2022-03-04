@@ -555,6 +555,7 @@ perl-Test-Simple-perl
 perl-Test-Taint-perl
 perl-Test-Warn-perl
 perl-Test-Warnings-perl
+perl-Test-Without-Module-perl
 perl-Test2-Plugin-NoWarnings-perl
 perl-Test2-Suite-perl
 perl-TimeDate-perl
