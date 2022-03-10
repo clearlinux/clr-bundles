@@ -97,6 +97,7 @@ include(devpkg-compat-glibmm-soname24)
 compat-libsigc++-soname20-dev
 include(devpkg-compat-libsoup-soname-24)
 include(devpkg-compat-pangomm-soname14)
+include(devpkg-compat-rest-soname07)
 include(devpkg-compat-webkitgtk-soname40)
 coreutils
 cppcheck
@@ -710,7 +711,6 @@ qemu
 include(devpkg-qtbase)
 include(devpkg-readline)
 readline-dev32
-include(devpkg-rest)
 include(rsync)
 rtkit
 rtmpdump-dev
