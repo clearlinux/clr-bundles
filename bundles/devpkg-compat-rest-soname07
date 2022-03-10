@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-gfbgraph
-# [DESCRIPTION]: All content for pkgconfig file gfbgraph.pc.
+# [TITLE]: devpkg-compat-rest-soname07
+# [DESCRIPTION]: All content for pkgconfig file compat-rest-soname07.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,10 +7,8 @@
 
 include(devpkg-base)
 include(devpkg-compat-libsoup-soname-24)
-include(devpkg-compat-rest-soname07)
 include(devpkg-glib)
 include(libglib)
-include(devpkg-gnome-online-accounts)
-include(devpkg-json-glib)
+include(devpkg-libxml2)
 
-gfbgraph-dev
+compat-rest-soname07-dev
