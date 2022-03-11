@@ -29,7 +29,7 @@ include(storage-utils-dev)
 include(sysadmin-basic)
 include(sysadmin-basic-dev)
 include(unbundle)
-Mako-python
+pypi-mako
 abireport
 include(cabextract)
 configobj
