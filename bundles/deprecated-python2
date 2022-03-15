@@ -1,14 +1,7 @@
 # [TITLE]: deprecated-python2
 # [DESCRIPTION]: WARNING: bundle will be removed soon, provides deprecated python2.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages, Developer Tools, Python
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(p11-kit)
-include(libstdcpp)
-include(openblas)
-include(libglib)
-
-glibc-lib-avx2
-python-core
-python-dev
+filesystem
