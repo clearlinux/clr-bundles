@@ -117,6 +117,7 @@ gobject-introspection
 include(devpkg-gobject-introspection)
 golang-github-cpuguy83-go-md2man
 gperf
+gpgme-dev
 include(devpkg-graphite)
 include(graphviz)
 grep

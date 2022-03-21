@@ -689,6 +689,7 @@ pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pygments-python3
+pypi-pylint-python3
 pypi-pytest
 pypi-python_dbusmock
 pypi-pywbem-python3
@@ -757,7 +758,6 @@ include(devpkg-tiff)
 tk-dev
 tpm2-tss-dev
 include(tzdata)
-udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
 include(unzip)

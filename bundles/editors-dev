@@ -15,7 +15,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 bzip2
 include(devpkg-bzip2)
 clr-rpm-config

@@ -328,7 +328,6 @@ R-lmom
 R-lmtest
 R-lobstr
 R-locfit
-R-logger
 R-loo
 R-lpSolve
 R-lsei
@@ -560,7 +559,6 @@ R-survey
 R-sys
 R-systemfit
 R-systemfonts
-R-tables
 R-tensor
 R-tensorA
 R-tensorflow

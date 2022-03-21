@@ -229,6 +229,7 @@ include(devpkg-gexiv2)
 include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
+gi-docgen-dev
 include(devpkg-gimp)
 include(git)
 include(gjs)
@@ -378,6 +379,7 @@ libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
 libabigail
+libadwaita-dev
 libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libass)
@@ -867,6 +869,7 @@ pypi-pybind11-python3
 pypi-pycares-python3
 pypi-pycparser-python3
 pypi-pygments-python3
+pypi-pylint-python3
 pypi-pyparsing-python3
 pypi-pyroma-python3
 pypi-pytest
@@ -981,7 +984,6 @@ tk-dev
 tpm2-tss-dev
 tracker-dev
 include(tzdata)
-udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
 include(unzip)
