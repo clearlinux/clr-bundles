@@ -134,7 +134,6 @@ pkgconfig(gmodule-export-2.0)	devpkg-glib
 pkgconfig(gmodule-no-export-2.0)	devpkg-glib
 pkgconfig(gnome-autoar-0)	devpkg-gnome-autoar
 pkgconfig(gnome-autoar-gtk-0)	devpkg-gnome-autoar
-pkgconfig(gnome-bluetooth-1.0)	devpkg-gnome-bluetooth
 pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
 pkgconfig(gnome-settings-daemon)	devpkg-gnome-settings-daemon
 pkgconfig(gnome-software)	devpkg-gnome-software
@@ -201,7 +200,6 @@ pkgconfig(gtkmm-3.0)	devpkg-gtkmm3
 pkgconfig(gtksourceview-3.0)	devpkg-compat-gtksourceview-soname3
 pkgconfig(gtkspell3-3.0)	devpkg-gtkspell3
 pkgconfig(gudev-1.0)	devpkg-libgudev
-pkgconfig(guile-2.2)	devpkg-guile
 pkgconfig(gusb)	devpkg-libgusb
 pkgconfig(gutenprint)	devpkg-gutenprint
 pkgconfig(gutenprintui2)	devpkg-gutenprint
