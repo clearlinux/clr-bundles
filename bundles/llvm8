@@ -1,15 +1,7 @@
 # [TITLE]: llvm8
 # [DESCRIPTION]: LLVM/Clang modular and reusable compiler toolchain, version 8.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
-llvm8
+filesystem
