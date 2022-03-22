@@ -454,4 +454,5 @@ postgresql14 # No detailed summary available
 yq # Command-line YAML/XML processor - jq wrapper for YAML/XML documents
 growpart # Extends a partition to fill available space
 moreutils # No detailed summary available
-sassc # No detailed summary available 
+sassc # No detailed summary available
+bspwm # No detailed summary available 
