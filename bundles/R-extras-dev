@@ -770,6 +770,7 @@ gettext-dev
 include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
+gi-docgen
 giflib-dev
 include(git)
 include(devpkg-glew)

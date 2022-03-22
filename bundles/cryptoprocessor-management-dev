@@ -32,7 +32,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-meson
 bzip2
 include(devpkg-bzip2)

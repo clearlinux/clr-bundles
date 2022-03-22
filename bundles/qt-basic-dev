@@ -52,7 +52,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -136,6 +135,7 @@ gettext-dev
 include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
+gi-docgen
 include(git)
 include(devpkg-glew)
 glib-bin

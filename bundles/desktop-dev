@@ -229,6 +229,7 @@ include(devpkg-gexiv2)
 include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
+gi-docgen
 gi-docgen-dev
 include(devpkg-gimp)
 include(git)
@@ -438,6 +439,7 @@ include(devpkg-libgtop)
 include(devpkg-libgudev)
 include(devpkg-libgusb)
 include(devpkg-libgweather)
+libgweather4-dev
 include(devpkg-libhandy)
 include(devpkg-libical)
 include(devpkg-libidn)
@@ -567,6 +569,7 @@ mm-common-dev
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 include(devpkg-mozjs78)
+mozjs91-dev
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
@@ -847,6 +850,7 @@ pypi-matplotlib-python3
 pypi-multidict-python3
 pypi-mypy_extensions-python3
 pypi-nose
+pypi-nose-python3
 pypi-numpy-python3
 pypi-olefile-python3
 pypi-packaging
@@ -875,7 +879,6 @@ pypi-pyroma-python3
 pypi-pytest
 pypi-pytest_runner
 pypi-python_dbusmock
-pypi-pytz
 pypi-pytz-python3
 pypi-pywbem-python3
 pypi-requests-python3

@@ -67,7 +67,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -183,6 +182,7 @@ gettext-bin
 gettext-dev
 include(ghostscript)
 ghostscript-dev
+gi-docgen
 include(git)
 include(gjs)
 include(devpkg-gjs)
@@ -645,6 +645,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+poppler-dev
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin

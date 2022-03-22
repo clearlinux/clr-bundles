@@ -250,6 +250,7 @@ gettext-dev
 include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
+gi-docgen
 giflib-dev
 include(git)
 include(gjs)
@@ -1007,7 +1008,6 @@ pypi-python_dbusmock
 pypi-python_multilib-python3
 pypi-pythran
 pypi-pythran-python3
-pypi-pytz
 pypi-pytz-python3
 pypi-requests-python3
 pypi-requests_gssapi-python3

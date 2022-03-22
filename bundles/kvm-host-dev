@@ -150,6 +150,7 @@ gettext-dev
 include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
+gi-docgen
 include(git)
 include(devpkg-glew)
 glib-bin

@@ -70,7 +70,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -166,6 +165,7 @@ gettext-bin
 gettext-dev
 include(ghostscript)
 ghostscript-dev
+gi-docgen
 include(git)
 include(gjs)
 include(devpkg-gjs)
@@ -212,6 +212,7 @@ gtk+-dev
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
+include(devpkg-gtk4)
 include(guile)
 include(gzip)
 include(devpkg-harfbuzz)
