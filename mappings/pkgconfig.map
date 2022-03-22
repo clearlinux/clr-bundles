@@ -134,6 +134,7 @@ pkgconfig(gmodule-export-2.0)	devpkg-glib
 pkgconfig(gmodule-no-export-2.0)	devpkg-glib
 pkgconfig(gnome-autoar-0)	devpkg-gnome-autoar
 pkgconfig(gnome-autoar-gtk-0)	devpkg-gnome-autoar
+pkgconfig(gnome-bluetooth-1.0)	devpkg-compat-gnome-bluetooth-soname-13
 pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
 pkgconfig(gnome-settings-daemon)	devpkg-gnome-settings-daemon
 pkgconfig(gnome-software)	devpkg-gnome-software
