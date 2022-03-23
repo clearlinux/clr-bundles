@@ -139,6 +139,7 @@ also-add(gimp)
 gnome-bluetooth
 gnome-calendar
 also-add(gnome-characters)
+gnome-console
 gnome-control-center
 gnome-software
 gnome-terminal

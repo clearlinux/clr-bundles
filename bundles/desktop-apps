@@ -30,6 +30,7 @@ also-add(gnome-music)
 also-add(gnome-photos)
 also-add(gnome-screenshot)
 also-add(gnome-system-monitor)
+also-add(gnome-text-editor)
 also-add(gnome-todo)
 also-add(gnome-weather)
 # underlying infra needs
