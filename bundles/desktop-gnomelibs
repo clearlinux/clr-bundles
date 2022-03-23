@@ -37,6 +37,7 @@ libpeas-lib
 samba-lib
 enchant-lib
 gtksourceview-lib
+gtksourceview4-lib
 pulseaudio-lib
 libdrm-lib
 gnome-bluetooth-lib
