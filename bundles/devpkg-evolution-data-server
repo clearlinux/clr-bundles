@@ -13,8 +13,5 @@ include(devpkg-gtk3)
 include(devpkg-libical)
 include(devpkg-libsecret)
 include(devpkg-libxml2)
-include(devpkg-nspr)
-include(devpkg-nss)
-include(devpkg-sqlite-autoconf)
 
 evolution-data-server-dev

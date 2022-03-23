@@ -8,7 +8,7 @@
 include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
-include(devpkg-libpng)
+include(devpkg-libjpeg-turbo)
 include(devpkg-shared-mime-info)
 
 gdk-pixbuf-dev

@@ -25,7 +25,6 @@ pkgconfig(atkmm-1.6)	devpkg-compat-atkmm-soname16
 pkgconfig(atspi-2)	devpkg-at-spi2-core
 pkgconfig(audit)	devpkg-audit
 pkgconfig(babl)	devpkg-babl
-pkgconfig(bdw-gc)	devpkg-gc
 pkgconfig(bigreqsproto)	devpkg-xorgproto
 pkgconfig(blkid)	devpkg-util-linux
 pkgconfig(bluez)	devpkg-bluez
@@ -492,7 +491,7 @@ pkgconfig(md4c)	devpkg-md4c
 pkgconfig(mit-krb5)	devpkg-krb5
 pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mount)	devpkg-util-linux
-pkgconfig(mozjs-78)	devpkg-mozjs78
+pkgconfig(mozjs-91)	devpkg-mozjs91
 pkgconfig(ncurses)	devpkg-ncurses
 pkgconfig(ncursesw)	devpkg-ncurses
 pkgconfig(nettle)	devpkg-nettle

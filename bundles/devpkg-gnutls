@@ -10,5 +10,6 @@ include(devpkg-libidn2)
 include(devpkg-libtasn1)
 include(devpkg-nettle)
 include(devpkg-p11-kit)
+include(devpkg-zlib)
 
 gnutls-dev
