@@ -16,7 +16,6 @@ include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
 ModemManager-dev
-include(NetworkManager)
 include(devpkg-NetworkManager)
 PyYAML-python3
 include(devpkg-SDL)
@@ -86,11 +85,13 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 cmocka-dev
+include(devpkg-colord)
 include(devpkg-compat-libsoup-soname-24)
 include(devpkg-compat-webkitgtk-soname40)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+cups
 include(devpkg-cups)
 include(curl)
 include(devpkg-curl)
@@ -182,6 +183,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+glslang
 include(devpkg-glu)
 glu-dev32
 gmp-dev

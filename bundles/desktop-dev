@@ -19,7 +19,6 @@ Linux-PAM-dev32
 include(devpkg-LuaJIT)
 MarkupSafe-python3
 ModemManager-dev
-include(NetworkManager)
 include(devpkg-NetworkManager)
 PyQt5
 PyYAML
@@ -106,8 +105,6 @@ clear-font
 clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
-include(devpkg-clutter-gst)
-clutter-gtk-dev
 cmake
 cmocka-dev
 cmrt
@@ -569,7 +566,7 @@ mm-common-dev
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 include(devpkg-mozjs78)
-mozjs91-dev
+include(devpkg-mozjs91)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
@@ -888,7 +885,6 @@ pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3
-pypi-six
 pypi-six-python3
 pypi-snowballstemmer-python3
 pypi-sphinx

@@ -236,6 +236,7 @@ include(devpkg-gstreamer)
 gtk+-bin
 gtk+-dev
 gtk-doc
+gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(devpkg-gtkmm3)
@@ -712,6 +713,7 @@ python3-core
 python3-dev
 qemu
 include(devpkg-qtbase)
+qtbase-extras
 include(devpkg-readline)
 readline-dev32
 include(rsync)
