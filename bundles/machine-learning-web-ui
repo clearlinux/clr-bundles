@@ -10,7 +10,7 @@ include(python3-basic)
 include(python-data-science)
 include(jupyter)
 
-Jinja2
+pypi-jinja2
 MarkupSafe
 pypi-pygments
 R-IRdisplay
