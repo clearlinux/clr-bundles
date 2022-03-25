@@ -111,7 +111,6 @@ R-bayesm
 R-bayesplot
 R-bbmle
 R-bdsmatrix
-R-benchr
 R-betareg
 R-bindr
 R-bit
@@ -1216,7 +1215,6 @@ pypi-future-python3
 pypi-graphviz-python3
 pypi-humanize-python3
 pypi-iso8601-python3
-pypi-jinja2
 pypi-jinja2-python3
 pypi-lxml
 pypi-mako

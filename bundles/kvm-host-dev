@@ -437,7 +437,6 @@ pypi-future-python3
 pypi-graphviz-python3
 pypi-humanize-python3
 pypi-imagesize
-pypi-jinja2
 pypi-jinja2-python3
 pypi-jsonpatch-python3
 pypi-kubernetes-python3

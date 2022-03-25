@@ -337,7 +337,7 @@ pypi-cython
 pypi-cython-python3
 pypi-hkp4py-python3
 pypi-idna
-pypi-jinja2
+pypi-jinja2-python3
 pypi-lxml
 pypi-requests-python3
 pypi-sphinx

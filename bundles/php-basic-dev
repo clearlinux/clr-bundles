@@ -248,7 +248,7 @@ include(devpkg-postgresql)
 include(procps-ng)
 pypi-cython
 pypi-future-python3
-pypi-jinja2
+pypi-jinja2-python3
 pypi-lxml
 python3
 python3-core

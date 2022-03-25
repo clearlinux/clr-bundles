@@ -216,7 +216,7 @@ include(devpkg-popt)
 include(procps-ng)
 pypi-cython
 pypi-docutils
-pypi-jinja2
+pypi-jinja2-python3
 pypi-lxml
 python3
 python3-core

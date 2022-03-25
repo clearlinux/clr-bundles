@@ -668,7 +668,6 @@ pypi-idna
 pypi-imagesize
 pypi-iso8601
 pypi-iso8601-python3
-pypi-jinja2
 pypi-jinja2-python3
 pypi-jsonpatch-python3
 pypi-kubernetes-python3

@@ -378,7 +378,7 @@ include(devpkg-polkit)
 include(procps-ng)
 pypi-cython
 pypi-docutils
-pypi-jinja2
+pypi-jinja2-python3
 pypi-lxml
 pypi-ply-python3
 pypi-pytest
