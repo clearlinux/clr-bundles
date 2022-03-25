@@ -8,7 +8,11 @@
 include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+also-add(sxiv)
+also-add(feh)
+dmenu
+rofi
+xdg-utils
 # end of custom additions
 
 # main package
