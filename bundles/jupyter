@@ -24,7 +24,7 @@ pypi-nbconvert
 pypi-nbformat
 pypi-notebook
 pandas
-qtconsole
+pypi-qtconsole
 pypi-widgetsnbextension
 
 # end of custom additions

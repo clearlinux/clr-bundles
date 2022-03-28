@@ -39,7 +39,7 @@ pickleshare
 pypi-prompt_toolkit
 ptyprocess
 pypi-pyzmq
-qtconsole
+pypi-qtconsole
 R-IRkernel
 pypi-simplegeneric
 sip
