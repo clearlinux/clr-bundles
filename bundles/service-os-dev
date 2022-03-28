@@ -236,7 +236,6 @@ python3-core
 python3-dev
 include(devpkg-readline)
 readline-dev32
-runc-dev
 sed
 shadow
 shared-mime-info
