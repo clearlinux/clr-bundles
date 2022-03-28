@@ -13,6 +13,8 @@ swaybg
 swayidle
 swaylock
 xdg-utils
+vifm
+mpv
 # end of custom additions
 
 # main package
