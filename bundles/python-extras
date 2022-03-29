@@ -21,6 +21,7 @@ glibc-bin
 PyYAML
 pypi-boto
 certifi
+pypi-coverage
 cxxfilt
 deap
 distro
