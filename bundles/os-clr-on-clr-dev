@@ -754,7 +754,6 @@ perl-List-MoreUtils-XS-perl
 perl-List-MoreUtils-perl
 perl-List-Util-perl
 perl-MRO-Compat-perl
-perl-Math-BigInt-GMP
 perl-Mixin-Linewise-perl
 perl-Module-Build
 perl-Module-Build-Tiny-perl
@@ -810,7 +809,6 @@ perl-Test-Output-perl
 perl-Test-Pod-perl
 perl-Test-Requires-perl
 perl-Test-RequiresInternet-perl
-perl-Test-Simple
 perl-Test-Simple-perl
 perl-Test-Taint-perl
 perl-Test-Warn-perl

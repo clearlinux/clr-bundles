@@ -238,7 +238,6 @@ perl-LWP-Protocol-https-dev
 perl-LWP-Protocol-https-perl
 perl-List-MoreUtils-perl
 perl-MRO-Compat-perl
-perl-Math-BigInt-GMP
 perl-Mixin-Linewise-perl
 perl-Module-Build
 perl-Module-Build-Tiny-perl
@@ -286,7 +285,6 @@ perl-Test-Output-perl
 perl-Test-Pod-perl
 perl-Test-Requires-perl
 perl-Test-RequiresInternet-perl
-perl-Test-Simple
 perl-Test-Simple-dev
 perl-Test-Simple-perl
 perl-Test-Taint-perl

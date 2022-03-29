@@ -402,8 +402,6 @@ include(devpkg-pcre2)
 pcsc-lite-dev
 perl
 perl-Digest-CRC-perl
-perl-Math-BigInt-GMP
-perl-Test-Simple
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl

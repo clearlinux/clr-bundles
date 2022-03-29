@@ -31,6 +31,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-kernel
 buildreq-meson
 buildreq-qmake
@@ -93,13 +94,11 @@ glibc-bin
 glibc-dev32
 glibc-libc32
 include(glibc-locale)
-glibc-staticdev
 glibc-utils
 gmp-dev
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
-go
 gobject-introspection
 include(devpkg-gobject-introspection)
 gperf
