@@ -1,0 +1,16 @@
+# [TITLE]: pypi-pygame
+# [DESCRIPTION]: Python Game Development
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
+
+include(python3-basic)
+include(lib-imageformat)
+
+# start of custom additions (edits outside this area will be removed automatically)
+pypi-neat_python
+# end of custom additions
+
+# main package
+pypi-pygame
