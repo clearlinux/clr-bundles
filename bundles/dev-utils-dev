@@ -248,6 +248,8 @@ libtasn1-dev32
 include(devpkg-libtirpc)
 libtool
 libtool-dev
+libtraceevent-dev
+libtracefs-dev
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)

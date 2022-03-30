@@ -380,6 +380,8 @@ include(devpkg-libtirpc)
 libtool
 libtool-dev
 libtool-dev32
+libtraceevent-dev
+libtracefs-dev
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
