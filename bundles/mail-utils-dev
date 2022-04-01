@@ -86,6 +86,7 @@ glibc-bin
 glibc-dev32
 glibc-libc32
 include(glibc-locale)
+glibc-staticdev
 glibc-utils
 gmime
 include(devpkg-gmime)
