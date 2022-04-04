@@ -222,6 +222,7 @@ R-fit.models
 R-fixest
 R-flashClust
 R-flexmix
+R-flextable
 R-fontBitstreamVera
 R-fontLiberation
 R-fontawesome
@@ -377,6 +378,7 @@ R-nleqslv
 R-nloptr
 R-nortest
 R-numDeriv
+R-officer
 R-openssl
 R-openxlsx
 R-optextras
@@ -1273,7 +1275,6 @@ re2-dev
 include(devpkg-readline)
 readline-dev32
 include(rsync)
-rtkit
 rtmpdump-dev
 ruby
 rustc

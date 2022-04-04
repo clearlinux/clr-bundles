@@ -548,7 +548,6 @@ re2-dev
 include(devpkg-readline)
 readline-dev32
 include(rsync)
-rtkit
 rtmpdump-dev
 ruby
 include(sassc)

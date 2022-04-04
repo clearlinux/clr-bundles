@@ -148,7 +148,6 @@ include(devpkg-dbus-glib)
 dbus-python
 dbus-python-dev
 dconf-dev
-defusedxml-python3
 dejagnu
 dejavu-fonts
 desktop-file-utils
@@ -800,14 +799,12 @@ pypi-appdirs-python3
 pypi-async_timeout-python3
 pypi-attrs-python3
 pypi-babel-python3
-pypi-black-python3
 pypi-booleanoperations-python3
 pypi-build-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
 pypi-charset_normalizer-python3
-pypi-check_manifest-python3
 pypi-click-python3
 pypi-colorama-python3
 pypi-coverage-python3
@@ -845,7 +842,6 @@ pypi-mypy_extensions-python3
 pypi-nose
 pypi-nose-python3
 pypi-numpy-python3
-pypi-olefile-python3
 pypi-packaging
 pypi-packaging-python3
 pypi-pathspec-python3
@@ -868,7 +864,6 @@ pypi-pycparser-python3
 pypi-pygments-python3
 pypi-pylint-python3
 pypi-pyparsing-python3
-pypi-pyroma-python3
 pypi-pytest
 pypi-pytest_runner
 pypi-python_dbusmock
@@ -885,8 +880,6 @@ pypi-six-python3
 pypi-snowballstemmer-python3
 pypi-sphinx
 pypi-sphinx-python3
-pypi-sphinx_copybutton-python3
-pypi-sphinx_rtd_theme-python3
 pypi-sphinxcontrib_applehelp-python3
 pypi-sphinxcontrib_devhelp-python3
 pypi-sphinxcontrib_htmlhelp-python3
@@ -923,7 +916,6 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
 include(rsync)
-rtkit
 rtmpdump-dev
 ruby
 ruby-dev

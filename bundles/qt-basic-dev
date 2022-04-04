@@ -450,7 +450,6 @@ qtxmlpatterns-dev
 include(devpkg-readline)
 readline-dev32
 include(rsync)
-rtkit
 include(sassc)
 sbc-dev
 sbc-dev32

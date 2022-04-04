@@ -635,7 +635,6 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
 include(rsync)
-rtkit
 ruby
 rustc
 include(sassc)

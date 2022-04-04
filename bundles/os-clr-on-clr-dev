@@ -159,7 +159,6 @@ include(devpkg-dbus-glib)
 dbus-python
 dbus-python-dev
 debugedit
-defusedxml-python3
 dejagnu
 desktop-file-utils
 dhcp
@@ -879,7 +878,6 @@ pypi-atomicwrites-python3
 pypi-attrs-python3
 pypi-babel-python3
 pypi-bcrypt-python3
-pypi-black-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
@@ -888,7 +886,6 @@ pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
 pypi-charset_normalizer-python3
-pypi-check_manifest-python3
 pypi-cheetah3-python3
 pypi-cherrypy-python3
 pypi-click-python3
@@ -952,7 +949,6 @@ pypi-mypy_extensions-python3
 pypi-nose
 pypi-nose-python3
 pypi-numpy-python3
-pypi-olefile-python3
 pypi-packaging-python3
 pypi-pathspec-python3
 pypi-pbr
@@ -986,7 +982,6 @@ pypi-pyjwt-python3
 pypi-pylint-python3
 pypi-pyopenssl-python3
 pypi-pyparsing-python3
-pypi-pyroma-python3
 pypi-pyroute2-python3
 pypi-pyroute2.core-python3
 pypi-pyroute2.ethtool-python3
@@ -1025,7 +1020,6 @@ pypi-smmap-python3
 pypi-snowballstemmer-python3
 pypi-sphinx
 pypi-sphinx-python3
-pypi-sphinx_copybutton-python3
 pypi-sphinx_rtd_theme-python3
 pypi-sphinxcontrib_applehelp-python3
 pypi-sphinxcontrib_devhelp-python3
@@ -1095,7 +1089,6 @@ rpm-dev
 rpm-extras
 rrdtool-dev
 include(rsync)
-rtkit
 ruby
 ruby-dev
 rustc

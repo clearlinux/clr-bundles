@@ -735,7 +735,6 @@ readline-dev32
 rpcbind
 rpm
 include(rsync)
-rtkit
 ruby
 rustc
 include(sassc)

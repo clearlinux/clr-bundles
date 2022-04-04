@@ -500,7 +500,6 @@ include(devpkg-readline)
 readline-dev32
 rpcbind
 include(rsync)
-rtkit
 ruby
 rustc
 include(sassc)
