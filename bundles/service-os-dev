@@ -156,6 +156,7 @@ include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libpthread-stubs)
 libpwquality-dev
+include(devpkg-librsvg)
 include(devpkg-libseccomp)
 libseccomp-dev32
 libstdc++
