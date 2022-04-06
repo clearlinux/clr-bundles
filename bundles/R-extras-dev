@@ -242,6 +242,7 @@ R-future.apply
 R-gargle
 R-gclus
 R-gdata
+R-gdtools
 R-generics
 R-geometry
 R-gert
@@ -756,6 +757,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc11-dev
 gcc7-dev
 gcc8-dev
 gdal-dev

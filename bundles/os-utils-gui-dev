@@ -166,6 +166,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc11-dev
 gcc7-dev
 gcc8-dev
 include(devpkg-gcr)
@@ -242,7 +243,6 @@ include(devpkg-gtk3)
 include(devpkg-gtkmm3)
 include(devpkg-gtkspell3)
 include(guile)
-gvfs
 gvfs-dev
 include(gzip)
 include(devpkg-harfbuzz)

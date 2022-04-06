@@ -228,6 +228,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc11-dev
 gcc7-dev
 gcc8-dev
 gcc9
@@ -869,11 +870,8 @@ pycairo
 pycairo-dev
 include(pygobject)
 pypi-absl_py-python3
-pypi-aiohttp-python3
-pypi-aiosignal-python3
 pypi-alabaster-python3
 pypi-appdirs-python3
-pypi-async_timeout-python3
 pypi-atomicwrites-python3
 pypi-attrs-python3
 pypi-babel-python3
@@ -881,7 +879,6 @@ pypi-bcrypt-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
-pypi-build-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
@@ -914,7 +911,6 @@ pypi-flit-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
-pypi-frozenlist-python3
 pypi-future-python3
 pypi-gitdb-python3
 pypi-graphviz-python3
@@ -922,7 +918,6 @@ pypi-gssapi-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
 pypi-idna
-pypi-idna-python3
 pypi-imagesize
 pypi-imagesize-python3
 pypi-importlib_metadata-python3
@@ -943,14 +938,11 @@ pypi-markdown-python3
 pypi-matplotlib-python3
 pypi-mock-python3
 pypi-more_itertools-python3
-pypi-multidict-python3
 pypi-munkres-python3
-pypi-mypy_extensions-python3
 pypi-nose
 pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
-pypi-pathspec-python3
 pypi-pbr
 pypi-pbr-python3
 pypi-pecan-python3
@@ -974,7 +966,6 @@ pypi-py
 pypi-py-python3
 pypi-pybind11-dev
 pypi-pybind11-python3
-pypi-pycares-python3
 pypi-pycparser-python3
 pypi-pyfakefs-python3
 pypi-pygments-python3
@@ -993,7 +984,6 @@ pypi-pyroute2.nslink-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
-pypi-pytest_runner
 pypi-pytest_runner-python3
 pypi-pytest_xdist-python3
 pypi-python_dateutil-python3
@@ -1034,7 +1024,6 @@ pypi-tornado-python3
 pypi-tox
 pypi-tox-python3
 pypi-trampolim-python3
-pypi-typed_ast-python3
 pypi-typing_extensions-python3
 pypi-typogrify-python3
 pypi-ufolib2-python3
@@ -1044,11 +1033,8 @@ pypi-virtualenv
 pypi-virtualenv-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
-pypi-wikipedia-python3
 pypi-xmlschema-python3
-pypi-yarl-python3
 pypi-zipp-python3
-pypi-zope.event-python3
 pypi-zopfli-python3
 python-remoto-python3
 python-rpm-packaging
