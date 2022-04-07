@@ -687,6 +687,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
 xauth
