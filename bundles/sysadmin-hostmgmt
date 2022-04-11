@@ -12,11 +12,5 @@ include(openssh-client)
 include(python3-basic)
 clear-config-management
 freeipmi
-# ansible deps
-PyMySQL
-backports.ssl_match_hostname
-pypi-docker
-netaddr
-# End ansible deps
 # for ntpdate for time management
 ntp-bin

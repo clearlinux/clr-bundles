@@ -15,7 +15,7 @@ MarkupSafe
 pypi-pygments
 R-IRdisplay
 include(Sphinx)
-backports.ssl_match_hostname
+pypi-backports.ssl_match_hostname
 pypi-bash_kernel
 pypi-bokeh
 pypi-decorator

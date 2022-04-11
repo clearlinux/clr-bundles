@@ -11,7 +11,7 @@ ansible-core
 ansible
 # ansible deps
 PyMySQL
-backports.ssl_match_hostname
+pypi-backports.ssl_match_hostname
 pypi-docker
 netaddr
 # End ansible deps
