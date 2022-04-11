@@ -51,7 +51,7 @@ leveldb-dev
 include(devpkg-libjpeg-turbo)
 lmdb-dev
 pypi-matplotlib
-mido
+pypi-mido
 mkl-dnn-dev
 mpi4py
 nose-parameterized
@@ -70,7 +70,7 @@ protobuf-dev
 protobuf-python
 pydot
 pydotplus
-pydot_ng
+pypi-pydot_ng
 pypi-pyparsing
 python-future
 python-Levenshtein

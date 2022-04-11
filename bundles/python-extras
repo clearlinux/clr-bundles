@@ -43,8 +43,8 @@ pathlib2
 pypi-pbr
 pytest
 pytest-cov
-pytest-repeat
-pytest-rerunfailures
+pypi-pytest_repeat
+pypi-pytest_rerunfailures
 pytest-tap
 pypi-python_dateutil
 python-distutils-extra
