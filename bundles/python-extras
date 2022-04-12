@@ -25,7 +25,7 @@ pypi-coverage
 pypi-cxxfilt
 deap
 distro
-docopt
+pypi-docopt
 pypi-flake8
 pypi-flake8_blind_except
 pypi-flake8_class_newline
@@ -34,7 +34,7 @@ pypi-flake8_import_order
 glibc-lib-avx2
 intelhex
 jdcal
-kcc
+pypi-kcc
 lxml
 mypy
 nose
