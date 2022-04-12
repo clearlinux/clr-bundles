@@ -809,7 +809,6 @@ pypi-cython
 pypi-cython-python3
 pypi-distlib-python3
 pypi-dnspython
-pypi-docutils
 pypi-filelock-python3
 pypi-flask-python3
 pypi-flit-python3
@@ -833,7 +832,6 @@ pypi-pillow-python3
 pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
-pypi-pluggy-python3
 pypi-polib
 pypi-psutil
 pypi-psutil-python3
@@ -850,7 +848,7 @@ pypi-python_dbusmock
 pypi-pytz-python3
 pypi-pywbem-python3
 pypi-requests-python3
-pypi-requests_toolbelt
+pypi-requests_toolbelt-python3
 pypi-seaborn-python3
 pypi-setuptools
 pypi-setuptools-python3
@@ -863,7 +861,6 @@ pypi-tox
 pypi-typogrify-python3
 pypi-urllib3-python3
 pypi-virtualenv
-pypi-virtualenv-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
 python-pocketlint

@@ -590,7 +590,6 @@ include(pygobject)
 pypi-absl_py-python3
 pypi-cython
 pypi-distlib-python3
-pypi-docutils
 pypi-evdev-python3
 pypi-filelock-python3
 pypi-flit-python3

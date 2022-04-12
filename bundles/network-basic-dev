@@ -197,6 +197,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 include(devpkg-libuv)
+include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxml2)
@@ -376,7 +377,6 @@ pkg-config-dev
 include(devpkg-polkit)
 include(procps-ng)
 pypi-cython
-pypi-docutils
 pypi-jinja2-python3
 pypi-lxml
 pypi-ply-python3

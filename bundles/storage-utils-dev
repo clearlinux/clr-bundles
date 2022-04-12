@@ -400,7 +400,6 @@ pypi-cython
 pypi-cython-python3
 pypi-distlib-python3
 pypi-dnspython
-pypi-docutils
 pypi-filelock-python3
 pypi-future-python3
 pypi-hkp4py-python3

@@ -61,7 +61,6 @@ pkg-config
 pkg-config-dev
 include(plzip)
 pypi-cython
-pypi-docutils
 python3-core
 python3-dev
 sed

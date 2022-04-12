@@ -900,7 +900,6 @@ pypi-decorator-python3
 pypi-distlib-python3
 pypi-dnspython
 pypi-docopt-python3
-pypi-docutils
 pypi-docutils-python3
 pypi-execnet-python3
 pypi-filelock-python3
@@ -917,7 +916,6 @@ pypi-graphviz-python3
 pypi-gssapi-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
-pypi-idna
 pypi-imagesize
 pypi-imagesize-python3
 pypi-importlib_metadata-python3
@@ -995,7 +993,7 @@ pypi-pytz-python3
 pypi-requests-python3
 pypi-requests_gssapi-python3
 pypi-requests_mock-python3
-pypi-requests_toolbelt
+pypi-requests_toolbelt-python3
 pypi-routes-python3
 pypi-rpm_py_installer-python3
 pypi-seaborn-python3

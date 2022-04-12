@@ -322,6 +322,7 @@ libidn2-dev32
 include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
+libkexiv2-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
@@ -480,7 +481,6 @@ pypi-cu2qu-python3
 pypi-cython
 pypi-cython-python3
 pypi-distlib-python3
-pypi-docutils
 pypi-filelock-python3
 pypi-flit-python3
 pypi-fontmath-python3

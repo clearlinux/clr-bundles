@@ -656,7 +656,6 @@ pypi-cython-python3
 pypi-distlib-python3
 pypi-dnspython
 pypi-docopt-python3
-pypi-docutils
 pypi-execnet-python3
 pypi-filelock-python3
 pypi-flit-python3
@@ -665,7 +664,6 @@ pypi-future-python3
 pypi-graphviz-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
-pypi-idna
 pypi-imagesize
 pypi-iso8601
 pypi-iso8601-python3
