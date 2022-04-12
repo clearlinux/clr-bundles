@@ -22,7 +22,7 @@ include(zstd)
 # autospec requirements
 abireport
 include(binutils)
-chardet
+pypi-chardet
 include(gnupg)
 pypi-pycurl
 pypi-toml

@@ -20,9 +20,9 @@ glibc-bin
 #
 PyYAML
 pypi-boto
-certifi
+pypi-certifi
 pypi-coverage
-cxxfilt
+pypi-cxxfilt
 deap
 distro
 docopt

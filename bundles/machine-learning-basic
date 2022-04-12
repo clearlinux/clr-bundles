@@ -25,7 +25,7 @@ pypi-theano
 # Dependencies, helpers and libraries for Key frameworks
 #
 
-ConfigArgParse
+pypi-configargparse
 pypi-pillow
 R-deepnet
 R-neuralnet
