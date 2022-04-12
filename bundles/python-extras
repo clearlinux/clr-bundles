@@ -35,7 +35,7 @@ glibc-lib-avx2
 intelhex
 jdcal
 pypi-kcc
-lxml
+pypi-lxml
 mypy
 nose
 numpy
