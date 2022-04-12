@@ -1,15 +1,7 @@
 # [TITLE]: docker-compose
 # [DESCRIPTION]: Tool for defining and running multi-container Docker applications.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(containers-basic)
-# end of custom additions
-
-# main package
-pypi-docker_compose
+filesystem
