@@ -20,6 +20,7 @@ include(devpkg-bzip2)
 clr-rpm-config
 coreutils
 include(diffutils)
+include(docutils)
 gawk
 gcc
 gcc-dev

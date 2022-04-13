@@ -94,6 +94,7 @@ include(diffutils)
 dlt-daemon-dev
 include(docbook-utils)
 docbook-xml
+include(docutils)
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -126,7 +127,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcc11-dev
 gcc7-dev
 gcc8-dev
 include(gdb)

@@ -80,7 +80,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcc11-dev
 gcc7-dev
 gcc8-dev
 include(gdb)

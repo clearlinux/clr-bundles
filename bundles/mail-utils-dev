@@ -70,7 +70,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcc11-dev
 gcc7-dev
 gcc8-dev
 gdb-dev
@@ -336,6 +335,7 @@ pypi-cffi-python3
 pypi-cython
 pypi-cython-python3
 pypi-hkp4py-python3
+pypi-idna
 pypi-jinja2-python3
 pypi-lxml
 pypi-requests-python3

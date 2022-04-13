@@ -715,6 +715,7 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
+include(docutils)
 double-conversion-dev
 include(doxygen)
 e2fsprogs
@@ -757,7 +758,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcc11-dev
 gcc7-dev
 gcc8-dev
 gdal-dev
