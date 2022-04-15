@@ -97,7 +97,6 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-include(docutils)
 double-conversion-dev
 include(doxygen)
 e2fsprogs
@@ -481,6 +480,7 @@ pypi-cu2qu-python3
 pypi-cython
 pypi-cython-python3
 pypi-distlib-python3
+pypi-docutils
 pypi-filelock-python3
 pypi-flit-python3
 pypi-fontmath-python3

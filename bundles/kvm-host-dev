@@ -98,7 +98,6 @@ dmidecode
 dnsmasq
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(dosfstools)
 include(doxygen)
 include(devpkg-dpdk)
@@ -428,6 +427,7 @@ pypi-colorama-python3
 pypi-cython
 pypi-distlib-python3
 pypi-docopt-python3
+pypi-docutils
 pypi-execnet-python3
 pypi-filelock-python3
 pypi-flit-python3

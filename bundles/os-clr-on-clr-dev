@@ -170,7 +170,6 @@ include(dnf)
 dnsmasq
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(dosfstools)
 double-conversion-dev
 include(doxygen)
@@ -900,6 +899,7 @@ pypi-decorator-python3
 pypi-distlib-python3
 pypi-dnspython
 pypi-docopt-python3
+pypi-docutils
 pypi-docutils-python3
 pypi-execnet-python3
 pypi-filelock-python3

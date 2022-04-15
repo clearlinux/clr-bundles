@@ -114,7 +114,6 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -590,6 +589,7 @@ include(pygobject)
 pypi-absl_py-python3
 pypi-cython
 pypi-distlib-python3
+pypi-docutils
 pypi-evdev-python3
 pypi-filelock-python3
 pypi-flit-python3

@@ -64,7 +64,6 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -400,6 +399,7 @@ pypi-cython
 pypi-cython-python3
 pypi-distlib-python3
 pypi-dnspython
+pypi-docutils
 pypi-filelock-python3
 pypi-future-python3
 pypi-hkp4py-python3

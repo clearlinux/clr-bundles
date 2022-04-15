@@ -94,7 +94,6 @@ include(diffutils)
 dlt-daemon-dev
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -393,6 +392,7 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 pypi-absl_py-python3
 pypi-cython
+pypi-docutils
 pypi-flit-python3
 pypi-future-python3
 pypi-graphviz-python3
