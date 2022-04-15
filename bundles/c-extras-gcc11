@@ -1,5 +1,5 @@
-# [TITLE]: c-extras-gcc10
-# [DESCRIPTION]: Build and run C/C++ language programs using the GCC 10.x compiler
+# [TITLE]: c-extras-gcc11
+# [DESCRIPTION]: Build and run C/C++ language programs using the GCC 11.x compiler
 # [STATUS]: Active
 # [CAPABILITIES]: Build and run C language programs
 # [TAGS]: Programming Languages
@@ -7,5 +7,5 @@
 
 include(c-basic)
 
-compat-gcc-10
-compat-gcc-10-dev
+gcc11
+gcc11-dev
