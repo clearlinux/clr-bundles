@@ -126,6 +126,7 @@ dmidecode
 dnsmasq
 include(docbook-utils)
 docbook-xml
+include(docutils)
 include(dosfstools)
 include(doxygen)
 include(devpkg-dpdk)
@@ -662,6 +663,8 @@ pypi-flit-python3
 pypi-flit_core-python3
 pypi-future-python3
 pypi-graphviz-python3
+pypi-hatch_vcs-python3
+pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
 pypi-idna

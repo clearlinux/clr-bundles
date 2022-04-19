@@ -170,6 +170,7 @@ include(dnf)
 dnsmasq
 include(docbook-utils)
 docbook-xml
+include(docutils)
 include(dosfstools)
 double-conversion-dev
 include(doxygen)
@@ -865,8 +866,8 @@ protobuf-dev
 pugixml-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
-pycairo
 pycairo-dev
+pycairo-python3
 include(pygobject)
 pypi-absl_py-python3
 pypi-alabaster-python3
@@ -914,6 +915,8 @@ pypi-future-python3
 pypi-gitdb-python3
 pypi-graphviz-python3
 pypi-gssapi-python3
+pypi-hatch_vcs-python3
+pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
 pypi-idna

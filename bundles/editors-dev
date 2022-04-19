@@ -20,6 +20,7 @@ include(devpkg-bzip2)
 clr-rpm-config
 coreutils
 include(diffutils)
+include(docutils)
 gawk
 gcc
 gcc-dev
@@ -61,7 +62,6 @@ pkg-config
 pkg-config-dev
 include(plzip)
 pypi-cython
-pypi-docutils
 python3-core
 python3-dev
 sed
