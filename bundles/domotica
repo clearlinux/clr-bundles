@@ -12,7 +12,7 @@ include(qt-basic)
 pypi-astral
 pypi-hammock
 home-assistant
-gmqtt
+pypi-gmqtt
 pypi-ouimeaux
 pyecobee
 python-openzwave
