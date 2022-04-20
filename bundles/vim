@@ -11,4 +11,4 @@ ctags
 vim
 vim-fugitive
 vim-gnupg
-vim-go
+#vim-go
