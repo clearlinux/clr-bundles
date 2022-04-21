@@ -9,8 +9,8 @@
 pypi-blivet
 include(parted)
 pyparted
-pid
-ped
+pypi-pid
+pypi-ped
 libblockdev
 also-add(storage-utils)
 # end of custom additions

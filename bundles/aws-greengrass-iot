@@ -9,5 +9,5 @@ include(cloud-api)
 
 awscli
 boto3
-numpy
+pypi-numpy
 opencv-python

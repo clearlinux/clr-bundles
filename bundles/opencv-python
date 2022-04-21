@@ -9,4 +9,4 @@ include(python3-basic)
 
 # main package
 opencv-python
-numpy
+pypi-numpy

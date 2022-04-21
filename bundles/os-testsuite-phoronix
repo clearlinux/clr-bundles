@@ -101,7 +101,7 @@ also-add(devpkg-ncurses)
 ninja
 numactl
 include(devpkg-numactl)
-numpy
+pypi-numpy
 ocl-icd
 ocl-icd-dev
 also-add(openblas)
@@ -121,7 +121,7 @@ pth-dev
 python3-dev
 also-add(redis-native)
 also-add(scons)
-selenium
+pypi-selenium
 snappy-dev
 SuiteSparse
 SuiteSparse-dev

@@ -16,7 +16,7 @@ pypi-dask
 pypi-ipython
 pypi-matplotlib
 pypi-nose
-numpy
+pypi-numpy
 scipy
 sympy
 pandas
@@ -29,7 +29,7 @@ pypi-statsmodels
 #
 
 pypi-gensim
-seaborn
+pypi-seaborn
 
 # misc tools to support the above
 pypi-asv

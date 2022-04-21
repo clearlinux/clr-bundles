@@ -33,11 +33,11 @@ pypi-nbconvert
 pypi-nbformat
 pypi-notebook
 pandas
-pandocfilters
-pexpect
-pickleshare
+pypi-pandocfilters
+pypi-pexpect
+pypi-pickleshare
 pypi-prompt_toolkit
-ptyprocess
+pypi-ptyprocess
 pypi-pyzmq
 pypi-qtconsole
 R-IRkernel

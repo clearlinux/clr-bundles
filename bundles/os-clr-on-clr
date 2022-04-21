@@ -77,7 +77,7 @@ rpm
 rpm-bin
 sbsigntools
 include(scons)
-six
+pypi-six
 include(devpkg-telemetrics-client)
 include(devpkg-xcb-proto)
 include(devpkg-xorgproto)
