@@ -896,7 +896,9 @@ pypi-cryptography-python3
 pypi-cu2qu-python3
 pypi-cython
 pypi-cython-python3
+pypi-dataclasses-python3
 pypi-decorator-python3
+pypi-deprecated-python3
 pypi-distlib-python3
 pypi-dnspython
 pypi-docopt-python3
@@ -913,6 +915,7 @@ pypi-fontmath-python3
 pypi-freezegun-python3
 pypi-future-python3
 pypi-gitdb-python3
+pypi-gitpython-python3
 pypi-graphviz-python3
 pypi-gssapi-python3
 pypi-hatch_vcs-python3
@@ -920,6 +923,7 @@ pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
 pypi-idna
+pypi-idna-python3
 pypi-imagesize
 pypi-imagesize-python3
 pypi-importlib_metadata-python3
@@ -970,9 +974,11 @@ pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pyfakefs-python3
+pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pylint-python3
+pypi-pynacl-python3
 pypi-pyopenssl-python3
 pypi-pyparsing-python3
 pypi-pyroute2-python3
@@ -1000,13 +1006,14 @@ pypi-requests_mock-python3
 pypi-requests_toolbelt-python3
 pypi-routes-python3
 pypi-rpm_py_installer-python3
+pypi-ruamel.yaml-python3
+pypi-ruamel.yaml.clib-python3
 pypi-seaborn-python3
 pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3
 pypi-setuptools_scm_git_archive-python3
-pypi-six
 pypi-six-python3
 pypi-smmap-python3
 pypi-snowballstemmer-python3
@@ -1035,6 +1042,7 @@ pypi-virtualenv
 pypi-virtualenv-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
+pypi-wrapt-python3
 pypi-xmlschema-python3
 pypi-zipp-python3
 pypi-zopfli-python3
