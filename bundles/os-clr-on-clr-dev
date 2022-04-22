@@ -949,6 +949,7 @@ pypi-nose
 pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
+pypi-pathspec
 pypi-pbr
 pypi-pbr-python3
 pypi-pecan-python3
