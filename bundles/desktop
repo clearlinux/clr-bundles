@@ -16,8 +16,8 @@ include(lib-imageformat)
 include(openssl)
 include(sysadmin-basic)
 include(which)
-include(wpa_supplicant)
-include(hardware-printing)
+also-add(wpa_supplicant)
+also-add(hardware-printing)
 
 # Low level UI requirements
 # gir/typelibs have been split out and we need them.
@@ -92,7 +92,7 @@ NetworkManager-vpnc
 dconf
 #groupcheck
 include(polkit)
-include(pulseaudio)
+also-add(pulseaudio)
 openconnect
 systemd-extras
 udisks2
