@@ -27,6 +27,7 @@ MarkupSafe-python3
 OpenSP
 PyYAML-python3
 include(devpkg-SDL)
+include(devpkg-SDL2)
 SVT-AV1-dev
 include(Sphinx)
 VTK-dev
