@@ -10,7 +10,6 @@ include(os-core-dev)
 include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
-ImageMagick
 Imath-dev
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
@@ -20,7 +19,6 @@ include(devpkg-LuaJIT)
 MarkupSafe-python3
 ModemManager-dev
 include(devpkg-NetworkManager)
-PyQt5
 PyYAML
 PyYAML-python3
 include(devpkg-R)
@@ -55,7 +53,6 @@ aspell-en
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
-include(devpkg-atkmm)
 include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
@@ -304,7 +301,6 @@ include(devpkg-gtk-doc)
 gtk3-bin
 include(devpkg-gtk3)
 include(devpkg-gtk4)
-gtkmm2-dev
 include(devpkg-gtkmm3)
 include(guile)
 include(devpkg-gutenprint)
@@ -314,6 +310,7 @@ include(devpkg-harfbuzz)
 help2man
 hostname
 hunspell-dev
+include(devpkg-hwloc)
 ibus
 ibus-dev
 ibus-libpinyin
@@ -582,8 +579,6 @@ include(devpkg-nautilus)
 include(devpkg-ncurses)
 ncurses-dev32
 include(devpkg-ndctl)
-net-snmp-dev
-net-snmp-perl
 include(net-tools)
 netbase
 include(devpkg-nettle)
@@ -627,7 +622,6 @@ include(devpkg-pacrunner)
 pandas-python3
 include(pandoc)
 include(devpkg-pango)
-include(devpkg-pangomm)
 include(parallel)
 include(devpkg-parted)
 include(patch)
@@ -907,7 +901,6 @@ sg3_utils-dev
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
-sip
 slang-dev
 snappy-dev
 source-highlight

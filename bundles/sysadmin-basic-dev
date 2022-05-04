@@ -119,6 +119,7 @@ include(devpkg-gtk-doc)
 include(guile)
 include(gzip)
 hostname
+include(devpkg-hwloc)
 include(devpkg-icu4c)
 include(intltool)
 intltool-dev

@@ -243,6 +243,7 @@ include(devpkg-harfbuzz)
 hdf5-dev
 help2man
 hostname
+include(devpkg-hwloc)
 ibus
 ibus-dev
 ibus-libpinyin
