@@ -511,6 +511,7 @@ include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
+libqrtr-glib-dev
 librdkafka-dev
 include(devpkg-librepo)
 librsvg
@@ -838,6 +839,7 @@ phonon-dev
 php
 php-dev
 pigz
+include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
 include(devpkg-pkcs11-helper)
@@ -927,11 +929,11 @@ pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
+pypi-hypothesis
 pypi-idna
 pypi-idna-python3
 pypi-imagesize
 pypi-imagesize-python3
-pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
@@ -959,7 +961,6 @@ pypi-pbr
 pypi-pbr-python3
 pypi-pecan-python3
 pypi-pep517-python3
-pypi-pexpect-python3
 pypi-pillow-python3
 pypi-pip
 pypi-pip-python3
@@ -1000,7 +1001,6 @@ pypi-pytest
 pypi-pytest-python3
 pypi-pytest_runner
 pypi-pytest_runner-python3
-pypi-pytest_xdist-python3
 pypi-python_dateutil-python3
 pypi-python_dbusmock
 pypi-python_multilib-python3
@@ -1049,7 +1049,7 @@ pypi-virtualenv-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
 pypi-wrapt-python3
-pypi-xmlschema-python3
+pypi-xmlschema
 pypi-zipp-python3
 pypi-zopfli-python3
 python-remoto-python3

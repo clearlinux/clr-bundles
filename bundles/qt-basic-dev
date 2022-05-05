@@ -360,6 +360,7 @@ perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl
 pigz
+include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
 pkg-config

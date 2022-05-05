@@ -479,6 +479,7 @@ include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
+libqrtr-glib-dev
 librsvg
 include(devpkg-librsvg)
 include(devpkg-libsamplerate)

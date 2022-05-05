@@ -339,6 +339,7 @@ include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
+libqrtr-glib-dev
 libratbag-dev
 librsvg
 include(devpkg-librsvg)
