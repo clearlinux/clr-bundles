@@ -15,6 +15,7 @@ swaylock
 xdg-utils
 also-add(vifm)
 also-add(mpv)
+also-add(bemenu)
 # end of custom additions
 
 # main package
