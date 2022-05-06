@@ -545,6 +545,7 @@ include(devpkg-libunwind)
 libunwind-dev32
 liburing-dev
 include(devpkg-libusb)
+libusb-dev32
 include(devpkg-libuser)
 include(devpkg-libuv)
 include(devpkg-libva)
@@ -1014,6 +1015,7 @@ pypi-requests_toolbelt-python3
 pypi-routes-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
+pypi-scikit_build-python3
 pypi-seaborn-python3
 pypi-setuptools
 pypi-setuptools-python3
