@@ -64,7 +64,6 @@ check-dev
 clr-rpm-config
 cmake
 include(devpkg-compat-fuse-soname2)
-compat-gcc-10-dev
 coreutils
 cppcheck
 cppunit-dev

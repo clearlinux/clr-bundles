@@ -100,7 +100,6 @@ clr-rpm-config
 cmake
 cmocka-dev
 include(devpkg-compat-fuse-soname2)
-compat-gcc-10-dev
 confuse-dev
 coreutils
 cppcheck
