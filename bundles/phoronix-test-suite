@@ -9,6 +9,7 @@
 # start of custom additions (edits outside this area will be removed automatically)
 include(php-basic)
 include(unzip)
+php-imagick
 # end of custom additions
 
 # main package
