@@ -35,7 +35,6 @@ OpenSP
 PyYAML
 PyYAML-python3
 R
-include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SFCGAL-dev

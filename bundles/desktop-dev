@@ -21,7 +21,6 @@ ModemManager-dev
 include(devpkg-NetworkManager)
 PyYAML
 PyYAML-python3
-include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32

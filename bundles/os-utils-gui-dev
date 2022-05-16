@@ -16,7 +16,6 @@ include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
 PyYAML-python3
-include(devpkg-R)
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32

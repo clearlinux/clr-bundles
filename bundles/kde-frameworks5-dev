@@ -460,6 +460,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
+plasma-wayland-protocols-dev
 include(devpkg-polkit)
 polkit-qt-dev
 poppler-dev
