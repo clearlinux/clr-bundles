@@ -645,6 +645,7 @@ opencl-headers-dev
 include(devpkg-opencv)
 openexr-dev
 openjade-dev
+openjdk
 openjdk-dev
 openjdk11
 openjdk11-dev
