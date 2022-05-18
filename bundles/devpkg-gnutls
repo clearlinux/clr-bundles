@@ -11,5 +11,6 @@ include(devpkg-libtasn1)
 include(devpkg-nettle)
 include(devpkg-p11-kit)
 include(devpkg-zlib)
+include(devpkg-zstd)
 
 gnutls-dev
