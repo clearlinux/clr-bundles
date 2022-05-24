@@ -236,6 +236,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+include(devpkg-libnl)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpipeline)
