@@ -61,6 +61,7 @@ bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 check-dev
+check-dev32
 clr-rpm-config
 cmake
 include(devpkg-compat-fuse-soname2)
