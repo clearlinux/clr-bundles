@@ -362,7 +362,6 @@ perl-File-Listing-perl
 perl-File-ShareDir-Install-perl
 perl-File-ShareDir-perl
 perl-File-Which-perl
-perl-GD
 perl-Getopt-Long-Descriptive-perl
 perl-HTML-Form-perl
 perl-HTML-Parser-perl
@@ -379,7 +378,6 @@ perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
 perl-Importer-perl
-perl-JSON
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
 perl-LWP-MediaTypes-perl
@@ -408,7 +406,6 @@ perl-Params-Validate-perl
 perl-Params-ValidationCompiler-perl
 perl-Path-Class-perl
 perl-Path-Tiny-perl
-perl-PerlIO-gzip
 perl-PerlIO-utf8_strict-perl
 perl-Role-Tiny-perl
 perl-Specio-perl
