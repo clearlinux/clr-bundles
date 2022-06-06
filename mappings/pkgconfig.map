@@ -316,7 +316,6 @@ pkgconfig(libiptc)	devpkg-iptables
 pkgconfig(libiscsi)	devpkg-libiscsi
 pkgconfig(libjpeg)	devpkg-libjpeg-turbo
 pkgconfig(libkmod)	devpkg-kmod
-pkgconfig(libkms)	devpkg-libdrm
 pkgconfig(liblab_gamut)	devpkg-graphviz
 pkgconfig(liblz4)	devpkg-lz4
 pkgconfig(liblzma)	devpkg-xz
