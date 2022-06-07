@@ -15,11 +15,9 @@ also-add(cheese)
 also-add(connections)
 also-add(eog)
 also-add(evince)
-also-add(evolution)
 include(file-roller)
 also-add(flatpak)
 also-add(geary)
-also-add(gedit)
 also-add(gnome-calculator)
 also-add(gnome-characters)
 also-add(gnome-color-manager)
@@ -40,10 +38,8 @@ include(seahorse)
 also-add(totem)
 # apps
 dconf-editor
-graphviz-extras
 libyami-utils
 pavucontrol
-simple-scan
 
 # apps low level deps
 glib-bin
