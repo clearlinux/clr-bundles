@@ -1062,6 +1062,7 @@ qemu
 qemu-setuid
 qhull-dev
 qrencode-dev
+qt6base-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
