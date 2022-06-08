@@ -10,7 +10,7 @@ include(libX11client)
 include(openldap)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+gnome-keyring
 # end of custom additions
 
 # main package
