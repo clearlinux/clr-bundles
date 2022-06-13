@@ -162,7 +162,6 @@ e2fsprogs-dev32
 e2fsprogs-extras
 ed
 efivar-dev
-include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
