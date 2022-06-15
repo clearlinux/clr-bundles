@@ -536,7 +536,6 @@ perl-Encode-Locale-perl
 perl-Eval-Closure-perl
 perl-Exception-Class-perl
 perl-Exporter-Tiny-perl
-perl-ExtUtils-Config-perl
 perl-ExtUtils-Helpers-perl
 perl-ExtUtils-InstallPaths-perl
 perl-File-Copy-Recursive-perl
@@ -590,7 +589,6 @@ perl-Params-ValidationCompiler-perl
 perl-Parse-Yapp
 perl-Path-Class-perl
 perl-Path-Tiny-perl
-perl-PerlIO-utf8_strict-perl
 perl-Role-Tiny-perl
 perl-Specio-perl
 perl-Spiffy-perl
