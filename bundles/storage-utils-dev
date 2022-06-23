@@ -64,7 +64,6 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -263,7 +262,6 @@ pcre-dev32
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
-perl-CGI-perl
 perl-CPAN-Meta-Check-perl
 perl-Carp-Assert-perl
 perl-Class-Data-Inheritable-perl
@@ -312,7 +310,6 @@ perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Message-perl
 perl-HTTP-Negotiate-perl
-perl-HTTP-Server-Simple-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl

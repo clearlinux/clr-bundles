@@ -127,7 +127,6 @@ dmidecode
 dnsmasq
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(dosfstools)
 include(doxygen)
 include(devpkg-dpdk)
@@ -494,7 +493,6 @@ pcsc-lite-dev
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
-perl-CGI-perl
 perl-CPAN-Meta-Check-perl
 perl-Capture-Tiny-perl
 perl-Carp-Assert-perl
@@ -546,7 +544,6 @@ perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Message-perl
 perl-HTTP-Negotiate-perl
-perl-HTTP-Server-Simple-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl

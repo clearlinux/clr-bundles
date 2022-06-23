@@ -169,7 +169,6 @@ include(dnf)
 dnsmasq
 include(docbook-utils)
 docbook-xml
-include(docutils)
 include(dosfstools)
 double-conversion-dev
 include(doxygen)
@@ -740,7 +739,6 @@ perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Message-perl
 perl-HTTP-Negotiate-perl
-perl-HTTP-Server-Simple-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
@@ -932,7 +930,6 @@ pypi-idna
 pypi-idna-python3
 pypi-imagesize
 pypi-imagesize-python3
-pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
@@ -944,6 +941,7 @@ pypi-kerberos-python3
 pypi-kiwisolver-python3
 pypi-kubernetes-python3
 pypi-lxml
+pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-matplotlib-python3
