@@ -331,6 +331,8 @@ include(devpkg-numactl)
 octave-dev
 openal-soft-dev
 openjade-dev
+openjdk
+openjdk-dev
 openjdk11
 openjdk11-dev
 openldap-dev

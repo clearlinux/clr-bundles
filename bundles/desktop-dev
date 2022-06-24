@@ -48,7 +48,6 @@ include(devpkg-appstream-glib)
 asciidoc
 include(aspell)
 aspell-dev
-aspell-en
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)

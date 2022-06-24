@@ -305,6 +305,8 @@ include(devpkg-numactl)
 onig-dev
 include(openblas)
 opencl-headers-dev
+openjdk
+openjdk-dev
 include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)

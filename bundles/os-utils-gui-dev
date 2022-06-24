@@ -38,7 +38,6 @@ alsa-lib-dev32
 appstream-glib
 asciidoc
 aspell-dev
-aspell-en
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
@@ -479,6 +478,8 @@ nss-altfiles
 include(devpkg-nss)
 octave-dev
 openconnect-dev
+openjdk
+openjdk-dev
 openjpeg
 openldap-dev
 include(devpkg-openmpi)

@@ -423,6 +423,8 @@ onig-dev
 openal-soft-dev
 openconnect-dev
 openexr-dev
+openjdk
+openjdk-dev
 openjpeg
 openldap-dev
 include(devpkg-openmpi)

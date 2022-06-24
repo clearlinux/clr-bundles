@@ -33,7 +33,6 @@ include(devpkg-appstream)
 appstream-glib
 asciidoc
 aspell-dev
-aspell-en
 assimp-dev
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
@@ -420,6 +419,8 @@ include(devpkg-numactl)
 octave-dev
 openal-soft-dev
 openjade-dev
+openjdk
+openjdk-dev
 openjdk11
 openjdk11-dev
 openjpeg

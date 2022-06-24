@@ -375,6 +375,8 @@ octave-dev
 open-iscsi
 opencl-headers-dev
 include(devpkg-opencv)
+openjdk
+openjdk-dev
 openjdk11
 openjdk11-dev
 openldap-dev

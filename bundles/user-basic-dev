@@ -460,6 +460,8 @@ open-isns-dev
 include(openblas)
 opencl-headers-dev
 include(devpkg-opencv)
+openjdk
+openjdk-dev
 openjdk11
 openjdk11-dev
 openldap-dev

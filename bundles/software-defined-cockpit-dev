@@ -355,6 +355,8 @@ nss-altfiles
 octave-dev
 openal-soft-dev
 openexr-dev
+openjdk
+openjdk-dev
 openldap-dev
 include(devpkg-openmpi)
 openssh
