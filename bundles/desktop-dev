@@ -161,6 +161,7 @@ e2fsprogs-dev32
 e2fsprogs-extras
 ed
 efivar-dev
+include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
@@ -551,6 +552,7 @@ include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
+meson-python3
 include(devpkg-metacity)
 mingw-gcc
 mkfontdir
@@ -599,8 +601,6 @@ openexr-dev
 openjade-dev
 openjdk
 openjdk-dev
-openjdk11
-openjdk11-dev
 openjpeg
 openjpeg-dev
 openldap-dev

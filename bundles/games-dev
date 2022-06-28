@@ -396,6 +396,7 @@ include(make)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
+meson-python3
 mingw-gcc
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev

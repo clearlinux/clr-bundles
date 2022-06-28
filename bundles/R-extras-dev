@@ -983,6 +983,7 @@ include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
 meson
+meson-python3
 mingw-gcc
 mkfontdir
 mkfontdir-bin
@@ -1023,8 +1024,6 @@ openexr-dev
 openjade-dev
 openjdk
 openjdk-dev
-openjdk11
-openjdk11-dev
 openjpeg
 openldap-dev
 include(openmpi)

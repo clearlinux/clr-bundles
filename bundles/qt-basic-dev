@@ -310,6 +310,7 @@ include(devpkg-mariadb)
 include(devpkg-md4c)
 include(devpkg-mesa)
 mesa-dev32
+meson-python3
 mingw-gcc
 mkfontdir
 mkfontdir-bin
@@ -333,8 +334,6 @@ openal-soft-dev
 openjade-dev
 openjdk
 openjdk-dev
-openjdk11
-openjdk11-dev
 openldap-dev
 include(devpkg-openmpi)
 openssh

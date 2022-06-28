@@ -156,7 +156,6 @@ dbus-dev32
 include(devpkg-dbus-glib)
 dbus-python
 dbus-python-dev
-debugedit
 dejagnu
 desktop-file-utils
 dhcp
@@ -587,6 +586,7 @@ mercurial
 include(devpkg-mesa)
 mesa-dev32
 meson
+meson-python3
 mingw-binutils
 mingw-crt
 mingw-crt-dev
@@ -1049,7 +1049,6 @@ pypi-xmlschema
 pypi-zipp-python3
 pypi-zopfli-python3
 python-remoto-python3
-python-rpm-packaging
 python3
 python3-core
 python3-dev
@@ -1208,7 +1207,6 @@ yajl-dev
 yajl-lib
 yaml-dev
 include(yasm)
-include(zip)
 zlib
 include(devpkg-zlib)
 zlib-dev32

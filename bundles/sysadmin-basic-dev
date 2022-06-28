@@ -198,6 +198,7 @@ lzo-dev
 m4
 include(make)
 man-db
+meson-python3
 mpc-dev
 mpfr-dev
 include(devpkg-ncurses)

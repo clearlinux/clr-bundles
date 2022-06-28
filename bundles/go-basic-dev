@@ -153,10 +153,12 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+include(llvm)
 include(devpkg-lz4)
 lz4-dev32
 m4
 include(make)
+meson-python3
 mpc-dev
 mpfr-dev
 include(devpkg-ncurses)

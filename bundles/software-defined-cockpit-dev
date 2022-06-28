@@ -334,6 +334,7 @@ include(make)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
+meson-python3
 mingw-gcc
 mpc-dev
 mpfr-dev

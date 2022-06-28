@@ -209,6 +209,7 @@ m4
 include(make)
 include(devpkg-mariadb)
 mesa-dev32
+meson-python3
 mpc-dev
 mpfr-dev
 include(nasm)

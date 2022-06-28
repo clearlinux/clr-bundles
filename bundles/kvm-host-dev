@@ -343,6 +343,7 @@ m4
 include(make)
 include(devpkg-mesa)
 mesa-dev32
+meson-python3
 mingw-gcc
 include(devpkg-mozjs78)
 mpc-dev

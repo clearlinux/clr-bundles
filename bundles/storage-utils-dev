@@ -230,6 +230,7 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
+meson-python3
 mingw-gcc
 mpc-dev
 mpfr-dev

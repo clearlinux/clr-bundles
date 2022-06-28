@@ -424,6 +424,7 @@ man-db
 include(devpkg-mesa)
 mesa-dev32
 meson
+meson-python3
 mingw-gcc
 include(devpkg-mozjs78)
 mpc-dev
