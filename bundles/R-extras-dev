@@ -13,6 +13,7 @@ CUnit-dev32
 include(devpkg-ImageMagick)
 Imath-dev
 JAGS-dev
+include(devpkg-LVM2)
 include(devpkg-LibRaw)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
@@ -839,6 +840,7 @@ include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -1187,6 +1189,7 @@ pmix-dev
 include(devpkg-polkit)
 poppler-dev
 poppler-extras
+include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
@@ -1346,6 +1349,7 @@ tcl-dev
 tcl-staticdev
 include(texinfo)
 include(texlive)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 include(tzdata)

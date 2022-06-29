@@ -225,6 +225,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc11-dev
 gcc7-dev
 gcc8-dev
 gcc9
@@ -681,7 +682,6 @@ perl
 perl-Algorithm-Diff-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
-perl-CGI-perl
 perl-CPAN-Meta-Check-perl
 perl-Capture-Tiny-perl
 perl-Carp-Assert-perl
@@ -1207,6 +1207,7 @@ yajl-dev
 yajl-lib
 yaml-dev
 include(yasm)
+include(zip)
 zlib
 include(devpkg-zlib)
 zlib-dev32

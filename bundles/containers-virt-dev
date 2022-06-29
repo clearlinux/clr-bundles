@@ -140,6 +140,7 @@ include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
 json-c-dev32
+keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
@@ -232,6 +233,7 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 npth-dev
 nss-altfiles
+openldap-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -255,6 +257,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 include(pygobject)
@@ -276,6 +279,7 @@ shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
+swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

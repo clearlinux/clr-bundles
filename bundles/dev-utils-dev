@@ -9,6 +9,7 @@ include(os-core-dev)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 PyYAML-python3
@@ -195,6 +196,7 @@ libXt-dev32
 include(devpkg-libXtst)
 include(devpkg-libXv)
 libabigail
+libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev
 libatomic_ops-dev32
@@ -308,6 +310,7 @@ include(openblas)
 opencl-headers-dev
 openjdk
 openjdk-dev
+openldap-dev
 include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)
@@ -574,6 +577,7 @@ tcl-dev
 tcl-staticdev
 include(texinfo)
 include(texlive)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev

@@ -5,6 +5,8 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
+CUnit-dev
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 include(devpkg-acl)
@@ -25,6 +27,7 @@ bison-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
+buildreq-golang
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
@@ -33,6 +36,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 include(devpkg-dbus)
 dbus-dev32
@@ -91,9 +95,14 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
+include(devpkg-json-c)
+json-c-dev32
+keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 libabigail
+libaio-dev
 libbpf-dev
 libc6-dev
 include(devpkg-libcap)
@@ -146,6 +155,7 @@ ncurses-dev32
 netbase
 include(devpkg-nettle)
 nss-altfiles
+openldap-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -161,6 +171,7 @@ pigz
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+include(devpkg-popt)
 include(procps-ng)
 pypi-cython
 pypi-jinja2-python3
@@ -170,10 +181,12 @@ python3-core
 python3-dev
 include(devpkg-readline)
 readline-dev32
+ruby
 sed
 shadow
 shadow-dev
 include(strace)
+swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -181,6 +194,7 @@ systemd-lib
 tar
 tcl
 include(texinfo)
+thin-provisioning-tools
 include(unzip)
 util-linux
 util-linux-bin

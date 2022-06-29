@@ -9,6 +9,7 @@ include(dev-utils)
 include(os-core-dev)
 CUnit-dev
 CUnit-dev32
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 acl-bin
@@ -32,6 +33,7 @@ buildreq-cmake
 buildreq-configure
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
@@ -41,6 +43,7 @@ cmocka-dev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 curl-dev32
 include(devpkg-dbus)
@@ -104,11 +107,14 @@ include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
 json-c-dev32
+keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
 libX11-dev32
 libabigail
+libaio-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -170,6 +176,7 @@ netbase
 include(devpkg-nghttp2)
 nghttp2-dev32
 nss-altfiles
+openldap-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -187,6 +194,7 @@ pigz
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+include(devpkg-popt)
 include(procps-ng)
 pypi-cython
 pypi-jinja2-python3
@@ -196,10 +204,12 @@ python3-core
 python3-dev
 include(devpkg-readline)
 readline-dev32
+ruby
 sed
 shadow
 shared-mime-info
 include(strace)
+swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -207,6 +217,7 @@ systemd-lib
 tar
 tcl
 include(texinfo)
+thin-provisioning-tools
 tpm2-abrmd-dev
 tpm2-tss-dev
 include(tzdata)

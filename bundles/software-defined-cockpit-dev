@@ -11,6 +11,7 @@ AVB-AudioModules-dev
 CUnit-dev
 CUnit-dev32
 Imath-dev
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
@@ -56,6 +57,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -201,6 +203,7 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -223,6 +226,7 @@ libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
 libabigail
+libaio-dev
 include(devpkg-libass)
 libatomic_ops-dev
 libatomic_ops-dev32
@@ -388,6 +392,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 protobuf-dev
@@ -446,6 +451,7 @@ include(devpkg-readline)
 readline-dev32
 include(rsync)
 rtmpdump-dev
+ruby
 rustc
 include(sassc)
 sbc-dev
@@ -471,6 +477,7 @@ include(devpkg-tbb)
 tcl
 tcl-dev
 include(texinfo)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 include(tzdata)

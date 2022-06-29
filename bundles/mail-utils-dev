@@ -7,6 +7,8 @@
 include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
+CUnit-dev
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 OpenSP
@@ -30,6 +32,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-kde
 buildreq-meson
 bzip2
@@ -38,6 +41,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
@@ -114,7 +118,10 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
+include(devpkg-json-c)
+json-c-dev32
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -329,6 +336,7 @@ pigz
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+include(devpkg-popt)
 procmail
 include(procps-ng)
 pypi-cffi-python3
@@ -362,6 +370,7 @@ tar
 tcl
 tcl-dev
 include(texinfo)
+thin-provisioning-tools
 tokyocabinet-dev
 include(tzdata)
 include(unzip)

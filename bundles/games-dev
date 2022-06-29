@@ -12,6 +12,7 @@ CUnit-dev
 CUnit-dev32
 include(devpkg-GConf)
 Imath-dev
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
@@ -69,6 +70,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -91,6 +93,7 @@ include(devpkg-compat-webkitgtk-soname40)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 cups
 include(devpkg-cups)
 include(curl)
@@ -240,6 +243,7 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -268,6 +272,7 @@ include(devpkg-libXvMC)
 libXvMC-dev32
 libXxf86dga-dev
 libabigail
+libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
@@ -685,6 +690,7 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 tpm2-tss-dev

@@ -7,6 +7,8 @@
 include(dev-utils)
 include(os-core-dev)
 include(qt-basic)
+CUnit-dev
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
@@ -52,6 +54,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -69,6 +72,7 @@ cmake
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -191,6 +195,7 @@ jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -367,6 +372,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
@@ -471,6 +477,7 @@ qtxmlpatterns-dev
 include(devpkg-readline)
 readline-dev32
 include(rsync)
+ruby
 include(sassc)
 sbc-dev
 sbc-dev32
@@ -495,6 +502,7 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 include(tzdata)

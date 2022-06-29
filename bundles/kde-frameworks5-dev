@@ -10,6 +10,7 @@ include(os-core-dev)
 include(qt-basic-dev)
 CUnit-dev
 CUnit-dev32
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
@@ -80,6 +81,7 @@ include(devpkg-compat-enchant-soname1)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -242,6 +244,7 @@ kitemmodels-dev
 kitemviews-dev
 kjobwidgets-dev
 kjs-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 knewstuff-dev
@@ -465,6 +468,7 @@ include(devpkg-polkit)
 polkit-qt-dev
 poppler-dev
 poppler-extras
+include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
@@ -599,6 +603,7 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
+thin-provisioning-tools
 threadweaver-dev
 include(devpkg-tiff)
 tk-dev

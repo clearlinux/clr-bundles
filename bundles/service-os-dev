@@ -7,6 +7,8 @@
 include(dev-utils)
 include(os-core-dev)
 include(service-os)
+CUnit-dev
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 include(devpkg-acl)
@@ -45,6 +47,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 curl-dev32
 db
@@ -120,6 +123,8 @@ include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
 json-c-dev32
+keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
@@ -127,6 +132,7 @@ libX11-dev32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXft)
 libabigail
+libaio-dev
 libbpf-dev
 libc6-dev
 include(devpkg-libcap)
@@ -188,6 +194,7 @@ ncurses-dev32
 netbase
 nss-altfiles
 nss-bin
+openldap-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -240,12 +247,14 @@ python3-core
 python3-dev
 include(devpkg-readline)
 readline-dev32
+ruby
 sed
 shadow
 shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
+swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -255,6 +264,7 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
+thin-provisioning-tools
 tk-dev
 include(tzdata)
 include(unzip)

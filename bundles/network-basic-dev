@@ -10,6 +10,7 @@ include(os-core-dev)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
+include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 acl-bin
@@ -36,6 +37,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-meson
 buildreq-qmake
 bzip2
@@ -50,6 +52,7 @@ confuse-dev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
@@ -136,6 +139,7 @@ include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -143,6 +147,7 @@ less-bin
 include(devpkg-libX11)
 libX11-dev32
 libabigail
+libaio-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -374,6 +379,7 @@ include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+include(devpkg-popt)
 include(procps-ng)
 pypi-cython
 pypi-docutils
@@ -388,11 +394,13 @@ python3-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
+ruby
 sed
 shadow
 shared-mime-info
 stoken-dev
 include(strace)
+swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -401,6 +409,7 @@ tar
 tcl
 tcl-dev
 include(texinfo)
+thin-provisioning-tools
 tpm2-tss-dev
 include(tzdata)
 include(unzip)
