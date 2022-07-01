@@ -125,6 +125,7 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -179,6 +180,7 @@ geany-plugins-dev
 gettext
 gettext-bin
 gettext-dev
+include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
@@ -267,6 +269,7 @@ iptables-dev32
 include(devpkg-iso-codes)
 itstool
 include(devpkg-jansson)
+jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
@@ -413,6 +416,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
+liburing-dev
 include(devpkg-libusb)
 libusb-dev32
 include(devpkg-libva)
@@ -449,6 +453,8 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
@@ -478,8 +484,10 @@ not-ffmpeg-dev
 npth-dev
 nss-altfiles
 include(devpkg-nss)
+include(devpkg-numactl)
 octave-dev
 openconnect-dev
+openjade-dev
 openjdk
 openjdk-dev
 openjpeg
@@ -561,6 +569,7 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
+perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -645,6 +654,7 @@ pkg-config-dev
 include(devpkg-polkit)
 poppler-dev
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 protobuf-dev
@@ -743,6 +753,7 @@ sed
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
+snappy-dev
 include(devpkg-speex)
 speexdsp-dev
 spice-dev
