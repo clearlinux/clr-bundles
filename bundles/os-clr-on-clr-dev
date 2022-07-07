@@ -161,6 +161,9 @@ desktop-file-utils
 dhcp
 include(diffutils)
 ding-libs-dev
+directx-headers-dev
+directx-headers-staticdev
+directx-headers-staticdev32
 distro-python3
 dmidecode
 include(dnf)

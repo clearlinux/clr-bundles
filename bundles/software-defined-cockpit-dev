@@ -93,6 +93,9 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
+directx-headers-dev
+directx-headers-staticdev
+directx-headers-staticdev32
 dlt-daemon-dev
 include(docbook-utils)
 docbook-xml
