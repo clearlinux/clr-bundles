@@ -23,6 +23,7 @@ include(devpkg-SDL2_image)
 SVT-AV1-dev
 include(Sphinx)
 Thunar-dev
+Vulkan-Headers-data
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
@@ -390,6 +391,7 @@ libpng-dev32
 include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
+libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)
@@ -803,6 +805,7 @@ include(devpkg-woff2)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xcursorgen
 xdg-dbus-proxy
 xdg-utils

@@ -31,6 +31,7 @@ include(devpkg-SDL2)
 SVT-AV1-dev
 include(Sphinx)
 VTK-dev
+Vulkan-Headers-data
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
@@ -149,6 +150,7 @@ emacs
 include(devpkg-expat)
 expat-dev32
 expect
+extra-cmake-modules
 fcgi-dev
 include(devpkg-fftw)
 file-dev
@@ -368,6 +370,7 @@ include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libpthread-stubs)
+libpthread-stubs-dev32
 libpwquality-dev
 librdkafka-dev
 librsvg
@@ -861,6 +864,7 @@ include(devpkg-xapian-core)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xdg-utils
 xfsprogs-dev
 include(devpkg-xkeyboard-config)

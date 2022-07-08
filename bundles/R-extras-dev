@@ -630,6 +630,7 @@ SFCGAL-dev
 include(Sphinx)
 SuiteSparse-dev
 VTK-dev
+Vulkan-Headers-data
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
@@ -930,6 +931,7 @@ libpciaccess-dev32
 include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libpthread-stubs)
+libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)
@@ -1379,6 +1381,7 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xdg-utils
 xerces-c-dev
 include(devpkg-xkeyboard-config)
