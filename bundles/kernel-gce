@@ -5,4 +5,4 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
-linux-gce
+linux
