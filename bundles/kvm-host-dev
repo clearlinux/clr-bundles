@@ -40,7 +40,6 @@ attr-dev32
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
-autoconf213
 autogen
 automake
 automake-dev
@@ -105,6 +104,7 @@ docbook-xml
 include(dosfstools)
 include(doxygen)
 include(devpkg-dpdk)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -351,7 +351,6 @@ include(devpkg-mesa)
 mesa-dev32
 meson-python3
 mingw-gcc
-include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
 mtdev-dev
@@ -463,7 +462,6 @@ pypi-matplotlib-python3
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-numpy-python3
-pypi-pbr
 pypi-pbr-python3
 pypi-pecan-python3
 pypi-pip
@@ -471,7 +469,6 @@ pypi-pip-python3
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-prettytable-python3
-pypi-psutil
 pypi-psutil-python3
 pypi-ptyprocess-python3
 pypi-py
@@ -493,7 +490,6 @@ pypi-routes-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
 pypi-seaborn-python3
-pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six-python3
@@ -526,7 +522,6 @@ readline-dev32
 rpcbind
 include(rsync)
 ruby
-rustc
 include(sassc)
 sbc-dev
 sbc-dev32

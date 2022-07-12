@@ -104,6 +104,7 @@ include(docbook-utils)
 docbook-xml
 double-conversion-dev
 include(doxygen)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -406,7 +407,6 @@ mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
-include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
 mtdev-dev

@@ -73,7 +73,6 @@ attr-dev32
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
-autoconf213
 autogen
 automake
 automake-dev
@@ -174,6 +173,7 @@ include(dosfstools)
 double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -601,7 +601,6 @@ mkfontscale-bin
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 include(modules)
-include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
@@ -955,7 +954,6 @@ pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
-pypi-pbr
 pypi-pbr-python3
 pypi-pecan-python3
 pypi-pep517-python3
@@ -969,7 +967,6 @@ pypi-ply-python3
 pypi-poetry-python3
 pypi-poetry_core-python3
 pypi-prettytable-python3
-pypi-psutil
 pypi-psutil-python3
 pypi-psycopg2-python3
 pypi-ptyprocess-python3
@@ -1014,7 +1011,6 @@ pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
 pypi-scikit_build-python3
 pypi-seaborn-python3
-pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3

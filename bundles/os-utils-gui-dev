@@ -130,6 +130,7 @@ directx-headers-staticdev32
 include(docbook-utils)
 docbook-xml
 include(doxygen)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -463,7 +464,6 @@ mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mm-common-dev
-include(devpkg-mozjs78)
 mpc-dev
 mpfr-dev
 mtdev-dev

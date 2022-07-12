@@ -157,6 +157,7 @@ include(docbook-utils)
 docbook-xml
 double-conversion-dev
 include(doxygen)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -564,7 +565,6 @@ mkfontscale-bin
 mm-common-dev
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
-include(devpkg-mozjs78)
 include(devpkg-mozjs91)
 mpc-dev
 mpfr-dev
