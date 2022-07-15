@@ -80,6 +80,7 @@ R-RcppProgress
 R-RcppTOML
 R-Rdpack
 R-Rmpi
+R-Ryacas
 R-SQUAREM
 R-SnowballC
 R-SparseM
