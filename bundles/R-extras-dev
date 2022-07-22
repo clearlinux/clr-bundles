@@ -405,6 +405,7 @@ R-pillar
 R-pixmap
 R-pkgbuild
 R-pkgconfig
+R-pkgdown
 R-pkgload
 R-pkgmaker
 R-plm
@@ -431,6 +432,7 @@ R-processx
 R-procmaps
 R-prodlim
 R-profileModel
+R-profvis
 R-progress
 R-progressr
 R-promises
@@ -589,6 +591,7 @@ R-tzdb
 R-ucminf
 R-units
 R-urca
+R-urlchecker
 R-urltools
 R-usethis
 R-utf8
