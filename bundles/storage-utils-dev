@@ -412,14 +412,12 @@ pypi-markdown-python3
 pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
-pypi-py
 pypi-py-python3
 pypi-pycparser-python3
 pypi-pytest
 pypi-requests-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
-pypi-six-python3
 pypi-sphinx
 pypi-tox
 pypi-virtualenv

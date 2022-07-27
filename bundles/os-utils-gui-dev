@@ -697,7 +697,6 @@ pypi-pluggy
 pypi-polib
 pypi-psutil-python3
 pypi-ptyprocess-python3
-pypi-py
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
@@ -716,7 +715,6 @@ pypi-seaborn-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six
-pypi-six-python3
 pypi-smmap-python3
 pypi-sphinx
 pypi-toml-python3
