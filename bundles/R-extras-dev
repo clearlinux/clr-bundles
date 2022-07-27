@@ -24,7 +24,6 @@ R-AER
 R-BBmisc
 R-BH
 R-BMA
-R-BMS
 R-BiasedUrn
 R-Brobdingnag
 R-CVST
@@ -206,7 +205,6 @@ R-expm
 R-fBasics
 R-fGarch
 R-fMultivar
-R-fOptions
 R-fansi
 R-farver
 R-fastGHQuad
