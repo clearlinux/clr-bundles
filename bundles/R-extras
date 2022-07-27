@@ -61,7 +61,6 @@ R-bit64
 R-bitops
 R-blob
 R-blockmodeling
-R-BMS
 R-bold
 R-BoolNet
 R-bootstrap
@@ -107,7 +106,6 @@ R-commonmark
 R-compositions
 R-config
 R-contfrac
-R-conting
 R-corpcor
 R-corrgram
 R-corrplot
@@ -203,7 +201,6 @@ R-expsmooth
 R-Fahrmeir
 R-fail
 R-fansi
-R-fAsianOptions
 R-fAssets
 R-fastcluster
 R-fastICA
@@ -215,7 +212,6 @@ R-fBonds
 R-fCopulae
 R-fda
 R-feather
-R-fExoticOptions
 R-fExtremes
 R-ff
 R-fGarch
@@ -236,7 +232,6 @@ R-fNonlinear
 R-fontBitstreamVera
 R-fontLiberation
 R-fontquiver
-R-fOptions
 R-forcats
 R-foreach
 R-forecast
@@ -464,7 +459,6 @@ R-nnls
 R-nortest
 R-npsurv
 R-numDeriv
-R-nws
 R-nycflights13
 R-openssl
 R-openxlsx
@@ -526,7 +520,6 @@ R-prettyunits
 R-princurve
 R-processx
 R-prodlim
-R-profdpm
 R-profileModel
 R-progress
 R-promises
@@ -715,7 +708,6 @@ R-speedglm
 R-spelling
 R-spls
 R-SQUAREM
-R-sROC
 R-stable
 R-stabledist
 R-StanHeaders
