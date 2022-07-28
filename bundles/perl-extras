@@ -812,3 +812,4 @@ perl-namespace-clean
 perl-pmtools
 perl-prefork
 perl-strictures
+perl-IO-FDPass
