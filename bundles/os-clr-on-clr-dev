@@ -986,12 +986,6 @@ pypi-pyopenssl-python3
 pypi-pyparsing-python3
 pypi-pyroute2-python3
 pypi-pyroute2.core-python3
-pypi-pyroute2.ethtool-python3
-pypi-pyroute2.ipdb-python3
-pypi-pyroute2.ipset-python3
-pypi-pyroute2.ndb-python3
-pypi-pyroute2.nftables-python3
-pypi-pyroute2.nslink-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
