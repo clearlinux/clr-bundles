@@ -8,5 +8,6 @@ include(git)
 include(p11-kit)
 include(libstdcpp)
 include(binutils)
+include(c-basic)
 
 rustc

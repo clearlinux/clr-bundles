@@ -9,6 +9,7 @@
 # start of custom additions (edits outside this area will be removed automatically)
 include(perl-basic)
 include(libstdcpp)
+include(python3-basic)
 # end of custom additions
 
 # main package

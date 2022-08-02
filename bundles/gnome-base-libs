@@ -8,6 +8,7 @@
 include(libglib)
 include(libX11client)
 include(desktop-gnomelibs)
+include(qt-basic)
 
 gnome-desktop-lib
 gnome-online-accounts-lib

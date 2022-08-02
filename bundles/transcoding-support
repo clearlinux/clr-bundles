@@ -8,6 +8,7 @@
 libsndfile
 libvorbis
 include(pulseaudio)
+include(qt-basic)
 speex
 sbc
 openal-soft

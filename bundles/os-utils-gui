@@ -23,7 +23,7 @@ include(x11-server)
 also-add(emacs-x11)
 include(xfce4-desktop)
 include(lib-imageformat)
-
+include(vim)
 FreeRDP
 Thunar
 alsa-plugins-lib
