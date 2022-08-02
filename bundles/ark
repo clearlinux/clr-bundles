@@ -6,6 +6,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)
+include(qt-core)
 include(qt-basic)
 include(libstdcpp)
 

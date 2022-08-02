@@ -5,6 +5,7 @@
 # [TAGS]: Data Science
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(qt-core)
 include(qt-basic)
 include(libX11client)
 include(libglib)

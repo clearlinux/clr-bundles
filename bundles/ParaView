@@ -5,6 +5,7 @@
 # [TAGS]: Developer Tools, Data Science
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
 
+include(python3-basic)
 include(qt-core)
 include(qt-basic)
 include(libX11client)

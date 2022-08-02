@@ -6,6 +6,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(kde-frameworks5)
+include(qt-core)
 include(qt-basic)
 include(libstdcpp)
 

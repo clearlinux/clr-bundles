@@ -9,7 +9,6 @@ include(libX11client)
 include(libglib)
 include(gnome-base-libs)
 include(gstreamer)
-include(libstdcpp)
 include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)

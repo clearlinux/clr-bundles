@@ -5,6 +5,7 @@
 # [TAGS]: Games
 # [MAINTAINER]: Simental Magana, Marcos <marcos.simental.magana@intel.com>
 
+include(gnome-base-libs)
 include(libX11client)
 include(libglib)
 include(lib-imageformat)

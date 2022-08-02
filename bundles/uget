@@ -6,10 +6,10 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
+include(lib-openssl)
 include(curl)
 include(libglib)
 include(gstreamer)
-include(lib-openssl)
 
 # start of custom additions (edits outside this area will be removed automatically)
 

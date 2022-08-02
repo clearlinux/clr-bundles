@@ -5,6 +5,7 @@
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
+include(qt-core)
 include(qt-basic)
 include(lib-imageformat)
 include(libstdcpp)

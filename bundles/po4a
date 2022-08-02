@@ -5,7 +5,6 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
 
-include(perl-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
 

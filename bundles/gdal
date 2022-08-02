@@ -5,6 +5,8 @@
 # [TAGS]: Multimedia and Graphics, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(lib-openssl)
+include(curl)
 include(lib-imageformat)
 include(libstdcpp)
 

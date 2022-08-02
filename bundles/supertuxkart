@@ -5,7 +5,7 @@
 # [TAGS]: Games
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-include(libX11client)
+include(lib-openssl)
 include(curl)
 include(lib-imageformat)
 include(libstdcpp)

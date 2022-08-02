@@ -2,14 +2,12 @@ acl # Tools to manipulate filesystem acls
 acpica-unix2 # Intel ACPI utilities
 akonadi # No detailed summary available
 alsa-utils # alsa management tools
-apache-flink # Powerful distributed stream and batch data processing framework
 aria2 # High speed download utility library
 ark # No detailed summary available
 audacious # Music player for Gtk/GNOME
 audio #
 audit # system audit tools
 axel # Download accelerator
-azure-iot-sdk # Libraries to support building IoT applications on Azure
 Babel # Internationalization utilities
 baobab # No detailed summary available
 bc # basic calculator, an arbitrary-precision calculator language
@@ -24,7 +22,6 @@ boinc-client # volunteer computing and grid computing
 borgbackup # Deduplicating archiver with compression and authenticated encryption.
 cabextract # Manipulate CAB archives
 calc # Arbitrary precision console calculator
-cassandra # A free and open-source, distributed, wide column store, NoSQL database
 casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
 ccache # cache compilations to avoid redoing the same computation and speed project build times
 ceph # Ceph Base Package
@@ -56,7 +53,6 @@ doxygen # documentation tooling
 dpdk # Data Plane Development Kit core
 dtc # Device Tree Compiler, to describe non-discoverable hardware
 duperemove # Tool for finding duplicated extents and submitting them for deduplication
-elasticsearch # Powerful open source search and analytics engine
 emacs-x11 # Highly customizable text editor, gui build.
 eog # The GNOME Image Viewer
 ethtool # Utility for displaying and modifying some parameters of network interface controller
@@ -76,7 +72,6 @@ fontforge # Outline and bitmap font editor
 fonttools # tools to manipulate system and user fonts
 fossil # Fossil is a simple, high-reliability, distributed software configuration management system
 fuse # fuse filesystem support
-fwupdate # Firmware update tool
 gdb # GNU debugger
 geany # A fast and lightweight IDE using GTK+
 gedit # gedit
@@ -200,7 +195,6 @@ nload # network load monitor
 nmap # security scanner for network device discovery
 notmuch # Notmuch is not much of an email program
 octave # high-level programming language, primarily intended for numerical computations
-offlineimap # locally copy imap email
 okular # No detailed summary available
 openblas # The OpenBLAS linear algebra package
 openldap # ldap tools
@@ -260,7 +254,6 @@ syndication # RSS/Atom parser library
 synergy # Keyboard and mouse sharing across networks
 syslinux # Kernel loader which uses a FAT, ext2/3 or iso9660 filesystem or a PXE network
 sysstat # utilities for monitoring system performance and usage activity
-tensorflow-serving # a flexible, high-performance serving system for machine learning models
 testdisk # Recover various partition failures and deleted files
 texinfo # unix style documentation tooling
 texlive # major TeX-related typesetting programs, macro packages, and fonts.
@@ -314,7 +307,6 @@ Gradio # A GTK3 app for finding and listening to internet radio stations
 geary # A library full of GTK+ widgets for mobile phones
 po4a # PO for anything: Maintain the translations of your documentation
 arandr # Another XRandR GUI
-apache-tomcat # Tomcat server
 jack2 # JACK low-latency audio server for multi-processor machines (daemon activation)
 rxvt-unicode # No detailed summary available
 mod_wsgi # Python WSGI adapter module for Apache
@@ -341,7 +333,6 @@ bpftrace # High-level tracing language for Linux eBPF
 gnome-mahjongg # Single player version of the classic Eastern tile game Mahjongg
 gnome-chess # Play the classic two-player boardgame of chess
 coturn # The TURN Server is a VoIP media traffic NAT traversal server and gateway
-tilix # A tiling terminal emulator for Linux using GTK+ 3
 mumble # A voice server/client for game chatting.
 aspell-es # No detailed summary available
 iwd # Wireless daemon for Linux
@@ -354,7 +345,6 @@ zenity # Display graphical dialog boxes from shell scripts
 the_silver_searcher # A code-searching tool similar to ack, but faster.
 SVT-AV1 # AV1-compliant encoder library core.
 gpaste # Clipboard management system
-traefik # A cloud based reverse proxy and load balancer
 postfix # Mail transfer agent (MTA) that routes and delivers electronic mail. SMTP server.
 samtools # C library for high-throughput sequencing data formats
 sox # Audio file format and effects library
@@ -406,7 +396,6 @@ sshfs # FUSE client based on the SSH File Transfer Protocol
 stacer # Ubuntu System Optimizer
 zabbix # Network and application monitoring tool.
 earlyoom # Utility for pre-oomkiller process control
-swupd-client-pre-release # Pre-release binary for the Clear Linux OS for IA Updater.
 gnupg # zlib compression library
 i3blocks # No detailed summary available
 socat # Multipurpose relay

@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(gnome-base-libs)
 include(libX11client)
 include(libglib)
 

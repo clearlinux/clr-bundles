@@ -5,6 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
+include(lib-openssl)
 include(curl)
 include(libstdcpp)
 

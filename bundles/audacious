@@ -5,8 +5,9 @@
 # [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
+include(qt-core)
+include(qt-basic)
 include(libX11client)
-include(curl)
 include(libglib)
 include(libstdcpp)
 

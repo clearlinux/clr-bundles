@@ -8,6 +8,7 @@
 include(kde-frameworks5)
 include(qt-core)
 include(qt-basic)
+include(lib-qt5webengine)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)

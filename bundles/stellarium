@@ -5,6 +5,7 @@
 # [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(qt-core)
 include(qt-basic)
 include(libstdcpp)
 

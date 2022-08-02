@@ -9,9 +9,9 @@ include(libX11client)
 include(curl)
 include(libglib)
 include(gstreamer)
-include(libstdcpp)
 include(lib-imageformat)
 include(openldap)
+include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 

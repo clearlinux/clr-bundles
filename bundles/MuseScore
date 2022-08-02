@@ -5,6 +5,7 @@
 # [TAGS]: Multimedia and Graphics, Productivity
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
 
+include(qt-core)
 include(qt-basic)
 include(libstdcpp)
 

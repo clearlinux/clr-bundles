@@ -2,7 +2,7 @@
 # [DESCRIPTION]: High-level tracing language for Linux enhanced Berkeley Packet Filter (eBPF).
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:Programming Languages
+# [TAGS]: Programming Languages
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libstdcpp)
