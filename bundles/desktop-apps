@@ -7,7 +7,8 @@
 include(libX11client)
 include(desktop-gnomelibs)
 include(python3-basic)
-
+include(python3-extras)
+include(qt-basic)
 # mandatory desktop applications
 # included apps
 also-add(baobab)

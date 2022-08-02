@@ -6,6 +6,7 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 include(python3-basic)
+include(qt-basic)
 
 #
 # Apps that are also pundles

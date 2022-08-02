@@ -9,6 +9,7 @@ include(iproute2)
 include(p11-kit)
 include(libstdcpp)
 include(libglib)
+include(python3-basic)
 
 LVM2-bin
 LVM2-config

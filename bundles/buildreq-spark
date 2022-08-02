@@ -12,6 +12,7 @@ include(devpkg-openssl)
 cyrus-sasl
 include(devpkg-cyrus-sasl)
 include(pandoc)
+include(python3-basic)
 R
 R-digest
 R-e1071
