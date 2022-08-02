@@ -8,3 +8,4 @@ clr-boot-manager
 gptfdisk-bin
 shim
 include(syslinux)
+include(libstdcpp)

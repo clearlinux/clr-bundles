@@ -13,6 +13,7 @@ pypi-pid
 pypi-ped
 libblockdev
 also-add(storage-utils)
+include(libstdcpp)
 # end of custom additions
 
 # main package

@@ -5,6 +5,8 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
+include(libstdcpp)
+include(c-basic)
 mingw-gcc
 mingw-binutils
 mingw-crt

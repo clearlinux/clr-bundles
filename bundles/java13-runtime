@@ -5,3 +5,4 @@
 # [TAGS]: Developer Tools, Programming Languages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 openjdk13
+include(libstdcpp)
