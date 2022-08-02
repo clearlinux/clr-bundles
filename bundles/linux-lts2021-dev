@@ -1,0 +1,7 @@
+# [TITLE]: linux-lts2021-dev
+# [DESCRIPTION]: Files for building modules against LTS2021 kernel.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools, Kernel
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+linux-lts2021-dev
