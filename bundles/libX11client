@@ -40,6 +40,7 @@ mesa-lib
 llvm-lib
 pango-lib
 pixman-lib
+Vulkan-Loader
 
 # almost all GUI stuff pulls in GTK
 gtk3-lib
