@@ -14,7 +14,7 @@ include(libstdcpp)
 include(libglib)
 include(openldap)
 include(libxslt)
-
+include(python3-basic)
 # end of custom additions
 
 # main package
