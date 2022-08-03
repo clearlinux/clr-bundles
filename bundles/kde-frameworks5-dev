@@ -10,6 +10,7 @@ include(os-core-dev)
 include(qt-basic-dev)
 CUnit-dev
 CUnit-dev32
+Imath-dev
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
@@ -78,11 +79,15 @@ clear-font
 clr-rpm-config
 include(devpkg-clutter)
 cmake
+cmocka-dev
+include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
+include(devpkg-compat-libsoup-soname-24)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
+cups
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -126,6 +131,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+fltk-dev
 include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
@@ -170,6 +176,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+glslang
 include(devpkg-glu)
 glu-dev32
 gmp-dev
@@ -193,6 +200,7 @@ graphviz-extras
 grep
 groff
 include(devpkg-gsl)
+include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
@@ -219,6 +227,7 @@ include(devpkg-iso-codes)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
+include(devpkg-json-glib)
 jsoncpp-dev
 kactivities-dev
 karchive-dev
@@ -290,6 +299,7 @@ include(devpkg-libass)
 include(devpkg-libassuan)
 libatomic_ops-dev
 libatomic_ops-dev32
+libavtp-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -300,6 +310,7 @@ include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
 libclc-dev
+include(devpkg-libcroco)
 include(devpkg-libdatrie)
 libdatrie-dev32
 libdbusmenu-qt-dev
@@ -311,6 +322,7 @@ libev-dev
 include(devpkg-libevdev)
 include(devpkg-libevent)
 libevent-dev32
+include(devpkg-libexif)
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libfontenc)
@@ -338,8 +350,10 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+libnice-dev
 include(devpkg-libogg)
 libogg-dev32
+include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
@@ -354,8 +368,10 @@ include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
+include(devpkg-libsoup)
 include(devpkg-libsrtp)
 include(devpkg-libssh)
+include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
@@ -409,6 +425,7 @@ mkfontdir-bin
 mkfontscale-bin
 mpc-dev
 mpfr-dev
+include(devpkg-mpg123)
 mtdev-dev
 include(nasm)
 nasm-bin
@@ -427,6 +444,7 @@ include(devpkg-nss)
 include(devpkg-numactl)
 octave-dev
 openal-soft-dev
+openexr-dev
 openjade-dev
 openjdk
 openjdk-dev
@@ -553,6 +571,7 @@ python3
 python3-core
 python3-dev
 qemu
+qrencode-dev
 qt6base-dev
 include(devpkg-qtbase)
 qtbase-extras
@@ -579,6 +598,7 @@ readline-dev32
 include(rsync)
 rtmpdump-dev
 ruby
+rustc
 include(sassc)
 sbc-dev
 sbc-dev32

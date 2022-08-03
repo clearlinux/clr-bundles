@@ -11,6 +11,7 @@ include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
 FreeRDP-dev
+Imath-dev
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
@@ -39,6 +40,7 @@ alsa-lib-dev32
 appstream-glib
 asciidoc
 aspell-dev
+assimp-dev
 include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
 include(devpkg-atk)
@@ -104,6 +106,7 @@ cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
+cups
 include(devpkg-cups)
 include(curl)
 include(devpkg-curl)
@@ -129,6 +132,7 @@ directx-headers-staticdev
 directx-headers-staticdev32
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
 duktape-dev
 e2fsprogs
@@ -138,7 +142,10 @@ e2fsprogs-dev32
 e2fsprogs-extras
 include(devpkg-elfutils)
 elfutils-dev32
+ell-dev
+emacs
 include(devpkg-enchant)
+include(devpkg-evolution-data-server)
 include(devpkg-exiv2)
 exo-dev
 include(devpkg-expat)
@@ -184,6 +191,7 @@ geany-plugins-dev
 gettext
 gettext-bin
 gettext-dev
+include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
@@ -204,6 +212,7 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 include(devpkg-glibmm)
+glslang
 include(devpkg-glu)
 glu-dev32
 gmp-dev
@@ -234,6 +243,7 @@ groff
 gsettings-desktop-schemas
 include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
+include(devpkg-gst-plugins-bad)
 gst-plugins-base
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
@@ -272,6 +282,7 @@ iptables-dev32
 include(devpkg-iso-codes)
 itstool
 include(devpkg-jansson)
+jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
@@ -360,6 +371,7 @@ libgpg-error-extras
 include(devpkg-libgphoto2)
 include(devpkg-libgudev)
 include(devpkg-libgusb)
+include(devpkg-libical)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -380,11 +392,13 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+libnice-dev
 include(devpkg-libnl)
 include(devpkg-libnotify)
 include(devpkg-liboauth)
 include(devpkg-libogg)
 libogg-dev32
+include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
@@ -404,6 +418,7 @@ libsigc++-dev
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
+include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
@@ -419,6 +434,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
+liburing-dev
 include(devpkg-libusb)
 libusb-dev32
 include(devpkg-libva)
@@ -455,6 +471,8 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
@@ -466,6 +484,7 @@ mkfontscale-bin
 mm-common-dev
 mpc-dev
 mpfr-dev
+include(devpkg-mpg123)
 mtdev-dev
 include(nasm)
 nasm-bin
@@ -483,8 +502,12 @@ not-ffmpeg-dev
 npth-dev
 nss-altfiles
 include(devpkg-nss)
+include(devpkg-numactl)
 octave-dev
+openal-soft-dev
 openconnect-dev
+openexr-dev
+openjade-dev
 openjdk
 openjdk-dev
 openjpeg
@@ -566,6 +589,7 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
+perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -650,6 +674,7 @@ pkg-config-dev
 include(devpkg-polkit)
 poppler-dev
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 protobuf-dev
@@ -728,9 +753,23 @@ python-pocketlint
 python3
 python3-core
 python3-dev
+qatlib-dev
 qemu
+qrencode-dev
 include(devpkg-qtbase)
 qtbase-extras
+qtbase-staticdev
+qtcharts-dev
+qtconnectivity-dev
+include(devpkg-qtdeclarative)
+qtdeclarative-staticdev
+qtmultimedia-dev
+qtsensors-dev
+qtserialport-dev
+include(devpkg-qtsvg)
+include(devpkg-qttools)
+qtwebsockets-dev
+qtxmlpatterns-dev
 include(devpkg-readline)
 readline-dev32
 include(rsync)
@@ -746,6 +785,7 @@ sed
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
+snappy-dev
 include(devpkg-speex)
 speexdsp-dev
 spice-dev

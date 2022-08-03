@@ -18,6 +18,7 @@ include(user-basic)
 CUnit
 CUnit-dev
 CUnit-dev32
+Imath-dev
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -84,6 +85,7 @@ buildreq-kde
 buildreq-meson
 buildreq-nginx
 buildreq-qmake
+buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
@@ -97,9 +99,12 @@ check-dev32
 clear-font
 clr-hardware-files
 clr-rpm-config
+include(devpkg-clutter)
 cmake
 cmocka-dev
+include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
+include(devpkg-compat-libsoup-soname-24)
 confuse-dev
 coreutils
 cppcheck
@@ -108,6 +113,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 cscope
 ctags
+cups
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -158,6 +164,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+fltk-dev
 include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
@@ -205,6 +212,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+glslang
 include(devpkg-glu)
 glusterfs-dev
 gmime
@@ -227,12 +235,14 @@ include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
+include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 graphviz-extras
 grep
 groff
 include(devpkg-gsl)
+include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
@@ -269,6 +279,7 @@ include(devpkg-jack2)
 include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
+include(devpkg-json-glib)
 jsoncpp-dev
 kdoctools-dev
 keyutils-dev
@@ -277,6 +288,7 @@ kmod-bin
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
+include(devpkg-lcms2)
 ldb-dev
 ldb-extras
 include(less)
@@ -307,6 +319,7 @@ include(devpkg-libassuan)
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
+libavtp-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -329,6 +342,7 @@ libev-dev
 include(devpkg-libevdev)
 include(devpkg-libevent)
 libevent-dev32
+include(devpkg-libexif)
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
@@ -337,6 +351,7 @@ include(devpkg-libgd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
+include(devpkg-libgudev)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -359,6 +374,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+libnice-dev
 include(devpkg-libnl)
 libnsl-dev
 include(devpkg-libogg)
@@ -381,11 +397,14 @@ libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsodium)
+include(devpkg-libsoup)
+include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
+include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
@@ -427,6 +446,7 @@ lzo-dev
 m4
 include(make)
 man-db
+include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
 meson
@@ -434,6 +454,7 @@ meson-python3
 mingw-gcc
 mpc-dev
 mpfr-dev
+include(devpkg-mpg123)
 mtdev-dev
 mypy-python3
 include(nasm)
@@ -463,9 +484,11 @@ octave-dev
 onig-dev
 open-iscsi
 open-isns-dev
+openal-soft-dev
 include(openblas)
 opencl-headers-dev
 include(devpkg-opencv)
+openexr-dev
 openjdk
 openjdk-dev
 openjdk11
@@ -633,6 +656,7 @@ perl-namespace-clean-perl
 perl-perl
 php-dev
 pigz
+include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
 include(devpkg-pkcs11-helper)
@@ -649,6 +673,8 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
+pulseaudio-dev32
+include(pygobject)
 pypi-absl_py-python3
 pypi-bcrypt-python3
 pypi-brotli-python3
@@ -766,9 +792,11 @@ python3-core
 python3-dev
 python3-staticdev
 include(python3-tcl)
+qatlib-dev
 qemu
 qemu-setuid
 qhull-dev
+qrencode-dev
 include(devpkg-qtbase)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
@@ -778,6 +806,7 @@ rpcbind
 rpm
 include(rsync)
 ruby
+rustc
 include(sassc)
 sbc-dev
 sbc-dev32

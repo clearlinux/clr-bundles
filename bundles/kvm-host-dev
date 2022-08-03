@@ -10,6 +10,7 @@ include(os-core-dev)
 CUnit
 CUnit-dev
 CUnit-dev32
+Imath-dev
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -17,6 +18,8 @@ include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
 PyYAML-python3
+include(devpkg-SDL)
+include(devpkg-SDL2)
 include(Sphinx)
 VTK-dev
 Vulkan-Headers-data
@@ -61,9 +64,11 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
+buildreq-kde
 buildreq-meson
 buildreq-nginx
 buildreq-qmake
+buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
@@ -75,12 +80,17 @@ check-dev
 check-dev32
 clear-font
 clr-rpm-config
+include(devpkg-clutter)
 cmake
+cmocka-dev
+include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
+include(devpkg-compat-libsoup-soname-24)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
+cups
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -127,6 +137,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+fltk-dev
 include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
@@ -169,6 +180,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+glslang
 include(devpkg-glu)
 glusterfs-dev
 gmp-dev
@@ -185,14 +197,17 @@ include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)
+include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 graphviz-extras
 grep
 groff
 include(devpkg-gsl)
+include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
+gtk+-dev
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
@@ -218,12 +233,14 @@ include(devpkg-jack2)
 include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
+include(devpkg-json-glib)
 keyutils-dev
 kmod
 kmod-bin
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
+include(devpkg-lcms2)
 less-bin
 leveldb-dev
 include(devpkg-libX11)
@@ -247,6 +264,7 @@ libabigail
 libaio-dev
 libatomic_ops-dev
 libatomic_ops-dev32
+libavtp-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -268,6 +286,7 @@ libev-dev
 include(devpkg-libevdev)
 include(devpkg-libevent)
 libevent-dev32
+include(devpkg-libexif)
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
@@ -275,6 +294,7 @@ libgcrypt-dev32
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
+include(devpkg-libgudev)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -282,6 +302,7 @@ libidn2-dev32
 include(devpkg-libinput)
 include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
+libjpeg-turbo-dev32
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
@@ -291,6 +312,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+libnice-dev
 include(devpkg-libnl)
 include(devpkg-libogg)
 libogg-dev32
@@ -310,11 +332,14 @@ include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
+include(devpkg-libsoup)
+include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
+include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
@@ -329,6 +354,7 @@ libvdpau-dev
 include(devpkg-libvirt)
 include(devpkg-libvorbis)
 libvorbis-dev32
+include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxml2)
@@ -347,12 +373,14 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
+include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
 meson-python3
 mingw-gcc
 mpc-dev
 mpfr-dev
+include(devpkg-mpg123)
 mtdev-dev
 mypy-python3
 include(nasm)
@@ -379,8 +407,10 @@ include(devpkg-numactl)
 include(devpkg-oath-toolkit)
 octave-dev
 open-iscsi
+openal-soft-dev
 opencl-headers-dev
 include(devpkg-opencv)
+openexr-dev
 openjdk
 openjdk-dev
 openjdk11
@@ -414,6 +444,7 @@ perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl
 pigz
+include(devpkg-pipewire)
 include(devpkg-pixman)
 pixman-dev32
 include(devpkg-pkcs11-helper)
@@ -426,6 +457,8 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
+pulseaudio-dev32
+include(pygobject)
 pypi-absl_py-python3
 pypi-bcrypt-python3
 pypi-certifi-python3
@@ -513,6 +546,7 @@ python3-dev
 qemu
 qemu-dev
 qemu-setuid
+qrencode-dev
 include(devpkg-qtbase)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
@@ -521,6 +555,7 @@ readline-dev32
 rpcbind
 include(rsync)
 ruby
+rustc
 include(sassc)
 sbc-dev
 sbc-dev32

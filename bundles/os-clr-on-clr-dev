@@ -985,7 +985,6 @@ pypi-pynacl-python3
 pypi-pyopenssl-python3
 pypi-pyparsing-python3
 pypi-pyroute2-python3
-pypi-pyroute2.core-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
@@ -1048,6 +1047,7 @@ python3-core
 python3-dev
 python3-staticdev
 include(python3-tcl)
+qatlib-dev
 qemu
 qemu-setuid
 qhull-dev

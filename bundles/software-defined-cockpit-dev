@@ -75,12 +75,14 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 cmocka-dev
+include(devpkg-colord)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
 cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
+cups
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -158,6 +160,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+glslang
 include(devpkg-glu)
 glu-dev32
 gmp-dev
@@ -403,6 +406,7 @@ procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
+include(pygobject)
 pypi-absl_py-python3
 pypi-certifi-python3
 pypi-cffi-python3

@@ -546,6 +546,7 @@ python3-core
 python3-dev
 python3-staticdev
 include(python3-tcl)
+qatlib-dev
 qhull-dev
 include(devpkg-qtbase)
 include(devpkg-readline)

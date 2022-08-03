@@ -693,14 +693,18 @@ clr-R-helpers
 clr-rpm-config
 include(devpkg-clutter)
 cmake
+cmocka-dev
+include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
+include(devpkg-compat-libsoup-soname-24)
 coreutils
 cppunit-dev
 cracklib-dev
 include(devpkg-cryptsetup)
 cscope
 ctags
+cups
 include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
@@ -794,6 +798,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+glslang
 include(devpkg-glu)
 glu-dev32
 gmp-dev
@@ -816,6 +821,7 @@ graphviz-extras
 grep
 groff
 include(devpkg-gsl)
+include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
@@ -845,6 +851,7 @@ jemalloc-dev
 jq-dev
 include(devpkg-json-c)
 json-c-dev32
+include(devpkg-json-glib)
 jsoncpp-dev
 keyutils-dev
 kmod
@@ -877,6 +884,7 @@ include(devpkg-libarchive)
 include(devpkg-libass)
 libatomic_ops-dev
 libatomic_ops-dev32
+libavtp-dev
 libbpf-dev
 libc6
 libc6-dev
@@ -897,6 +905,7 @@ libev-dev
 include(devpkg-libevdev)
 include(devpkg-libevent)
 libevent-dev32
+include(devpkg-libexif)
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libfontenc)
@@ -926,8 +935,10 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+libnice-dev
 include(devpkg-libogg)
 libogg-dev32
+include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
@@ -942,6 +953,7 @@ include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
+include(devpkg-libsoup)
 libspatialite-dev
 include(devpkg-libsrtp)
 include(devpkg-libssh)
@@ -1001,6 +1013,7 @@ mkfontscale-bin
 include(modules)
 mpc-dev
 mpfr-dev
+include(devpkg-mpg123)
 mtdev-dev
 munge-dev
 include(nasm)
@@ -1304,6 +1317,7 @@ python3-dev
 include(python3-tcl)
 qemu
 qhull-dev
+qrencode-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
