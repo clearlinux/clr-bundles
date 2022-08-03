@@ -448,4 +448,5 @@ bspwm # No detailed summary available
 gnome-text-editor # Gedit replacement
 pypi-pygame # Python Game Development
 bemenu # Dynamic menu library
-seer # No detailed summary available 
+seer # No detailed summary available
+pypi-cython # The Cython compiler for writing C extensions for the Python language. 
