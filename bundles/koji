@@ -12,6 +12,10 @@ include(openssh-client)
 include(package-utils)
 include(postgresql)
 include(sudo)
+include(gpgme)
+
+
+include(lib-opengl)
 
 koji
 koji-extras

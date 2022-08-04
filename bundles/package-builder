@@ -18,7 +18,7 @@ include(make)
 include(plzip)
 pypi-six
 include(zstd)
-
+include(gpgme)
 # autospec requirements
 abireport
 include(binutils)
@@ -27,6 +27,7 @@ include(gnupg)
 pypi-pycurl
 pypi-toml
 pypi-urllib3
+include(lib-opengl)
 
 # koji command line utility
 koji
