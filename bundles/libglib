@@ -10,3 +10,4 @@ include(libstdcpp)
 glib-lib
 glib-bin
 icu4c-lib
+dbus-lib

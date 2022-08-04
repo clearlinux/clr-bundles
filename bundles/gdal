@@ -15,6 +15,7 @@ include(lib-opengl)
 include(libX11client)
 include(postgresql)
 include(python3-basic)
+include(curl)
 # end of custom additions
 
 # main package

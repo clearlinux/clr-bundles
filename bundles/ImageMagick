@@ -5,6 +5,7 @@
 # [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
+include(curl)
 ImageMagick
 # some extras that aren't ImageMagick but are image utilities
 gifsicle

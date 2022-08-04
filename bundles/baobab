@@ -10,7 +10,7 @@ include(libX11client)
 include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+include(curl)
 # end of custom additions
 
 # main package

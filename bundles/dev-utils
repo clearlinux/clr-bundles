@@ -9,6 +9,7 @@ include(git)
 include(openssl)
 include(perl-basic)
 include(python3-basic)
+include(curl)
 asciidoc
 attr
 bash-completion

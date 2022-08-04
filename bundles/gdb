@@ -11,6 +11,7 @@ include(libstdcpp)
 include(python3-basic)
 include(libstdcpp)
 clr-debug-info
+include(curl)
 # end of custom additions
 
 # main package

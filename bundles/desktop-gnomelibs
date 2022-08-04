@@ -11,6 +11,7 @@ include(lib-imageformat)
 include(lib-opengl)
 include(qt-basic)
 include(webkitgtk)
+include(curl)
 accountsservice-lib
 gtk3-lib
 gtk+-lib
