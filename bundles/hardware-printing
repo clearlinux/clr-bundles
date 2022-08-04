@@ -7,7 +7,7 @@
 include(libstdcpp)
 include(python3-basic)
 include(libX11client)
-
+include(perl-basic)
 also-add(ghostscript)
 
 cups

@@ -6,6 +6,7 @@
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(python3-basic)
 include(libglib)
+include(perl-basic)
 createrepo_c
 also-add(dnf)
 mock

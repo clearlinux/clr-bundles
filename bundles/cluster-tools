@@ -9,6 +9,7 @@ include(curl)
 include(libglib)
 include(libX11client)
 include(python3-basic)
+include(perl-basic)
 also-add(openmpi)
 also-add(modules)
 munge

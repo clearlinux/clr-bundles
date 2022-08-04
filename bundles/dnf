@@ -10,7 +10,8 @@ include(python3-basic)
 # start of custom additions (edits outside this area will be removed automatically)
 include(pygobject)
 include(file)
-include(pypi-cython)
+include(perl-basic)
+include(gpgme)
 rpm
 gpgme-python3
 # end of custom additions

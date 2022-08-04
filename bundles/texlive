@@ -13,6 +13,7 @@ include(libstdcpp)
 include(python3-basic)
 dvisvgm
 also-add(ghostscript)
+include(perl-basic)
 # end of custom additions
 
 # main package

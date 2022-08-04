@@ -9,6 +9,7 @@
 # include(ceph)
 include(libX11client)
 include(python3-basic)
+include(perl-basic)
 bridge-utils
 dmidecode
 dnsmasq

@@ -8,7 +8,7 @@
 include(lib-openssl)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+include(perl-basic)
 # end of custom additions
 
 # main package

@@ -11,6 +11,7 @@ include(libglib)
 include(openldap)
 include(gpgme)
 include(notmuch)
+include(perl-basic)
 # end of custom additions
 
 # main package

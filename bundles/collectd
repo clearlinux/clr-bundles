@@ -15,6 +15,7 @@ include(openldap)
 include(libX11client)
 include(python3-basic)
 include(python-basic)
+include(perl-basic)
 # end of custom additions
 
 # main package
