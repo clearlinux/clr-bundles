@@ -707,6 +707,7 @@ perl-LWP-MediaTypes
 perl-LWP-MediaTypes-perl
 perl-LWP-Protocol-https-perl
 perl-List-MoreUtils-perl
+perl-List-Util-perl
 perl-MRO-Compat-perl
 perl-Mixin-Linewise-perl
 perl-Module-Build
@@ -735,6 +736,7 @@ perl-PerlIO-utf8_strict-perl
 perl-Role-Tiny-perl
 perl-Specio-perl
 perl-Spiffy-perl
+perl-Storable-perl
 perl-Sub-Exporter-Progressive-perl
 perl-Sub-Exporter-perl
 perl-Sub-Identify-perl
@@ -822,7 +824,7 @@ pypi-coverage-python3
 pypi-cppy-python3
 pypi-cryptography-python3
 pypi-cu2qu-python3
-pypi-cython
+include(pypi-cython)
 pypi-cython-python3
 pypi-dask-python3
 pypi-dataclasses-python3

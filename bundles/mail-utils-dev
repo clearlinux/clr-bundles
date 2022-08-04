@@ -340,8 +340,7 @@ include(devpkg-popt)
 procmail
 include(procps-ng)
 pypi-cffi-python3
-pypi-cython
-pypi-cython-python3
+include(pypi-cython)
 pypi-hkp4py-python3
 pypi-idna
 pypi-jinja2-python3

@@ -381,7 +381,7 @@ pkg-config-dev
 include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
-pypi-cython
+include(pypi-cython)
 pypi-docutils
 pypi-jinja2-python3
 pypi-lxml

@@ -390,9 +390,10 @@ patchelf
 include(devpkg-pcre)
 pcre-dev32
 perl
+perl-List-Util-perl
+perl-Storable-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
-perl-perl
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
@@ -411,7 +412,7 @@ pypi-absl_py-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-charset_normalizer-python3
-pypi-cython
+include(pypi-cython)
 pypi-dataclasses-python3
 pypi-deprecated-python3
 pypi-docutils

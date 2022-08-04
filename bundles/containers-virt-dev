@@ -250,7 +250,6 @@ pcsc-lite-dev
 perl-Error
 perl-Test-Simple-perl
 perl-XML-Parser-perl
-perl-perl
 pigz
 include(devpkg-pixman)
 pixman-dev32
@@ -261,7 +260,7 @@ include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 include(pygobject)
-pypi-cython
+include(pypi-cython)
 pypi-distlib-python3
 pypi-filelock-python3
 pypi-future-python3

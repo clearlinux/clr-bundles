@@ -208,7 +208,6 @@ include(devpkg-pcre)
 pcre-dev32
 perl-Test-Simple-perl
 perl-XML-Parser-perl
-perl-perl
 pesign
 pigz
 pkg-config
@@ -217,7 +216,7 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
-pypi-cython
+include(pypi-cython)
 pypi-distlib-python3
 pypi-filelock-python3
 pypi-future-python3

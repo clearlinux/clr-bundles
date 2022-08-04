@@ -785,6 +785,7 @@ perl-Role-Tiny-perl
 perl-Scope-Guard-perl
 perl-Specio-perl
 perl-Spiffy-perl
+perl-Storable-perl
 perl-Sub-Exporter-Progressive-perl
 perl-Sub-Exporter-perl
 perl-Sub-Identify-perl
@@ -896,7 +897,7 @@ pypi-coverage-python3
 pypi-cppy-python3
 pypi-cryptography-python3
 pypi-cu2qu-python3
-pypi-cython
+include(pypi-cython)
 pypi-cython-python3
 pypi-dataclasses-python3
 pypi-decorator-python3

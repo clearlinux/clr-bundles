@@ -397,9 +397,10 @@ pcre-dev32
 include(devpkg-pcre2)
 perl
 perl-IPC-Run-perl
+perl-List-Util-perl
+perl-Storable-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
-perl-perl
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
@@ -424,7 +425,7 @@ pypi-cffi-python3
 pypi-cffsubr-python3
 pypi-charset_normalizer-python3
 pypi-cu2qu-python3
-pypi-cython
+include(pypi-cython)
 pypi-dataclasses-python3
 pypi-deprecated-python3
 pypi-distlib-python3

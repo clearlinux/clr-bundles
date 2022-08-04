@@ -395,8 +395,7 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
-pypi-cython
-pypi-cython-python3
+include(pypi-cython)
 pypi-distlib-python3
 pypi-dnspython
 pypi-docutils

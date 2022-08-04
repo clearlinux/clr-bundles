@@ -248,7 +248,6 @@ include(devpkg-pcre2)
 perl-IPC-Run-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
-perl-perl
 php
 php-dev
 pigz
@@ -258,7 +257,7 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
-pypi-cython
+include(pypi-cython)
 pypi-future-python3
 pypi-jinja2-python3
 pypi-lxml
