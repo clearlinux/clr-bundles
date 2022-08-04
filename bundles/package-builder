@@ -27,7 +27,6 @@ include(gnupg)
 pypi-pycurl
 pypi-toml
 pypi-urllib3
-include(lib-opengl)
 
 # koji command line utility
 koji

@@ -15,7 +15,5 @@ include(sudo)
 include(gpgme)
 
 
-include(lib-opengl)
-
 koji
 koji-extras
