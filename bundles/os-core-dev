@@ -11,8 +11,10 @@ include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 include(devpkg-acl)
 acl-dev32
+acl-staticdev
 include(devpkg-attr)
 attr-dev32
+attr-staticdev
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
@@ -76,6 +78,7 @@ glibc-dev
 glibc-dev32
 glibc-libc32
 include(glibc-locale)
+glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32

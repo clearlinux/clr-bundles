@@ -15,11 +15,13 @@ Linux-PAM-dev32
 SVT-AV1-dev
 include(devpkg-acl)
 acl-dev32
+acl-staticdev
 argon2-dev
 asciidoc
 aspell-dev
 include(devpkg-attr)
 attr-dev32
+attr-staticdev
 include(devpkg-audit)
 autoconf
 autogen

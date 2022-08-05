@@ -35,6 +35,7 @@ accountsservice-dev
 acl-bin
 include(devpkg-acl)
 acl-dev32
+acl-staticdev
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appstream-glib
@@ -46,6 +47,7 @@ include(devpkg-at-spi2-core)
 include(devpkg-atk)
 include(devpkg-attr)
 attr-dev32
+attr-staticdev
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev

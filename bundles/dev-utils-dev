@@ -25,11 +25,13 @@ Z3-dev
 Z3-dev32
 include(devpkg-acl)
 acl-dev32
+acl-staticdev
 include(devpkg-alsa-lib)
 armadillo-data
 asciidoc
 include(devpkg-attr)
 attr-dev32
+attr-staticdev
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev

@@ -42,6 +42,7 @@ Z3-dev32
 acl-bin
 include(devpkg-acl)
 acl-dev32
+acl-staticdev
 include(acpica-unix2)
 include(devpkg-alsa-lib)
 alsa-lib-dev32
@@ -53,6 +54,7 @@ include(devpkg-at-spi2-core)
 include(devpkg-atk)
 include(devpkg-attr)
 attr-dev32
+attr-staticdev
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev

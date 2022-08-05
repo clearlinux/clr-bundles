@@ -16,9 +16,11 @@ Linux-PAM-dev32
 acl-bin
 include(devpkg-acl)
 acl-dev32
+acl-staticdev
 asciidoc
 include(devpkg-attr)
 attr-dev32
+attr-staticdev
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev

@@ -51,6 +51,7 @@ Z3-dev32
 acl-bin
 include(devpkg-acl)
 acl-dev32
+acl-staticdev
 include(acpica-unix2)
 include(devpkg-alsa-lib)
 alsa-lib-dev32
@@ -70,6 +71,7 @@ include(devpkg-atk)
 include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
+attr-staticdev
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
@@ -866,8 +868,6 @@ protobuf-dev
 pugixml-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
-pycairo-dev
-pycairo-python3
 include(pygobject)
 pypi-absl_py-python3
 pypi-alabaster-python3
@@ -989,7 +989,6 @@ pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-pytest_runner
-pypi-pytest_runner-python3
 pypi-python_dateutil-python3
 pypi-python_dbusmock
 pypi-python_multilib-python3
