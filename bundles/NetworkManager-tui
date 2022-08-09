@@ -1,5 +1,5 @@
-# [TITLE]: NetworkManager
-# [DESCRIPTION]: Configure network interfaces and maintain active network connection.
+# [TITLE]: NetworkManager-tui
+# [DESCRIPTION]: Configure network interfaces and maintain active network connection (TUI tools)
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Networking
@@ -10,8 +10,8 @@ include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(wpa_supplicant)
-also-add(NetworkManager-tui)
+include(NetworkManager)
 # end of custom additions
 
 # main package
-NetworkManager
+NetworkManager-extras
