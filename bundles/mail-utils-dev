@@ -65,6 +65,7 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-expat)
+expat-dev32
 expect
 file-dev
 include(flex)
@@ -128,6 +129,8 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 less-bin
+include(devpkg-libX11)
+libX11-dev32
 libabigail
 libaio-dev
 include(devpkg-libassuan)

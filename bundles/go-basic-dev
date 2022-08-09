@@ -68,8 +68,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcc7-dev
-gcc8-dev
 gdb-dev
 gdbm-dev
 gettext
@@ -202,7 +200,6 @@ python3
 python3-core
 python3-dev
 include(devpkg-readline)
-readline-dev32
 ruby
 sed
 shadow
