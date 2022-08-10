@@ -4,12 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Qi Zheng <qi.zheng@intel.com>
-
-include(lib-openssl)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(python3-basic)
-# end of custom additions
-
-# main package
-postgresql11
+include(postgresql)
