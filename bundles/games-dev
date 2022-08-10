@@ -430,7 +430,6 @@ include(devpkg-nspr)
 nss-altfiles
 include(devpkg-nss)
 octave-dev
-onig-dev
 openal-soft-dev
 openconnect-dev
 openexr-dev
@@ -675,7 +674,6 @@ scipy-python3
 sed
 shadow
 shared-mime-info
-slang-dev
 include(devpkg-speex)
 speexdsp-dev
 sqlite-autoconf
