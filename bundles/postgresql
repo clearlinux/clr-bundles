@@ -11,9 +11,9 @@ include(lib-openssl)
 include(python3-basic)
 # Temporary additions to allow migration
 postgresql9
-include(postgresql11)
-include(postgresql12)
-include(postgresql13)
+postgresql11
+postgresql12
+postgresql13
 # end of custom additions
 
 # main package
