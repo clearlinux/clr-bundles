@@ -465,6 +465,7 @@ ompi
 opencv
 openssl
 opus
+pango
 popt
 proj
 pygobject-3.0
