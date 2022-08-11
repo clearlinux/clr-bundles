@@ -1045,7 +1045,6 @@ include(devpkg-openblas)
 openblas-staticdev
 opencl-headers-dev
 openexr-dev
-openjade-dev
 openjdk
 openjdk-dev
 openjpeg

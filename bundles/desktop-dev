@@ -615,7 +615,6 @@ openal-soft-dev
 include(openblas)
 openconnect-dev
 openexr-dev
-openjade-dev
 openjdk
 openjdk-dev
 openjpeg

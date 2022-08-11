@@ -447,7 +447,6 @@ include(devpkg-numactl)
 octave-dev
 openal-soft-dev
 openexr-dev
-openjade-dev
 openjdk
 openjdk-dev
 openjpeg
