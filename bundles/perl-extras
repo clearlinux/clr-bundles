@@ -6,6 +6,8 @@
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(perl-basic)
 include(libstdcpp)
+include(python3-basic)
+include(postgresql)
 
 perl-Acme-Damn
 perl-Algorithm-C3

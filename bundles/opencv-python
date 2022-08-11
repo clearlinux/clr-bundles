@@ -6,6 +6,7 @@
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 
 include(python3-basic)
+include(lib-opengl)
 
 # main package
 opencv-python

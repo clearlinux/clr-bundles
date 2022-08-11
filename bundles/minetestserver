@@ -9,6 +9,8 @@ include(libstdcpp)
 
 # start of custom additions
 include(lib-openssl)
+include(python3-basic)
+include(postgresql)
 # end of custom additions
 
 # main package
