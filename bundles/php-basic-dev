@@ -258,10 +258,12 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
+procps-ng-bin
 include(pypi-cython)
 pypi-future-python3
 pypi-jinja2-python3
 pypi-lxml
+pypi-pip
 python3
 python3-core
 python3-dev
@@ -272,6 +274,7 @@ ruby
 sed
 shadow
 shared-mime-info
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
 swig
@@ -281,9 +284,11 @@ systemd-dev32
 systemd-lib
 tar
 tcl
+tcl-dev
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
+tk-dev
 include(tzdata)
 include(unzip)
 util-linux
