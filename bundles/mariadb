@@ -13,6 +13,7 @@ include(libstdcpp)
 mariadb-doc
 jemalloc-lib
 include(perl-basic)
+include(xz)
 # end of custom additions
 
 # main package

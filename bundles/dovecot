@@ -12,6 +12,7 @@ include(openldap)
 dovecot-doc
 pigeonhole
 pigeonhole-doc
+include(xz)
 # end of custom additions
 
 # main package

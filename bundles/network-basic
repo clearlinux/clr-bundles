@@ -6,6 +6,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # perl-basic and python3-basic included to avoid duplication
 include(perl-basic)
+include(xz)
 
 also-add(clr-network-troubleshooter)
 also-add(curl)

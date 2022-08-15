@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
-
+include(xz)
 
 glib-lib
 glib-bin

@@ -6,6 +6,7 @@
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(p11-kit)
 include(libstdcpp)
+include(xz)
 
 pypi-cffi
 glibc-lib-avx2

@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(xz)
 clr-power-tweaks
 clr-systemd-config
 cnf

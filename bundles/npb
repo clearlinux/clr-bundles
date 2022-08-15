@@ -10,6 +10,7 @@
 also-add(modules)
 include(libstdcpp)
 include(perl-basic)
+include(xz)
 # end of custom additions
 
 # main package
