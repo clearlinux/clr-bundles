@@ -7,6 +7,7 @@
 include(libstdcpp)
 include(xz)
 
+yaml-lib
 glib-lib
 glib-bin
 icu4c-lib
