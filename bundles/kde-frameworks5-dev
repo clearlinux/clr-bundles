@@ -571,6 +571,7 @@ pypi-wrapt-python3
 python3
 python3-core
 python3-dev
+qca-qt5-dev
 qemu
 qrencode-dev
 qt6base-dev
