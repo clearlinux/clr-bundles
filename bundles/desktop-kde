@@ -15,7 +15,7 @@ include(x11-server)
 include(fuse)
 include(lib-samba)
 include(hardware-bluetooth)
-
+include(desktop-kde-libs)
 #
 # extra stuff we need
 #

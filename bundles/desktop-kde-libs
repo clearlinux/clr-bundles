@@ -31,3 +31,13 @@ libxslt-lib
 phonon-lib
 qtwebengine
 tdb-lib
+kpeople-lib
+purpose-lib
+ksyntaxhighlighting-lib
+kxmlrpcclient-lib
+kidletime-lib
+prison-lib
+kdoctools-lib
+kwallet-lib
+kservice-lib
+
