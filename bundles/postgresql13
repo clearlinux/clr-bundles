@@ -4,4 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-include(postgresql)
+postgresql13
