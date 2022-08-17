@@ -5,3 +5,4 @@
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 postgresql12
+include(python3-basic)

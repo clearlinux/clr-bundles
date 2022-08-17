@@ -5,3 +5,4 @@
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 include(postgresql)
+include(python3-basic)
