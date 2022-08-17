@@ -16,6 +16,7 @@ include(os-core-dev)
 include(perl-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
+Botan-dev
 CGAL-dev
 CUnit
 CUnit-dev
