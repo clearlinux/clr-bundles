@@ -8,7 +8,7 @@ include(dev-utils)
 include(kde-frameworks5)
 include(os-core-dev)
 include(qt-basic-dev)
-Botan-dev
+include(devpkg-Botan)
 CUnit-dev
 CUnit-dev32
 Imath-dev
