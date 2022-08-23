@@ -28,6 +28,7 @@ pkgconfig(babl)	devpkg-babl
 pkgconfig(bigreqsproto)	devpkg-xorgproto
 pkgconfig(blkid)	devpkg-util-linux
 pkgconfig(bluez)	devpkg-bluez
+pkgconfig(botan-2)	devpkg-Botan
 pkgconfig(bzip2)	devpkg-bzip2
 pkgconfig(cairo)	devpkg-cairo
 pkgconfig(cairo-gobject)	devpkg-cairo
