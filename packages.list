@@ -321,7 +321,6 @@ fdupes # A program for identifying or deleting duplicate files residing within s
 geeqie # a GTK based image viewer and browser
 neovim # Fork of Vim aiming to improve user experience, plugins, and GUIs
 xpra # runs X clients, typically on a remote host, and directs their display to the local machine without losing any state.
-postgresql11 # Database, version 11.x
 TLP # Advanced Power Management for Linux
 RawTherapee # A powerful cross-platform raw photo processing program
 mosquitto # mosquitto MQTT library (C bindings)
@@ -415,7 +414,6 @@ grisbi # Personal finance manager
 lensfun # database of photographic lenses and their characteristics
 fortune-mod # No detailed summary available
 SVT-HEVC # SVT (Scalable Video Technology) for HEVC encoder library
-postgresql12 # Object-relational SQL database, version 12.x
 vifm # A filemanager for the console with VIM like keybindings and control.
 qt5ct # Qt 5 configuration tool independent of desktops
 rlwrap # Another readline wrapper
@@ -436,10 +434,8 @@ tgt # The SCSI target daemon and utility programs
 gst-python # No detailed summary available
 ksh # No detailed summary available
 guile # GNU's Ubiquitous Intelligent Language for Extension (uninstalled)
-postgresql13 # Object-relational SQL database, version 13.x
 podman # Builds Dockerfile using the Docker client
 connections # No detailed summary available
-postgresql14 # No detailed summary available
 yq # Command-line YAML/XML processor - jq wrapper for YAML/XML documents
 growpart # Extends a partition to fill available space
 moreutils # No detailed summary available
