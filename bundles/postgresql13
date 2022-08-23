@@ -4,5 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
-postgresql13
-include(python3-basic)
+include(postgresql)

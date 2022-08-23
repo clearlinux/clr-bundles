@@ -4,5 +4,5 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Qi Zheng <qi.zheng@intel.com>
-postgresql11
-include(python3-basic)
+include(postgresql)
+
