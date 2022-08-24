@@ -21,10 +21,8 @@ R-adegraphics
 R-adephylo
 R-AER
 R-afex
-R-alr3
 R-Amelia
 R-AmesHousing
-R-AMORE
 R-analogue
 R-animation
 R-ape
@@ -173,7 +171,6 @@ R-e1071
 R-earth
 R-Ecdat
 R-Ecfun
-R-eco
 R-ecodist
 R-effects
 R-eha
@@ -659,7 +656,6 @@ R-sandwich
 R-scales
 R-scatterplot3d
 R-sde
-R-SDMTools
 R-segmented
 R-selectr
 R-sem
