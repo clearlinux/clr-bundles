@@ -494,6 +494,7 @@ talloc
 tbb
 tesseract
 theora
+virglrenderer
 vorbis
 vpx
 wavpack
