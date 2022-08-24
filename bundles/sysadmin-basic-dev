@@ -195,6 +195,7 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
+lm-sensors-dev
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev

@@ -574,6 +574,7 @@ linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
 llvm-dev32
+lm-sensors-dev
 lmdb-dev
 include(devpkg-lua)
 include(lynx)
