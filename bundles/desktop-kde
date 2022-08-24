@@ -38,6 +38,11 @@ also-add(ghostscript)
 gutenprint
 
 #
+# things pulled in anyway so better to include
+#
+include(vlc)
+include(gimp)
+#
 # main bits
 #
 

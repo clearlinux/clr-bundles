@@ -8,6 +8,7 @@
 
 # start of custom additions
 include(libstdcpp)
+include(xz)
 mesa-demos
 # end of custom additions
 

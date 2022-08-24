@@ -45,3 +45,6 @@ Vulkan-Loader
 # almost all GUI stuff pulls in GTK
 gtk3-lib
 gtk4-lib
+
+# and a lot of it pulls in SDL
+SDL2-lib

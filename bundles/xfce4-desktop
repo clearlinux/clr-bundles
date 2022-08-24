@@ -7,6 +7,7 @@
 include(fonts-basic)
 include(libX11client)
 include(which)
+include(lib-samba)
 Thunar
 clear-font
 clr-desktop-defaults
