@@ -1167,7 +1167,7 @@ include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 vim
-virglrenderer-dev
+include(devpkg-virglrenderer)
 vte-dev
 wayland
 include(devpkg-wayland)

@@ -510,6 +510,7 @@ pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
 pypi-charset_normalizer-python3
+pypi-colorama-python3
 pypi-cu2qu-python3
 include(pypi-cython)
 pypi-dataclasses-python3
