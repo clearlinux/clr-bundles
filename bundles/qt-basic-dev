@@ -319,8 +319,10 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
+libunwind-dev32
 liburing-dev
 include(devpkg-libusb)
+libusb-dev32
 include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
