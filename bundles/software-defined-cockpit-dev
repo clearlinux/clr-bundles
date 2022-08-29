@@ -419,10 +419,12 @@ include(pypi-cython)
 pypi-dataclasses-python3
 pypi-deprecated-python3
 pypi-docutils
+pypi-filecache-python3
 pypi-flit-python3
 pypi-future-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
+pypi-gql-python3
 pypi-graphviz-python3
 pypi-humanize-python3
 pypi-idna-python3
