@@ -75,7 +75,7 @@ include(devpkg-bluez)
 include(devpkg-boost)
 boto3
 bridge-utils
-bsdiff-dev
+include(devpkg-bsdiff)
 btrfs-progs-dev
 buildreq-cmake
 buildreq-configure

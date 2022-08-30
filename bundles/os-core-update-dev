@@ -30,7 +30,7 @@ include(binutils)
 include(bison)
 bison-dev
 include(devpkg-boost)
-bsdiff-dev
+include(devpkg-bsdiff)
 btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
