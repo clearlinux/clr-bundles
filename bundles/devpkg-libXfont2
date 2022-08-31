@@ -9,5 +9,6 @@ include(devpkg-base)
 include(devpkg-freetype)
 include(devpkg-libfontenc)
 include(devpkg-xorgproto)
+include(devpkg-zlib)
 
 libXfont2-dev
