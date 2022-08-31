@@ -443,7 +443,6 @@ include(devpkg-libgtop)
 include(devpkg-libgudev)
 include(devpkg-libgusb)
 include(devpkg-libgweather)
-libgweather4-dev
 include(devpkg-libhandy)
 include(devpkg-libical)
 include(devpkg-libidn)
