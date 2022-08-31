@@ -7,4 +7,5 @@
 include(bootloader)
 console-autostart
 init-rdahead
+include(kernel-native)
 linux

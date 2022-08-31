@@ -7,5 +7,6 @@
 include(bootloader)
 include(qemu-guest-additions)
 console-autostart
+include(kernel-native)
 linux
 #memshrinker
