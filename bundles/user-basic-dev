@@ -459,6 +459,7 @@ mingw-gcc
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
+msgpack-c-dev
 mtdev-dev
 mypy-python3
 include(nasm)

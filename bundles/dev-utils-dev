@@ -176,6 +176,7 @@ intltool-dev
 ipp-crypto-dev
 include(devpkg-iptables)
 iptables-dev32
+include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
@@ -293,6 +294,7 @@ include(devpkg-metrics-discovery)
 mingw-gcc
 mpc-dev
 mpfr-dev
+msgpack-c-dev
 include(nasm)
 nasm-bin
 ncurses-bin

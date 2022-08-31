@@ -848,6 +848,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-iso-codes)
+include(devpkg-jansson)
 jemalloc-dev
 jq-dev
 include(devpkg-json-c)
@@ -1015,6 +1016,7 @@ include(modules)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
+msgpack-c-dev
 mtdev-dev
 munge-dev
 include(nasm)

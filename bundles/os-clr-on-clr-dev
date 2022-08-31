@@ -608,6 +608,7 @@ include(modules)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
+msgpack-c-dev
 mtdev-dev
 munge-dev
 mypy-python3
