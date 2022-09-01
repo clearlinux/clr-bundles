@@ -11,3 +11,4 @@ include(c-basic)
 glibc-staticdev
 zlib-staticdev
 zstd-staticdev
+gcc-staticdev
