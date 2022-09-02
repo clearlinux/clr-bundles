@@ -12,6 +12,7 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(curl)
+include(lib-poppler)
 # end of custom additions
 
 # main package

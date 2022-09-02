@@ -7,7 +7,7 @@
 include(x11-server)
 include(python3-basic)
 include(gstreamer)
-
+include(lib-poppler)
 efl
 enlightenment
 gdm

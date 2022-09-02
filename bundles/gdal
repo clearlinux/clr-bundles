@@ -16,6 +16,7 @@ include(libX11client)
 include(postgresql)
 include(python3-basic)
 include(curl)
+include(lib-poppler)
 # end of custom additions
 
 # main package

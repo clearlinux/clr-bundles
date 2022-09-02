@@ -10,6 +10,7 @@
 include(libstdcpp)
 include(lib-opengl)
 include(libglib)
+include(lib-poppler)
 # end of custom additions
 
 # main packages

@@ -1,21 +1,16 @@
-# [TITLE]: poppler
-# [DESCRIPTION]: PDF rendering library based on xpdf-3.0 code base.
+# [TITLE]: lib-poppler
+# [DESCRIPTION]: PDF rendering library based on xpdf-3.0 code base (libraries)
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Documentation
 # [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
 
-include(qt-core)
-include(qt-basic)
-include(libX11client)
-include(curl)
 include(libglib)
-include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(lib-poppler)
+
 # end of custom additions
 
 # main package
-poppler
+poppler-lib
