@@ -16,6 +16,7 @@ include(fuse)
 include(lib-samba)
 include(hardware-bluetooth)
 include(desktop-kde-libs)
+include(poppler)
 #
 # extra stuff we need
 #
