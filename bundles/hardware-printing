@@ -8,7 +8,7 @@ include(libstdcpp)
 include(python3-basic)
 include(libX11client)
 include(perl-basic)
-include(lib-poppler)
+include(poppler)
 also-add(ghostscript)
 
 cups

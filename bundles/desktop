@@ -16,6 +16,7 @@ include(lib-imageformat)
 include(openssl)
 include(sysadmin-basic)
 include(which)
+include(poppler)
 also-add(wpa_supplicant)
 also-add(hardware-printing)
 
