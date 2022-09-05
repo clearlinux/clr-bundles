@@ -876,7 +876,6 @@ pypi-absl_py-python3
 pypi-alabaster-python3
 pypi-appdirs-python3
 pypi-astunparse-python3
-pypi-atomicwrites-python3
 pypi-attrs-python3
 pypi-babel-python3
 pypi-bcrypt-python3
@@ -1042,7 +1041,6 @@ pypi-virtualenv-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
 pypi-wrapt-python3
-pypi-xmlschema
 pypi-zipp-python3
 pypi-zopfli-python3
 python-remoto-python3

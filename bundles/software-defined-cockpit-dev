@@ -188,6 +188,7 @@ include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
+gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(guile)
@@ -367,11 +368,13 @@ nghttp2-dev32
 ninja
 not-ffmpeg-dev
 nss-altfiles
+include(devpkg-nss)
 octave-dev
 openal-soft-dev
 openexr-dev
 openjdk
 openjdk-dev
+openjpeg
 openldap-dev
 include(devpkg-openmpi)
 openssh

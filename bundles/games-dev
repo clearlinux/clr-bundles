@@ -220,6 +220,7 @@ include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
+gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(devpkg-gtk4)
@@ -457,6 +458,7 @@ include(patch)
 patchelf
 include(devpkg-pcre)
 pcre-dev32
+include(devpkg-pcre2)
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl

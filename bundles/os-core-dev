@@ -166,7 +166,7 @@ include(p11-kit)
 p11-kit-dev32
 include(pandoc)
 include(patch)
-include(devpkg-pcre)
+include(devpkg-pcre2)
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 pigz
