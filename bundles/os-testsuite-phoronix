@@ -8,6 +8,8 @@
 include(os-testsuite-phoronix-desktop)
 include(os-testsuite-phoronix-server)
 
+include(c-basic-static)
+
 also-add(R-basic)
 also-add(c-basic)
 also-add(desktop-apps-extras)
