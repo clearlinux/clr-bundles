@@ -47,4 +47,4 @@ tdb-lib
 tracker
 pinentry
 pinentry-extras
-include(devpkg-libsoup)
+libsoup-lib
