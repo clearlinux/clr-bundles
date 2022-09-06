@@ -9,7 +9,8 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+# for cairo/pango
+include(lib-opengl)
 # end of custom additions
 
 # main package
