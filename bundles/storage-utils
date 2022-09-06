@@ -23,6 +23,7 @@ e2fsprogs
 e2fsprogs-extras
 exfat-utils
 f2fs-tools
+fsarchiver
 gptfdisk
 ipmctl
 lsscsi
