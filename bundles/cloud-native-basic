@@ -25,11 +25,3 @@ helm
 kubernetes
 runc
 include(socat)
-
-# kata-containers packages
-kata-image
-kata-proxy
-kata-qemu-lite
-kata-runtime
-kata-shim
-linux-kata

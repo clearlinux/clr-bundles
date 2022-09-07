@@ -1,16 +1,7 @@
 # [TITLE]: containers-virt
 # [DESCRIPTION]: Run container applications from Dockerhub in lightweight virtual machines.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
-include(containers-basic)
-firecracker
-
-# kata-containers packages
-kata-image
-kata-proxy
-kata-qemu-lite
-kata-runtime
-kata-shim
-linux-kata
+filesystem
