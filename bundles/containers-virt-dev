@@ -1,6 +1,6 @@
 # [TITLE]: containers-virt-dev
 # [DESCRIPTION]: All packages required to build the containers-virt bundle.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
@@ -39,7 +39,6 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
-buildreq-kernel
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
@@ -224,7 +223,6 @@ include(make)
 meson-python3
 mpc-dev
 mpfr-dev
-include(musl)
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
@@ -287,7 +285,6 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 ruby
-rustc
 sed
 shadow
 shared-mime-info

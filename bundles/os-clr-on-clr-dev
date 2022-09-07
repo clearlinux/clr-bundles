@@ -38,6 +38,7 @@ PyYAML-python3
 R
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2_image)
 SFCGAL-dev
 SVT-AV1-dev
 include(Sphinx)

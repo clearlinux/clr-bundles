@@ -29,6 +29,7 @@ OpenSP
 PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2_image)
 SVT-AV1-dev
 include(Sphinx)
 VTK-dev

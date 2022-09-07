@@ -21,6 +21,7 @@ MarkupSafe-python3
 PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2_image)
 include(Sphinx)
 VTK-dev
 Vulkan-Headers-data
