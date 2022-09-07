@@ -16,3 +16,4 @@ gimp-dev
 include(libX11client)
 include(libglib)
 include(lib-imageformat)
+include(gimp)

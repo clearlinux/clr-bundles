@@ -11,3 +11,4 @@ include(libglib)
 
 polkit-dev
 include(libglib)
+include(polkit)

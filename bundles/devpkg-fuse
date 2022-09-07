@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 fuse-dev
+include(fuse)

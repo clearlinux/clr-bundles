@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-libxml2)
 
 libxslt-dev
+include(libxslt)

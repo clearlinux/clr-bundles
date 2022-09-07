@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 procps-ng-dev
+include(procps-ng)

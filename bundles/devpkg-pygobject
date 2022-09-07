@@ -11,3 +11,4 @@ include(libglib)
 include(devpkg-libffi)
 
 pygobject-dev
+include(pygobject)

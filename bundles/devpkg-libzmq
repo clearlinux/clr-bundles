@@ -10,3 +10,4 @@ include(devpkg-libunwind)
 
 libzmq-dev
 include(libstdcpp)
+include(libzmq)

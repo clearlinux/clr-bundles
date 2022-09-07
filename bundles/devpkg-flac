@@ -10,3 +10,4 @@ include(devpkg-libogg)
 
 flac-dev
 include(libstdcpp)
+include(flac)

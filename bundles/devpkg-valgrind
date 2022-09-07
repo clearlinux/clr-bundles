@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 valgrind-dev
+include(valgrind)

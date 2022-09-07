@@ -10,3 +10,4 @@ include(devpkg-libpciaccess)
 include(devpkg-libxml2)
 
 hwloc-dev
+include(hwloc)

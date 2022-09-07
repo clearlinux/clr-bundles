@@ -12,3 +12,4 @@ include(libglib)
 NetworkManager-dev
 include(libglib)
 include(curl)
+include(NetworkManager)

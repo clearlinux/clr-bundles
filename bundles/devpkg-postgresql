@@ -10,3 +10,4 @@ include(devpkg-openssl)
 
 postgresql-dev
 include(lib-openssl)
+include(postgresql)

@@ -11,3 +11,4 @@ include(devpkg-systemd)
 v4l-utils-dev
 include(lib-imageformat)
 include(libstdcpp)
+include(v4l-utils)

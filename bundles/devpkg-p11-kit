@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 p11-kit-dev
+include(p11-kit)

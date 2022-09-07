@@ -9,3 +9,4 @@ include(devpkg-base)
 
 jack2-dev
 include(libstdcpp)
+include(jack2)
