@@ -11,3 +11,6 @@ include(libglib)
 include(devpkg-gtk3)
 
 metacity-dev
+include(libX11client)
+include(libglib)
+include(gnome-base-libs)

@@ -11,3 +11,4 @@ include(devpkg-libXt)
 include(devpkg-xorgproto)
 
 libXmu-dev
+include(libX11client)

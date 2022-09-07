@@ -17,3 +17,5 @@ include(devpkg-pango)
 include(devpkg-wayland)
 
 cogl-dev
+include(libX11client)
+include(libglib)

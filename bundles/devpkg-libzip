@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 libzip-dev
+include(xz)

@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 glog-dev
+include(libstdcpp)

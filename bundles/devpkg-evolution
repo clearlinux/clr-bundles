@@ -14,3 +14,8 @@ include(devpkg-gnome-desktop)
 include(devpkg-gtk3)
 
 evolution-dev
+include(libX11client)
+include(gnome-base-libs)
+include(libglib)
+include(openldap)
+include(webkitgtk)

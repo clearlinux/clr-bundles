@@ -12,3 +12,4 @@ include(libglib)
 include(devpkg-libxml2)
 
 compat-rest-soname07-dev
+include(libglib)

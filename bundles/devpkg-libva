@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-wayland)
 
 libva-dev
+include(libX11client)

@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 fmt-dev
+include(libstdcpp)

@@ -12,3 +12,5 @@ include(devpkg-gtk3)
 include(devpkg-p11-kit)
 
 gcr-dev
+include(libX11client)
+include(libglib)

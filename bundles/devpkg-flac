@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-libogg)
 
 flac-dev
+include(libstdcpp)

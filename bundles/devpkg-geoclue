@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 geoclue-dev
+include(libglib)

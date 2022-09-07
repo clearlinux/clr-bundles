@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 gflags-dev
+include(libstdcpp)

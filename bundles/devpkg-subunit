@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 subunit-dev
+include(libstdcpp)

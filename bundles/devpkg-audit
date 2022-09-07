@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 audit-dev
+include(openldap)

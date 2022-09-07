@@ -15,3 +15,5 @@ include(libglib)
 include(devpkg-pango)
 
 gtk+-dev
+include(libX11client)
+include(libglib)

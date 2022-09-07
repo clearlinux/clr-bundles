@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 libosinfo-dev
+include(libglib)

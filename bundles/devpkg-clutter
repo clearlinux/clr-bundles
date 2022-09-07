@@ -23,3 +23,5 @@ include(devpkg-systemd)
 include(devpkg-wayland)
 
 clutter-dev
+include(libX11client)
+include(libglib)

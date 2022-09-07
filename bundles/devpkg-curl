@@ -8,3 +8,5 @@
 include(devpkg-base)
 
 curl-dev
+include(lib-openssl)
+include(curl)

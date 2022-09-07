@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 icu4c-dev
+include(libstdcpp)

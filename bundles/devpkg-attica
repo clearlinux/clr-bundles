@@ -9,3 +9,5 @@ include(devpkg-base)
 include(devpkg-qtbase)
 
 attica-dev
+include(qt-core)
+include(libstdcpp)

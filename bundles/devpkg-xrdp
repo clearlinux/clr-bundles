@@ -8,3 +8,6 @@
 include(devpkg-base)
 
 xrdp-dev
+include(lib-openssl)
+include(lib-imageformat)
+include(libX11client)

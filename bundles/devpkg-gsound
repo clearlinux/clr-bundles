@@ -11,3 +11,5 @@ include(libglib)
 include(devpkg-libcanberra)
 
 gsound-dev
+include(gnome-base-libs)
+include(libglib)

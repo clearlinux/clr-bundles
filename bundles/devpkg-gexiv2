@@ -11,3 +11,6 @@ include(devpkg-glib)
 include(libglib)
 
 gexiv2-dev
+include(lib-imageformat)
+include(libglib)
+include(libstdcpp)

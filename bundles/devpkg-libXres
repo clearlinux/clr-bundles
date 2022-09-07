@@ -10,3 +10,4 @@ include(devpkg-libX11)
 include(devpkg-xorgproto)
 
 libXres-dev
+include(libX11client)

@@ -8,3 +8,5 @@
 include(devpkg-base)
 
 libarchive-dev
+include(lib-openssl)
+include(xz)

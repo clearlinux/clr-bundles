@@ -11,3 +11,5 @@ include(libX11client)
 include(devpkg-libX11)
 
 gdk-pixbuf-xlib-dev
+include(libX11client)
+include(libglib)

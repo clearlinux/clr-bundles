@@ -11,3 +11,4 @@ include(devpkg-harfbuzz)
 include(devpkg-zlib)
 
 freetype-dev
+include(lib-imageformat)

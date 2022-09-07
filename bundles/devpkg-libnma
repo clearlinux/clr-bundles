@@ -9,3 +9,5 @@ include(devpkg-base)
 include(devpkg-NetworkManager)
 
 libnma-dev
+include(libX11client)
+include(libglib)

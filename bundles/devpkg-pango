@@ -18,3 +18,5 @@ include(devpkg-libXft)
 include(devpkg-libthai)
 
 pango-dev
+include(libX11client)
+include(libglib)

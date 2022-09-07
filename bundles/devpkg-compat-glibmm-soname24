@@ -11,3 +11,5 @@ include(devpkg-glib)
 include(libglib)
 
 compat-glibmm-soname24-dev
+include(libglib)
+include(libstdcpp)

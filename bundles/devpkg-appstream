@@ -10,3 +10,5 @@ include(devpkg-glib)
 include(libglib)
 
 appstream-dev
+include(curl)
+include(libglib)

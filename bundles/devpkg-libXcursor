@@ -10,3 +10,4 @@ include(devpkg-libX11)
 include(devpkg-xorgproto)
 
 libXcursor-dev
+include(libX11client)

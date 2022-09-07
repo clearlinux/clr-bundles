@@ -15,3 +15,4 @@ include(devpkg-libwebp)
 include(devpkg-zlib)
 
 libgd-dev
+include(lib-imageformat)

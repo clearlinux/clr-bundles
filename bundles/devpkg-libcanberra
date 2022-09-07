@@ -10,3 +10,7 @@ include(devpkg-gtk3)
 include(devpkg-gtkplus)
 
 libcanberra-dev
+include(libX11client)
+include(libglib)
+include(libstdcpp)
+include(gnome-base-libs)

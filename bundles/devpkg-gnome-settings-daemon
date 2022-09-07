@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 gnome-settings-daemon-dev
+include(libglib)

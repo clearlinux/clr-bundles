@@ -10,3 +10,5 @@ include(devpkg-libjpeg-turbo)
 include(devpkg-zlib)
 
 qpdf-dev
+include(lib-imageformat)
+include(libstdcpp)

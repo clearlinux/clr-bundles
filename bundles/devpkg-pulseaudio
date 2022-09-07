@@ -10,3 +10,7 @@ include(devpkg-glib)
 include(libglib)
 
 pulseaudio-dev
+include(libX11client)
+include(lib-openssl)
+include(libglib)
+include(libstdcpp)

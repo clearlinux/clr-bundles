@@ -13,3 +13,6 @@ include(devpkg-json-glib)
 include(devpkg-libjcat)
 
 fwupd-dev
+include(curl)
+include(libglib)
+include(xz)

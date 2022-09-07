@@ -14,3 +14,4 @@ include(devpkg-gnome-online-accounts)
 include(devpkg-json-glib)
 
 gfbgraph-dev
+include(libglib)

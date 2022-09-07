@@ -10,3 +10,5 @@ include(devpkg-glib)
 include(libglib)
 
 ostree-dev
+include(libglib)
+include(xz)

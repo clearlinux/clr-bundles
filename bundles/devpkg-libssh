@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 libssh-dev
+include(lib-openssl)

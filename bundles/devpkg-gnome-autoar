@@ -12,3 +12,5 @@ include(devpkg-gtk3)
 include(devpkg-libarchive)
 
 gnome-autoar-dev
+include(libglib)
+include(libX11client)

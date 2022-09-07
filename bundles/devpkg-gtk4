@@ -21,3 +21,7 @@ include(devpkg-pango)
 include(devpkg-wayland)
 
 gtk4-dev
+include(libX11client)
+include(libglib)
+include(gstreamer)
+include(lib-imageformat)

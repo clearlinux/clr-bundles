@@ -14,3 +14,6 @@ include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 
 clutter-gst-dev
+include(libX11client)
+include(libglib)
+include(gstreamer)

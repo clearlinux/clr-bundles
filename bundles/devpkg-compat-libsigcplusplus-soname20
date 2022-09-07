@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 compat-libsigc++-soname20-dev
+include(libstdcpp)

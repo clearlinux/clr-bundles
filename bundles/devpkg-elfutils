@@ -11,3 +11,5 @@ include(devpkg-zlib)
 include(devpkg-zstd)
 
 elfutils-dev
+include(xz)
+include(libstdcpp)

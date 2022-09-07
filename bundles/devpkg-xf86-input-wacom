@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 xf86-input-wacom-dev
+include(libX11client)

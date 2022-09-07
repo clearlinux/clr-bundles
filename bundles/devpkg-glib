@@ -12,3 +12,4 @@ include(devpkg-util-linux)
 include(devpkg-zlib)
 
 glib-dev
+include(libglib)

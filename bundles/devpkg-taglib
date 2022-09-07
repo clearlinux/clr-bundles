@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 taglib-dev
+include(libstdcpp)

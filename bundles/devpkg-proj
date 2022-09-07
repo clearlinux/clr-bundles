@@ -8,3 +8,6 @@
 include(devpkg-base)
 
 proj-dev
+include(curl)
+include(libstdcpp)
+include(lib-imageformat)

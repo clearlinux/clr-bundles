@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 geocode-glib-dev
+include(libglib)

@@ -10,3 +10,5 @@ include(devpkg-glib)
 include(libglib)
 
 enchant-dev
+include(libglib)
+include(libstdcpp)

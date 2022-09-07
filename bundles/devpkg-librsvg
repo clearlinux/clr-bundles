@@ -13,3 +13,6 @@ include(devpkg-glib)
 include(libglib)
 
 librsvg-dev
+include(libX11client)
+include(libglib)
+include(lib-imageformat)

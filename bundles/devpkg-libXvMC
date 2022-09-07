@@ -11,3 +11,4 @@ include(devpkg-libXv)
 include(devpkg-xorgproto)
 
 libXvMC-dev
+include(libX11client)

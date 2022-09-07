@@ -12,3 +12,8 @@ include(libglib)
 include(devpkg-gtk3)
 
 compat-webkitgtk-soname40-dev
+include(libX11client)
+include(libglib)
+include(gstreamer)
+include(lib-imageformat)
+include(libstdcpp)

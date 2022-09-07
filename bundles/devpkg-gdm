@@ -11,3 +11,6 @@ include(libglib)
 include(devpkg-systemd)
 
 gdm-dev
+include(libglib)
+include(libX11client)
+include(gnome-base-libs)

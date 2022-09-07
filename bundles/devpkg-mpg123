@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 mpg123-dev
+include(libstdcpp)

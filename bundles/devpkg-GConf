@@ -11,3 +11,4 @@ include(devpkg-glib)
 include(libglib)
 
 GConf-dev
+include(libglib)

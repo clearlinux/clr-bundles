@@ -19,3 +19,5 @@ include(devpkg-systemd)
 include(devpkg-xkeyboard-config)
 
 gnome-desktop-dev
+include(libX11client)
+include(libglib)

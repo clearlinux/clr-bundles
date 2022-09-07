@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 gcab-dev
+include(libglib)

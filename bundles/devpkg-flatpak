@@ -11,3 +11,5 @@ include(libglib)
 include(devpkg-ostree)
 
 flatpak-dev
+include(libX11client)
+include(libglib)

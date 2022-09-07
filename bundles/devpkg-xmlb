@@ -11,3 +11,5 @@ include(libglib)
 include(devpkg-xz)
 
 xmlb-dev
+include(libglib)
+include(xz)

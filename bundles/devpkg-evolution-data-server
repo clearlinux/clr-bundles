@@ -15,3 +15,8 @@ include(devpkg-libsecret)
 include(devpkg-libxml2)
 
 evolution-data-server-dev
+include(libX11client)
+include(libglib)
+include(openldap)
+include(libstdcpp)
+include(webkitgtk)

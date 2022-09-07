@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 leptonica-dev
+include(lib-imageformat)

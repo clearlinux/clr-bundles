@@ -13,3 +13,6 @@ include(devpkg-gegl)
 include(devpkg-gtkplus)
 
 gimp-dev
+include(libX11client)
+include(libglib)
+include(lib-imageformat)

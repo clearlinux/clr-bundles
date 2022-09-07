@@ -9,6 +9,9 @@ include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-gtk3)
+include(devpkg-libX11)
 include(devpkg-libxklavier)
 
 libgnomekbd-dev
+include(libX11client)
+include(libglib)

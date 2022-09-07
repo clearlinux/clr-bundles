@@ -10,3 +10,5 @@ include(devpkg-libX11)
 include(devpkg-libdrm)
 
 mesa-dev
+include(libX11client)
+include(libstdcpp)

@@ -8,3 +8,6 @@
 include(devpkg-base)
 
 Botan-dev
+include(lib-openssl)
+include(xz)
+include(libstdcpp)

@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 libxml2-dev
+include(xz)

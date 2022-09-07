@@ -11,3 +11,5 @@ include(devpkg-leptonica)
 include(devpkg-libarchive)
 
 tesseract-dev
+include(curl)
+include(libstdcpp)

@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-brotli)
 
 woff2-dev
+include(libstdcpp)

@@ -9,3 +9,5 @@ include(devpkg-base)
 include(devpkg-gtkplus)
 
 gutenprint-dev
+include(libX11client)
+include(libglib)

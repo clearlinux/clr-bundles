@@ -16,3 +16,5 @@ include(devpkg-pango)
 include(devpkg-startup-notification)
 
 libwnck3-dev
+include(libX11client)
+include(libglib)

@@ -12,3 +12,5 @@ include(devpkg-libjpeg-turbo)
 include(devpkg-shared-mime-info)
 
 gdk-pixbuf-dev
+include(libglib)
+include(lib-imageformat)

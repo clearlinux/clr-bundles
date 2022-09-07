@@ -8,3 +8,7 @@
 include(devpkg-base)
 
 mariadb-dev
+include(lib-openssl)
+include(curl)
+include(xz)
+include(libstdcpp)

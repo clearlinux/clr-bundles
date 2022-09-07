@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-libX11)
 
 xcb-util-cursor-dev
+include(libX11client)

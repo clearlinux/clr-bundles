@@ -18,3 +18,7 @@ include(devpkg-gstreamer)
 include(devpkg-libX11)
 
 cheese-dev
+include(libX11client)
+include(libglib)
+include(gstreamer)
+include(gnome-base-libs)

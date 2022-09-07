@@ -12,3 +12,5 @@ include(devpkg-gtk3)
 include(devpkg-libxml2)
 
 compat-gtksourceview-soname3-dev
+include(libX11client)
+include(libglib)

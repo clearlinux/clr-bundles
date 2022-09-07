@@ -13,3 +13,4 @@ include(devpkg-json-glib)
 include(devpkg-nettle)
 
 libjcat-dev
+include(libglib)

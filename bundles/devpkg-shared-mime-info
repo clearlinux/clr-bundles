@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 shared-mime-info-dev
+include(libglib)

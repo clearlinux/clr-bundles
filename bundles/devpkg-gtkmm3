@@ -15,3 +15,6 @@ include(libX11client)
 include(devpkg-gtk3)
 
 gtkmm3-dev
+include(libglib)
+include(libX11client)
+include(libstdcpp)

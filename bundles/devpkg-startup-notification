@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 startup-notification-dev
+include(libX11client)

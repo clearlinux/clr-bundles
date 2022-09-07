@@ -12,3 +12,4 @@ include(devpkg-glib)
 include(libglib)
 
 libnotify-dev
+include(libglib)

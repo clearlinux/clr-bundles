@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 open-iscsi-dev
+include(lib-openssl)

@@ -14,3 +14,7 @@ include(devpkg-libffi)
 include(devpkg-mozjs91)
 
 gjs-dev
+include(libX11client)
+include(libglib)
+include(libstdcpp)
+include(desktop-gnomelibs)

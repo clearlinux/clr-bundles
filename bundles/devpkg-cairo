@@ -15,3 +15,6 @@ include(devpkg-mesa)
 include(devpkg-pixman)
 
 cairo-dev
+include(libX11client)
+include(libglib)
+include(lib-imageformat)

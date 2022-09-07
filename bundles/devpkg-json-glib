@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 json-glib-dev
+include(libglib)

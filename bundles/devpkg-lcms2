@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 lcms2-dev
+include(lib-imageformat)

@@ -11,3 +11,5 @@ include(libglib)
 include(devpkg-libxml2)
 
 libxklavier-dev
+include(libX11client)
+include(libglib)

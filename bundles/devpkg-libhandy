@@ -9,3 +9,5 @@ include(devpkg-base)
 include(devpkg-gtk3)
 
 libhandy-dev
+include(libX11client)
+include(libglib)

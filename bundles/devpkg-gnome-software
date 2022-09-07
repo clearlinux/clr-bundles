@@ -17,3 +17,5 @@ include(devpkg-valgrind)
 include(devpkg-xmlb)
 
 gnome-software-dev
+include(libglib)
+include(libX11client)

@@ -13,3 +13,4 @@ include(devpkg-glib)
 include(libglib)
 
 at-spi2-atk-dev
+include(libglib)

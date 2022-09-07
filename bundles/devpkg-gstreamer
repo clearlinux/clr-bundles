@@ -11,3 +11,5 @@ include(devpkg-glib)
 include(libglib)
 
 gstreamer-dev
+include(libglib)
+include(gstreamer)

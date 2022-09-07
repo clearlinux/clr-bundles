@@ -11,3 +11,7 @@ include(libglib)
 include(devpkg-gtk3)
 
 nautilus-dev
+include(libglib)
+include(gstreamer)
+include(libX11client)
+include(gnome-base-libs)

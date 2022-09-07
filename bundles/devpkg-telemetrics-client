@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 telemetrics-client-dev
+include(curl)

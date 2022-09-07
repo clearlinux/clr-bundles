@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 libwacom-dev
+include(libglib)

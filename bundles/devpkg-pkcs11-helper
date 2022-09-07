@@ -10,3 +10,4 @@ include(devpkg-gnutls)
 include(devpkg-openssl)
 
 pkcs11-helper-dev
+include(lib-openssl)

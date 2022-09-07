@@ -12,3 +12,5 @@ include(devpkg-gobject-introspection)
 include(devpkg-gtk3)
 
 libpeas-dev
+include(libglib)
+include(libX11client)

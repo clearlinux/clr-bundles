@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 gobject-introspection-dev
+include(libglib)

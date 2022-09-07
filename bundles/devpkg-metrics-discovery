@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 metrics-discovery-dev
+include(libstdcpp)

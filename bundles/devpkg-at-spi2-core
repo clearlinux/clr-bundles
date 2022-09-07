@@ -13,3 +13,5 @@ include(devpkg-libX11)
 include(devpkg-libXtst)
 
 at-spi2-core-dev
+include(libX11client)
+include(libglib)

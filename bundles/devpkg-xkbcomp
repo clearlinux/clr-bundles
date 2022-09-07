@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 xkbcomp-dev
+include(libX11client)

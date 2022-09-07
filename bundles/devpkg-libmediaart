@@ -12,3 +12,4 @@ include(devpkg-glib)
 include(libglib)
 
 libmediaart-dev
+include(libglib)

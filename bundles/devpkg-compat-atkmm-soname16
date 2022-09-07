@@ -10,3 +10,5 @@ include(devpkg-atk)
 include(devpkg-compat-glibmm-soname24)
 
 compat-atkmm-soname16-dev
+include(libglib)
+include(libstdcpp)

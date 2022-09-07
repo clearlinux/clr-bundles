@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 gmime-dev
+include(libglib)

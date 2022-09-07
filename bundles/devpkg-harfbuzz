@@ -11,3 +11,6 @@ include(libglib)
 include(devpkg-graphite)
 
 harfbuzz-dev
+include(libglib)
+include(libstdcpp)
+include(libX11client)

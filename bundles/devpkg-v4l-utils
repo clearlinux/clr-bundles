@@ -9,3 +9,5 @@ include(devpkg-base)
 include(devpkg-systemd)
 
 v4l-utils-dev
+include(lib-imageformat)
+include(libstdcpp)

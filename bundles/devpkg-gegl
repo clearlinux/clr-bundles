@@ -12,3 +12,7 @@ include(libglib)
 include(devpkg-json-glib)
 
 gegl-dev
+include(libX11client)
+include(libglib)
+include(lib-imageformat)
+include(libstdcpp)
