@@ -20,7 +20,6 @@ containerd
 cri-o
 cri-tools
 ebtables
-firecracker
 helm
 kubernetes
 runc
