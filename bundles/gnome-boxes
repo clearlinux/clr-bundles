@@ -11,7 +11,7 @@ include(webkitgtk)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(kvm-host)
-
+include(desktop-gnomelibs)
 # end of custom additions
 
 # main package

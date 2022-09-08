@@ -11,7 +11,7 @@ include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+include(gnome-base-libs)
 # end of custom additions
 
 # main package
