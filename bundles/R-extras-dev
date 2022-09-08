@@ -733,6 +733,7 @@ e2fsprogs-data
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
+eigen-data
 include(devpkg-eigen)
 include(devpkg-elfutils)
 elfutils-dev32
