@@ -21,3 +21,4 @@ include(devpkg-xkeyboard-config)
 gnome-desktop-dev
 include(libX11client)
 include(libglib)
+include(gnome-base-libs)

@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 xdg-desktop-portal-dev
+include(libglib)
