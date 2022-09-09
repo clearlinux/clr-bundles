@@ -140,8 +140,6 @@ kmod-dev32
 include(devpkg-krb5)
 include(devpkg-libX11)
 libX11-dev32
-include(devpkg-libXScrnSaver)
-include(devpkg-libXft)
 include(devpkg-libXpm)
 include(devpkg-libXt)
 libXt-dev32
@@ -302,7 +300,6 @@ systemd-lib
 tar
 tcl
 tcl-dev
-tcl-staticdev
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)

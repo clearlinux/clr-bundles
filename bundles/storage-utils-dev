@@ -42,8 +42,6 @@ buildreq-kde
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
-bzip2-dev32
-include(devpkg-cairo)
 check-dev
 check-dev32
 cifs-utils-dev
@@ -82,10 +80,6 @@ f2fs-tools-dev
 file-dev
 include(flex)
 flex-dev
-fontconfig-data
-include(devpkg-fontconfig)
-include(devpkg-freetype)
-freetype-dev32
 include(devpkg-fuse)
 gawk
 gcc
@@ -123,11 +117,8 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg)
 include(devpkg-gnutls)
-gobject-introspection
-include(devpkg-gobject-introspection)
 gperf
 gpgme-dev
-include(devpkg-graphite)
 include(graphviz)
 grep
 groff
@@ -135,7 +126,6 @@ gtk-doc
 include(devpkg-gtk-doc)
 include(guile)
 include(gzip)
-include(devpkg-harfbuzz)
 help2man
 hostname
 include(devpkg-icu4c)
@@ -160,8 +150,6 @@ ldb-extras
 less-bin
 include(devpkg-libX11)
 libX11-dev32
-include(devpkg-libXScrnSaver)
-include(devpkg-libXft)
 libabigail
 libaio-dev
 include(devpkg-libarchive)
@@ -198,11 +186,7 @@ include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
 libnsl-dev
-include(devpkg-libpng)
-libpng-dev32
-include(devpkg-libpthread-stubs)
 libpwquality-dev
-include(devpkg-librsvg)
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsodium)
@@ -402,7 +386,6 @@ pypi-distlib-python3
 pypi-dnspython
 pypi-docutils
 pypi-filelock-python3
-pypi-future-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3
@@ -451,7 +434,6 @@ talloc-extras
 tar
 tcl
 tcl-dev
-tcl-staticdev
 tdb-dev
 tdb-python3
 tevent-dev
@@ -467,20 +449,12 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-include(devpkg-util-macros)
-util-macros-dev32
 include(valgrind)
 include(devpkg-valgrind)
 include(which)
 xauth
-xcb-proto
-include(devpkg-xcb-proto)
 xdg-utils
 xmlto
-include(devpkg-xorgproto)
-xorgproto-dev32
-include(devpkg-xtrans)
-xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

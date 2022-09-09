@@ -581,7 +581,6 @@ systemd-lib
 tar
 tcl
 tcl-dev
-tcl-staticdev
 include(texinfo)
 include(texlive)
 thin-provisioning-tools

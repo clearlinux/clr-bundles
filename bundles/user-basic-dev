@@ -858,7 +858,6 @@ talloc-extras
 tar
 tcl
 tcl-dev
-tcl-staticdev
 tdb-dev
 tdb-python3
 tevent-dev

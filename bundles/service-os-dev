@@ -32,7 +32,6 @@ include(bison)
 bison-dev
 buildreq-cmake
 buildreq-configure
-buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -41,8 +40,6 @@ buildreq-meson
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)
-bzip2-dev32
-include(devpkg-cairo)
 check-dev
 check-dev32
 clr-rpm-config
@@ -71,10 +68,6 @@ expat-dev32
 expect
 include(flex)
 flex-dev
-fontconfig-data
-include(devpkg-fontconfig)
-include(devpkg-freetype)
-freetype-dev32
 gawk
 gcc
 gcc-dev
@@ -83,7 +76,6 @@ gcc-libgcc32
 gcc-libstdc++32
 gcc9
 gcc9-dev
-include(gdb)
 gdb-dev
 gdbm-dev
 gettext
@@ -106,7 +98,6 @@ gnu-efi-staticdev
 gobject-introspection
 include(devpkg-gobject-introspection)
 gperf
-include(devpkg-graphite)
 include(graphviz)
 grep
 groff
@@ -114,7 +105,6 @@ gtk-doc
 include(devpkg-gtk-doc)
 include(guile)
 include(gzip)
-include(devpkg-harfbuzz)
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
@@ -130,8 +120,6 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
 libX11-dev32
-include(devpkg-libXScrnSaver)
-include(devpkg-libXft)
 libabigail
 libaio-dev
 libbpf-dev
@@ -159,11 +147,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
-include(devpkg-libpng)
-libpng-dev32
-include(devpkg-libpthread-stubs)
 libpwquality-dev
-include(devpkg-librsvg)
 include(devpkg-libseccomp)
 libseccomp-dev32
 libstdc++
@@ -220,7 +204,6 @@ procps-ng-bin
 include(pypi-cython)
 pypi-distlib-python3
 pypi-filelock-python3
-pypi-future-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3
@@ -260,7 +243,6 @@ systemd-lib
 tar
 tcl
 tcl-dev
-tcl-staticdev
 include(texinfo)
 thin-provisioning-tools
 tk-dev
@@ -272,19 +254,11 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-include(devpkg-util-macros)
-util-macros-dev32
 include(valgrind)
 include(devpkg-valgrind)
 include(which)
 xauth
-xcb-proto
-include(devpkg-xcb-proto)
 xmlto
-include(devpkg-xorgproto)
-xorgproto-dev32
-include(devpkg-xtrans)
-xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32
