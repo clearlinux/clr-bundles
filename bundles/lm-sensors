@@ -11,6 +11,7 @@ include(perl-basic)
 include(libstdcpp)
 include(python3-basic)
 include(lib-opengl)
+include(libglib)
 # end of custom additions
 
 # main package

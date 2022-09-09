@@ -8,5 +8,6 @@ include(libstdcpp)
 include(lib-openssl)
 include(python3-basic)
 include(postgresql)
+include(libglib)
 
 php

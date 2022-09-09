@@ -8,6 +8,7 @@ include(perl-basic)
 include(libstdcpp)
 include(python3-basic)
 include(postgresql)
+include(libX11client)
 
 perl-Acme-Damn
 perl-Algorithm-C3
