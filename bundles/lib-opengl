@@ -10,7 +10,11 @@
 include(libstdcpp)
 include(xz)
 mesa-demos
-include(libX11client)
+include(libglib)
+gtk+-data
+gtk+-lib
+harfbuzz-lib
+
 # end of custom additions
 
 # main packages
