@@ -11,9 +11,10 @@ include(libstdcpp)
 include(xz)
 mesa-demos
 include(libglib)
-gtk+-data
-gtk+-lib
 harfbuzz-lib
+libxcb-lib
+fontconfig-lib
+freetype-lib
 
 # end of custom additions
 
