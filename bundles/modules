@@ -9,6 +9,7 @@
 # start of custom additions (edits outside this area will be removed automatically)
 tcl
 include(python3-basic)
+include(tcl-basic)
 # end of custom additions
 
 # main package

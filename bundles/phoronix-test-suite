@@ -11,6 +11,7 @@ include(php-basic)
 include(unzip)
 php-imagick
 include(lib-opengl)
+include(tcl-basic)
 # end of custom additions
 
 # main package

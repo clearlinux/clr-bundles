@@ -12,7 +12,7 @@ include(libX11client)
 clr-R-helpers
 R
 include(devpkg-R)
-
+include(tcl-basic)
 #
 # Required for performance reasons
 #

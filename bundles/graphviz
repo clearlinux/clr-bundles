@@ -14,6 +14,7 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(lib-poppler)
+include(tcl-basic)
 # end of custom additions
 
 # main package

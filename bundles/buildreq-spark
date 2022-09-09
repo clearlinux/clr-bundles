@@ -13,6 +13,8 @@ cyrus-sasl
 include(devpkg-cyrus-sasl)
 include(pandoc)
 include(python3-basic)
+include(tcl-basic)
+include(R-basic)
 R
 R-digest
 R-e1071
