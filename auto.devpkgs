@@ -423,8 +423,9 @@ libv4lconvert
 libva
 libva-drm
 libva-glx
-libvala-0.42
+libvala-0.56
 libvala-0.46
+vapigen
 libva-wayland
 libva-x11
 libvirt
@@ -591,3 +592,5 @@ xxf86vm
 yaml-cpp
 zlib
 zstd
+OpenImageIO
+rest-1.0
