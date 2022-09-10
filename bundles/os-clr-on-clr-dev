@@ -642,7 +642,6 @@ numactl
 include(devpkg-numactl)
 include(devpkg-oath-toolkit)
 ocl-icd-dev
-octave-dev
 onig-dev
 open-iscsi
 open-isns-dev

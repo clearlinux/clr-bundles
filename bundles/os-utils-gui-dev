@@ -505,7 +505,6 @@ npth-dev
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-numactl)
-octave-dev
 openal-soft-dev
 openconnect-dev
 openexr-dev

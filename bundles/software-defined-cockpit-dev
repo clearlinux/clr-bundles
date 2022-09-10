@@ -369,7 +369,6 @@ ninja
 not-ffmpeg-dev
 nss-altfiles
 include(devpkg-nss)
-octave-dev
 openal-soft-dev
 openexr-dev
 openjdk

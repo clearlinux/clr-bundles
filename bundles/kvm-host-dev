@@ -411,7 +411,6 @@ include(devpkg-nss)
 numactl
 include(devpkg-numactl)
 include(devpkg-oath-toolkit)
-octave-dev
 open-iscsi
 openal-soft-dev
 opencl-headers-dev

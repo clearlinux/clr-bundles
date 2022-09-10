@@ -51,6 +51,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
+curl-dev32
 datefudge
 dav1d-dev
 db
@@ -213,6 +214,7 @@ include(llvm)
 lmdb-dev
 include(devpkg-lz4)
 lz4-dev32
+lzo-dev
 m4
 include(make)
 include(devpkg-mariadb)

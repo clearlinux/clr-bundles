@@ -430,7 +430,6 @@ ninja
 include(devpkg-nspr)
 nss-altfiles
 include(devpkg-nss)
-octave-dev
 openal-soft-dev
 openconnect-dev
 openexr-dev
@@ -696,6 +695,7 @@ include(devpkg-taglib)
 tar
 tcl
 tcl-dev
+tcl-staticdev
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)

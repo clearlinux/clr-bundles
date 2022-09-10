@@ -486,7 +486,6 @@ include(devpkg-nss)
 numactl
 include(devpkg-numactl)
 include(devpkg-oath-toolkit)
-octave-dev
 onig-dev
 open-iscsi
 open-isns-dev

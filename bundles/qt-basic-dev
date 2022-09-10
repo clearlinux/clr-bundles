@@ -372,7 +372,6 @@ nghttp2-dev32
 ninja
 nss-altfiles
 include(devpkg-numactl)
-octave-dev
 openal-soft-dev
 openexr-dev
 openjdk

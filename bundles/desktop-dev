@@ -608,7 +608,6 @@ include(devpkg-nss)
 include(devpkg-ntfs-3g)
 ntlm-auth-python3
 include(devpkg-numactl)
-octave-dev
 onig-dev
 openal-soft-dev
 include(openblas)
