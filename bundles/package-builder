@@ -10,6 +10,7 @@ include(git)
 include(package-utils)
 include(sudo)
 include(Sphinx)
+include(dnf))
 
 # common requirements
 include(cpio)
