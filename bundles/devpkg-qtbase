@@ -8,6 +8,7 @@
 include(devpkg-base)
 
 qtbase-dev
+include(lib-opengl)
 include(qt-core)
 include(libX11client)
 include(libglib)

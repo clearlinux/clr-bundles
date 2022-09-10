@@ -1,4 +1,5 @@
 pkgconfig(ImageMagick)	devpkg-ImageMagick
+pkgconfig(OpenImageIO)	devpkg-oiio
 pkgconfig(Qt5Core)	devpkg-qtbase
 pkgconfig(Qt5Gui)	devpkg-qtbase
 pkgconfig(Qt5Network)	devpkg-qtbase
@@ -414,6 +415,7 @@ pkgconfig(libsmbios_c)	devpkg-libsmbios
 pkgconfig(libsolv)	devpkg-libsolv
 pkgconfig(libsolvext)	devpkg-libsolv
 pkgconfig(libsoup-2.4)	devpkg-compat-libsoup-soname-24
+pkgconfig(libsoup-3.0)	devpkg-libsoup
 pkgconfig(libsoup-gnome-2.4)	devpkg-compat-libsoup-soname-24
 pkgconfig(libspectre)	devpkg-libspectre
 pkgconfig(libsrtp)	devpkg-libsrtp
@@ -461,6 +463,7 @@ pkgconfig(libva-drm)	devpkg-libva
 pkgconfig(libva-glx)	devpkg-libva
 pkgconfig(libva-wayland)	devpkg-libva
 pkgconfig(libva-x11)	devpkg-libva
+pkgconfig(libvala-0.56)	devpkg-vala
 pkgconfig(libvirt)	devpkg-libvirt
 pkgconfig(libvirt-admin)	devpkg-libvirt
 pkgconfig(libvirt-lxc)	devpkg-libvirt
@@ -523,6 +526,7 @@ pkgconfig(recordproto)	devpkg-xorgproto
 pkgconfig(renderproto)	devpkg-xorgproto
 pkgconfig(resourceproto)	devpkg-xorgproto
 pkgconfig(rest-0.7)	devpkg-compat-rest-soname07
+pkgconfig(rest-1.0)	devpkg-rest
 pkgconfig(samplerate)	devpkg-libsamplerate
 pkgconfig(scrnsaverproto)	devpkg-xorgproto
 pkgconfig(sdl)	devpkg-SDL

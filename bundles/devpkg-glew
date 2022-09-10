@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-glu)
 
 glew-dev
+include(lib-opengl)

@@ -13,4 +13,5 @@ include(devpkg-pixman)
 include(devpkg-xorgproto)
 
 xorg-server-dev
+include(lib-opengl)
 include(libX11client)

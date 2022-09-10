@@ -9,4 +9,5 @@ include(devpkg-base)
 include(devpkg-mesa)
 
 glu-dev
+include(lib-opengl)
 include(libstdcpp)
