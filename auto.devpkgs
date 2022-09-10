@@ -40,6 +40,7 @@ fontutil
 form
 formw
 freeglut
+glut
 freetype2
 fribidi
 fuse
@@ -341,7 +342,8 @@ libpeas-gtk-1.0
 libpgtypes
 libpinyin
 libpipeline
-libpipewire-0.2
+libpipewire-0.3
+libspa-0.2
 libpkcs11-helper-1
 libpmem
 libpmemblk
@@ -594,3 +596,4 @@ zlib
 zstd
 OpenImageIO
 rest-1.0
+avahi-client

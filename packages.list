@@ -447,4 +447,5 @@ bemenu # Dynamic menu library
 seer # No detailed summary available
 pypi-cython # The Cython compiler for writing C extensions for the Python language.
 btop # Resource monitor for cpu, memory, disks, network, processes
-wslu # A collection of utilities for the Linux Subsystem for Windows 
+wslu # A collection of utilities for the Linux Subsystem for Windows
+xdg-desktop-portal # Desktop integration portal 
