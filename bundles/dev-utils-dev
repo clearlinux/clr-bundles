@@ -68,6 +68,7 @@ check-dev32
 clr-rpm-config
 cmake
 include(devpkg-compat-fuse-soname2)
+compat-openssl-soname11-dev32
 coreutils
 cppcheck
 cppunit-dev

@@ -50,6 +50,7 @@ check-dev
 check-dev32
 clr-rpm-config
 cmocka-dev
+compat-openssl-soname11-dev32
 confuse-dev
 coreutils
 cracklib-dev

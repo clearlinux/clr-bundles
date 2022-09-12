@@ -42,6 +42,7 @@ include(devpkg-bzip2)
 ca-certs
 clr-rpm-config
 cmocka-dev
+compat-openssl-soname11-dev32
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

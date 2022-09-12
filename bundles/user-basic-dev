@@ -108,6 +108,7 @@ cmocka-dev
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
+compat-openssl-soname11-dev32
 confuse-dev
 coreutils
 cppcheck

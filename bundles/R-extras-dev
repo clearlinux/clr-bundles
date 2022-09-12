@@ -700,6 +700,7 @@ include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
 include(devpkg-compat-libsoup-soname-24)
+compat-openssl-soname11-dev32
 coreutils
 cppunit-dev
 cracklib-dev

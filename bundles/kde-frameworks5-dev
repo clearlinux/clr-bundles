@@ -86,6 +86,7 @@ cmocka-dev
 include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-libsoup-soname-24)
+compat-openssl-soname11-dev32
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

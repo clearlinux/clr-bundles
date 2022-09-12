@@ -160,7 +160,7 @@ systemsettings
 udisks2
 upower
 user-manager
-xdg-desktop-portal
+include(xdg-desktop-portal)
 xdg-desktop-portal-gtk
 xdg-desktop-portal-kde
 xdg-user-dirs

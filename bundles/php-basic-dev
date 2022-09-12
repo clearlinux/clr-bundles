@@ -46,6 +46,7 @@ bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 clr-rpm-config
+compat-openssl-soname11-dev32
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

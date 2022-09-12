@@ -100,6 +100,7 @@ include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-glibmm-soname24)
 compat-libsigc++-soname20-dev
 include(devpkg-compat-libsoup-soname-24)
+compat-openssl-soname11-dev32
 include(devpkg-compat-pangomm-soname14)
 include(devpkg-compat-rest-soname07)
 include(devpkg-compat-webkitgtk-soname40)
