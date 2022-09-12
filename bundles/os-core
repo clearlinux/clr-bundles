@@ -17,6 +17,7 @@ grep-bin
 hostname-bin
 nettle-lib
 sed-bin
-shadow
+shadow-bin
+shadow-data
 tzdata-minimal
 util-linux-bin
