@@ -25,6 +25,7 @@ pkgconfig(atk-bridge-2.0)	devpkg-at-spi2-atk
 pkgconfig(atkmm-1.6)	devpkg-compat-atkmm-soname16
 pkgconfig(atspi-2)	devpkg-at-spi2-core
 pkgconfig(audit)	devpkg-audit
+pkgconfig(avahi-client)	devpkg-avahi
 pkgconfig(babl)	devpkg-babl
 pkgconfig(bigreqsproto)	devpkg-xorgproto
 pkgconfig(blkid)	devpkg-util-linux
@@ -128,6 +129,7 @@ pkgconfig(glibmm-2.4)	devpkg-compat-glibmm-soname24
 pkgconfig(glm)	devpkg-glm
 pkgconfig(glproto)	devpkg-xorgproto
 pkgconfig(glu)	devpkg-glu
+pkgconfig(glut)	devpkg-freeglut
 pkgconfig(gmime-3.0)	devpkg-gmime
 pkgconfig(gmock)	devpkg-googletest
 pkgconfig(gmock_main)	devpkg-googletest
@@ -382,6 +384,7 @@ pkgconfig(libpeas-gtk-1.0)	devpkg-libpeas
 pkgconfig(libpgtypes)	devpkg-postgresql
 pkgconfig(libpinyin)	devpkg-libpinyin
 pkgconfig(libpipeline)	devpkg-libpipeline
+pkgconfig(libpipewire-0.3)	devpkg-pipewire
 pkgconfig(libpkcs11-helper-1)	devpkg-pkcs11-helper
 pkgconfig(libpmem)	devpkg-pmdk
 pkgconfig(libpmemblk)	devpkg-pmdk
@@ -417,6 +420,7 @@ pkgconfig(libsolvext)	devpkg-libsolv
 pkgconfig(libsoup-2.4)	devpkg-compat-libsoup-soname-24
 pkgconfig(libsoup-3.0)	devpkg-libsoup
 pkgconfig(libsoup-gnome-2.4)	devpkg-compat-libsoup-soname-24
+pkgconfig(libspa-0.2)	devpkg-pipewire
 pkgconfig(libspectre)	devpkg-libspectre
 pkgconfig(libsrtp)	devpkg-libsrtp
 pkgconfig(libssh)	devpkg-libssh

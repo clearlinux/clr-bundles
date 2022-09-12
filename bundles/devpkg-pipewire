@@ -8,3 +8,9 @@
 include(devpkg-base)
 
 pipewire-dev
+include(libX11client)
+include(gnome-base-libs)
+include(lib-openssl)
+include(libglib)
+include(gstreamer)
+include(libstdcpp)
