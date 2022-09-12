@@ -20,3 +20,5 @@ procps-ng-bin
 systemd-bootchart
 systemd
 systemd-lib
+shadow
+systemd-man
