@@ -10,5 +10,5 @@ include(xz)
 yaml-lib
 glib-lib
 glib-bin
-icu4c-lib
+#icu4c-lib
 dbus-lib
