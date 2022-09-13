@@ -10,4 +10,3 @@ include(devpkg-openssl)
 include(devpkg-zlib)
 
 libssh2-dev
-include(lib-openssl)

@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 systemd-dev
-include(lib-openssl)

@@ -11,7 +11,6 @@ include(devpkg-gstreamer)
 
 gst-plugins-bad-dev
 include(libX11client)
-include(lib-openssl)
 include(curl)
 include(libglib)
 include(gstreamer)

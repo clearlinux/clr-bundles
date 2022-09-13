@@ -9,5 +9,4 @@ include(devpkg-base)
 
 openvswitch-dev
 include(libstdcpp)
-include(lib-openssl)
 include(openvswitch)
