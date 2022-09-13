@@ -641,9 +641,7 @@ R-RNetCDF
 R-rstan
 R-rstanarm
 R-rstantools
-include(R-rstudio)
 R-rstudioapi
-R-rstudio-server
 R-rsvg
 R-Rtsne
 R-RUnit
