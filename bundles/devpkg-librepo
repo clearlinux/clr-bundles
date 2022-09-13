@@ -13,6 +13,5 @@ include(devpkg-libxml2)
 include(devpkg-openssl)
 
 librepo-dev
-include(lib-openssl)
 include(curl)
 include(libglib)
