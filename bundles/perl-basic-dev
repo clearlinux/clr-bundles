@@ -33,7 +33,6 @@ buildreq-golang
 buildreq-meson
 bzip2
 clr-rpm-config
-compat-openssl-soname11-dev32
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

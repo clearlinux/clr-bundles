@@ -40,7 +40,6 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 clr-rpm-config
-compat-openssl-soname11-dev32
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -373,7 +372,6 @@ talloc
 include(devpkg-talloc)
 tar
 tcl
-tcl-dev
 include(texinfo)
 thin-provisioning-tools
 tokyocabinet-dev

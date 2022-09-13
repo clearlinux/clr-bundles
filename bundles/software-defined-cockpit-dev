@@ -79,7 +79,6 @@ cmake
 cmocka-dev
 include(devpkg-colord)
 include(devpkg-compat-libsoup-soname-24)
-compat-openssl-soname11-dev32
 coreutils
 cppcheck
 cracklib-dev

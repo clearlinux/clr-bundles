@@ -48,7 +48,6 @@ check-dev
 check-dev32
 clr-hardware-files
 clr-rpm-config
-compat-openssl-soname11-dev32
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

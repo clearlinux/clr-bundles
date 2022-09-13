@@ -700,7 +700,6 @@ include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
 include(devpkg-compat-libsoup-soname-24)
-compat-openssl-soname11-dev32
 coreutils
 cppunit-dev
 cracklib-dev
@@ -752,6 +751,7 @@ flac-dev32
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 include(devpkg-font-util)
 font-util-dev32
 fontconfig-data

@@ -119,7 +119,6 @@ include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-glibmm-soname24)
 compat-libsigc++-soname20-dev
 include(devpkg-compat-libsoup-soname-24)
-compat-openssl-soname11-dev32
 include(devpkg-compat-pangomm-soname14)
 include(devpkg-compat-rest-soname07)
 include(devpkg-compat-webkitgtk-soname40)
@@ -194,6 +193,7 @@ include(devpkg-flatpak)
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
@@ -1060,6 +1060,7 @@ tracker-dev
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
+umockdev-dev
 include(unzip)
 upower-dev
 usrbinpython

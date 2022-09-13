@@ -86,7 +86,6 @@ cmocka-dev
 include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-libsoup-soname-24)
-compat-openssl-soname11-dev32
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -136,6 +135,7 @@ flac-dev32
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
