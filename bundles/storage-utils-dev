@@ -42,6 +42,7 @@ buildreq-kde
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
+cJSON-dev
 check-dev
 check-dev32
 cifs-utils-dev

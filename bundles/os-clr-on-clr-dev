@@ -115,6 +115,7 @@ bzip2
 include(devpkg-bzip2)
 bzip2-dev32
 c-ares-dev
+cJSON-dev
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)

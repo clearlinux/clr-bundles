@@ -91,6 +91,7 @@ buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
+cJSON-dev
 ca-certs
 include(devpkg-cairo)
 include(devpkg-cairomm)
