@@ -230,6 +230,7 @@ include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pcre2-dev32
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl

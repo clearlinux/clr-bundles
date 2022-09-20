@@ -248,6 +248,8 @@ include(patch)
 patchelf
 include(devpkg-pcre)
 pcre-dev32
+include(devpkg-pcre2)
+pcre2-dev32
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
@@ -442,6 +444,7 @@ tevent-python3
 include(texinfo)
 thin-provisioning-tools
 tk-dev
+tracker-dev
 include(tzdata)
 include(unzip)
 include(devpkg-userspace-rcu)

@@ -160,6 +160,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc-staticdev
 gcc7-dev
 gcc8-dev
 include(devpkg-gcr)
@@ -458,6 +459,7 @@ patchelf
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pcre2-dev32
 perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl

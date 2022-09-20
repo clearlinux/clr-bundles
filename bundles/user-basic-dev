@@ -186,6 +186,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc-staticdev
 gcc7-dev
 gcc8-dev
 gdal-dev
@@ -526,6 +527,7 @@ include(devpkg-pcre)
 pcre-dev32
 pcre2
 include(devpkg-pcre2)
+pcre2-dev32
 pcsc-lite-dev
 perl
 perl-B-Hooks-EndOfScope-perl
@@ -870,6 +872,7 @@ tk
 tk-dev
 tokyocabinet-dev
 tpm2-tss-dev
+tracker-dev
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)

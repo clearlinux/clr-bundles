@@ -233,6 +233,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc-staticdev
 gcc11-dev
 gcc7-dev
 gcc8-dev
@@ -685,6 +686,7 @@ pcre
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pcre2-dev32
 pcsc-lite-dev
 perl
 perl-Algorithm-Diff-perl
@@ -1151,6 +1153,7 @@ tk
 tk-dev
 tokyocabinet-dev
 tpm2-tss-dev
+tracker-dev
 include(tzdata)
 unixODBC-dev
 include(unzip)
