@@ -50,5 +50,4 @@ squashfs-tools
 also-add(sshfs)
 tdb-lib
 thin-provisioning-tools
-usermode
 include(xfsprogs)

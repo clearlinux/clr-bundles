@@ -12,4 +12,3 @@ also-add(dnf)
 mock
 rpm
 rpm-extras
-usermode
