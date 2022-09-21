@@ -176,6 +176,7 @@ gettext-dev
 include(ghostscript)
 ghostscript-dev
 gi-docgen
+gi-docgen-dev
 include(git)
 include(gjs)
 include(devpkg-gjs)
