@@ -7,7 +7,7 @@
 
 include(devpkg-base)
 include(devpkg-libffi)
-include(devpkg-pcre)
+include(devpkg-pcre2)
 include(devpkg-util-linux)
 include(devpkg-zlib)
 
