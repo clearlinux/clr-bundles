@@ -67,9 +67,7 @@ asciidoc
 include(aspell)
 aspell-dev
 assimp-dev
-include(devpkg-at-spi2-atk)
 include(devpkg-at-spi2-core)
-include(devpkg-atk)
 include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
