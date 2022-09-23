@@ -407,6 +407,7 @@ include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
 libclc-dev
+libcloudproviders-dev
 include(devpkg-libconfig)
 include(devpkg-libcroco)
 include(devpkg-libdaemon)

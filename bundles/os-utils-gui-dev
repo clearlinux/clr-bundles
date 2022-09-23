@@ -258,6 +258,7 @@ gtk-doc
 gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
+include(devpkg-gtk4)
 include(devpkg-gtkmm3)
 include(devpkg-gtkspell3)
 include(guile)

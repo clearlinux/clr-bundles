@@ -161,7 +161,6 @@ gcc-libstdc++32
 gcc-staticdev
 gcc7-dev
 gcc8-dev
-include(devpkg-gcr)
 include(gdb)
 gdb-dev
 gdbm-dev
