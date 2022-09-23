@@ -337,7 +337,6 @@ pkgconfig(libmpg123)	devpkg-mpg123
 pkgconfig(libmspack)	devpkg-libmspack
 pkgconfig(libmtp)	devpkg-libmtp
 pkgconfig(libmypaint)	devpkg-libmypaint
-pkgconfig(libnautilus-extension)	devpkg-nautilus
 pkgconfig(libndctl)	devpkg-ndctl
 pkgconfig(libndp)	devpkg-libndp
 pkgconfig(libnetfilter_conntrack)	devpkg-libnetfilter_conntrack
