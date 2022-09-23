@@ -1196,8 +1196,11 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 include(pygobject)
 pypi-absl_py-python3
+pypi-appdirs-python3
+pypi-attrs-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
+pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-charset_normalizer-python3
@@ -1213,6 +1216,7 @@ pypi-filecache-python3
 pypi-filelock-python3
 pypi-flit-python3
 pypi-flit_core-python3
+pypi-flit_scm-python3
 pypi-freezegun-python3
 pypi-future-python3
 pypi-gitdb-python3
@@ -1239,6 +1243,7 @@ pypi-pillow-python3
 pypi-pip
 pypi-platformdirs-python3
 pypi-pluggy
+pypi-poetry_core-python3
 pypi-psutil-python3
 pypi-ptyprocess-python3
 pypi-py

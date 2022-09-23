@@ -257,6 +257,7 @@ include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
+gi-docgen-dev
 giflib-dev
 include(git)
 include(gjs)
@@ -265,6 +266,7 @@ glib-bin
 include(devpkg-glib)
 glib-dev32
 glib-networking
+glib-networking-lib32
 glibc-bin
 glibc-dev
 glibc-dev32
@@ -513,6 +515,7 @@ libpciaccess-dev32
 include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
+libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
@@ -552,7 +555,6 @@ libunwind-dev32
 liburing-dev
 include(devpkg-libusb)
 libusb-dev32
-include(devpkg-libuser)
 include(devpkg-libuv)
 include(devpkg-libva)
 libvdpau-dev
@@ -1119,8 +1121,6 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 sssd-dev
-startup-notification
-include(devpkg-startup-notification)
 stoken-dev
 include(strace)
 include(devpkg-subunit)

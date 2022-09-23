@@ -577,7 +577,7 @@ mkfontscale-bin
 mm-common-dev
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
-include(devpkg-mozjs91)
+mozjs102-dev
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
@@ -815,6 +815,7 @@ pypi-booleanoperations-python3
 pypi-bracex-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
+pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3

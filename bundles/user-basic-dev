@@ -423,7 +423,6 @@ libunwind-dev32
 liburing-dev
 include(devpkg-libusb)
 libusb-dev32
-include(devpkg-libuser)
 include(devpkg-libuv)
 include(devpkg-libva)
 libvdpau-dev
@@ -686,9 +685,12 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 include(pygobject)
 pypi-absl_py-python3
+pypi-appdirs-python3
+pypi-attrs-python3
 pypi-bcrypt-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
+pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-charset_normalizer-python3
@@ -710,6 +712,7 @@ pypi-filecache-python3
 pypi-filelock-python3
 pypi-flit-python3
 pypi-flit_core-python3
+pypi-flit_scm-python3
 pypi-freezegun-python3
 pypi-future-python3
 pypi-gitdb-python3
@@ -748,6 +751,7 @@ pypi-pip-python3
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-ply-python3
+pypi-poetry_core-python3
 pypi-prettytable-python3
 pypi-psutil-python3
 pypi-ptyprocess-python3
@@ -842,8 +846,6 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 sssd-dev
-startup-notification
-include(devpkg-startup-notification)
 stoken-dev
 include(strace)
 include(devpkg-subunit)

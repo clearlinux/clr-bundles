@@ -201,7 +201,6 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 include(devpkg-libusb)
-include(devpkg-libuser)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(libxml2)
@@ -424,8 +423,6 @@ shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sssd-dev
-startup-notification
-include(devpkg-startup-notification)
 include(strace)
 swig
 systemd-bin
