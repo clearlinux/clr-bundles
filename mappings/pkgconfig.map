@@ -20,8 +20,8 @@ pkgconfig(alsa)	devpkg-alsa-lib
 pkgconfig(appstream)	devpkg-appstream
 pkgconfig(apr-1)	devpkg-apr
 pkgconfig(apr-util-1)	devpkg-apr-util
-pkgconfig(atk)	devpkg-atk
-pkgconfig(atk-bridge-2.0)	devpkg-at-spi2-atk
+pkgconfig(atk)	devpkg-at-spi2-core
+pkgconfig(atk-bridge-2.0)	devpkg-at-spi2-core
 pkgconfig(atkmm-1.6)	devpkg-compat-atkmm-soname16
 pkgconfig(atspi-2)	devpkg-at-spi2-core
 pkgconfig(audit)	devpkg-audit
@@ -498,7 +498,7 @@ pkgconfig(md4c)	devpkg-md4c
 pkgconfig(mit-krb5)	devpkg-krb5
 pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mount)	devpkg-util-linux
-pkgconfig(mozjs-91)	devpkg-mozjs91
+pkgconfig(mozjs-102)	devpkg-mozjs102
 pkgconfig(ncurses)	devpkg-ncurses
 pkgconfig(ncursesw)	devpkg-ncurses
 pkgconfig(nettle)	devpkg-nettle
