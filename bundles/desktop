@@ -22,7 +22,6 @@ also-add(hardware-printing)
 
 # Low level UI requirements
 # gir/typelibs have been split out and we need them.
-atk-data
 bluez
 bolt
 caribou

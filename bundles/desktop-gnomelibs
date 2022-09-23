@@ -26,7 +26,6 @@ gnome-desktop-lib
 gnome-keyring-lib
 librsvg-lib
 ibus-lib
-atk-lib
 libnotify-lib
 alsa-plugins-lib
 libappindicator-lib

@@ -8,7 +8,7 @@ include(ethtool)
 include(iproute2)
 include(p11-kit)
 include(libstdcpp)
-
+include(libglib)
 include(perl-basic)
 
 LVM2-bin
