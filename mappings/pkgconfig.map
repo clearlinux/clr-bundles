@@ -89,11 +89,11 @@ pkgconfig(fwupd)	devpkg-fwupd
 pkgconfig(gail)	devpkg-gtkplus
 pkgconfig(gail-3.0)	devpkg-gtk3
 pkgconfig(gbm)	devpkg-mesa
-pkgconfig(gck-1)	devpkg-gcr
+pkgconfig(gck-1)	devpkg-compat-gcr-soname1
 pkgconfig(gconf-2.0)	devpkg-GConf
-pkgconfig(gcr-3)	devpkg-gcr
-pkgconfig(gcr-base-3)	devpkg-gcr
-pkgconfig(gcr-ui-3)	devpkg-gcr
+pkgconfig(gcr-3)	devpkg-compat-gcr-soname1
+pkgconfig(gcr-base-3)	devpkg-compat-gcr-soname1
+pkgconfig(gcr-ui-3)	devpkg-compat-gcr-soname1
 pkgconfig(gdk-2.0)	devpkg-gtkplus
 pkgconfig(gdk-3.0)	devpkg-gtk3
 pkgconfig(gdk-pixbuf-2.0)	devpkg-gdk-pixbuf
@@ -109,7 +109,6 @@ pkgconfig(gee-0.8)	devpkg-libgee
 pkgconfig(gegl-0.4)	devpkg-gegl
 pkgconfig(gegl-sc-0.4)	devpkg-gegl
 pkgconfig(geoclue-2.0)	devpkg-geoclue
-pkgconfig(geocode-glib-1.0)	devpkg-geocode-glib
 pkgconfig(gexiv2)	devpkg-gexiv2
 pkgconfig(gflags)	devpkg-gflags
 pkgconfig(gimp-2.0)	devpkg-gimp

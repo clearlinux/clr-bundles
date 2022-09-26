@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-gnome-online-accounts
-# [DESCRIPTION]: All content for pkgconfig file gnome-online-accounts.pc.
+# [TITLE]: devpkg-compat-gcr-soname1
+# [DESCRIPTION]: All content for pkgconfig file compat-gcr-soname1.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -9,8 +9,8 @@ include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-gtk3)
+include(devpkg-p11-kit)
 
-gnome-online-accounts-dev
-include(libglib)
+compat-gcr-soname1-dev
 include(libX11client)
-include(webkitgtk)
+include(libglib)
