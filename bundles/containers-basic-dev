@@ -44,6 +44,7 @@ include(devpkg-bzip2)
 ca-certs
 check-dev
 clr-rpm-config
+include(devpkg-compat-gcr-soname1)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

@@ -132,6 +132,7 @@ include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
+include(devpkg-compat-gcr-soname1)
 include(devpkg-compat-libsoup-soname-24)
 confuse-dev
 coreutils
