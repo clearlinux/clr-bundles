@@ -255,8 +255,8 @@ gtk-doc
 gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
-include(devpkg-gtk4)
 include(devpkg-gtkmm3)
+gtksourceview-dev
 include(devpkg-gtkspell3)
 include(guile)
 gvfs-dev
@@ -321,6 +321,7 @@ libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
 libabigail
+libadwaita-dev
 libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libass)

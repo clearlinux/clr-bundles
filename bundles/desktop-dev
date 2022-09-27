@@ -175,7 +175,6 @@ include(devpkg-elfutils)
 elfutils-dev32
 ell-dev
 emacs
-include(devpkg-enchant)
 include(devpkg-evolution-data-server)
 include(devpkg-exiv2)
 include(devpkg-expat)
@@ -311,6 +310,7 @@ gtk3-bin
 include(devpkg-gtk3)
 include(devpkg-gtk4)
 include(devpkg-gtkmm3)
+gtksourceview-dev
 include(guile)
 include(devpkg-gutenprint)
 gvfs-dev

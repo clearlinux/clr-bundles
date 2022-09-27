@@ -64,7 +64,6 @@ R-R6
 R-RANN
 R-RColorBrewer
 R-RCurl
-R-RJSONIO
 R-RNeXML
 R-ROCR
 R-RSQLite
@@ -245,7 +244,6 @@ R-gert
 R-getopt
 R-ggfortify
 R-ggplot2
-R-ggplot2movies
 R-ggridges
 R-gh
 R-gitcreds
@@ -1234,7 +1232,6 @@ pypi-markdown-python3
 pypi-matplotlib-python3
 pypi-munkres-python3
 pypi-nose
-pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pillow-python3
