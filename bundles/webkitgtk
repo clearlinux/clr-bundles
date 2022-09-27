@@ -14,6 +14,7 @@ include(lib-imageformat)
 # start of custom additions (edits outside this area will be removed automatically)
 # sadly this one is still super common
 compat-webkitgtk-soname40
+webkitgtk50
 # end of custom additions
 
 # main package
