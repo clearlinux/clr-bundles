@@ -218,7 +218,7 @@ pkgconfig(inputproto)	devpkg-xorgproto
 pkgconfig(iso-codes)	devpkg-iso-codes
 pkgconfig(jack)	devpkg-jack2
 pkgconfig(jansson)	devpkg-jansson
-pkgconfig(javascriptcoregtk-4.0)	devpkg-compat-webkitgtk-soname40
+pkgconfig(javascriptcoregtk-4.1)	devpkg-webkitgtk
 pkgconfig(jcat)	devpkg-libjcat
 pkgconfig(json-c)	devpkg-json-c
 pkgconfig(json-glib-1.0)	devpkg-json-glib
@@ -555,7 +555,7 @@ pkgconfig(wayland-client)	devpkg-wayland
 pkgconfig(wayland-cursor)	devpkg-wayland
 pkgconfig(wayland-egl)	devpkg-wayland
 pkgconfig(wayland-server)	devpkg-wayland
-pkgconfig(webkit2gtk-4.0)	devpkg-compat-webkitgtk-soname40
+pkgconfig(webkit2gtk-4.1)	devpkg-webkitgtk
 pkgconfig(x11)	devpkg-libX11
 pkgconfig(x11-xcb)	devpkg-libX11
 pkgconfig(xapian-core)	devpkg-xapian-core
