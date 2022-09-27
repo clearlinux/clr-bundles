@@ -39,7 +39,7 @@ pypi-lxml
 mypy
 pypi-nose
 pypi-numpy
-pathlib2
+pypi-pathlib2
 pypi-pbr
 pypi-pytest
 pypi-pytest_cov
