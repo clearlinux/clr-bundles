@@ -1,6 +1,6 @@
 # [TITLE]: devpkg-pacrunner
 # [DESCRIPTION]: All content for pkgconfig file pacrunner.pc.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
@@ -8,6 +8,5 @@
 include(devpkg-base)
 include(devpkg-dbus)
 
-pacrunner-dev
 include(curl)
 include(libglib)

@@ -463,7 +463,6 @@ orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
-include(devpkg-pacrunner)
 pandas-python3
 include(pandoc)
 include(devpkg-pango)

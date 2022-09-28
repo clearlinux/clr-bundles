@@ -203,7 +203,6 @@ openssl-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
-include(devpkg-pacrunner)
 include(pandoc)
 include(patch)
 patchelf
