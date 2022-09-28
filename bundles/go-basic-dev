@@ -515,6 +515,7 @@ python3-dev
 include(python3-tcl)
 qhull-dev
 include(devpkg-qtbase)
+include(devpkg-qttools)
 include(devpkg-readline)
 readline-dev32
 include(rsync)

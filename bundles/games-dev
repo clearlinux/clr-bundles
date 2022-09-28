@@ -665,6 +665,7 @@ qemu
 qrencode-dev
 include(devpkg-qtbase)
 qtbase-extras
+include(devpkg-qttools)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32

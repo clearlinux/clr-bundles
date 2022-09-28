@@ -678,6 +678,7 @@ qemu-dev
 qemu-setuid
 qrencode-dev
 include(devpkg-qtbase)
+include(devpkg-qttools)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)

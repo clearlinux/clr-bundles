@@ -963,6 +963,9 @@ pypi-tox
 pypi-tox-python3
 pypi-trampolim-python3
 pypi-typed_ast-python3
+pypi-types_psutil-python3
+pypi-types_setuptools-python3
+pypi-types_typed_ast-python3
 pypi-typing_extensions-python3
 pypi-typogrify-python3
 pypi-ufolib2-python3

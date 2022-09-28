@@ -561,6 +561,7 @@ include(python3-tcl)
 qatlib-dev
 qhull-dev
 include(devpkg-qtbase)
+include(devpkg-qttools)
 include(devpkg-readline)
 readline-dev32
 rpm

@@ -1288,6 +1288,7 @@ qhull-dev
 qrencode-dev
 include(devpkg-qtbase)
 qtbase-extras
+include(devpkg-qttools)
 include(devpkg-readline)
 readline-dev32
 include(rsync)
