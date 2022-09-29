@@ -394,7 +394,7 @@ pkgconfig(libpq)	devpkg-postgresql
 pkgconfig(libprocps)	devpkg-procps-ng
 pkgconfig(libprofiler)	devpkg-gperftools
 pkgconfig(libprotobuf-c)	devpkg-protobuf-c
-pkgconfig(libproxy-1.0)	devpkg-pacrunner
+pkgconfig(libproxy-1.0)	devpkg-libproxy
 pkgconfig(libpsl)	devpkg-libpsl
 pkgconfig(libpulse)	devpkg-pulseaudio
 pkgconfig(libpulse-mainloop-glib)	devpkg-pulseaudio

@@ -1,15 +1,13 @@
-# [TITLE]: devpkg-ostree
-# [DESCRIPTION]: All content for pkgconfig file ostree.pc.
+# [TITLE]: devpkg-libproxy
+# [DESCRIPTION]: All content for pkgconfig file libproxy.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-glib)
-include(libglib)
+include(devpkg-dbus)
 
-ostree-dev
-include(curl)
+libproxy-dev
+include(libstdcpp)
 include(libglib)
-include(xz)
