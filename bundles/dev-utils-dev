@@ -249,6 +249,7 @@ libpciaccess-dev32
 include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
+include(devpkg-libproxy)
 include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-librsvg)

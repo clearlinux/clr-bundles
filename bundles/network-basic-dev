@@ -189,6 +189,7 @@ libnftnl-dev32
 include(devpkg-libnl)
 include(devpkg-libpcap)
 include(devpkg-libpng)
+include(devpkg-libproxy)
 libpwquality-dev
 include(devpkg-librsvg)
 include(devpkg-libseccomp)

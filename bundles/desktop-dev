@@ -481,6 +481,7 @@ include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
 libportal-dev
+include(devpkg-libproxy)
 include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)

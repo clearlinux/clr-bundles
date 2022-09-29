@@ -343,6 +343,7 @@ include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
 libpng-dev32
+include(devpkg-libproxy)
 include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)

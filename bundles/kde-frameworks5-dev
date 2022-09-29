@@ -361,6 +361,7 @@ include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
 libpng-dev32
+include(devpkg-libproxy)
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev

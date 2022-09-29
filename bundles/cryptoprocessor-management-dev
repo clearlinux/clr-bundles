@@ -144,6 +144,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+include(devpkg-libproxy)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32

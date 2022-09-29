@@ -224,6 +224,7 @@ libnftnl-dev32
 include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
+include(devpkg-libproxy)
 libpwquality-dev
 include(devpkg-librsvg)
 include(devpkg-libseccomp)
