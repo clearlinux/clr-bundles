@@ -8,3 +8,4 @@ include(os-core)
 include(libglib)
 include(p11-kit)
 
+pacrunner

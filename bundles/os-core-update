@@ -18,6 +18,7 @@ clr-update-triggers
 efibootmgr-bin
 findutils-bin
 gzip-bin
+pacrunner
 pigz-bin
 swupd-client
 swupd-overdue
