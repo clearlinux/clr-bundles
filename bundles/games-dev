@@ -121,6 +121,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(doxygen)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)

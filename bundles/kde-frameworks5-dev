@@ -16,6 +16,7 @@ include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
+include(devpkg-NetworkManager)
 PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)

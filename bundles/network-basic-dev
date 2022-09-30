@@ -13,6 +13,7 @@ CUnit-dev32
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
+include(devpkg-NetworkManager)
 acl-bin
 include(devpkg-acl)
 acl-dev32
@@ -66,6 +67,7 @@ include(diffutils)
 include(docbook-utils)
 docbook-xml
 include(doxygen)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)

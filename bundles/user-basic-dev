@@ -25,6 +25,7 @@ LVM2-extras
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
+include(devpkg-NetworkManager)
 OpenSP
 PyYAML-python3
 include(devpkg-SDL)
