@@ -636,6 +636,7 @@ include(devpkg-nftables)
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
+nmap-extras
 nodejs
 npth-dev
 include(devpkg-nspr)
@@ -872,6 +873,7 @@ include(procps-ng)
 procps-ng-bin
 proj
 include(devpkg-proj)
+include(devpkg-protobuf-c)
 protobuf-dev
 pugixml-dev
 include(devpkg-pulseaudio)

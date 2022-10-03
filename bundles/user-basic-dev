@@ -480,6 +480,7 @@ include(devpkg-nftables)
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
+nmap-extras
 include(devpkg-nspr)
 nss-altfiles
 nss-bin
@@ -679,6 +680,7 @@ processor-trace-dev
 procmail
 include(procps-ng)
 procps-ng-bin
+include(devpkg-protobuf-c)
 protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32

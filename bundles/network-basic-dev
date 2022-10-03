@@ -234,6 +234,7 @@ nettle-dev32
 include(devpkg-nftables)
 include(devpkg-nghttp2)
 nghttp2-dev32
+nmap-extras
 nss-altfiles
 include(devpkg-nss)
 openconnect-dev
@@ -387,6 +388,7 @@ pkg-config-dev
 include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
+include(devpkg-protobuf-c)
 include(pypi-cython)
 pypi-docutils
 pypi-jinja2-python3
