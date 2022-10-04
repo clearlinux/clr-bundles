@@ -57,6 +57,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
+curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 include(devpkg-dbus)
@@ -94,6 +95,7 @@ gcc-libgcc32
 gcc-libstdc++32
 gcc7-dev
 gcc8-dev
+include(gdb)
 gdb-dev
 gdbm-dev
 gettext
