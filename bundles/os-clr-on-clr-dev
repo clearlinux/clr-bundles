@@ -1084,7 +1084,6 @@ include(devpkg-rdma-core)
 re2c
 include(devpkg-readline)
 readline-dev32
-rpcbind
 rpm
 rpm-dev
 rpm-extras

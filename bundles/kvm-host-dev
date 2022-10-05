@@ -684,7 +684,6 @@ rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
-rpcbind
 include(rsync)
 ruby
 rustc
