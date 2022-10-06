@@ -1,0 +1,14 @@
+# [TITLE]: stress-ng
+# [DESCRIPTION]: stress-ng will stress test a computer system in various selectable ways
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+stress-ng
