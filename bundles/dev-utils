@@ -51,7 +51,7 @@ rt-tests
 scdoc
 source-highlight
 include(strace)
-stress-ng
+include(stress-ng)
 swupd-search
 tig
 trace-cmd
