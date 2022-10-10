@@ -58,6 +58,7 @@ include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
 curl-dev32
+curl-mini-dev
 include(devpkg-cyrus-sasl)
 datefudge
 include(devpkg-dbus)

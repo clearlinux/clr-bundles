@@ -147,6 +147,7 @@ include(devpkg-cups)
 include(curl)
 include(devpkg-curl)
 curl-dev32
+curl-mini-dev
 cycler-python3
 include(devpkg-cyrus-sasl)
 datefudge
