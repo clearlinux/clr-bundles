@@ -38,7 +38,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
@@ -298,7 +297,6 @@ shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
-swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

@@ -36,7 +36,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
@@ -236,7 +235,6 @@ shadow
 shared-mime-info
 slang-dev
 include(strace)
-swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

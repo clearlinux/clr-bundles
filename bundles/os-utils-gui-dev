@@ -69,7 +69,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -198,7 +197,6 @@ include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
-gi-docgen-dev
 include(git)
 include(gjs)
 include(devpkg-gjs)

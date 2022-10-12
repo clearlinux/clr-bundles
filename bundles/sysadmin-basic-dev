@@ -38,7 +38,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-meson
 buildreq-qmake
 bzip2
@@ -384,7 +383,6 @@ shadow-dev
 shared-mime-info
 slang-dev
 include(strace)
-swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

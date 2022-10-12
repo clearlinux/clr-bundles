@@ -81,7 +81,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -889,6 +888,7 @@ pypi-packaging-python3
 pypi-partd-python3
 pypi-pbr
 pypi-pbr-python3
+pypi-pep517-python3
 pypi-pep8-python3
 pypi-pillow-python3
 pypi-pip

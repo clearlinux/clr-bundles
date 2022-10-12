@@ -29,7 +29,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils3
-buildreq-golang
 buildreq-meson
 bzip2
 clr-rpm-config
@@ -338,7 +337,6 @@ ruby
 sed
 shadow
 include(strace)
-swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

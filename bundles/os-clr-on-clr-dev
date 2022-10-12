@@ -257,7 +257,6 @@ include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
-gi-docgen-dev
 giflib-dev
 include(git)
 include(gjs)
@@ -1180,6 +1179,8 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+weston
+weston-dev
 include(wget)
 include(which)
 include(devpkg-woff2)
