@@ -65,6 +65,7 @@ pango
 include(pygobject)
 shared-mime-info
 include(tzdata)
+pygobject-extras
 
 # a11y
 at-spi2-core
