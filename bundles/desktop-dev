@@ -65,6 +65,7 @@ include(devpkg-avahi)
 include(devpkg-babl)
 bash-completion-dev
 bats
+include(bc)
 bdftopcf
 include(binutils)
 binutils-dev

@@ -27,6 +27,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
+include(bc)
 include(binutils)
 binutils-dev
 include(bison)
@@ -140,6 +141,7 @@ libX11-dev32
 libabigail
 libaio-dev
 libbpf-dev
+include(devpkg-libbsd)
 libc6-dev
 include(devpkg-libcap)
 libcap-dev32
