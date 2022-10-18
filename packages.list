@@ -450,3 +450,4 @@ btop # Resource monitor for cpu, memory, disks, network, processes
 wslu # A collection of utilities for the Linux Subsystem for Windows
 xdg-desktop-portal # Desktop integration portal
 stress-ng # stress-ng will stress test a computer system in various selectable ways
+gpsd # Service daemon for mediating access to a GPS 
