@@ -141,7 +141,6 @@ libX11-dev32
 libabigail
 libaio-dev
 libbpf-dev
-include(devpkg-libbsd)
 libc6-dev
 include(devpkg-libcap)
 libcap-dev32
