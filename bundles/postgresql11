@@ -1,8 +1,7 @@
 # [TITLE]: postgresql11
 # [DESCRIPTION]: Object-relational SQL database, version 11.x
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Qi Zheng <qi.zheng@intel.com>
-include(postgresql)
-
+filesystem
