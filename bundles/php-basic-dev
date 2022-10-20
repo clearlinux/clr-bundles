@@ -234,7 +234,6 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 nss-altfiles
 onig-dev
-openjade-dev
 openjdk
 openjdk-dev
 openldap-dev
