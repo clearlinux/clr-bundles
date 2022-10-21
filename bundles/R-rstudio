@@ -1,6 +1,6 @@
 # [TITLE]: R-rstudio
 # [DESCRIPTION]: RStudio is an integrated development environment (IDE) for the R programming language
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages, Data Science, R
 # [MAINTAINER]: <thiago.macieira@intel.com>
@@ -17,4 +17,4 @@ include(R-basic)
 # end of custom additions
 
 # main package
-R-rstudio
+#R-rstudio
