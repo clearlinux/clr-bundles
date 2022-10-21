@@ -1,0 +1,11 @@
+# [TITLE]: os-cloudguest-equinix
+# [DESCRIPTION]: Run any initialization processes required of an Equinix server.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Other
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+include(sudo)
+include(libglib)
+
+e2fsprogs-extras
+micro-config-drive-equinix
