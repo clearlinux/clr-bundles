@@ -84,9 +84,11 @@ dav1d-dev
 db
 include(devpkg-dbus)
 dbus-dev32
+dbus-python
 dejagnu
 desktop-file-utils
 include(diffutils)
+dlm-dev
 include(docbook-utils)
 docbook-xml
 include(doxygen)
@@ -313,6 +315,7 @@ nss-altfiles
 include(devpkg-numactl)
 onig-dev
 include(openblas)
+include(devpkg-openblas)
 opencl-headers-dev
 openjdk
 openjdk-dev
@@ -484,6 +487,7 @@ pypi-certifi-python3
 pypi-cffi-python3
 pypi-charset_normalizer-python3
 pypi-commonmark
+pypi-contourpy-python3
 pypi-cppy-python3
 include(pypi-cython)
 pypi-cython-python3
@@ -509,6 +513,7 @@ pypi-jinja2-python3
 pypi-kiwisolver-python3
 pypi-lxml
 pypi-matplotlib-python3
+pypi-meson_python
 pypi-munkres-python3
 pypi-nose
 pypi-numpy-python3
@@ -529,6 +534,7 @@ pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pynacl-python3
+pypi-pyomo-python3
 pypi-pyparsing-python3
 pypi-pytest
 pypi-pytest_runner
@@ -542,7 +548,6 @@ pypi-ruamel.yaml.clib-python3
 pypi-seaborn-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
-pypi-setuptools_scm_git_archive-python3
 pypi-six-python3
 pypi-smmap-python3
 pypi-tornado-python3
@@ -559,6 +564,7 @@ python3-core
 python3-dev
 python3-staticdev
 include(python3-tcl)
+pyudev
 qatlib-dev
 qhull-dev
 include(devpkg-qtbase)

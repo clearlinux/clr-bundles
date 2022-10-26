@@ -93,7 +93,6 @@ include(devpkg-compat-webkitgtk-soname40)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 cups
 include(devpkg-cups)
 include(devpkg-curl)
@@ -116,6 +115,7 @@ include(diffutils)
 directx-headers-dev
 directx-headers-staticdev
 directx-headers-staticdev32
+dlm-dev
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -660,6 +660,7 @@ pypi-wrapt-python3
 python3
 python3-core
 python3-dev
+pyudev
 qemu
 qrencode-dev
 include(devpkg-qtbase)

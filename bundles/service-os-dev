@@ -46,16 +46,17 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 include(devpkg-curl)
 curl-dev32
 db
 include(devpkg-dbus)
 dbus-dev32
 include(devpkg-dbus-glib)
+dbus-python
 dejagnu
 desktop-file-utils
 include(diffutils)
+dlm-dev
 include(docbook-utils)
 docbook-xml
 include(doxygen)
@@ -129,6 +130,7 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+include(devpkg-libedit)
 include(devpkg-libevdev)
 include(devpkg-libffi)
 libffi-dev32
@@ -229,6 +231,7 @@ pypi-wheel-python3
 python3
 python3-core
 python3-dev
+pyudev
 include(devpkg-qttools)
 include(devpkg-readline)
 ruby

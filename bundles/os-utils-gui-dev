@@ -130,6 +130,7 @@ include(diffutils)
 directx-headers-dev
 directx-headers-staticdev
 directx-headers-staticdev32
+dlm-dev
 include(docbook-utils)
 docbook-xml
 double-conversion-dev
@@ -759,6 +760,7 @@ python-pocketlint
 python3
 python3-core
 python3-dev
+pyudev
 qatlib-dev
 qemu
 qrencode-dev

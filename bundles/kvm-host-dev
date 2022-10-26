@@ -92,7 +92,6 @@ compat-python310-core
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 cups
 include(devpkg-cups)
 include(devpkg-curl)
@@ -103,6 +102,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
+dbus-python
 dbus-python-dev
 dejagnu
 desktop-file-utils
@@ -110,6 +110,7 @@ include(diffutils)
 directx-headers-dev
 directx-headers-staticdev
 directx-headers-staticdev32
+dlm-dev
 dmidecode
 dnsmasq
 include(docbook-utils)
@@ -675,6 +676,7 @@ python-remoto-python3
 python3
 python3-core
 python3-dev
+pyudev
 qemu
 qemu-dev
 qemu-setuid

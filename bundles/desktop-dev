@@ -156,6 +156,7 @@ include(diffutils)
 directx-headers-dev
 directx-headers-staticdev
 directx-headers-staticdev32
+dlm-dev
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -567,6 +568,7 @@ include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
+meson
 meson-python3
 include(devpkg-metacity)
 mingw-gcc
@@ -613,6 +615,7 @@ include(devpkg-numactl)
 onig-dev
 openal-soft-dev
 include(openblas)
+include(devpkg-openblas)
 openconnect-dev
 openexr-dev
 openjdk
@@ -823,6 +826,7 @@ pypi-cibuildwheel-python3
 pypi-click-python3
 pypi-colorama-python3
 pypi-configparser-python3
+pypi-contourpy-python3
 pypi-coverage-python3
 pypi-cppy-python3
 pypi-cryptography-python3
@@ -876,6 +880,7 @@ pypi-lxml
 pypi-mako
 pypi-markdown-python3
 pypi-matplotlib-python3
+pypi-meson_python
 pypi-mock-python3
 pypi-munkres-python3
 pypi-mypy_extensions-python3
@@ -917,6 +922,7 @@ pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pylint-python3
 pypi-pynacl-python3
+pypi-pyomo-python3
 pypi-pyparsing-python3
 pypi-pytest
 pypi-pytest-python3
@@ -942,7 +948,6 @@ pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3
-pypi-setuptools_scm_git_archive-python3
 pypi-six-python3
 pypi-smmap-python3
 pypi-snowballstemmer-python3
@@ -988,6 +993,7 @@ python3
 python3-core
 python3-dev
 include(python3-tcl)
+pyudev
 qatlib-dev
 qemu
 qhull-dev

@@ -45,16 +45,17 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 include(devpkg-curl)
 curl-dev32
 curl-mini-dev
 datefudge
 include(devpkg-dbus)
 dbus-dev32
+dbus-python
 dejagnu
 desktop-file-utils
 include(diffutils)
+dlm-dev
 include(docbook-utils)
 docbook-xml
 include(doxygen)
@@ -134,6 +135,7 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+include(devpkg-libedit)
 libev-dev
 include(devpkg-libevent)
 libevent-dev32
@@ -226,6 +228,7 @@ pypi-lxml
 python3
 python3-core
 python3-dev
+pyudev
 include(devpkg-qttools)
 include(devpkg-readline)
 readline-dev32

@@ -88,7 +88,6 @@ include(devpkg-compat-libsoup-soname-24)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-ctags
 cups
 include(devpkg-cups)
 include(devpkg-curl)
@@ -100,6 +99,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
+dbus-python
 dbus-python-dev
 dejagnu
 desktop-file-utils
@@ -107,6 +107,7 @@ include(diffutils)
 directx-headers-dev
 directx-headers-staticdev
 directx-headers-staticdev32
+dlm-dev
 include(docbook-utils)
 docbook-xml
 double-conversion-dev
@@ -576,6 +577,7 @@ pypi-wrapt-python3
 python3
 python3-core
 python3-dev
+pyudev
 qca-qt5-dev
 qemu
 qrencode-dev
