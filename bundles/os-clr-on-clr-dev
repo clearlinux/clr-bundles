@@ -169,7 +169,7 @@ ding-libs-dev
 directx-headers-dev
 directx-headers-staticdev
 directx-headers-staticdev32
-distro-python3
+pypi-distro-python3
 dlm-dev
 dmidecode
 include(dnf)

@@ -24,7 +24,7 @@ pypi-certifi
 pypi-coverage
 pypi-cxxfilt
 deap
-distro
+pypi-distro
 pypi-docopt
 pypi-flake8
 pypi-flake8_blind_except
