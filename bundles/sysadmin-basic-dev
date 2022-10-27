@@ -230,7 +230,6 @@ include(patch)
 patchelf
 include(devpkg-pciutils)
 include(devpkg-pcre)
-pcre-dev32
 include(devpkg-pcre2)
 pcre2-dev32
 perl

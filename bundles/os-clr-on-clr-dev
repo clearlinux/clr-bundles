@@ -691,7 +691,6 @@ patchutils
 include(devpkg-pciutils)
 pcre
 include(devpkg-pcre)
-pcre-dev32
 include(devpkg-pcre2)
 pcre2-dev32
 pcsc-lite-dev
@@ -894,6 +893,7 @@ pypi-beniget-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
+pypi-build-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3

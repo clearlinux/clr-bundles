@@ -294,7 +294,6 @@ include(patch)
 patchelf
 patchutils
 include(devpkg-pcre)
-pcre-dev32
 include(devpkg-pcre2)
 pcre2-dev32
 perl
@@ -440,6 +439,7 @@ pypi-appdirs-python3
 pypi-attrs-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
+pypi-build-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
