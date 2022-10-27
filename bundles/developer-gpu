@@ -14,7 +14,6 @@ SPIRV-Tools-dev
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 glslang-bin
-renderdoc
 waffle-dev
 glslang-dev
 SPIRV-Cross-dev
