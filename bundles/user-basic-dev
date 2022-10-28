@@ -108,7 +108,6 @@ cmocka-dev
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
-compat-python310-core
 confuse-dev
 coreutils
 cppcheck
