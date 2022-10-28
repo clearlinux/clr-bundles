@@ -37,7 +37,6 @@ include(devpkg-boost)
 cycler-python
 include(devpkg-eigen)
 include(devpkg-fann)
-pypi-gensim
 include(devpkg-gflags)
 include(devpkg-glog)
 glibc-lib-avx2
