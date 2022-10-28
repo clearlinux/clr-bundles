@@ -34,7 +34,6 @@ also-add(vlc)
 #
 # Non-pundle apps
 #
-chrome-gnome-shell
 FreeRDP
 geany-plugins
 gmic
