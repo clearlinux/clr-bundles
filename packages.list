@@ -402,7 +402,6 @@ salt # Portable, distributed, remote execution and configuration management syst
 pcmanfm # a file manager replacement for Nautilus, Konqueror and Thunar
 protobuf # Protocol Buffers - Google's data interchange format
 krusader # Advanced twin panel (commander style) file manager
-conda # Cross-platform, language-agnostic binary package manager
 spyder-ide # Integrated development environment for scientific programming
 tracker-miners # Collection of data extractors for Tracker/Nepomuk
 dino # Modern XMPP ("Jabber") Chat Client using GTK+/Vala
