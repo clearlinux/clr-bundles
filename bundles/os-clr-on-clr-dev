@@ -134,6 +134,7 @@ include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
 include(devpkg-compat-gcr-soname1)
 include(devpkg-compat-libsoup-soname-24)
+compat-python310-core
 confuse-dev
 coreutils
 cppcheck
@@ -168,7 +169,6 @@ ding-libs-dev
 directx-headers-dev
 directx-headers-staticdev
 directx-headers-staticdev32
-pypi-distro-python3
 dlm-dev
 dmidecode
 include(dnf)
@@ -662,8 +662,6 @@ openexr-dev
 openjade-dev
 openjdk
 openjdk-dev
-openjdk11
-openjdk11-dev
 openjpeg
 openjpeg-dev
 openldap-dev
@@ -916,6 +914,7 @@ pypi-dataclasses-python3
 pypi-decorator-python3
 pypi-deprecated-python3
 pypi-distlib-python3
+pypi-distro-python3
 pypi-dnspython
 pypi-docopt-python3
 pypi-docutils
@@ -1127,6 +1126,7 @@ spice-protocol-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
+sqlite-autoconf-staticdev
 sssd-dev
 stoken-dev
 include(strace)
@@ -1167,6 +1167,8 @@ include(unzip)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
 usrbinpython
+utf8proc
+utf8proc-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

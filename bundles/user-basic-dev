@@ -108,6 +108,7 @@ cmocka-dev
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
+compat-python310-core
 confuse-dev
 coreutils
 cppcheck
@@ -502,8 +503,6 @@ include(devpkg-opencv)
 openexr-dev
 openjdk
 openjdk-dev
-openjdk11
-openjdk11-dev
 openldap-dev
 include(devpkg-openmpi)
 openssh
@@ -852,6 +851,7 @@ spice-protocol-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
+sqlite-autoconf-staticdev
 sssd-dev
 stoken-dev
 include(strace)
@@ -886,6 +886,8 @@ include(tzdata)
 include(unzip)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
+utf8proc
+utf8proc-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
