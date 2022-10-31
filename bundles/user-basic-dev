@@ -868,6 +868,7 @@ talloc-extras
 tar
 tcl
 tcl-dev
+tcl-staticdev
 tdb-dev
 tdb-python3
 tevent-dev
@@ -878,6 +879,8 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+tk-extras
+tk-staticdev
 tokyocabinet-dev
 tpm2-tss-dev
 tracker-dev

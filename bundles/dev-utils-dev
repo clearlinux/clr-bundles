@@ -595,12 +595,15 @@ systemd-lib
 tar
 tcl
 tcl-dev
+tcl-staticdev
 include(texinfo)
 include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+tk-extras
+tk-staticdev
 trace-cmd-dev
 include(tzdata)
 include(unzip)

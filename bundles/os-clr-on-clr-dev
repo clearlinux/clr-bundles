@@ -33,6 +33,7 @@ MarkupSafe-python3
 ModemManager-dev
 include(devpkg-NetworkManager)
 OpenSP
+Pacemaker-dev
 PyYAML
 PyYAML-python3
 R
@@ -136,6 +137,7 @@ include(devpkg-compat-gcr-soname1)
 include(devpkg-compat-libsoup-soname-24)
 confuse-dev
 coreutils
+corosync-dev
 cppcheck
 cppunit-dev
 cracklib-dev
@@ -394,6 +396,7 @@ kpackage-dev
 kparts-dev
 kplotting-dev
 include(devpkg-krb5)
+kronosnet-dev
 kservice-dev
 ktextwidgets-dev
 kunitconversion-dev
@@ -520,6 +523,7 @@ libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
+libqb-dev
 libqmi-dev
 libqrtr-glib-dev
 librdkafka-dev
@@ -539,6 +543,7 @@ libspatialite-dev
 include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
+libstatgrab-dev
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
@@ -941,6 +946,7 @@ pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
 pypi-hypothesis
+pypi-hypothesis-python3
 pypi-idna
 pypi-idna-python3
 pypi-imagesize
@@ -999,6 +1005,7 @@ pypi-pynacl-python3
 pypi-pyomo-python3
 pypi-pyopenssl-python3
 pypi-pyparsing-python3
+pypi-pyproject_metadata-python3
 pypi-pyroute2-python3
 pypi-pyspnego-python3
 pypi-pytest
@@ -1051,6 +1058,7 @@ pypi-virtualenv-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
 pypi-wrapt-python3
+pypi-yapf-python3
 pypi-zipp-python3
 pypi-zopfli-python3
 python-remoto-python3
@@ -1157,6 +1165,8 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+tk-extras
+tk-staticdev
 tokyocabinet-dev
 tpm2-tss-dev
 tracker-dev

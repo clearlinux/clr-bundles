@@ -1325,6 +1325,8 @@ include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+tk-extras
+tk-staticdev
 include(tzdata)
 udunits-dev
 unixODBC-dev

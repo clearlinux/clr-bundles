@@ -435,6 +435,7 @@ talloc-extras
 tar
 tcl
 tcl-dev
+tcl-staticdev
 tdb-dev
 tdb-python3
 tevent-dev
@@ -442,6 +443,8 @@ tevent-python3
 include(texinfo)
 thin-provisioning-tools
 tk-dev
+tk-extras
+tk-staticdev
 tracker-dev
 include(tzdata)
 include(unzip)
