@@ -19,6 +19,7 @@ glibc-bin
 
 #
 PyYAML
+pypi-black
 pypi-boto
 pypi-certifi
 pypi-coverage
@@ -41,6 +42,7 @@ pypi-nose
 pypi-numpy
 pypi-pathlib2
 pypi-pbr
+pypi-pylint
 pypi-pytest
 pypi-pytest_cov
 pypi-pytest_repeat
