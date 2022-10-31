@@ -21,6 +21,7 @@ glibc-bin
 PyYAML
 pypi-black
 pypi-boto
+pypi-build
 pypi-certifi
 pypi-coverage
 pypi-cxxfilt
@@ -32,7 +33,9 @@ pypi-flake8_blind_except
 pypi-flake8_class_newline
 pypi-flake8_docstrings
 pypi-flake8_import_order
+pypi-flit
 glibc-lib-avx2
+pypi-hatchling
 intelhex
 jdcal
 pypi-kcc
@@ -42,6 +45,7 @@ pypi-nose
 pypi-numpy
 pypi-pathlib2
 pypi-pbr
+pypi-poetry
 pypi-pylint
 pypi-pytest
 pypi-pytest_cov
@@ -52,6 +56,7 @@ pypi-python_dateutil
 python-distutils-extra
 pypi-tabulate
 pypi-tap.py
+pypi-tox
 pypi-natsort
 include(python3-tcl)
 python-zeep
@@ -72,6 +77,7 @@ pypi-sphinxcontrib_seqdiag
 pypi-sphinxcontrib_websupport
 pypi-sphinx_feature_classification
 pypi-sphinx_rtd_theme
+pypi-twine
 pypi-urllib3
 pypi-ldap3
 pypi-neat_python
