@@ -1192,11 +1192,11 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 include(pygobject)
 pypi-absl_py-python3
+pypi-aiohttp-python3
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
-pypi-build-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3

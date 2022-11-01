@@ -587,6 +587,7 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 include(pygobject)
 pypi-absl_py-python3
+pypi-aiohttp-python3
 pypi-bcrypt-python3
 pypi-certifi-python3
 pypi-cffi-python3

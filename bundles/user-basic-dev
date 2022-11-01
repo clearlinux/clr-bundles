@@ -483,6 +483,7 @@ include(devpkg-nftables)
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
+ninja-bin
 nmap-extras
 include(devpkg-nspr)
 nss-altfiles
@@ -685,14 +686,16 @@ include(devpkg-protobuf-c)
 protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
+pycairo-dev
+pycairo-python3
 include(pygobject)
 pypi-absl_py-python3
+pypi-aiohttp-python3
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-bcrypt-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
-pypi-build-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
@@ -711,6 +714,7 @@ pypi-distlib-python3
 pypi-dnspython
 pypi-docopt-python3
 pypi-docutils
+pypi-docutils-python3
 pypi-execnet-python3
 pypi-filecache-python3
 pypi-filelock-python3
@@ -727,6 +731,7 @@ pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
+pypi-hypothesis-python3
 pypi-idna
 pypi-idna-python3
 pypi-imagesize
@@ -741,6 +746,7 @@ pypi-mako
 pypi-markdown-python3
 pypi-matplotlib-python3
 pypi-meson_python
+pypi-meson_python-python3
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-munkres-python3
@@ -768,6 +774,7 @@ pypi-pyfakefs-python3
 pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
+pypi-pylint-python3
 pypi-pynacl-python3
 pypi-pyomo-python3
 pypi-pyopenssl-python3
@@ -805,6 +812,7 @@ pypi-virtualenv
 pypi-virtualenv-python3
 pypi-wheel-python3
 pypi-wrapt-python3
+pypi-yapf-python3
 pypi-zopfli-python3
 python-remoto-python3
 python3
