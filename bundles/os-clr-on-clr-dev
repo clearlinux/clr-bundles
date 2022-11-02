@@ -275,6 +275,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+include(devpkg-glog)
 glslang
 glslang-bin
 glslang-dev
@@ -309,6 +310,7 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
+grpc-dev
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -890,6 +892,7 @@ pypi-aiohttp-python3
 pypi-alabaster-python3
 pypi-appdirs-python3
 pypi-astunparse-python3
+pypi-asyncssh-python3
 pypi-attrs-python3
 pypi-babel-python3
 pypi-bcrypt-python3
@@ -925,7 +928,6 @@ pypi-dnspython
 pypi-docopt-python3
 pypi-docutils
 pypi-docutils-python3
-pypi-execnet-python3
 pypi-filecache-python3
 pypi-filelock-python3
 pypi-flake8-python3
@@ -973,6 +975,7 @@ pypi-meson_python-python3
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-munkres-python3
+pypi-natsort-python3
 pypi-nose
 pypi-numpy-python3
 pypi-packaging-python3
@@ -998,7 +1001,6 @@ pypi-py-python3
 pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycparser-python3
-pypi-pyfakefs-python3
 pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
@@ -1015,6 +1017,7 @@ pypi-pytest-python3
 pypi-pytest_runner
 pypi-python_dateutil-python3
 pypi-python_dbusmock
+pypi-python_dotenv-python3
 pypi-python_multilib-python3
 pypi-pythran
 pypi-pythran-python3
@@ -1044,12 +1047,16 @@ pypi-sphinxcontrib_jsmath-python3
 pypi-sphinxcontrib_qthelp-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-templated_dictionary-python3
+pypi-termcolor-python3
 pypi-toml-python3
 pypi-tomli-python3
 pypi-tornado-python3
 pypi-tox
 pypi-tox-python3
 pypi-trampolim-python3
+pypi-types_dataclasses-python3
+pypi-types_pyyaml-python3
+pypi-types_termcolor-python3
 pypi-typing_extensions-python3
 pypi-typogrify-python3
 pypi-ufolib2-python3
@@ -1063,7 +1070,6 @@ pypi-wrapt-python3
 pypi-yapf-python3
 pypi-zipp-python3
 pypi-zopfli-python3
-python-remoto-python3
 python3
 python3-core
 python3-dev
@@ -1096,6 +1102,7 @@ qtx11extras-dev
 qtxmlpatterns-dev
 rabbitmq-c-dev
 include(devpkg-rdma-core)
+re2-dev
 re2c
 include(devpkg-readline)
 readline-dev32
@@ -1164,6 +1171,7 @@ include(texinfo)
 include(texlive)
 texlive-dev
 thin-provisioning-tools
+thrift-dev
 include(devpkg-tiff)
 tk
 tk-dev
