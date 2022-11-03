@@ -18,6 +18,7 @@ LVM2-extras
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
+include(devpkg-NetworkManager)
 PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -116,6 +117,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
+double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
 duktape-dev
@@ -383,6 +385,8 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
@@ -408,6 +412,7 @@ include(devpkg-nftables)
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
+nodejs
 include(devpkg-nspr)
 nss-altfiles
 nss-bin
@@ -432,6 +437,7 @@ include(openvswitch)
 include(devpkg-opus)
 include(devpkg-orc)
 orc-dev32
+otp
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -447,9 +453,11 @@ pcre2-dev32
 pcsc-lite-dev
 perl
 perl-B-Hooks-EndOfScope-perl
+perl-Bit-Vector
 perl-Business-ISBN-Data-perl
 perl-CPAN-Meta-Check-perl
 perl-Carp-Assert-perl
+perl-Class-Accessor
 perl-Class-Data-Inheritable-perl
 perl-Class-Inspector-perl
 perl-Class-Load-XS-perl
@@ -583,6 +591,7 @@ pkg-config-dev
 include(devpkg-pmdk)
 include(devpkg-polkit)
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 protobuf-dev
@@ -640,6 +649,7 @@ pypi-pluggy
 pypi-prettytable-python3
 pypi-psutil-python3
 pypi-ptyprocess-python3
+pypi-py
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3

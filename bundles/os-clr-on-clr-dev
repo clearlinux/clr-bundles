@@ -681,6 +681,7 @@ include(openvswitch)
 include(devpkg-opus)
 include(devpkg-orc)
 orc-dev32
+otp
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -700,10 +701,12 @@ pcsc-lite-dev
 perl
 perl-Algorithm-Diff-perl
 perl-B-Hooks-EndOfScope-perl
+perl-Bit-Vector
 perl-Business-ISBN-Data-perl
 perl-CPAN-Meta-Check-perl
 perl-Capture-Tiny-perl
 perl-Carp-Assert-perl
+perl-Class-Accessor
 perl-Class-Data-Inheritable-perl
 perl-Class-Inspector-perl
 perl-Class-Load-XS-perl
