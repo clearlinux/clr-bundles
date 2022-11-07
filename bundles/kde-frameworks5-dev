@@ -476,8 +476,6 @@ include(devpkg-pcre2)
 pcre2-dev32
 perl
 perl-IPC-Run-perl
-perl-List-Util-perl
-perl-Storable-perl
 perl-Test-Simple-perl
 perl-URI
 perl-URI-Encode
