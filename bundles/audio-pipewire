@@ -1,0 +1,8 @@
+# [TITLE]: audio-pipewire
+# [DESCRIPTION]: Multimedia framework for capture and playback
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Other
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+pipewire
+wireplumber
