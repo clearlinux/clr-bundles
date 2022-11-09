@@ -160,6 +160,7 @@ R-crul
 R-cubature
 R-curl
 R-cvTools
+R-cvar
 R-cyclocomp
 R-data.table
 R-dbplyr
@@ -571,6 +572,7 @@ R-tidyr
 R-tidyselect
 R-timeDate
 R-timeSeries
+R-timechange
 R-tinytex
 R-tis
 R-tm
