@@ -803,13 +803,11 @@ pygobject-python
 pypi-absl_py-python3
 pypi-aiohttp-python3
 pypi-aiosignal-python3
-pypi-alabaster-python3
 pypi-appdirs-python3
 pypi-astroid-python3
 pypi-async_timeout-python3
 pypi-atomicwrites-python3
 pypi-attrs-python3
-pypi-babel-python3
 pypi-bashlex-python3
 pypi-bleach-python3
 pypi-blockdiag-python3
@@ -871,7 +869,6 @@ pypi-hypothesis
 pypi-hypothesis-python3
 pypi-idna-python3
 pypi-imageio-python3
-pypi-imagesize-python3
 pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
@@ -976,11 +973,6 @@ pypi-sortedcontainers-python3
 pypi-sphinx
 pypi-sphinx-python3
 pypi-sphinx_gallery-python3
-pypi-sphinxcontrib_applehelp-python3
-pypi-sphinxcontrib_devhelp-python3
-pypi-sphinxcontrib_htmlhelp-python3
-pypi-sphinxcontrib_jsmath-python3
-pypi-sphinxcontrib_qthelp-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-tap.py-python3
 pypi-tifffile-python3

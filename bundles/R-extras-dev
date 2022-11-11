@@ -53,6 +53,7 @@ R-MatrixModels
 R-ModelMetrics
 R-NADA
 R-NLP
+R-PerformanceAnalytics
 R-R.cache
 R-R.methodsS3
 R-R.oo
@@ -235,6 +236,7 @@ R-futile.options
 R-future
 R-future.apply
 R-gargle
+R-gbutils
 R-gclus
 R-gdata
 R-gdtools
@@ -537,8 +539,10 @@ R-spData
 R-spam
 R-spatstat.core
 R-spatstat.data
+R-spatstat.explore
 R-spatstat.geom
 R-spatstat.linnet
+R-spatstat.model
 R-spatstat.random
 R-spatstat.sparse
 R-spatstat.utils
