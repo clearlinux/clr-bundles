@@ -12,7 +12,7 @@ include(xz)
 mesa-demos
 include(libglib)
 harfbuzz-lib
-libxcb-lib
+libX11-lib
 fontconfig-lib
 freetype-lib
 

@@ -52,7 +52,6 @@ include(devpkg-libva)
 include(devpkg-libxcb)
 include(devpkg-libXdamage)
 include(devpkg-libXfixes)
-libxshmfence-dev
 include(devpkg-libXvMC)
 include(devpkg-libXxf86vm)
 include(devpkg-libzip)

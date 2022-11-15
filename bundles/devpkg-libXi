@@ -10,5 +10,3 @@ include(devpkg-libX11)
 include(devpkg-libXext)
 include(devpkg-libXfixes)
 include(devpkg-xorgproto)
-
-libXi-dev

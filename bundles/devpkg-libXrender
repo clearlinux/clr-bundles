@@ -8,5 +8,3 @@
 include(devpkg-base)
 include(devpkg-libX11)
 include(devpkg-xorgproto)
-
-libXrender-dev
