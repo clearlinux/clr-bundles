@@ -136,6 +136,7 @@ R-checkmate
 R-classInt
 R-cli
 R-clipr
+R-clock
 R-clue
 R-clusterGeneration
 R-cmprsk
@@ -537,7 +538,6 @@ R-sourcetools
 R-sp
 R-spData
 R-spam
-R-spatstat.core
 R-spatstat.data
 R-spatstat.explore
 R-spatstat.geom
