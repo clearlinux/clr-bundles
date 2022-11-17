@@ -15,7 +15,6 @@ Linux-PAM-dev32
 PyYAML-python3
 include(devpkg-SDL)
 include(Sphinx)
-VTK-dev
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Tools
@@ -275,6 +274,7 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
 nss-altfiles
+openal-soft-dev
 include(openblas)
 include(devpkg-openblas)
 opencl-headers-dev

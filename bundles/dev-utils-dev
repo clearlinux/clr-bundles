@@ -17,7 +17,6 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 SVT-AV1-dev
 include(Sphinx)
-VTK-dev
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Tools
@@ -314,6 +313,7 @@ ninja
 nss-altfiles
 include(devpkg-numactl)
 onig-dev
+openal-soft-dev
 include(openblas)
 include(devpkg-openblas)
 opencl-headers-dev

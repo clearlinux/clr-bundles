@@ -629,7 +629,6 @@ include(devpkg-SDL2)
 SFCGAL-dev
 include(Sphinx)
 SuiteSparse-dev
-VTK-dev
 Vulkan-Headers-data
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
