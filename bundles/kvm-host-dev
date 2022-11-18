@@ -741,6 +741,7 @@ include(devpkg-tiff)
 tk-dev
 tk-extras
 tk-staticdev
+tpm2-tss-dev
 include(tzdata)
 include(unzip)
 include(devpkg-usbredir)

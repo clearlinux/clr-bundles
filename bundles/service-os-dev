@@ -252,6 +252,7 @@ thin-provisioning-tools
 tk-dev
 tk-extras
 tk-staticdev
+tpm2-tss-dev
 include(tzdata)
 include(unzip)
 upower-dev

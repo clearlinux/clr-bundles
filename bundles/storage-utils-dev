@@ -458,6 +458,7 @@ thin-provisioning-tools
 tk-dev
 tk-extras
 tk-staticdev
+tpm2-tss-dev
 tracker-dev
 include(tzdata)
 include(unzip)

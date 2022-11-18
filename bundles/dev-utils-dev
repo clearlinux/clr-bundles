@@ -601,6 +601,7 @@ tk
 tk-dev
 tk-extras
 tk-staticdev
+tpm2-tss-dev
 trace-cmd-dev
 include(tzdata)
 include(unzip)

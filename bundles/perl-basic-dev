@@ -348,6 +348,7 @@ tar
 tcl
 include(texinfo)
 thin-provisioning-tools
+tpm2-tss-dev
 include(unzip)
 util-linux
 util-linux-bin
