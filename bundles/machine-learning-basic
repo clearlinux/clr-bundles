@@ -17,7 +17,6 @@ include(computer-vision-basic)
 include(machine-learning-mycroft)
 
 scikit-learn
-pypi-theano
 
 
 
