@@ -291,7 +291,6 @@ gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg)
-include(gnuplot)
 include(devpkg-gnutls)
 gnutls-dev32
 go
@@ -634,7 +633,6 @@ ncurses-dev32
 include(devpkg-ndctl)
 include(net-tools)
 netbase
-netcdf-dev
 include(devpkg-nettle)
 nettle-dev32
 include(devpkg-newt)
@@ -884,7 +882,6 @@ proj
 include(devpkg-proj)
 include(devpkg-protobuf-c)
 protobuf-dev
-pugixml-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 pycairo-dev
