@@ -8,6 +8,7 @@
 
 # start of custom additions
 include(curl)
+include(network-basic)
 include(perl-basic)
 include(python3-basic)
 
