@@ -4,17 +4,17 @@
 # [CAPABILITIES]:
 # [TAGS]: Data Science, Python, R
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(cloud-api)
 include(R-extras)
+include(Sphinx)
+include(cloud-api)
+include(jupyter)
 include(python3-basic)
 include(python-data-science)
-include(jupyter)
 
 pypi-jinja2
 MarkupSafe
 pypi-pygments
 R-IRdisplay
-include(Sphinx)
 pypi-backports.ssl_match_hostname
 pypi-bash_kernel
 pypi-bokeh
@@ -26,7 +26,6 @@ pypi-ipython_genutils
 pypi-ipython_sql
 pypi-ipywidgets
 pypi-jsonschema
-include(jupyter)
 pypi-matplotlib
 pypi-mistune
 pypi-nbconvert
