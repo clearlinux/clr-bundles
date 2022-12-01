@@ -17,10 +17,6 @@ include(python-data-science)
 #
 
 clinfo
-darkflow
-#intel-compute-runtime
-#tensorflow
-
 # support packages
 
 mkl-dnn-dev
