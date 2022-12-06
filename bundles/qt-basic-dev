@@ -19,8 +19,8 @@ PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(Sphinx)
-Vulkan-Headers-data
 include(devpkg-Vulkan-Headers)
+Vulkan-Headers-dev32
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools

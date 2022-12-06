@@ -46,6 +46,7 @@ include(Sphinx)
 VTK-dev
 Vulkan-Headers-data
 include(devpkg-Vulkan-Headers)
+Vulkan-Headers-dev32
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
