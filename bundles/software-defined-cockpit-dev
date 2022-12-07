@@ -235,7 +235,6 @@ include(devpkg-libXv)
 libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
-libabigail
 libaio-dev
 include(devpkg-libass)
 libatomic_ops-dev

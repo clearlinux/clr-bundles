@@ -104,7 +104,6 @@ keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
-libabigail
 libaio-dev
 libbpf-dev
 libc6-dev

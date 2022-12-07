@@ -183,7 +183,6 @@ include(devpkg-libXres)
 include(devpkg-libXt)
 include(devpkg-libXtst)
 include(devpkg-libXv)
-libabigail
 libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev

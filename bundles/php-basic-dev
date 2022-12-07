@@ -145,7 +145,6 @@ libX11-dev32
 include(devpkg-libXpm)
 include(devpkg-libXt)
 libXt-dev32
-libabigail
 libaio-dev
 include(devpkg-libavif)
 libbpf-dev

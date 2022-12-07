@@ -200,7 +200,6 @@ include(devpkg-libXt)
 libXt-dev32
 include(devpkg-libXtst)
 include(devpkg-libXv)
-libabigail
 libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev

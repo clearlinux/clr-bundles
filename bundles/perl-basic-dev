@@ -102,7 +102,6 @@ kmod
 include(devpkg-kmod)
 kmod-dev32
 less-bin
-libabigail
 libaio-dev
 libbpf-dev
 libc6-dev

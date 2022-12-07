@@ -139,7 +139,6 @@ include(less)
 less-bin
 include(devpkg-libX11)
 libX11-dev32
-libabigail
 libaio-dev
 libbpf-dev
 libc6-dev

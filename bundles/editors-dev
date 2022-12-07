@@ -41,7 +41,6 @@ hostname
 include(devpkg-icu4c)
 icu4c-dev32
 include(devpkg-jansson)
-libabigail
 libc6-dev
 include(devpkg-libseccomp)
 libtool

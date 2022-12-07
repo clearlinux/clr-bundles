@@ -320,7 +320,6 @@ include(devpkg-libXv)
 libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
-libabigail
 libadwaita-dev
 libaio-dev
 include(devpkg-libarchive)
