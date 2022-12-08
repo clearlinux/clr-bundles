@@ -24,7 +24,6 @@ SDL2-dev32
 include(devpkg-SDL2_image)
 include(Sphinx)
 include(devpkg-Vulkan-Headers)
-Vulkan-Headers-dev32
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
