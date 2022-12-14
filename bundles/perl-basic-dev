@@ -182,6 +182,7 @@ perl-Class-Load-XS-perl
 perl-Class-Load-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
+perl-Clone-perl
 perl-Config-General-dev
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl

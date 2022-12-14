@@ -550,6 +550,7 @@ perl-Class-Load-XS-perl
 perl-Class-Load-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
+perl-Clone-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
@@ -856,7 +857,7 @@ sed
 sg3_utils-dev
 shadow
 shared-mime-info
-slang-dev
+include(devpkg-slang)
 snappy-dev
 source-highlight
 source-highlight-dev

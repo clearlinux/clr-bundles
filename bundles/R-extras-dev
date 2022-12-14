@@ -929,6 +929,7 @@ libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)
+librttopo-dev
 include(devpkg-libsamplerate)
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -1055,6 +1056,7 @@ perl-Class-Load-XS-perl
 perl-Class-Load-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
+perl-Clone-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl

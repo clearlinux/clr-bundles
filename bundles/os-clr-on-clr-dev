@@ -530,6 +530,7 @@ librdkafka-dev
 include(devpkg-librepo)
 librsvg
 include(devpkg-librsvg)
+librttopo-dev
 include(devpkg-libsamplerate)
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -712,6 +713,7 @@ perl-Class-Load-perl
 perl-Class-Method-Modifiers-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
+perl-Clone-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
@@ -1135,7 +1137,7 @@ sg3_utils-dev
 shadow
 shared-mime-info
 signond-dev
-slang-dev
+include(devpkg-slang)
 snappy-dev
 solid-dev
 sonnet-dev

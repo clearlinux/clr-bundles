@@ -233,7 +233,7 @@ ruby
 sed
 shadow
 shared-mime-info
-slang-dev
+include(devpkg-slang)
 include(strace)
 systemd-bin
 include(devpkg-systemd)

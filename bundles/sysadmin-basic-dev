@@ -243,6 +243,7 @@ perl-Class-Load-XS-perl
 perl-Class-Load-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
+perl-Clone-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
@@ -383,7 +384,7 @@ sg3_utils-dev
 shadow
 shadow-dev
 shared-mime-info
-slang-dev
+include(devpkg-slang)
 include(strace)
 systemd-bin
 include(devpkg-systemd)
