@@ -18,6 +18,7 @@ perl-Algorithm-Diff-XS
 perl-Algorithm-Merge
 perl-Algorithm-Munkres
 perl-Alien-Build
+perl-Alien-Build-Plugin-Download-GitLab
 perl-Alien-Libxml2
 perl-Alien-m4
 perl-AnyEvent
@@ -340,6 +341,7 @@ perl-Hash-Flatten
 perl-Hash-Merge
 perl-Hash-MoreUtils
 perl-Hash-MultiValue
+perl-Heap
 perl-Hook-LexWrap
 perl-I18N-Charset
 perl-IO-AIO
@@ -347,6 +349,7 @@ perl-IO-All
 perl-IO-Async
 perl-IO-Capture
 perl-IO-CaptureOutput
+perl-IO-FDPass
 perl-IO-HTML
 perl-IO-Interactive
 perl-IO-Interactive-Tiny
@@ -401,6 +404,7 @@ perl-List-MoreUtils
 perl-List-MoreUtils-XS
 perl-List-SomeUtils
 perl-List-SomeUtils-XS
+perl-List-Util
 perl-List-UtilsBy
 perl-Locale-Maketext-Gettext
 perl-Locale-Maketext-Lexicon
@@ -416,6 +420,8 @@ perl-Log-Message
 perl-Log-Message-Simple
 perl-Log-Trace
 perl-MARC-Record
+perl-MCE
+perl-MCE-Shared
 perl-MIME-Base32
 perl-MIME-Base64
 perl-MIME-Base64-URLSafe
@@ -447,6 +453,7 @@ perl-Metrics-Any
 perl-Minion
 perl-Mixin-Linewise
 perl-Mock-Config
+perl-Mock-Sub
 perl-Modern-Perl
 perl-Module-Build
 perl-Module-Build-Tiny
@@ -560,6 +567,7 @@ perl-Pod-Constants
 perl-Pod-Coverage
 perl-Pod-LaTeX
 perl-Pod-POM
+perl-Pod-Parser
 perl-Pod-Plainer
 perl-Pod-Spell
 perl-Pod-Strip
@@ -584,10 +592,12 @@ perl-SGMLS
 perl-SMTP-Server
 perl-SQL-Abstract
 perl-SQL-Abstract-Classic
+perl-SQL-Abstract-Pg
 perl-SQL-SplitStatement
 perl-SQL-Tokenizer
 perl-SQL-Translator
 perl-SUPER
+perl-Safe-Isa
 perl-Scalar-String
 perl-Scope-Guard
 perl-Scope-Upper
@@ -610,6 +620,7 @@ perl-Statistics-CaseResampling
 perl-Storable
 perl-Stream-Buffered
 perl-String-Approx
+perl-String-CRC32
 perl-String-CamelCase
 perl-String-Escape
 perl-String-Expand
@@ -667,6 +678,7 @@ perl-Test-File-ShareDir-Dist
 perl-Test-Fork
 perl-Test-Identity
 perl-Test-Inter
+perl-Test-LWP-UserAgent
 perl-Test-LeakTrace
 perl-Test-LectroTest
 perl-Test-LongString
@@ -704,6 +716,7 @@ perl-Test-Warnings
 perl-Test-Without-Module
 perl-Test-YAML
 perl-Test-utf8
+perl-Test2-Plugin-NoWarnings
 perl-Test2-Suite
 perl-Text-Autoformat
 perl-Text-Brew
@@ -815,6 +828,3 @@ perl-namespace-clean
 perl-pmtools
 perl-prefork
 perl-strictures
-perl-IO-FDPass
-perl-MCE
-perl-MCE-Shared
