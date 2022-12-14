@@ -535,6 +535,7 @@ pkgconfig(sdl)	devpkg-SDL
 pkgconfig(sdl2)	devpkg-SDL2
 pkgconfig(shared-mime-info)	devpkg-shared-mime-info
 pkgconfig(sigc++-2.0)	devpkg-compat-libsigcplusplus-soname20
+pkgconfig(slang)	devpkg-slang
 pkgconfig(sm)	devpkg-libX11
 pkgconfig(speex)	devpkg-speex
 pkgconfig(sqlite3)	devpkg-sqlite-autoconf

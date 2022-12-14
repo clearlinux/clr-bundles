@@ -1,11 +1,11 @@
-# [TITLE]: devpkg-newt
-# [DESCRIPTION]: All content for pkgconfig file newt.pc.
+# [TITLE]: devpkg-slang
+# [DESCRIPTION]: All content for pkgconfig file slang.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-slang)
 
-newt-dev
+slang-dev
+include(lib-imageformat)
