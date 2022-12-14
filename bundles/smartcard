@@ -1,0 +1,18 @@
+# [TITLE]: smartcard
+# [DESCRIPTION]: Tools and libraries to support use of SmartCards/PCSC
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+include(gnupg)
+include(libglib)
+include(libopenssl)
+include(perl-basic)
+
+OpenSC
+ccid
+openct
+openpace
+pcsc-lite
+pcsc-tools
+perl-Chipcard-PCSC
