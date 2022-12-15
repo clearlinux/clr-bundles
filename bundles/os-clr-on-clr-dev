@@ -699,6 +699,7 @@ pcre2-dev32
 pcsc-lite-dev
 perl
 perl-Algorithm-Diff-perl
+perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Bit-Vector
 perl-Business-ISBN-Data-perl

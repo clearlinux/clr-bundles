@@ -536,6 +536,7 @@ include(devpkg-pcre2)
 pcre2-dev32
 pcsc-lite-dev
 perl
+perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CPAN-Meta-Check-perl

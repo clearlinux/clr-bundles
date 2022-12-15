@@ -172,6 +172,7 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 include(pandoc)
 include(patch)
+perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CPAN-Meta-Check-perl
