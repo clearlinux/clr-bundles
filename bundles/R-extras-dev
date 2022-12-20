@@ -178,7 +178,6 @@ R-digest
 R-diptest
 R-distr
 R-distributional
-R-doMPI
 R-doParallel
 R-doRNG
 R-dotCall64
@@ -456,7 +455,6 @@ R-ranger
 R-rappdirs
 R-raster
 R-ratelimitr
-R-rbenchmark
 R-rbibutils
 R-rcmdcheck
 R-reactR
