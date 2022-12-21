@@ -338,6 +338,7 @@ include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
+libcbor-dev
 include(devpkg-libcgroup)
 libclc-dev
 include(devpkg-libcroco)
@@ -355,6 +356,8 @@ libevent-dev32
 include(devpkg-libexif)
 include(devpkg-libffi)
 libffi-dev32
+libfido2
+libfido2-dev
 include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgd)
@@ -405,6 +408,7 @@ include(devpkg-librsvg)
 include(devpkg-libsamplerate)
 include(devpkg-libseccomp)
 libseccomp-dev32
+libslirp-dev
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsodium)

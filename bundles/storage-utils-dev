@@ -166,6 +166,8 @@ include(devpkg-libedit)
 include(devpkg-libevent)
 include(devpkg-libffi)
 libffi-dev32
+libfido2
+libfido2-dev
 include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgpg-error)

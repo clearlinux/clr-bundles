@@ -262,6 +262,8 @@ libevent-dev32
 include(devpkg-libexif)
 include(devpkg-libffi)
 libffi-dev32
+libfido2
+libfido2-dev
 include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgpg-error)

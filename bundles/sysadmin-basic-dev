@@ -146,12 +146,15 @@ include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
+libcbor-dev
 include(devpkg-libcgroup)
 include(devpkg-libdrm)
 include(devpkg-libedit)
 include(devpkg-libevent)
 include(devpkg-libffi)
 libffi-dev32
+libfido2
+libfido2-dev
 include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgpg-error)
