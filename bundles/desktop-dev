@@ -1049,7 +1049,6 @@ include(sassc)
 sbc-dev
 sbc-dev32
 scikit-learn-python3
-scipy-python3
 sed
 sg3_utils-dev
 shadow

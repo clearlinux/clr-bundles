@@ -1135,7 +1135,6 @@ sbc-dev
 sbc-dev32
 sbsigntools
 scikit-learn-python3
-scipy-python3
 sed
 serf-dev
 sg3_utils-dev

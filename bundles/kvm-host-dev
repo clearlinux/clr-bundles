@@ -712,7 +712,6 @@ include(sassc)
 sbc-dev
 sbc-dev32
 scikit-learn-python3
-scipy-python3
 sed
 shadow
 shared-mime-info
