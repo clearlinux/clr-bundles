@@ -805,6 +805,7 @@ pypi-requests-python3
 pypi-routes-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
+pypi-scikit-learn-python3
 pypi-seaborn-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
@@ -857,7 +858,7 @@ rustc
 include(sassc)
 sbc-dev
 sbc-dev32
-scikit-learn-python3
+scipy
 sed
 sg3_utils-dev
 shadow

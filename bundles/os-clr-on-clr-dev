@@ -1045,6 +1045,7 @@ pypi-rich-python3
 pypi-routes-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
+pypi-scikit-learn-python3
 pypi-scikit_build-python3
 pypi-seaborn-python3
 pypi-secretstorage-python3
@@ -1061,7 +1062,6 @@ pypi-sphinxcontrib_serializinghtml-python3
 pypi-templated_dictionary-python3
 pypi-termcolor-python3
 pypi-toml-python3
-pypi-tomli-python3
 pypi-tomlkit-python3
 pypi-tornado-python3
 pypi-tox
@@ -1134,7 +1134,7 @@ include(sassc)
 sbc-dev
 sbc-dev32
 sbsigntools
-scikit-learn-python3
+scipy
 sed
 serf-dev
 sg3_utils-dev

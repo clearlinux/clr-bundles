@@ -881,6 +881,7 @@ pypi-itsdangerous-python3
 pypi-jaraco.classes-python3
 pypi-jeepney-python3
 pypi-jinja2-python3
+pypi-joblib-python3
 pypi-jsonschema-python3
 pypi-keyring-python3
 pypi-kiwisolver-python3
@@ -961,8 +962,8 @@ pypi-rsa-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
 pypi-s3transfer-python3
+pypi-scikit-learn-python3
 pypi-scikit_build-python3
-pypi-scikit_image-python3
 pypi-seaborn-python3
 pypi-secretstorage-python3
 pypi-seqdiag-python3
@@ -976,9 +977,9 @@ pypi-snowballstemmer-python3
 pypi-sortedcontainers-python3
 pypi-sphinx
 pypi-sphinx-python3
-pypi-sphinx_gallery-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-tap.py-python3
+pypi-threadpoolctl-python3
 pypi-tifffile-python3
 pypi-toml-python3
 pypi-tomli-python3
@@ -1048,7 +1049,7 @@ sane-backends-dev
 include(sassc)
 sbc-dev
 sbc-dev32
-scikit-learn-python3
+scipy
 sed
 sg3_utils-dev
 shadow

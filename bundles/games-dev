@@ -674,6 +674,7 @@ rustc
 include(sassc)
 sbc-dev
 sbc-dev32
+scipy
 sed
 shadow
 shared-mime-info
