@@ -10,5 +10,7 @@ include(devpkg-glib)
 include(libglib)
 
 appstream-dev
+include(qt-core)
 include(curl)
 include(libglib)
+include(libstdcpp)
