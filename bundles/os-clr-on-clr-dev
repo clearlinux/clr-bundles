@@ -130,6 +130,7 @@ include(devpkg-clutter)
 cmake
 cmocka-dev
 include(devpkg-colord)
+compat-babeltrace-one-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 compat-gcc-10-dev
@@ -957,7 +958,6 @@ pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-humanize-python3
 pypi-hypothesis
-pypi-hypothesis-python3
 pypi-idna
 pypi-idna-python3
 pypi-imagesize
@@ -1082,7 +1082,6 @@ pypi-webencodings-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
 pypi-wrapt-python3
-pypi-yapf-python3
 pypi-zipp-python3
 pypi-zopfli-python3
 python3

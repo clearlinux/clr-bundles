@@ -48,7 +48,6 @@ autoconf-archive-dev
 autogen
 automake
 automake-dev
-babeltrace-dev
 bash-completion-dev
 bats
 include(bc)
@@ -87,6 +86,7 @@ include(devpkg-clutter)
 cmake
 cmocka-dev
 include(devpkg-colord)
+compat-babeltrace-one-dev
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
 coreutils

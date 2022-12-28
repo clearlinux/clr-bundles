@@ -66,6 +66,7 @@ check-dev
 check-dev32
 clr-rpm-config
 cmake
+compat-babeltrace-one-dev
 include(devpkg-compat-fuse-soname2)
 coreutils
 cppcheck
