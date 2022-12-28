@@ -470,8 +470,6 @@ pkgconfig(libvirt)	devpkg-libvirt
 pkgconfig(libvirt-admin)	devpkg-libvirt
 pkgconfig(libvirt-lxc)	devpkg-libvirt
 pkgconfig(libvirt-qemu)	devpkg-libvirt
-pkgconfig(libvmem)	devpkg-pmdk
-pkgconfig(libvmmalloc)	devpkg-pmdk
 pkgconfig(libwacom)	devpkg-libwacom
 pkgconfig(libwebp)	devpkg-libwebp
 pkgconfig(libwebpdemux)	devpkg-libwebp
