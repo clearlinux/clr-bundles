@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 libcap-dev
+libcap-staticdev
