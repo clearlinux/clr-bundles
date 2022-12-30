@@ -541,10 +541,8 @@ pypi-nose-python3
 pypi-numpy-python3
 pypi-pip
 pypi-platformdirs-python3
-pypi-pluggy
 pypi-psutil-python3
 pypi-ptyprocess-python3
-pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pygithub-python3
@@ -552,7 +550,6 @@ pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pylint-python3
 pypi-pynacl-python3
-pypi-pytest
 pypi-python_dbusmock
 pypi-requests-python3
 pypi-ruamel.yaml-python3
@@ -565,11 +562,9 @@ pypi-smmap-python3
 pypi-sphinx
 pypi-sphinx-python3
 pypi-toml-python3
-pypi-tox
 pypi-tox-python3
 pypi-typogrify-python3
 pypi-urllib3-python3
-pypi-virtualenv
 pypi-wheel-python3
 pypi-wrapt-python3
 python3

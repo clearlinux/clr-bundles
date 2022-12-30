@@ -726,11 +726,9 @@ pypi-matplotlib-python3
 pypi-numpy-python3
 pypi-pip
 pypi-platformdirs-python3
-pypi-pluggy
 pypi-polib
 pypi-psutil-python3
 pypi-ptyprocess-python3
-pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pygithub-python3
@@ -751,10 +749,8 @@ pypi-six
 pypi-smmap-python3
 pypi-sphinx
 pypi-toml-python3
-pypi-tox
 pypi-typogrify-python3
 pypi-urllib3-python3
-pypi-virtualenv
 pypi-wheel-python3
 pypi-wrapt-python3
 python-pocketlint

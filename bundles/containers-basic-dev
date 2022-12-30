@@ -259,14 +259,9 @@ pypi-markdown-python3
 pypi-meson_python-python3
 pypi-pip
 pypi-platformdirs-python3
-pypi-pluggy
-pypi-py-python3
 pypi-pycparser-python3
-pypi-pytest
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
-pypi-tox
-pypi-virtualenv
 pypi-wheel-python3
 python3
 python3-core
