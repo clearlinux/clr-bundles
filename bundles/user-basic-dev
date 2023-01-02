@@ -190,6 +190,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc-libubsan
 gcc-staticdev
 gcc7-dev
 gcc8-dev
