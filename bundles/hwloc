@@ -8,7 +8,7 @@
 include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+include(openmpi)
 # end of custom additions
 
 # main package

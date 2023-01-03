@@ -11,6 +11,7 @@ include(libstdcpp)
 include(libglib)
 include(python3-basic)
 include(xz)
+include(btrfs-progs)
 
 LVM2-bin
 LVM2-config

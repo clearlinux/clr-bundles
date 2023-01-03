@@ -11,6 +11,7 @@ include(network-basic)
 include(openssl)
 include(python3-basic)
 include(xz)
+include(btrfs-progs)
 #
 # Storage-cluster is huge, and while it contains ceph,
 # you don't need ceph to control remote machines

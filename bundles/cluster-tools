@@ -10,6 +10,7 @@ include(libglib)
 include(libX11client)
 include(python3-basic)
 include(perl-basic)
+include(openmpi)
 also-add(openmpi)
 also-add(modules)
 munge

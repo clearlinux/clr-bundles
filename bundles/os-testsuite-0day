@@ -9,6 +9,7 @@ include(c-basic)
 include(dev-utils)
 include(python3-basic)
 include(perl-basic)
+include(btrfs-progs)
 
 include(acpica-unix2)
 btrfs-progs
