@@ -119,6 +119,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(doxygen)
+include(devpkg-dpdk)
 duktape-dev
 e2fsprogs
 e2fsprogs-data
@@ -239,6 +240,7 @@ include(iproute2)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
+isa-l-dev
 include(devpkg-iso-codes)
 itstool
 include(devpkg-jansson)
@@ -275,11 +277,13 @@ include(devpkg-libXvMC)
 libXvMC-dev32
 libXxf86dga-dev
 libaio-dev
+include(devpkg-libarchive)
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
 libavtp-dev
 libbpf-dev
+include(devpkg-libbsd)
 libc6
 libc6-dev
 include(devpkg-libcanberra)
@@ -429,6 +433,7 @@ ninja
 include(devpkg-nspr)
 nss-altfiles
 include(devpkg-nss)
+include(devpkg-numactl)
 openal-soft-dev
 openconnect-dev
 openexr-dev
@@ -633,6 +638,7 @@ pypi-psutil-python3
 pypi-ptyprocess-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pyelftools-python3
 pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
