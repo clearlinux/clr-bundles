@@ -119,7 +119,6 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(doxygen)
-include(devpkg-dpdk)
 duktape-dev
 e2fsprogs
 e2fsprogs-data
@@ -240,7 +239,7 @@ include(iproute2)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
-isa-l-dev
+include(devpkg-isa-l)
 include(devpkg-iso-codes)
 itstool
 include(devpkg-jansson)
@@ -675,7 +674,7 @@ rustc
 include(sassc)
 sbc-dev
 sbc-dev32
-scipy
+scipy-python3
 sed
 shadow
 shared-mime-info

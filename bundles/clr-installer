@@ -21,7 +21,7 @@ also-add(less)
 LVM2
 LVM2-extras
 bind-utils
-btrfs-progs
+include(btrfs-progs)
 clr-installer
 cpio-bin
 cracklib-bin

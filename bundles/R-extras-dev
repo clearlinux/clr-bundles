@@ -1302,7 +1302,7 @@ ruby
 rustc
 include(sassc)
 sbc-dev
-scipy
+scipy-python3
 sed
 shadow
 shared-mime-info

@@ -12,7 +12,7 @@ include(perl-basic)
 include(btrfs-progs)
 
 include(acpica-unix2)
-btrfs-progs
+include(btrfs-progs)
 docbook-xml
 f2fs-tools
 fakeroot

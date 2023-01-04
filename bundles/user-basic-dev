@@ -190,7 +190,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcc-libubsan
 gcc-staticdev
 gcc7-dev
 gcc8-dev
@@ -286,7 +285,7 @@ ipset
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
-isa-l-dev
+include(devpkg-isa-l)
 include(devpkg-iso-codes)
 include(devpkg-jack2)
 include(devpkg-jansson)
@@ -856,7 +855,7 @@ rustc
 include(sassc)
 sbc-dev
 sbc-dev32
-scipy
+scipy-python3
 sed
 sg3_utils-dev
 shadow

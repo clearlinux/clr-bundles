@@ -63,7 +63,6 @@ dlm-dev
 include(docbook-utils)
 docbook-xml
 include(doxygen)
-include(devpkg-dpdk)
 dracut-dev
 e2fsprogs
 include(devpkg-e2fsprogs)
@@ -129,7 +128,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
-isa-l-dev
+include(devpkg-isa-l)
 include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32

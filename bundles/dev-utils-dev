@@ -575,7 +575,7 @@ rpm
 include(rsync)
 ruby
 scdoc-dev
-scipy
+scipy-python3
 sed
 shadow
 shared-mime-info

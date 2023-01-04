@@ -526,7 +526,7 @@ include(devpkg-readline)
 readline-dev32
 include(rsync)
 ruby
-scipy
+scipy-python3
 sed
 shadow
 shared-mime-info

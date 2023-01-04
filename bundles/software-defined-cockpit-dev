@@ -475,7 +475,7 @@ rustc
 include(sassc)
 sbc-dev
 sbc-dev32
-scipy
+scipy-python3
 sed
 shadow
 shared-mime-info

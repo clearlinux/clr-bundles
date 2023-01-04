@@ -7,7 +7,7 @@
 include(os-core)
 include(os-core-plus)
 include(os-core-webproxy)
-btrfs-progs
+include(btrfs-progs)
 bzip2
 clr-bundles
 clr-find-bundle
