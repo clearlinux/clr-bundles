@@ -1,10 +1,20 @@
 # [TITLE]: devpkg-dpdk
-# [DESCRIPTION]: All content for dpdk-dev.
+# [DESCRIPTION]: All content for pkgconfig file dpdk.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-elfutils)
+include(devpkg-isa-l)
+include(devpkg-jansson)
+include(devpkg-libbsd)
+include(devpkg-libpcap)
+include(devpkg-openssl)
+include(devpkg-rdma-core)
+include(devpkg-zlib)
 
 dpdk-dev
+include(libstdcpp)
+include(dpdk)

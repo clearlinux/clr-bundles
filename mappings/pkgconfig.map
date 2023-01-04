@@ -238,6 +238,7 @@ pkgconfig(libavif)	devpkg-libavif
 pkgconfig(libbrotlicommon)	devpkg-brotli
 pkgconfig(libbrotlidec)	devpkg-brotli
 pkgconfig(libbrotlienc)	devpkg-brotli
+pkgconfig(libbsd)	devpkg-libbsd
 pkgconfig(libcanberra)	devpkg-libcanberra
 pkgconfig(libcanberra-gtk)	devpkg-libcanberra
 pkgconfig(libcanberra-gtk3)	devpkg-libcanberra
@@ -258,6 +259,8 @@ pkgconfig(libdaemon)	devpkg-libdaemon
 pkgconfig(libdaxctl)	devpkg-ndctl
 pkgconfig(libdazzle-1.0)	devpkg-libdazzle
 pkgconfig(libdmmp)	devpkg-multipath-tools
+pkgconfig(libdpdk)	devpkg-dpdk
+pkgconfig(libdpdk-libs)	devpkg-dpdk
 pkgconfig(libdrm)	devpkg-libdrm
 pkgconfig(libdrm_amdgpu)	devpkg-libdrm
 pkgconfig(libdrm_intel)	devpkg-libdrm
@@ -316,6 +319,7 @@ pkgconfig(libip6tc)	devpkg-iptables
 pkgconfig(libipmctl)	devpkg-ipmctl
 pkgconfig(libipset)	devpkg-ipset
 pkgconfig(libiptc)	devpkg-iptables
+pkgconfig(libisal)	devpkg-isa-l
 pkgconfig(libiscsi)	devpkg-libiscsi
 pkgconfig(libjpeg)	devpkg-libjpeg-turbo
 pkgconfig(libkmod)	devpkg-kmod
