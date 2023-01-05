@@ -11,7 +11,8 @@ include(qt-basic)
 # Needed for kde wrapper script
 #
 include(x11-tools)
-include(x11-server)
+include(wayland-server)
+also-add(x11-server)
 include(fuse)
 include(lib-samba)
 include(hardware-bluetooth)

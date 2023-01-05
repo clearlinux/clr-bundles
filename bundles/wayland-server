@@ -1,0 +1,9 @@
+# [TITLE]: wayland-server
+# [DESCRIPTION]: Provide a functional graphical server based on Wayland
+# [STATUS]: Active
+# [TAGS]: Tools and Utilities
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+include(libX11client)
+mesa
+wayland
+xwayland
