@@ -142,7 +142,6 @@ include(devpkg-ipset)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
-include(devpkg-isa-l)
 include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
@@ -155,9 +154,7 @@ less-bin
 include(devpkg-libX11)
 libX11-dev32
 libaio-dev
-include(devpkg-libarchive)
 libbpf-dev
-include(devpkg-libbsd)
 libc6
 libc6-dev
 include(devpkg-libcap)
@@ -233,7 +230,6 @@ meson-python3
 mingw-gcc
 mpc-dev
 mpfr-dev
-include(nasm)
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
@@ -246,7 +242,6 @@ nghttp2-dev32
 nmap-extras
 nss-altfiles
 include(devpkg-nss)
-include(devpkg-numactl)
 openconnect-dev
 openldap-dev
 opensm-dev
@@ -405,7 +400,6 @@ pypi-docutils
 pypi-jinja2-python3
 pypi-lxml
 pypi-ply-python3
-pypi-pyelftools-python3
 pypi-pytest
 pypi-sphinx
 python3

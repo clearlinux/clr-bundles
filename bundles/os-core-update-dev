@@ -31,7 +31,6 @@ include(bison)
 bison-dev
 include(devpkg-boost)
 include(devpkg-bsdiff)
-btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3

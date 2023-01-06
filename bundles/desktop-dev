@@ -337,7 +337,6 @@ include(iproute2)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
-include(devpkg-isa-l)
 include(devpkg-iso-codes)
 itstool
 include(devpkg-jack2)
@@ -933,7 +932,6 @@ pypi-pycares-python3
 pypi-pycodestyle-python3
 pypi-pycparser-python3
 pypi-pydocstyle-python3
-pypi-pyelftools-python3
 pypi-pyflakes-python3
 pypi-pygithub-python3
 pypi-pygments-python3
@@ -962,7 +960,6 @@ pypi-rich-python3
 pypi-rsa-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
-pypi-s3transfer-python3
 pypi-scikit-learn-python3
 pypi-scikit_build-python3
 pypi-seaborn-python3
@@ -1060,8 +1057,6 @@ snappy-dev
 source-highlight
 include(devpkg-speex)
 speexdsp-dev
-spice-dev
-spice-protocol-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32

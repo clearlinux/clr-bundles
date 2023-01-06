@@ -128,8 +128,6 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
-include(devpkg-isa-l)
-include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
 keyutils-dev
@@ -141,9 +139,7 @@ less-bin
 include(devpkg-libX11)
 libX11-dev32
 libaio-dev
-include(devpkg-libarchive)
 libbpf-dev
-include(devpkg-libbsd)
 libc6-dev
 include(devpkg-libcap)
 libcap-dev32
@@ -212,7 +208,6 @@ man-db
 meson-python3
 mpc-dev
 mpfr-dev
-include(nasm)
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
@@ -378,8 +373,6 @@ include(pypi-cython)
 pypi-docutils
 pypi-jinja2-python3
 pypi-lxml
-pypi-pyelftools-python3
-pypi-sphinx
 python3
 python3-core
 python3-dev
@@ -420,7 +413,6 @@ xmlto
 include(xz)
 include(devpkg-xz)
 xz-dev32
-include(yasm)
 zlib
 include(devpkg-zlib)
 zlib-dev32

@@ -83,7 +83,6 @@ check-dev
 check-dev32
 chrpath
 clear-font
-clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 cmake
@@ -375,7 +374,6 @@ libgpg-error-dev32
 libgpg-error-extras
 include(devpkg-libgphoto2)
 include(devpkg-libgudev)
-include(devpkg-libgusb)
 include(devpkg-libical)
 include(devpkg-libidn)
 libidn-dev32
@@ -828,7 +826,6 @@ tracker-dev
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
-umockdev-dev
 include(unzip)
 util-linux
 util-linux-bin

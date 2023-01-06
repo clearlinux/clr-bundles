@@ -31,7 +31,6 @@ include(binutils)
 include(bison)
 bison-dev
 include(devpkg-boost)
-btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
