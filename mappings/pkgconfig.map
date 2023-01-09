@@ -544,7 +544,6 @@ pkgconfig(tesseract)	devpkg-tesseract
 pkgconfig(theora)	devpkg-libtheora
 pkgconfig(tinfo)	devpkg-ncurses
 pkgconfig(uuid)	devpkg-util-linux
-pkgconfig(valgrind)	devpkg-valgrind
 pkgconfig(videoproto)	devpkg-xorgproto
 pkgconfig(virglrenderer)	devpkg-virglrenderer
 pkgconfig(vorbis)	devpkg-libvorbis
