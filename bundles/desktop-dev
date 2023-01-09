@@ -960,6 +960,7 @@ pypi-rich-python3
 pypi-rsa-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
+pypi-s3transfer-python3
 pypi-scikit-learn-python3
 pypi-scikit_build-python3
 pypi-seaborn-python3
