@@ -82,6 +82,7 @@ perl-Carp-Always
 perl-Carp-Assert
 perl-Carp-Assert-More
 perl-Carp-Clan
+perl-Chipcard-PCSC
 perl-Class-Accessor
 perl-Class-Accessor-Chained
 perl-Class-Accessor-Grouped
@@ -192,6 +193,7 @@ perl-DateTime-Format-Natural
 perl-DateTime-Format-Pg
 perl-DateTime-Format-Strptime
 perl-DateTime-Format-W3CDTF
+perl-DateTime-HiRes
 perl-DateTime-Locale
 perl-DateTime-TimeZone
 perl-Debug-ShowStuff
@@ -249,6 +251,7 @@ perl-Exporter-Easy
 perl-Exporter-Lite
 perl-Exporter-Tidy
 perl-Exporter-Tiny
+perl-ExtUtils-CChecker
 perl-ExtUtils-Config
 perl-ExtUtils-Depends
 perl-ExtUtils-Helpers
@@ -641,6 +644,7 @@ perl-Sub-Quote
 perl-Sub-Uplevel
 perl-Switch
 perl-Symbol-Global-Name
+perl-Syntax-Keyword-Try
 perl-Sys-Hostname-Long
 perl-Sys-MemInfo
 perl-Sys-Mmap
@@ -688,6 +692,7 @@ perl-Test-MemoryGrowth
 perl-Test-Metrics-Any
 perl-Test-MockModule
 perl-Test-MockTime
+perl-Test-MockTime-HiRes
 perl-Test-More-UTF8
 perl-Test-Most
 perl-Test-Needs
@@ -800,6 +805,7 @@ perl-XML-Twig
 perl-XML-Writer
 perl-XML-XPath
 perl-XML-XPathEngine
+perl-XS-Parse-Keyword
 perl-XString
 perl-YAML
 perl-YAML-LibYAML
