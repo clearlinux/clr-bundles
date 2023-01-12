@@ -82,7 +82,6 @@ perl-Carp-Always
 perl-Carp-Assert
 perl-Carp-Assert-More
 perl-Carp-Clan
-perl-Chipcard-PCSC
 perl-Class-Accessor
 perl-Class-Accessor-Chained
 perl-Class-Accessor-Grouped
