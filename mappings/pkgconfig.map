@@ -412,6 +412,7 @@ pkgconfig(libseccomp)	devpkg-libseccomp
 pkgconfig(libsecret-1)	devpkg-libsecret
 pkgconfig(libsecret-unstable)	devpkg-libsecret
 pkgconfig(libsflow)	devpkg-openvswitch
+pkgconfig(libsharpyuv)	devpkg-libwebp
 pkgconfig(libsmbios_c)	devpkg-libsmbios
 pkgconfig(libsolv)	devpkg-libsolv
 pkgconfig(libsolvext)	devpkg-libsolv
