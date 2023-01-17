@@ -8,6 +8,7 @@ include(xz)
 clr-power-tweaks
 clr-systemd-config
 cnf
+glibc-lib-avx2
 dbus-autostart
 dbus-bin
 iproute2-bin
