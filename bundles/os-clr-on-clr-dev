@@ -779,7 +779,6 @@ perl-LWP-MediaTypes-perl
 perl-LWP-Protocol-https-perl
 perl-List-MoreUtils-XS-perl
 perl-List-MoreUtils-perl
-perl-List-Util-perl
 perl-MRO-Compat-perl
 perl-Mixin-Linewise-perl
 perl-Module-Build
@@ -939,7 +938,6 @@ pypi-flake8_import_order-python3
 pypi-flask-python3
 pypi-flit-python3
 pypi-flit_core-python3
-pypi-flit_scm-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
 pypi-future-python3
