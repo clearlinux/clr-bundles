@@ -158,7 +158,6 @@ mpfr-dev
 include(devpkg-ncurses)
 ncurses-dev32
 netbase
-include(devpkg-nettle)
 nss-altfiles
 openldap-dev
 include(openssl)

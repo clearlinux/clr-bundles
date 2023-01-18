@@ -1028,8 +1028,8 @@ pypi-requests_toolbelt-python3
 pypi-routes-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
-pypi-scikit_learn-python3
 pypi-scikit_build-python3
+pypi-scikit_learn-python3
 pypi-seaborn-python3
 pypi-setuptools-python3
 pypi-setuptools_rust-python3
