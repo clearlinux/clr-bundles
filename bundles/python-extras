@@ -64,7 +64,7 @@ python-zstandard
 pypi-requests
 requests-ntlm
 pypi-scikit_image
-scikit-learn
+pypi-scikit_learn
 scipy
 simplejson
 pypi-six

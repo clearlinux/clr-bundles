@@ -21,7 +21,7 @@ scipy
 sympy
 pandas
 pypi-scikit_image
-scikit-learn
+pypi-scikit_learn
 pypi-statsmodels
 
 #

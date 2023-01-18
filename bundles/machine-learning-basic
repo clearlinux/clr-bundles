@@ -16,7 +16,7 @@ include(openmpi)
 include(computer-vision-basic)
 include(machine-learning-mycroft)
 
-scikit-learn
+pypi-scikit_learn
 
 
 
