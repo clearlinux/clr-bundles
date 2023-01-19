@@ -62,8 +62,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcc7-dev
-gcc8-dev
 include(gdb)
 gdb-dev
 gettext
@@ -81,8 +79,6 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
-gmp-dev32
-gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
@@ -184,7 +180,6 @@ python3-core
 python3-dev
 pyudev
 include(devpkg-readline)
-readline-dev32
 ruby
 sed
 shadow

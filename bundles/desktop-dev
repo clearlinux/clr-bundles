@@ -880,6 +880,7 @@ pypi-itsdangerous-python3
 pypi-jaraco.classes-python3
 pypi-jeepney-python3
 pypi-jinja2-python3
+pypi-joblib-python3
 pypi-jsonschema-python3
 pypi-keyring-python3
 pypi-kiwisolver-python3
@@ -975,6 +976,7 @@ pypi-sphinx
 pypi-sphinx-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-tap.py-python3
+pypi-threadpoolctl-python3
 pypi-tifffile-python3
 pypi-toml-python3
 pypi-tomli-python3
