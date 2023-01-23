@@ -6,7 +6,7 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(perl-basic)
 include(libX11client)
-include(x11-server)
+include(wayland-server)
 include(webkitgtk)
 
 perl-Cairo

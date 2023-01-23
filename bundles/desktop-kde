@@ -12,7 +12,6 @@ include(qt-basic)
 #
 include(x11-tools)
 include(wayland-server)
-also-add(x11-server)
 include(fuse)
 include(lib-samba)
 include(hardware-bluetooth)
