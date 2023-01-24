@@ -134,6 +134,7 @@ keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
+include(devpkg-krb5)
 include(less)
 less-bin
 include(devpkg-libX11)

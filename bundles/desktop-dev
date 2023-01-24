@@ -885,6 +885,7 @@ pypi-jsonschema-python3
 pypi-keyring-python3
 pypi-kiwisolver-python3
 pypi-lazy_object_proxy-python3
+pypi-libevdev
 pypi-locket-python3
 pypi-lxml
 pypi-mako
