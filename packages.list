@@ -452,4 +452,5 @@ stress-ng # stress-ng will stress test a computer system in various selectable w
 gpsd # Service daemon for mediating access to a GPS
 sshuttle # Full-featured" VPN over an SSH tunnel
 btrfs-progs # libbtrfsutil library
-accel-config # Configure accfg subsystem devices 
+accel-config # Configure accfg subsystem devices
+pytorch # Open source machine learning framework 
