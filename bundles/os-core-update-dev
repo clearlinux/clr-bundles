@@ -47,7 +47,6 @@ include(devpkg-cryptsetup)
 include(devpkg-curl)
 curl-dev32
 curl-mini-dev
-datefudge
 include(devpkg-dbus)
 dbus-dev32
 dbus-python
@@ -77,8 +76,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcc7-dev
-gcc8-dev
 include(gdb)
 gdb-dev
 gettext
@@ -96,8 +93,6 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
-gmp-dev32
-gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
@@ -148,8 +143,6 @@ libgpg-error-dev32
 libgpg-error-extras
 include(devpkg-libidn)
 libidn-dev32
-include(devpkg-libidn2)
-libidn2-dev32
 libkcapi-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -171,8 +164,6 @@ libtasn1-dev32
 include(devpkg-libtirpc)
 libtool
 libtool-dev
-libunistring-dev
-libunistring-dev32
 include(devpkg-libunwind)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -192,10 +183,7 @@ mpc-dev
 mpfr-dev
 include(devpkg-ncurses)
 ncurses-dev32
-include(net-tools)
 netbase
-include(devpkg-nettle)
-nettle-dev32
 include(devpkg-nghttp2)
 nghttp2-dev32
 nss-altfiles
@@ -204,7 +192,6 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(p11-kit)
-include(devpkg-p11-kit)
 p11-kit-dev32
 include(pandoc)
 include(patch)
@@ -229,7 +216,6 @@ python3-dev
 pyudev
 include(devpkg-qttools)
 include(devpkg-readline)
-readline-dev32
 ruby
 sed
 shadow
