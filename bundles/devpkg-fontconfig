@@ -8,6 +8,5 @@
 include(devpkg-base)
 include(devpkg-expat)
 include(devpkg-freetype)
-include(devpkg-util-linux)
 
 fontconfig-dev
