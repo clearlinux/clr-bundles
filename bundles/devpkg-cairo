@@ -11,7 +11,6 @@ include(devpkg-freetype)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-libX11)
-include(devpkg-mesa)
 include(devpkg-pixman)
 
 cairo-dev
