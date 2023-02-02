@@ -128,6 +128,7 @@ expect
 extra-cmake-modules
 extra-cmake-modules-data
 include(devpkg-fftw)
+file-bin
 file-dev
 include(devpkg-flac)
 flac-dev32
@@ -386,6 +387,7 @@ include(devpkg-libtirpc)
 libtool
 libtool-dev
 libtool-dev32
+libunibreak-dev
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
