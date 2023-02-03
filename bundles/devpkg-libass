@@ -10,5 +10,6 @@ include(devpkg-fontconfig)
 include(devpkg-freetype)
 include(devpkg-fribidi)
 include(devpkg-harfbuzz)
+include(devpkg-libunibreak)
 
 libass-dev

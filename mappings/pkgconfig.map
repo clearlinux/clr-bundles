@@ -441,6 +441,7 @@ pkgconfig(libtirpc)	devpkg-libtirpc
 pkgconfig(libturbojpeg)	devpkg-libjpeg-turbo
 pkgconfig(libudev)	devpkg-systemd
 pkgconfig(libuhttpmock-0.0)	devpkg-uhttpmock
+pkgconfig(libunibreak)	devpkg-libunibreak
 pkgconfig(libunwind)	devpkg-libunwind
 pkgconfig(libunwind-coredump)	devpkg-libunwind
 pkgconfig(libunwind-generic)	devpkg-libunwind

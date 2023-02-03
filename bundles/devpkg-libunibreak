@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-libunibreak
+# [DESCRIPTION]: All content for pkgconfig file libunibreak.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libunibreak-dev
