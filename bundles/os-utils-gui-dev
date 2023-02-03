@@ -435,7 +435,7 @@ include(devpkg-libtirpc)
 libtool
 libtool-dev
 libtool-dev32
-libunibreak-dev
+include(devpkg-libunibreak)
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
