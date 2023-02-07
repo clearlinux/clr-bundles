@@ -1,0 +1,13 @@
+# [TITLE]: smemstat
+# [DESCRIPTION]: memory usage monitoring tool taking into account shared memory
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Colin Ian King <colin.king@intel.com>
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+smemstat
