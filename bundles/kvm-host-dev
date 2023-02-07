@@ -616,11 +616,9 @@ include(pypi-cython)
 pypi-cython-python3
 pypi-dataclasses-python3
 pypi-deprecated-python3
-pypi-distlib-python3
 pypi-docopt-python3
 pypi-docutils
 pypi-filecache-python3
-pypi-filelock-python3
 pypi-flit-python3
 pypi-future-python3
 pypi-gitdb-python3
@@ -646,7 +644,6 @@ pypi-pbr-python3
 pypi-pecan-python3
 pypi-pip
 pypi-pip-python3
-pypi-platformdirs-python3
 pypi-prettytable-python3
 pypi-psutil-python3
 pypi-ptyprocess-python3

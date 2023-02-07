@@ -606,11 +606,9 @@ pypi-colorama-python3
 include(pypi-cython)
 pypi-dataclasses-python3
 pypi-deprecated-python3
-pypi-distlib-python3
 pypi-docutils
 pypi-evdev-python3
 pypi-filecache-python3
-pypi-filelock-python3
 pypi-flit-python3
 pypi-future-python3
 pypi-gitdb-python3
@@ -628,7 +626,6 @@ pypi-markdown-python3
 pypi-matplotlib-python3
 pypi-numpy-python3
 pypi-pip
-pypi-platformdirs-python3
 pypi-psutil-python3
 pypi-ptyprocess-python3
 pypi-pybind11-python3

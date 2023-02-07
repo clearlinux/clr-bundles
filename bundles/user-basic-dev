@@ -726,12 +726,10 @@ include(pypi-cython)
 pypi-cython-python3
 pypi-dataclasses-python3
 pypi-deprecated-python3
-pypi-distlib-python3
 pypi-dnspython
 pypi-docopt-python3
 pypi-docutils
 pypi-filecache-python3
-pypi-filelock-python3
 pypi-flit-python3
 pypi-flit_core-python3
 pypi-freezegun-python3
@@ -770,7 +768,6 @@ pypi-pecan-python3
 pypi-pillow-python3
 pypi-pip
 pypi-pip-python3
-pypi-platformdirs-python3
 pypi-pluggy
 pypi-ply-python3
 pypi-poetry_core-python3

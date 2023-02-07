@@ -205,14 +205,11 @@ include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 include(pypi-cython)
-pypi-distlib-python3
-pypi-filelock-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-pip
-pypi-platformdirs-python3
 pypi-pycparser-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3

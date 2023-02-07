@@ -388,10 +388,8 @@ procps-ng-bin
 pycairo-dev
 pycairo-python3
 include(pypi-cython)
-pypi-distlib-python3
 pypi-dnspython
 pypi-docutils
-pypi-filelock-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3
@@ -402,7 +400,6 @@ pypi-mako
 pypi-markdown-python3
 pypi-meson_python-python3
 pypi-pip
-pypi-platformdirs-python3
 pypi-pycparser-python3
 pypi-requests-python3
 pypi-setuptools-python3

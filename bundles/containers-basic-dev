@@ -248,8 +248,6 @@ pycairo-dev
 pycairo-python3
 include(pygobject)
 include(pypi-cython)
-pypi-distlib-python3
-pypi-filelock-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3
@@ -258,7 +256,6 @@ pypi-mako
 pypi-markdown-python3
 pypi-meson_python-python3
 pypi-pip
-pypi-platformdirs-python3
 pypi-pycparser-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3

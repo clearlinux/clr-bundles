@@ -926,13 +926,11 @@ pypi-cython-python3
 pypi-dataclasses-python3
 pypi-decorator-python3
 pypi-deprecated-python3
-pypi-distlib-python3
 pypi-distro-python3
 pypi-dnspython
 pypi-docopt-python3
 pypi-docutils
 pypi-filecache-python3
-pypi-filelock-python3
 pypi-flake8-python3
 pypi-flake8_import_order-python3
 pypi-flask-python3
@@ -985,7 +983,6 @@ pypi-pecan-python3
 pypi-pillow-python3
 pypi-pip
 pypi-pip-python3
-pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
 pypi-ply-python3
