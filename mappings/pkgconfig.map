@@ -54,8 +54,6 @@ pkgconfig(datrie-0.2)	devpkg-libdatrie
 pkgconfig(dbus-1)	devpkg-dbus
 pkgconfig(dbus-glib-1)	devpkg-dbus-glib
 pkgconfig(devmapper)	devpkg-LVM2
-pkgconfig(dri)	devpkg-mesa
-pkgconfig(dri2proto)	devpkg-xorgproto
 pkgconfig(dri3proto)	devpkg-xorgproto
 pkgconfig(egl)	devpkg-mesa
 pkgconfig(eigen3)	devpkg-eigen
@@ -480,7 +478,6 @@ pkgconfig(libwnck-3.0)	devpkg-libwnck3
 pkgconfig(libwoff2common)	devpkg-woff2
 pkgconfig(libwoff2dec)	devpkg-woff2
 pkgconfig(libwoff2enc)	devpkg-woff2
-pkgconfig(libxcvt)	devpkg-libxcvt
 pkgconfig(libxdot)	devpkg-graphviz
 pkgconfig(libxklavier)	devpkg-libxklavier
 pkgconfig(libxml-2.0)	devpkg-libxml2
@@ -519,14 +516,12 @@ pkgconfig(pciaccess)	devpkg-libpciaccess
 pkgconfig(pixman-1)	devpkg-pixman
 pkgconfig(polkit-gobject-1)	devpkg-polkit
 pkgconfig(popt)	devpkg-popt
-pkgconfig(presentproto)	devpkg-xorgproto
 pkgconfig(proj)	devpkg-proj
 pkgconfig(pygobject-3.0)	devpkg-pygobject
 pkgconfig(randrproto)	devpkg-xorgproto
 pkgconfig(readline)	devpkg-readline
 pkgconfig(recordproto)	devpkg-xorgproto
 pkgconfig(renderproto)	devpkg-xorgproto
-pkgconfig(resourceproto)	devpkg-xorgproto
 pkgconfig(rest-0.7)	devpkg-compat-rest-soname07
 pkgconfig(rest-1.0)	devpkg-rest
 pkgconfig(samplerate)	devpkg-libsamplerate
