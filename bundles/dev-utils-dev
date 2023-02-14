@@ -469,6 +469,8 @@ perl-namespace-clean-perl
 perl-perl
 php-dev
 pigz
+include(devpkg-pixman)
+pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)

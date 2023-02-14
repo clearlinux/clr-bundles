@@ -895,6 +895,7 @@ libgcrypt-dev32
 include(devpkg-libgd)
 libgeotiff-dev
 libgit2-dev
+include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras

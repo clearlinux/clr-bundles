@@ -434,6 +434,7 @@ libgcrypt-dev32
 include(devpkg-libgd)
 include(devpkg-libgdata)
 include(devpkg-libgee)
+include(devpkg-libglvnd)
 include(devpkg-libgnomekbd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32

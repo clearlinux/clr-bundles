@@ -122,6 +122,7 @@ grep
 groff
 gtk-doc
 include(devpkg-gtk-doc)
+include(devpkg-gtk3)
 include(guile)
 include(gzip)
 include(devpkg-harfbuzz)
@@ -222,6 +223,7 @@ lzo-dev
 m4
 include(make)
 include(devpkg-mariadb)
+include(devpkg-mesa)
 mesa-dev32
 meson-python3
 mpc-dev
@@ -258,6 +260,8 @@ perl-XML-Parser-perl
 php
 php-dev
 pigz
+include(devpkg-pixman)
+pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
