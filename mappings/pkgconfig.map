@@ -55,7 +55,7 @@ pkgconfig(dbus-1)	devpkg-dbus
 pkgconfig(dbus-glib-1)	devpkg-dbus-glib
 pkgconfig(devmapper)	devpkg-LVM2
 pkgconfig(dri3proto)	devpkg-xorgproto
-pkgconfig(egl)	devpkg-mesa
+pkgconfig(egl)	devpkg-libglvnd
 pkgconfig(eigen3)	devpkg-eigen
 pkgconfig(enchant-2)	devpkg-enchant
 pkgconfig(epoxy)	devpkg-libepoxy
@@ -116,9 +116,9 @@ pkgconfig(gio-2.0)	devpkg-glib
 pkgconfig(gio-unix-2.0)	devpkg-glib
 pkgconfig(giomm-2.4)	devpkg-compat-glibmm-soname24
 pkgconfig(gjs-1.0)	devpkg-gjs
-pkgconfig(gl)	devpkg-mesa
-pkgconfig(glesv1_cm)	devpkg-mesa
-pkgconfig(glesv2)	devpkg-mesa
+pkgconfig(gl)	devpkg-libglvnd
+pkgconfig(glesv1_cm)	devpkg-libglvnd
+pkgconfig(glesv2)	devpkg-libglvnd
 pkgconfig(glew)	devpkg-glew
 pkgconfig(glfw3)	devpkg-glfw
 pkgconfig(glib-2.0)	devpkg-glib

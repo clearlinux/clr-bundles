@@ -12,7 +12,7 @@ include(libX11client)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-libX11)
-include(devpkg-mesa)
+include(devpkg-libglvnd)
 include(devpkg-pango)
 include(devpkg-wayland)
 

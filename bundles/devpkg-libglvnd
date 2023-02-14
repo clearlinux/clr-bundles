@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-libepoxy
-# [DESCRIPTION]: All content for pkgconfig file libepoxy.pc.
+# [TITLE]: devpkg-libglvnd
+# [DESCRIPTION]: All content for pkgconfig file libglvnd.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,6 +7,7 @@
 
 include(devpkg-base)
 include(devpkg-libX11)
-include(devpkg-libglvnd)
+include(devpkg-libdrm)
 
-libepoxy-dev
+libglvnd-dev
+include(libX11client)
