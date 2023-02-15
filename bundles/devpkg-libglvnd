@@ -6,8 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-libX11)
-include(devpkg-libdrm)
 
 libglvnd-dev
 include(libX11client)
