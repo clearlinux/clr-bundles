@@ -12,7 +12,6 @@ include(devpkg-gtk3)
 include(devpkg-libsoup)
 
 webkitgtk-dev
-include(lib-opengl)
 include(libX11client)
 include(libstdcpp)
 include(libglib)
