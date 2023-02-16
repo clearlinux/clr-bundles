@@ -81,6 +81,7 @@ ceph-dev
 check-dev
 check-dev32
 clear-font
+clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 cmake
@@ -306,6 +307,7 @@ include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
 include(devpkg-libgudev)
+include(devpkg-libgusb)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -742,6 +744,7 @@ tk-extras
 tk-staticdev
 tpm2-tss-dev
 include(tzdata)
+umockdev-dev
 include(unzip)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
@@ -754,6 +757,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+vala
 include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)

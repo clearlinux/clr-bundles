@@ -69,6 +69,7 @@ include(devpkg-cairo)
 check-dev
 check-dev32
 clear-font
+clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 cmake
@@ -92,6 +93,7 @@ dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-python
+dbus-python-dev
 dejagnu
 desktop-file-utils
 include(diffutils)
@@ -103,6 +105,7 @@ dlt-daemon-dev
 include(docbook-utils)
 docbook-xml
 include(doxygen)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -272,6 +275,7 @@ include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
 include(devpkg-libgudev)
+include(devpkg-libgusb)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -448,6 +452,7 @@ pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pynacl-python3
+pypi-python_dbusmock
 pypi-requests-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
@@ -507,6 +512,7 @@ tk-extras
 tk-staticdev
 tpm2-tss-dev
 include(tzdata)
+umockdev-dev
 include(unzip)
 util-linux
 util-linux-bin
@@ -516,6 +522,8 @@ util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
 include(devpkg-v4l-utils)
+vala
+include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 include(devpkg-wavpack)

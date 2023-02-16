@@ -484,6 +484,7 @@ include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
 include(devpkg-libgudev)
+include(devpkg-libgusb)
 include(devpkg-libical)
 include(devpkg-libidn)
 libidn-dev32
@@ -1170,6 +1171,7 @@ tokyocabinet-dev
 tpm2-tss-dev
 tracker-dev
 include(tzdata)
+umockdev-dev
 unixODBC-dev
 include(unzip)
 include(devpkg-usbredir)
