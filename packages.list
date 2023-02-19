@@ -455,3 +455,4 @@ btrfs-progs # libbtrfsutil library
 accel-config # Configure accfg subsystem devices
 pytorch # Open source machine learning framework
 softflowd # Network traffic analyser capable of Cisco NetFlow data export
+pypi-onnx # Open Neural Network Exchange 

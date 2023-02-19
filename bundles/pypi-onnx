@@ -1,18 +1,16 @@
-# [TITLE]: pytorch
-# [DESCRIPTION]: Open source machine learning framework
+# [TITLE]: pypi-onnx
+# [DESCRIPTION]: Open Neural Network Exchange
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 
 include(python3-basic)
-include(openblas)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(python-data-science)
-include(pypi-onnx)
+include(python-extras)
 # end of custom additions
 
 # main package
-pytorch
+pypi-onnx
