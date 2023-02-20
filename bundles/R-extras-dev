@@ -222,6 +222,7 @@ R-flextable
 R-fontBitstreamVera
 R-fontLiberation
 R-fontawesome
+R-fontquiver
 R-forcats
 R-foreach
 R-forecast
