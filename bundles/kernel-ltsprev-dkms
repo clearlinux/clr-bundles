@@ -1,0 +1,10 @@
+# [TITLE]: kernel-ltsprev-dkms
+# [DESCRIPTION]: Support for module building/loading via Dynamic Kernel Module System (DKMS) in the previous LTS kernel.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+include(c-basic)
+include(linux-ltsprev-dev)
+clr-ignore-mod-sig
+dkms
