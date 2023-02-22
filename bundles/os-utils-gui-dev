@@ -414,7 +414,6 @@ include(devpkg-libproxy)
 include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)
@@ -791,7 +790,7 @@ sed
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
-snappy-dev
+include(devpkg-snappy)
 include(devpkg-speex)
 speexdsp-dev
 spice-dev
@@ -854,7 +853,6 @@ include(devpkg-woff2)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xcursorgen
 xdg-dbus-proxy
 xdg-utils

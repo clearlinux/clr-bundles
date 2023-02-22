@@ -124,7 +124,7 @@ python3-dev
 also-add(redis-native)
 also-add(scons)
 pypi-selenium
-snappy-dev
+include(devpkg-snappy)
 SuiteSparse
 SuiteSparse-dev
 also-add(devpkg-sqlite-autoconf)

@@ -90,7 +90,7 @@ python3-dev
 also-add(R-basic)
 also-add(redis-native)
 also-add(scons)
-snappy-dev
+include(devpkg-snappy)
 SuiteSparse
 SuiteSparse-dev
 also-add(devpkg-sqlite-autoconf)

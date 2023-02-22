@@ -336,7 +336,6 @@ include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libproxy)
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 librdkafka-dev
 librsvg
@@ -713,7 +712,7 @@ scipy-python3
 sed
 shadow
 shared-mime-info
-snappy-dev
+include(devpkg-snappy)
 include(devpkg-speex)
 speexdsp-dev
 spice
@@ -771,7 +770,6 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xdg-utils
 xfsprogs-dev
 include(devpkg-xkeyboard-config)

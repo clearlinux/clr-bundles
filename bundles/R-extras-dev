@@ -931,7 +931,6 @@ include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libproxy)
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)
@@ -1359,7 +1358,6 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xdg-utils
 xerces-c-dev
 include(devpkg-xkeyboard-config)

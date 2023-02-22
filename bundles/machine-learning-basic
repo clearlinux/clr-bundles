@@ -78,7 +78,7 @@ pypi-scikit_image
 scipy-python
 pypi-six
 pypi-smart_open
-snappy-dev
+include(devpkg-snappy)
 include(Sphinx)
 swig
 include(devpkg-tbb)

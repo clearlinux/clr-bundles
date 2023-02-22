@@ -528,7 +528,6 @@ libpng-dev32
 include(devpkg-libproxy)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 libqb-dev
 libqmi-dev
@@ -1118,7 +1117,7 @@ shadow
 shared-mime-info
 signond-dev
 include(devpkg-slang)
-snappy-dev
+include(devpkg-snappy)
 solid-dev
 sonnet-dev
 source-highlight

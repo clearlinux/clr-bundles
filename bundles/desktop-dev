@@ -488,7 +488,6 @@ include(devpkg-libproxy)
 include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
 libqrtr-glib-dev
@@ -1056,8 +1055,9 @@ shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 include(devpkg-slang)
-snappy-dev
+include(devpkg-snappy)
 source-highlight
+source-highlight-dev
 include(devpkg-speex)
 speexdsp-dev
 sqlite-autoconf
@@ -1126,7 +1126,6 @@ include(devpkg-woff2)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xcursorgen
 xdg-dbus-proxy
 xdg-user-dirs

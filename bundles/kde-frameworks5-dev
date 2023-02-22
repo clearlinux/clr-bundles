@@ -369,7 +369,6 @@ include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libproxy)
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)
@@ -610,7 +609,7 @@ scipy-python3
 sed
 shadow
 shared-mime-info
-snappy-dev
+include(devpkg-snappy)
 solid-dev
 sonnet-dev
 include(devpkg-speex)

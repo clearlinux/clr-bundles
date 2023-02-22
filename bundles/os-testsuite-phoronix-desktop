@@ -114,7 +114,7 @@ pth-dev
 python3-dev
 also-add(scons)
 pypi-selenium
-snappy-dev
+include(devpkg-snappy)
 also-add(devpkg-sqlite-autoconf)
 tcl
 also-add(devpkg-tiff)

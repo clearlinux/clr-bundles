@@ -350,7 +350,6 @@ include(devpkg-libproxy)
 include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
 libqrtr-glib-dev
@@ -726,7 +725,6 @@ include(devpkg-woff2)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xdg-dbus-proxy
 xdg-utils
 include(devpkg-xkeyboard-config)

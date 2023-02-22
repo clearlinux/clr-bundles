@@ -403,7 +403,6 @@ include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libproxy)
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 librdkafka-dev
 librsvg
@@ -858,7 +857,7 @@ sg3_utils-dev
 shadow
 shared-mime-info
 include(devpkg-slang)
-snappy-dev
+include(devpkg-snappy)
 source-highlight
 source-highlight-dev
 include(devpkg-speex)
@@ -936,7 +935,6 @@ include(devpkg-xapian-core)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xdg-utils
 xfsprogs-dev
 include(devpkg-xkeyboard-config)
