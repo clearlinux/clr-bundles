@@ -26,7 +26,6 @@ pkgconfig(atkmm-1.6)	devpkg-compat-atkmm-soname16
 pkgconfig(atspi-2)	devpkg-at-spi2-core
 pkgconfig(audit)	devpkg-audit
 pkgconfig(avahi-client)	devpkg-avahi
-pkgconfig(babl)	devpkg-babl
 pkgconfig(bigreqsproto)	devpkg-xorgproto
 pkgconfig(blkid)	devpkg-util-linux
 pkgconfig(bluez)	devpkg-bluez
