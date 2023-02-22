@@ -1,0 +1,7 @@
+# [TITLE]: linux-ltscurrent-dev
+# [DESCRIPTION]: Files for building modules against LTScurrent kernel.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools, Kernel
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+linux-ltscurrent-dev

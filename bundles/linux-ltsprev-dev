@@ -1,0 +1,7 @@
+# [TITLE]: linux-ltsprev-dev
+# [DESCRIPTION]: Files for building modules against LTSprev kernel.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools, Kernel
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+linux-ltsprev-dev
