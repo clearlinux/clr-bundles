@@ -2,6 +2,7 @@ alsa
 apr-1
 apr-util-1
 audit
+babl-0.1
 bigreqsproto
 blkid
 bluez
