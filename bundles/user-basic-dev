@@ -332,6 +332,7 @@ libatomic_ops-dev32
 include(devpkg-libavif)
 libavtp-dev
 libbpf-dev
+include(devpkg-libbsd)
 libc6
 libc6-dev
 libcacard-dev

@@ -18,6 +18,7 @@ SVT-AV1-dev
 include(Sphinx)
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
+Vulkan-Loader-dev32
 Vulkan-Tools
 Z3-dev
 Z3-dev32
@@ -87,6 +88,9 @@ dbus-python
 dejagnu
 desktop-file-utils
 include(diffutils)
+directx-headers-dev
+directx-headers-staticdev
+directx-headers-staticdev32
 dlm-dev
 include(docbook-utils)
 docbook-xml
@@ -141,6 +145,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
+glslang
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -200,12 +205,16 @@ include(devpkg-libXt)
 libXt-dev32
 include(devpkg-libXtst)
 include(devpkg-libXv)
+libXv-dev32
+include(devpkg-libXvMC)
+libXvMC-dev32
 libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
 libbpf-dev
+include(devpkg-libbsd)
 libc6
 libc6-dev
 include(devpkg-libcap)
@@ -213,7 +222,10 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+libclc-dev
 include(devpkg-libcroco)
+include(devpkg-libdrm)
+libdrm-dev32
 include(devpkg-libedit)
 liberation-fonts
 libev-dev
@@ -226,6 +238,7 @@ libfido2-dev
 include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgd)
+include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
@@ -270,6 +283,8 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
+include(devpkg-libva)
+libvdpau-dev
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -282,6 +297,7 @@ include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
+llvm-dev32
 include(devpkg-lua)
 include(lynx)
 include(devpkg-lz4)
@@ -480,6 +496,7 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 pypi-absl_py-python3
+pypi-aiohttp-python3
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-brotli-python3
@@ -488,6 +505,7 @@ pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-charset_normalizer-python3
+pypi-colorama-python3
 pypi-commonmark
 pypi-contourpy-python3
 pypi-cppy-python3
@@ -496,12 +514,14 @@ pypi-cython-python3
 pypi-dataclasses-python3
 pypi-deprecated-python3
 pypi-docutils
+pypi-filecache-python3
 pypi-flit-python3
 pypi-flit_core-python3
 pypi-freezegun-python3
 pypi-future-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
+pypi-gql-python3
 pypi-graphviz-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
@@ -511,6 +531,7 @@ pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-kiwisolver-python3
 pypi-lxml
+pypi-mako
 pypi-matplotlib-python3
 pypi-meson_python
 pypi-munkres-python3
@@ -616,6 +637,10 @@ util-macros-dev32
 include(valgrind)
 include(devpkg-valgrind)
 vim
+include(devpkg-wayland)
+wayland-dev32
+include(devpkg-wayland-protocols)
+wayland-protocols-dev32
 include(wget)
 include(which)
 xauth
