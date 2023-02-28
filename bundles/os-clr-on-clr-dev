@@ -897,10 +897,13 @@ pycairo-python3
 include(pygobject)
 pypi-absl_py-python3
 pypi-aiohttp-python3
+pypi-aiosignal-python3
 pypi-appdirs-python3
 pypi-astunparse-python3
+pypi-async_timeout-python3
 pypi-asyncssh-python3
 pypi-attrs-python3
+pypi-backoff-python3
 pypi-bcrypt-python3
 pypi-beniget-python3
 pypi-booleanoperations-python3
@@ -940,11 +943,13 @@ pypi-flit-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
+pypi-frozenlist-python3
 pypi-future-python3
 pypi-gast-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
 pypi-gql-python3
+pypi-graphql_core-python3
 pypi-graphviz-python3
 pypi-gssapi-python3
 pypi-hatch_vcs-python3
@@ -974,6 +979,7 @@ pypi-meson_python
 pypi-meson_python-python3
 pypi-mock-python3
 pypi-more_itertools-python3
+pypi-multidict-python3
 pypi-munkres-python3
 pypi-natsort-python3
 pypi-nose
@@ -998,6 +1004,7 @@ pypi-py
 pypi-py-python3
 pypi-pybind11-dev
 pypi-pybind11-python3
+pypi-pycares-python3
 pypi-pycparser-python3
 pypi-pygithub-python3
 pypi-pygments-python3
@@ -1059,6 +1066,7 @@ pypi-virtualenv-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
 pypi-wrapt-python3
+pypi-yarl-python3
 pypi-zipp-python3
 pypi-zopfli-python3
 python3
