@@ -596,6 +596,8 @@ include(devpkg-nautilus)
 include(devpkg-ncurses)
 ncurses-dev32
 include(devpkg-ndctl)
+net-snmp-dev
+net-snmp-perl
 include(net-tools)
 netbase
 include(devpkg-nettle)
