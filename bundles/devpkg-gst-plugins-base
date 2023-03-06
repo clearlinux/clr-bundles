@@ -19,7 +19,6 @@ include(devpkg-wayland)
 include(devpkg-zlib)
 
 gst-plugins-base-dev
-include(lib-opengl)
 include(libX11client)
 include(libglib)
 include(gstreamer)
