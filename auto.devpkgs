@@ -503,6 +503,7 @@ virglrenderer
 vorbis
 vpx
 wavpack
+wlroots
 x11
 x11-xcb
 xapian-core
