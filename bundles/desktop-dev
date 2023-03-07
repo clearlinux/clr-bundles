@@ -822,7 +822,6 @@ pypi-bracex-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
 pypi-build-python3
-pypi-calver-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
@@ -897,7 +896,6 @@ pypi-matplotlib-python3
 pypi-meson_python
 pypi-mock-python3
 pypi-more_itertools-python3
-pypi-msgpack-python3
 pypi-multidict-python3
 pypi-munkres-python3
 pypi-mypy_extensions-python3
@@ -964,7 +962,6 @@ pypi-rsa-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
 pypi-s3transfer-python3
-pypi-scikit_build-python3
 pypi-scikit_learn-python3
 pypi-seaborn-python3
 pypi-secretstorage-python3
