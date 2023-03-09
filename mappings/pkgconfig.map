@@ -127,6 +127,7 @@ pkgconfig(glm)	devpkg-glm
 pkgconfig(glproto)	devpkg-xorgproto
 pkgconfig(glu)	devpkg-glu
 pkgconfig(glut)	devpkg-freeglut
+pkgconfig(glx)	devpkg-libglvnd
 pkgconfig(gmime-3.0)	devpkg-gmime
 pkgconfig(gmock)	devpkg-googletest
 pkgconfig(gmock_main)	devpkg-googletest
@@ -503,6 +504,7 @@ pkgconfig(numa)	devpkg-numactl
 pkgconfig(ogg)	devpkg-libogg
 pkgconfig(ompi)	devpkg-openmpi
 pkgconfig(opencv)	devpkg-opencv
+pkgconfig(opengl)	devpkg-libglvnd
 pkgconfig(openssl)	devpkg-openssl
 pkgconfig(opus)	devpkg-opus
 pkgconfig(orc-0.4)	devpkg-orc
