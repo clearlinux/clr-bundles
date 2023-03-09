@@ -11,7 +11,6 @@ include(qt-basic)
 #
 # Apps that are also pundles
 #
-also-add(atom)
 also-add(darktable)
 also-add(geany)
 also-add(gimp)
