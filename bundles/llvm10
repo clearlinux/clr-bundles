@@ -1,7 +1,0 @@
-# [TITLE]: llvm10
-# [DESCRIPTION]: LLVM/Clang modular and reusable compiler toolchain, version 10.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-filesystem

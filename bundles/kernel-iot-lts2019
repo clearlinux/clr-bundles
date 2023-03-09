@@ -1,7 +1,0 @@
-# [TITLE]: kernel-iot-lts2019
-# [DESCRIPTION]: Run the Intel "PK" kernel, an enterprise-style kernel with backports.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools, Kernel
-# [MAINTAINER]: Duran, Randy G <randy.g.duran@intel.com>
-filesystem

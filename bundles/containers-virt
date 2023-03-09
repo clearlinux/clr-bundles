@@ -1,7 +1,0 @@
-# [TITLE]: containers-virt
-# [DESCRIPTION]: Run container applications from Dockerhub in lightweight virtual machines.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
-filesystem

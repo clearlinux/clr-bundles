@@ -1,7 +1,0 @@
-# [TITLE]: llvm9
-# [DESCRIPTION]: LLVM/Clang modular and reusable compiler toolchain, version 9.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-filesystem

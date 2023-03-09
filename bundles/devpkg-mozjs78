@@ -1,7 +1,0 @@
-# [TITLE]: devpkg-mozjs78
-# [DESCRIPTION]: All content for pkgconfig file mozjs78.pc.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-filesystem
