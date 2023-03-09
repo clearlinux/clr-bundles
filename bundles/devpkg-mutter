@@ -4,18 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(devpkg-base)
-include(devpkg-atk)
-include(devpkg-cairo)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-gsettings-desktop-schemas)
-include(devpkg-gtk3)
-include(devpkg-json-glib)
-include(devpkg-libX11)
-include(devpkg-mesa)
-include(devpkg-pango)
-include(devpkg-wayland)
-
-mutter-dev
+filesystem

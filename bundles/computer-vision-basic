@@ -5,25 +5,4 @@
 # [TAGS]: Developer Tools, Data Science, Python
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-include(cloud-api)
-include(computer-vision-models)
-include(computer-vision-openvino)
-also-add(python-extras)
-include(python-data-science)
-#include(machine-learning-tensorflow)
-
-#
-# Key ML frameworks and tools
-#
-
-clinfo
-# support packages
-
-mkl-dnn-dev
-include(openblas)
-include(devpkg-opencv)
-pandas
-pypi-scikit_image
-scipy-python
-
-pypi-wheel
+filesystem
