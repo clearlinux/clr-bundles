@@ -42,7 +42,6 @@ include(procps-ng)
 psstop
 siege
 include(strace)
-sysdig
 include(sysstat)
 tcpdump
 time
