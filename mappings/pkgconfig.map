@@ -407,6 +407,7 @@ pkgconfig(librsvg-2.0)	devpkg-librsvg
 pkgconfig(libsasl2)	devpkg-cyrus-sasl
 pkgconfig(libsass)	devpkg-libsass
 pkgconfig(libsctp)	devpkg-lksctp-tools
+pkgconfig(libseat)	devpkg-seatd
 pkgconfig(libseccomp)	devpkg-libseccomp
 pkgconfig(libsecret-1)	devpkg-libsecret
 pkgconfig(libsecret-unstable)	devpkg-libsecret
@@ -553,6 +554,7 @@ pkgconfig(wayland-cursor)	devpkg-wayland
 pkgconfig(wayland-egl)	devpkg-wayland
 pkgconfig(wayland-server)	devpkg-wayland
 pkgconfig(webkit2gtk-4.1)	devpkg-webkitgtk
+pkgconfig(wlroots)	devpkg-wlroots
 pkgconfig(x11)	devpkg-libX11
 pkgconfig(x11-xcb)	devpkg-libX11
 pkgconfig(xapian-core)	devpkg-xapian-core
