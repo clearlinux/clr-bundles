@@ -873,7 +873,6 @@ pypi-humanize-python3
 pypi-hypothesis
 pypi-hypothesis-python3
 pypi-idna-python3
-pypi-imageio-python3
 pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
@@ -887,6 +886,7 @@ pypi-joblib-python3
 pypi-jsonschema-python3
 pypi-keyring-python3
 pypi-kiwisolver-python3
+pypi-lazy_loader-python3
 pypi-lazy_object_proxy-python3
 pypi-libevdev
 pypi-locket-python3
@@ -895,6 +895,7 @@ pypi-mako
 pypi-markdown-python3
 pypi-matplotlib-python3
 pypi-meson_python
+pypi-meson_python-python3
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-msgpack-python3
@@ -981,7 +982,6 @@ pypi-sphinx-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-tap.py-python3
 pypi-threadpoolctl-python3
-pypi-tifffile-python3
 pypi-toml-python3
 pypi-tomli-python3
 pypi-tomlkit-python3
