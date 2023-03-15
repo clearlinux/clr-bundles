@@ -1,6 +1,6 @@
 # [TITLE]: kernel-iot-lts2018
 # [DESCRIPTION]: Run the Intel "PK" kernel, an enterprise-style kernel with backports.
-# [STATUS]: Depricated
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
