@@ -18,6 +18,7 @@ also-add(aspell)
 aspell-en
 autossh
 bash
+bash-completion
 bashdb
 bzip2
 clr-hardware-files
