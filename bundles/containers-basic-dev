@@ -218,7 +218,7 @@ include(devpkg-nettle)
 nettle-dev32
 include(devpkg-nghttp2)
 nghttp2-dev32
-ninja-bin
+ninja-python3
 npth-dev
 nss-altfiles
 openldap-dev

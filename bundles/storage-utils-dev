@@ -230,7 +230,7 @@ include(net-tools)
 netbase
 include(devpkg-nettle)
 nettle-dev32
-ninja-bin
+ninja-python3
 nss-altfiles
 include(devpkg-ntfs-3g)
 include(devpkg-open-iscsi)

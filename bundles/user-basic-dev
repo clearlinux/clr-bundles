@@ -495,7 +495,7 @@ include(devpkg-nftables)
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
-ninja-bin
+ninja-python3
 nmap-extras
 nodejs
 include(devpkg-nspr)
