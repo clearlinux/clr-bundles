@@ -586,7 +586,6 @@ include(devpkg-mpg123)
 mtdev-dev
 mutter
 mutter-data
-include(devpkg-mutter)
 mypaint-brushes
 mypaint-brushes-dev
 mypy-python3
