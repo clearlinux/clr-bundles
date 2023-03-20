@@ -1,7 +1,0 @@
-# [TITLE]: devpkg-mutter
-# [DESCRIPTION]: All content for pkgconfig file mutter.pc.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-filesystem

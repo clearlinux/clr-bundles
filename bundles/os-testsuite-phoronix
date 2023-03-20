@@ -70,7 +70,6 @@ also-add(devpkg-glu)
 gmp-dev
 include(gnupg)
 also-add(gnuplot)
-also-add(devpkg-gtk)
 also-add(devpkg-hwloc)
 jemalloc-dev
 jemalloc-dev

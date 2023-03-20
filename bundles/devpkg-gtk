@@ -1,7 +1,0 @@
-# [TITLE]: devpkg-gtk
-# [DESCRIPTION]: All content for pkgconfig file gtk.pc.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-filesystem

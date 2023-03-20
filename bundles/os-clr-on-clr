@@ -41,7 +41,6 @@ include(devpkg-gdk-pixbuf)
 include(global)
 include(devpkg-gtk3)
 pypi-gitpython
-include(devpkg-gtk)
 libabigail
 also-add(libarchive)
 pypi-libarchive_c
