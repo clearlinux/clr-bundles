@@ -898,6 +898,7 @@ include(pygobject)
 pypi-absl_py-python3
 pypi-aiohttp-python3
 pypi-aiosignal-python3
+pypi-amqp-python3
 pypi-appdirs-python3
 pypi-astunparse-python3
 pypi-async_timeout-python3
@@ -906,6 +907,7 @@ pypi-attrs-python3
 pypi-backoff-python3
 pypi-bcrypt-python3
 pypi-beniget-python3
+pypi-billiard-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
@@ -970,6 +972,7 @@ pypi-jsonpatch-python3
 pypi-kerberos-python3
 pypi-kiwisolver-python3
 pypi-kubernetes-python3
+pypi-lavacli-python3
 pypi-lxml
 pypi-lz4-python3
 pypi-mako
@@ -1061,6 +1064,7 @@ pypi-typogrify-python3
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3
+pypi-vine-python3
 pypi-virtualenv
 pypi-virtualenv-python3
 pypi-werkzeug-python3

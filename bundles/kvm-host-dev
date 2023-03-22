@@ -634,6 +634,7 @@ pypi-imagesize
 pypi-jinja2-python3
 pypi-jsonpatch-python3
 pypi-kubernetes-python3
+pypi-lavacli-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3

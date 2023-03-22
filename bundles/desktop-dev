@@ -809,12 +809,14 @@ pygobject-python
 pypi-absl_py-python3
 pypi-aiohttp-python3
 pypi-aiosignal-python3
+pypi-amqp-python3
 pypi-appdirs-python3
 pypi-astroid-python3
 pypi-async_timeout-python3
 pypi-atomicwrites-python3
 pypi-attrs-python3
 pypi-bashlex-python3
+pypi-billiard-python3
 pypi-bleach-python3
 pypi-blockdiag-python3
 pypi-booleanoperations-python3
@@ -886,6 +888,7 @@ pypi-joblib-python3
 pypi-jsonschema-python3
 pypi-keyring-python3
 pypi-kiwisolver-python3
+pypi-lavacli-python3
 pypi-lazy_loader-python3
 pypi-lazy_object_proxy-python3
 pypi-libevdev
@@ -1000,6 +1003,7 @@ pypi-typogrify-python3
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3
+pypi-vine-python3
 pypi-virtualenv
 pypi-virtualenv-python3
 pypi-wcwidth-python3
