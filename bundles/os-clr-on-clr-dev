@@ -588,6 +588,7 @@ include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
+include(devpkg-libzmq)
 links
 linux-firmware-wifi
 linux-libc-headers
@@ -1023,6 +1024,7 @@ pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-pytest_runner
+pypi-pytest_runner-python3
 pypi-python_dateutil-python3
 pypi-python_dbusmock
 pypi-python_dotenv-python3
@@ -1030,6 +1032,7 @@ pypi-python_multilib-python3
 pypi-pythran
 pypi-pythran-python3
 pypi-pytz-python3
+pypi-pyzmq-python3
 pypi-requests-python3
 pypi-requests_gssapi-python3
 pypi-requests_mock-python3
