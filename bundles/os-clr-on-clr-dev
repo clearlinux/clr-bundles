@@ -629,7 +629,6 @@ include(modules)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
-msgpack-c-dev
 mtdev-dev
 munge-dev
 mypy-python3
@@ -894,7 +893,6 @@ protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 pycairo-dev
-pycairo-python3
 include(pygobject)
 pypi-absl_py-python3
 pypi-aiohttp-python3
@@ -938,7 +936,6 @@ pypi-distro-python3
 pypi-dnspython
 pypi-docopt-python3
 pypi-docutils
-pypi-filecache-python3
 pypi-flake8-python3
 pypi-flake8_import_order-python3
 pypi-flask-python3
@@ -951,7 +948,6 @@ pypi-future-python3
 pypi-gast-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
-pypi-gql-python3
 pypi-graphql_core-python3
 pypi-graphviz-python3
 pypi-gssapi-python3
@@ -973,7 +969,6 @@ pypi-jsonpatch-python3
 pypi-kerberos-python3
 pypi-kiwisolver-python3
 pypi-kubernetes-python3
-pypi-lavacli-python3
 pypi-lxml
 pypi-lz4-python3
 pypi-mako
@@ -983,6 +978,7 @@ pypi-meson_python
 pypi-meson_python-python3
 pypi-mock-python3
 pypi-more_itertools-python3
+pypi-msgpack-python3
 pypi-multidict-python3
 pypi-munkres-python3
 pypi-natsort-python3

@@ -689,7 +689,6 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 include(pygobject)
 pypi-absl_py-python3
-pypi-aiohttp-python3
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-booleanoperations-python3
@@ -697,20 +696,17 @@ pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
 pypi-charset_normalizer-python3
-pypi-colorama-python3
 pypi-cu2qu-python3
 include(pypi-cython)
 pypi-dataclasses-python3
 pypi-deprecated-python3
 pypi-dnspython
 pypi-docutils
-pypi-filecache-python3
 pypi-flit-python3
 pypi-fontmath-python3
 pypi-future-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
-pypi-gql-python3
 pypi-graphviz-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
@@ -719,7 +715,6 @@ pypi-humanize-python3
 pypi-idna-python3
 pypi-iso8601
 pypi-jinja2-python3
-pypi-lavacli-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3

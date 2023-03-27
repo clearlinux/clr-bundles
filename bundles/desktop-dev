@@ -802,7 +802,6 @@ protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 pycairo-dev
-pycairo-python3
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
@@ -849,7 +848,6 @@ pypi-docutils
 pypi-docutils-python3
 pypi-exceptiongroup-python3
 pypi-execnet-python3
-pypi-filecache-python3
 pypi-filelock-python3
 pypi-flake8-python3
 pypi-flask-python3
@@ -864,7 +862,6 @@ pypi-funcparserlib-python3
 pypi-future-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
-pypi-gql-python3
 pypi-graphviz-python3
 pypi-hatch_fancy_pypi_readme-python3
 pypi-hatch_vcs-python3
@@ -888,7 +885,6 @@ pypi-joblib-python3
 pypi-jsonschema-python3
 pypi-keyring-python3
 pypi-kiwisolver-python3
-pypi-lavacli-python3
 pypi-lazy_loader-python3
 pypi-lazy_object_proxy-python3
 pypi-libevdev

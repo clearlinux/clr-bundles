@@ -183,7 +183,6 @@ intltool-dev
 ipp-crypto-dev
 include(devpkg-iptables)
 iptables-dev32
-include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
@@ -314,7 +313,6 @@ include(devpkg-metrics-discovery)
 mingw-gcc
 mpc-dev
 mpfr-dev
-msgpack-c-dev
 include(nasm)
 nasm-bin
 ncurses-bin
@@ -496,7 +494,6 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 pypi-absl_py-python3
-pypi-aiohttp-python3
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-brotli-python3
@@ -505,7 +502,6 @@ pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-charset_normalizer-python3
-pypi-colorama-python3
 pypi-commonmark
 pypi-contourpy-python3
 pypi-cppy-python3
@@ -514,14 +510,12 @@ pypi-cython-python3
 pypi-dataclasses-python3
 pypi-deprecated-python3
 pypi-docutils
-pypi-filecache-python3
 pypi-flit-python3
 pypi-flit_core-python3
 pypi-freezegun-python3
 pypi-future-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
-pypi-gql-python3
 pypi-graphviz-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
@@ -530,11 +524,11 @@ pypi-idna-python3
 pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-kiwisolver-python3
-pypi-lavacli-python3
 pypi-lxml
 pypi-mako
 pypi-matplotlib-python3
 pypi-meson_python
+pypi-msgpack-python3
 pypi-munkres-python3
 pypi-nose
 pypi-numpy-python3

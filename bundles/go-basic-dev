@@ -164,7 +164,6 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
-include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
@@ -266,7 +265,6 @@ meson-python3
 mingw-gcc
 mpc-dev
 mpfr-dev
-msgpack-c-dev
 include(nasm)
 include(devpkg-ncurses)
 ncurses-dev32
@@ -473,6 +471,7 @@ pypi-kiwisolver-python3
 pypi-lxml
 pypi-matplotlib-python3
 pypi-meson_python
+pypi-msgpack-python3
 pypi-munkres-python3
 pypi-nose
 pypi-numpy-python3

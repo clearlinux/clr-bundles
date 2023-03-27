@@ -476,7 +476,6 @@ mingw-gcc
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
-msgpack-c-dev
 mtdev-dev
 mypy-python3
 include(nasm)
@@ -703,10 +702,8 @@ protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 pycairo-dev
-pycairo-python3
 include(pygobject)
 pypi-absl_py-python3
-pypi-aiohttp-python3
 pypi-appdirs-python3
 pypi-asyncssh-python3
 pypi-attrs-python3
@@ -731,14 +728,12 @@ pypi-deprecated-python3
 pypi-dnspython
 pypi-docopt-python3
 pypi-docutils
-pypi-filecache-python3
 pypi-flit-python3
 pypi-flit_core-python3
 pypi-freezegun-python3
 pypi-future-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
-pypi-gql-python3
 pypi-graphviz-python3
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
@@ -753,7 +748,6 @@ pypi-jinja2-python3
 pypi-jsonpatch-python3
 pypi-kiwisolver-python3
 pypi-kubernetes-python3
-pypi-lavacli-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
@@ -761,6 +755,7 @@ pypi-matplotlib-python3
 pypi-meson_python
 pypi-meson_python-python3
 pypi-more_itertools-python3
+pypi-msgpack-python3
 pypi-munkres-python3
 pypi-natsort-python3
 pypi-nose

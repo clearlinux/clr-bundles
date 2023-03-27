@@ -386,7 +386,6 @@ include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 pycairo-dev
-pycairo-python3
 include(pypi-cython)
 pypi-dnspython
 pypi-docutils
