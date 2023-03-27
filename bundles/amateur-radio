@@ -12,6 +12,7 @@ include(libX11client)
 include(python3-basic)
 include(qt-basic)
 
+chirp
 codec2
 direwolf
 fldigi
