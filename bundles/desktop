@@ -6,6 +6,7 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(libX11client)
 include(wayland-server)
+include(x11-server)
 include(desktop-apps)
 include(desktop-gnomelibs)
 include(desktop-assets)
