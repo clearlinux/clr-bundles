@@ -447,6 +447,7 @@ pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pynacl-python3
+pypi-pytest
 pypi-python_dbusmock
 pypi-requests-python3
 pypi-ruamel.yaml-python3

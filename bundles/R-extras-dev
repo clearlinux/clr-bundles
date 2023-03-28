@@ -14,7 +14,6 @@ include(devpkg-ImageMagick)
 Imath-dev
 JAGS-dev
 include(devpkg-LVM2)
-include(devpkg-LibRaw)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 MarkupSafe-python3
@@ -805,7 +804,6 @@ gperf
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
-include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
@@ -897,7 +895,6 @@ libfido2
 libfido2-dev
 include(devpkg-libgcrypt)
 libgcrypt-dev32
-include(devpkg-libgd)
 libgeotiff-dev
 libgit2-dev
 include(devpkg-libglvnd)
@@ -971,7 +968,6 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
-include(devpkg-libzip)
 include(devpkg-libzmq)
 linux-libc-headers
 include(llvm)
@@ -1253,7 +1249,6 @@ pypi-pycparser-python3
 pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
-pypi-pylint-python3
 pypi-pynacl-python3
 pypi-pyomo-python3
 pypi-pyparsing-python3
