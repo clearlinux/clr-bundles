@@ -24,7 +24,6 @@ include(devpkg-LVM2)
 LVM2-extras
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
-MarkupSafe-python3
 include(devpkg-NetworkManager)
 OpenSP
 PyYAML-python3
@@ -144,7 +143,6 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
-double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
 duktape-dev
@@ -465,8 +463,6 @@ lzo-dev
 m4
 include(make)
 man-db
-include(devpkg-mariadb)
-include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
@@ -806,7 +802,6 @@ pypi-sphinx
 pypi-sphinx-python3
 pypi-sphinx_rtd_theme-python3
 pypi-termcolor-python3
-pypi-toml-python3
 pypi-tornado-python3
 pypi-tox
 pypi-tox-python3
@@ -814,7 +809,6 @@ pypi-types_dataclasses-python3
 pypi-types_pyyaml-python3
 pypi-types_termcolor-python3
 pypi-typing_extensions-python3
-pypi-typogrify-python3
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3

@@ -306,6 +306,7 @@ gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
+include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
@@ -622,6 +623,7 @@ mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
+mobile-broadband-provider-info-dev
 include(modules)
 mpc-dev
 mpfr-dev
@@ -1038,7 +1040,6 @@ pypi-sphinx_rtd_theme-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-templated_dictionary-python3
 pypi-termcolor-python3
-pypi-toml-python3
 pypi-tornado-python3
 pypi-tox
 pypi-tox-python3
@@ -1047,7 +1048,6 @@ pypi-types_dataclasses-python3
 pypi-types_pyyaml-python3
 pypi-types_termcolor-python3
 pypi-typing_extensions-python3
-pypi-typogrify-python3
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3

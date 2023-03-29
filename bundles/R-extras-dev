@@ -16,7 +16,6 @@ JAGS-dev
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
-MarkupSafe-python3
 PyYAML-python3
 R-AER
 R-BBmisc
@@ -1227,7 +1226,6 @@ pypi-jinja2-python3
 pypi-kiwisolver-python3
 pypi-lxml
 pypi-mako
-pypi-markdown-python3
 pypi-matplotlib-python3
 pypi-meson_python
 pypi-msgpack-python3
@@ -1247,7 +1245,6 @@ pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pygithub-python3
-pypi-pygments-python3
 pypi-pyjwt-python3
 pypi-pynacl-python3
 pypi-pyomo-python3
@@ -1268,10 +1265,8 @@ pypi-setuptools_scm-python3
 pypi-six-python3
 pypi-smmap-python3
 pypi-sphinx
-pypi-toml-python3
 pypi-tornado-python3
 pypi-tox
-pypi-typogrify-python3
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3
