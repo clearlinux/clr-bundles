@@ -389,6 +389,7 @@ pycairo-dev
 include(pypi-cython)
 pypi-dnspython
 pypi-docutils
+pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3

@@ -34,7 +34,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kernel
 buildreq-meson
 buildreq-qmake
@@ -96,6 +95,7 @@ gmp-dev
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
+go
 gobject-introspection
 include(devpkg-gobject-introspection)
 gperf
@@ -205,6 +205,7 @@ include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
 include(pypi-cython)
+pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3

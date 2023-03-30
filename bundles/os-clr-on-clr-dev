@@ -945,6 +945,7 @@ pypi-gitdb-python3
 pypi-gitpython-python3
 pypi-graphviz-python3
 pypi-gssapi-python3
+pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3

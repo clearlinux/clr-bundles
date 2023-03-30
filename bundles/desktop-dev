@@ -318,6 +318,7 @@ include(gzip)
 include(devpkg-harfbuzz)
 help2man
 hostname
+httpd-dev
 hunspell-dev
 include(devpkg-hwloc)
 ibus
@@ -566,6 +567,7 @@ include(devpkg-mariadb)
 mccabe-python3
 include(devpkg-md4c)
 include(devpkg-mediasdk)
+mercurial
 include(devpkg-mesa)
 mesa-dev32
 meson
@@ -863,6 +865,7 @@ pypi-gitdb-python3
 pypi-gitpython-python3
 pypi-graphviz-python3
 pypi-hatch_fancy_pypi_readme-python3
+pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3
@@ -888,6 +891,7 @@ pypi-lazy_loader-python3
 pypi-libevdev
 pypi-locket-python3
 pypi-lxml
+pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-matplotlib-python3
@@ -919,6 +923,7 @@ pypi-pkginfo-python3
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
+pypi-poetry-python3
 pypi-poetry_core-python3
 pypi-polib
 pypi-psutil

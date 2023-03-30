@@ -137,7 +137,7 @@ also-add(devpkg-zlib)
 Vulkan-Headers
 Vulkan-Loader
 Vulkan-Tools
-cfitsio-dev
+include(devpkg-cfitsio)
 
 # work around infra
 also-add(hwloc)

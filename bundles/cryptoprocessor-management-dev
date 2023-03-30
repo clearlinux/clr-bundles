@@ -101,6 +101,7 @@ include(devpkg-gtk-doc)
 include(guile)
 include(gzip)
 hostname
+httpd-dev
 include(intltool)
 intltool-dev
 include(devpkg-iptables)

@@ -132,6 +132,7 @@ include(devpkg-gtk3)
 include(guile)
 include(gzip)
 hostname
+httpd-dev
 include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)

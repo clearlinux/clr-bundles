@@ -123,6 +123,7 @@ include(devpkg-gtk3)
 include(guile)
 include(gzip)
 hostname
+httpd-dev
 include(devpkg-icu4c)
 inih-dev
 include(intltool)
@@ -247,6 +248,7 @@ procps-ng-bin
 pycairo-dev
 include(pygobject)
 include(pypi-cython)
+pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3

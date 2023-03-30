@@ -822,6 +822,7 @@ include(devpkg-harfbuzz)
 hdf5-dev
 help2man
 hostname
+httpd-dev
 include(devpkg-hwloc)
 ibus
 ibus-dev
@@ -1217,6 +1218,7 @@ pypi-future-python3
 pypi-gitdb-python3
 pypi-gitpython-python3
 pypi-graphviz-python3
+pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-humanize-python3
