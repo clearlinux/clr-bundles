@@ -5,8 +5,7 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
-#linux
-linux-aws
+linux
 rng-tools
 rng-tools-autostart
 init-rdahead
