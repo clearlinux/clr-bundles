@@ -7,6 +7,8 @@
 include(libX11client)
 include(perl-basic)
 
+
+clinfo
 evtest
 numlockx
 setxkbmap
@@ -37,3 +39,4 @@ include(xterm)
 xwd
 xwininfo
 wmctrl
+Vulkan-Tools
