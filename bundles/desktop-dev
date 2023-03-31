@@ -824,11 +824,13 @@ pypi-bracex-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
 pypi-build-python3
+pypi-cachetools-python3
 pypi-calver-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
+pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cibuildwheel-python3
 pypi-click-python3
@@ -844,6 +846,8 @@ pypi-cython-python3
 pypi-dask-python3
 pypi-dataclasses-python3
 pypi-deprecated-python3
+pypi-devpi_process-python3
+pypi-distlib-python3
 pypi-dnspython
 pypi-docutils
 pypi-docutils-python3
@@ -883,6 +887,7 @@ pypi-itsdangerous-python3
 pypi-jaraco.classes-python3
 pypi-jeepney-python3
 pypi-jinja2-python3
+pypi-jmespath-python3
 pypi-joblib-python3
 pypi-jsonschema-python3
 pypi-keyring-python3
@@ -946,8 +951,10 @@ pypi-pylint-python3
 pypi-pynacl-python3
 pypi-pyomo-python3
 pypi-pyparsing-python3
+pypi-pyproject_api-python3
 pypi-pytest
 pypi-pytest-python3
+pypi-pytest_mock-python3
 pypi-pytest_runner
 pypi-pytest_runner-python3
 pypi-python_dateutil-python3

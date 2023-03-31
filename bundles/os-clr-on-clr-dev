@@ -906,10 +906,12 @@ pypi-billiard-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
+pypi-cachetools-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
+pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cheetah3-python3
 pypi-cherrypy-python3
@@ -928,6 +930,8 @@ pypi-cython-python3
 pypi-dataclasses-python3
 pypi-decorator-python3
 pypi-deprecated-python3
+pypi-devpi_process-python3
+pypi-distlib-python3
 pypi-distro-python3
 pypi-dnspython
 pypi-docopt-python3
@@ -1007,11 +1011,13 @@ pypi-pynacl-python3
 pypi-pyomo-python3
 pypi-pyopenssl-python3
 pypi-pyparsing-python3
+pypi-pyproject_api-python3
 pypi-pyproject_metadata-python3
 pypi-pyroute2-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
+pypi-pytest_mock-python3
 pypi-pytest_runner
 pypi-python_dateutil-python3
 pypi-python_dbusmock
