@@ -7,8 +7,8 @@
 
 include(c-basic)
 include(python3-basic)
-include(kernel-native)
+include(kernel-aws)
 
 clr-ignore-mod-sig
 dkms
-linux-dev
+linux-aws-dev
