@@ -907,6 +907,7 @@ pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
 pypi-cachetools-python3
+pypi-calver-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
@@ -1051,6 +1052,7 @@ pypi-tornado-python3
 pypi-tox
 pypi-tox-python3
 pypi-trampolim-python3
+pypi-trove_classifiers-python3
 pypi-types_dataclasses-python3
 pypi-types_pyyaml-python3
 pypi-types_termcolor-python3
@@ -1058,6 +1060,7 @@ pypi-typing_extensions-python3
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3
+pypi-versioneer-python3
 pypi-vine-python3
 pypi-virtualenv
 pypi-virtualenv-python3

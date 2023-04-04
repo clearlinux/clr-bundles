@@ -811,7 +811,6 @@ pypi-aiohttp-python3
 pypi-aiosignal-python3
 pypi-amqp-python3
 pypi-appdirs-python3
-pypi-astroid-python3
 pypi-async_timeout-python3
 pypi-atomicwrites-python3
 pypi-attrs-python3
@@ -882,7 +881,6 @@ pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
-pypi-isort-python3
 pypi-itsdangerous-python3
 pypi-jaraco.classes-python3
 pypi-jeepney-python3
@@ -972,7 +970,6 @@ pypi-rfc3986-python3
 pypi-rich-python3
 pypi-ruamel.yaml-python3
 pypi-ruamel.yaml.clib-python3
-pypi-scikit_build-python3
 pypi-scikit_learn-python3
 pypi-seaborn-python3
 pypi-secretstorage-python3
@@ -990,12 +987,12 @@ pypi-sphinxcontrib_serializinghtml-python3
 pypi-tap.py-python3
 pypi-threadpoolctl-python3
 pypi-tomli-python3
-pypi-tomlkit-python3
 pypi-toolz-python3
 pypi-tornado-python3
 pypi-tox
 pypi-tox-python3
 pypi-trampolim-python3
+pypi-trove_classifiers-python3
 pypi-twine-python3
 pypi-typed_ast-python3
 pypi-types_psutil-python3
@@ -1005,6 +1002,7 @@ pypi-typing_extensions-python3
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3
+pypi-versioneer-python3
 pypi-vine-python3
 pypi-virtualenv
 pypi-virtualenv-python3

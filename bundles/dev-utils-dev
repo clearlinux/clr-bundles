@@ -570,6 +570,7 @@ pypi-tox
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3
+pypi-versioneer-python3
 pypi-virtualenv
 pypi-wheel-python3
 pypi-wrapt-python3

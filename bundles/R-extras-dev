@@ -14,6 +14,7 @@ include(devpkg-ImageMagick)
 Imath-dev
 JAGS-dev
 include(devpkg-LVM2)
+include(devpkg-LibRaw)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 PyYAML-python3
@@ -803,6 +804,7 @@ gperf
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
+include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
@@ -895,6 +897,7 @@ libfido2
 libfido2-dev
 include(devpkg-libgcrypt)
 libgcrypt-dev32
+include(devpkg-libgd)
 libgeotiff-dev
 libgit2-dev
 include(devpkg-libglvnd)
@@ -968,6 +971,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
+include(devpkg-libzip)
 include(devpkg-libzmq)
 linux-libc-headers
 include(llvm)
@@ -1248,6 +1252,7 @@ pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pygithub-python3
 pypi-pyjwt-python3
+pypi-pylint-python3
 pypi-pynacl-python3
 pypi-pyomo-python3
 pypi-pyparsing-python3
@@ -1271,6 +1276,7 @@ pypi-tox
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-urllib3-python3
+pypi-versioneer-python3
 pypi-virtualenv
 pypi-wheel-python3
 pypi-wrapt-python3
