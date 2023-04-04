@@ -408,6 +408,7 @@ libunwind-coredump
 libunwind-generic
 libunwind-ptrace
 libunwind-setjmp
+liburing
 liburcu
 liburcu-bp
 liburcu-cds
