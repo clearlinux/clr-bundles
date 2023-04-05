@@ -454,6 +454,7 @@ pkgconfig(liburcu-cds)	devpkg-userspace-rcu
 pkgconfig(liburcu-mb)	devpkg-userspace-rcu
 pkgconfig(liburcu-qsbr)	devpkg-userspace-rcu
 pkgconfig(liburcu-signal)	devpkg-userspace-rcu
+pkgconfig(liburing)	devpkg-liburing
 pkgconfig(libusb-1.0)	devpkg-libusb
 pkgconfig(libusbredirhost)	devpkg-usbredir
 pkgconfig(libusbredirparser-0.5)	devpkg-usbredir
