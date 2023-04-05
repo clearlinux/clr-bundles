@@ -30,6 +30,7 @@ PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
+SPIRV-Tools
 SVT-AV1-dev
 include(Sphinx)
 VTK-dev
@@ -432,7 +433,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
-liburing-dev
+include(devpkg-liburing)
 include(devpkg-libusb)
 libusb-dev32
 include(devpkg-libuv)
@@ -495,6 +496,8 @@ ninja-python3
 nmap-extras
 nodejs
 include(devpkg-nspr)
+nspr-dev32
+nspr-lib32
 nss-altfiles
 nss-bin
 include(devpkg-nss)
@@ -527,7 +530,6 @@ otp
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
-pandas-python3
 include(pandoc)
 include(devpkg-pango)
 include(devpkg-parted)
@@ -700,7 +702,6 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 pycairo-dev
 include(pygobject)
-pypi-absl_py-python3
 pypi-appdirs-python3
 pypi-asyncssh-python3
 pypi-attrs-python3
@@ -725,18 +726,14 @@ pypi-deprecated-python3
 pypi-dnspython
 pypi-docopt-python3
 pypi-docutils
-pypi-flit-python3
 pypi-flit_core-python3
 pypi-freezegun-python3
 pypi-future-python3
 pypi-gitdb-python3
-pypi-gitpython-python3
-pypi-graphviz-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3
-pypi-humanize-python3
 pypi-idna
 pypi-idna-python3
 pypi-imagesize
@@ -749,7 +746,6 @@ pypi-kubernetes-python3
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
-pypi-matplotlib-python3
 pypi-meson_python
 pypi-meson_python-python3
 pypi-more_itertools-python3
@@ -768,8 +764,6 @@ pypi-pluggy
 pypi-ply-python3
 pypi-poetry_core-python3
 pypi-prettytable-python3
-pypi-psutil-python3
-pypi-ptyprocess-python3
 pypi-py
 pypi-py-python3
 pypi-pybind11-dev
@@ -793,9 +787,7 @@ pypi-pytz-python3
 pypi-requests-python3
 pypi-routes-python3
 pypi-ruamel.yaml-python3
-pypi-ruamel.yaml.clib-python3
 pypi-scikit_learn-python3
-pypi-seaborn-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six-python3

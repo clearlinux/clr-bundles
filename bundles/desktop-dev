@@ -25,6 +25,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_image)
+SPIRV-Tools
 SVT-AV1-dev
 include(Sphinx)
 UCD
@@ -523,7 +524,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
-liburing-dev
+include(devpkg-liburing)
 include(devpkg-libusb)
 libusb-dev32
 include(devpkg-libva)
@@ -611,6 +612,8 @@ include(nmap)
 nmap-extras
 not-ffmpeg-dev
 include(devpkg-nspr)
+nspr-dev32
+nspr-lib32
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-ntfs-3g)
@@ -806,7 +809,6 @@ pycairo-dev
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
-pypi-absl_py-python3
 pypi-aiohttp-python3
 pypi-aiosignal-python3
 pypi-amqp-python3
@@ -843,8 +845,6 @@ pypi-cu2qu-python3
 include(pypi-cython)
 pypi-cython-python3
 pypi-dask-python3
-pypi-dataclasses-python3
-pypi-deprecated-python3
 pypi-devpi_process-python3
 pypi-distlib-python3
 pypi-dnspython
@@ -855,7 +855,6 @@ pypi-execnet-python3
 pypi-filelock-python3
 pypi-flake8-python3
 pypi-flask-python3
-pypi-flit-python3
 pypi-flit_core-python3
 pypi-flit_scm-python3
 pypi-fontmath-python3
@@ -864,16 +863,12 @@ pypi-frozenlist-python3
 pypi-fsspec-python3
 pypi-funcparserlib-python3
 pypi-future-python3
-pypi-gitdb-python3
-pypi-gitpython-python3
-pypi-graphviz-python3
 pypi-hatch_fancy_pypi_readme-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-httpretty-python3
-pypi-humanize-python3
 pypi-hypothesis
 pypi-hypothesis-python3
 pypi-idna-python3
@@ -930,7 +925,6 @@ pypi-poetry-python3
 pypi-poetry_core-python3
 pypi-polib
 pypi-psutil
-pypi-psutil-python3
 pypi-ptyprocess-python3
 pypi-py
 pypi-py-python3
@@ -942,11 +936,8 @@ pypi-pycodestyle-python3
 pypi-pycparser-python3
 pypi-pydocstyle-python3
 pypi-pyflakes-python3
-pypi-pygithub-python3
 pypi-pygments-python3
-pypi-pyjwt-python3
 pypi-pylint-python3
-pypi-pynacl-python3
 pypi-pyomo-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
@@ -968,10 +959,7 @@ pypi-requests-python3
 pypi-requests_toolbelt-python3
 pypi-rfc3986-python3
 pypi-rich-python3
-pypi-ruamel.yaml-python3
-pypi-ruamel.yaml.clib-python3
 pypi-scikit_learn-python3
-pypi-seaborn-python3
 pypi-secretstorage-python3
 pypi-seqdiag-python3
 pypi-setuptools
@@ -979,7 +967,6 @@ pypi-setuptools-python3
 pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3
 pypi-six-python3
-pypi-smmap-python3
 pypi-sortedcontainers-python3
 pypi-sphinx
 pypi-sphinx-python3
@@ -1011,7 +998,6 @@ pypi-webcolors-python3
 pypi-webencodings-python3
 pypi-werkzeug-python3
 pypi-wheel-python3
-pypi-wrapt-python3
 pypi-yarl-python3
 pypi-zipp-python3
 pypi-zopfli-python3
