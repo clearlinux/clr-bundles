@@ -19,7 +19,6 @@ include(devpkg-LuaJIT)
 MarkupSafe-python3
 ModemManager-dev
 include(devpkg-NetworkManager)
-PyYAML
 PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -764,7 +763,6 @@ perl-Test-Memory-Cycle-perl
 perl-Test-Needs-perl
 perl-Test-NoWarnings-perl
 perl-Test-Output-perl
-perl-Test-Pod-perl
 perl-Test-Requires-perl
 perl-Test-RequiresInternet-perl
 perl-Test-Simple-perl
@@ -928,6 +926,7 @@ pypi-psutil
 pypi-ptyprocess-python3
 pypi-py
 pypi-py-python3
+pypi-pyaml
 pypi-pyasn1-python3
 pypi-pybind11-dev
 pypi-pybind11-python3
