@@ -28,6 +28,7 @@ include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 Vulkan-Loader-dev32
 Vulkan-Tools
+WPEBackend-fdo-dev
 Z3-dev
 Z3-dev32
 accountsservice-dev
@@ -454,6 +455,7 @@ include(devpkg-libvpx)
 include(devpkg-libwebp)
 libwnck-dev
 include(devpkg-libwnck3)
+libwpe-dev
 include(devpkg-libxcvt)
 libxfce4ui-dev
 libxfce4util-dev
@@ -799,6 +801,7 @@ include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
 umockdev-dev
+unifdef
 include(unzip)
 util-linux
 util-linux-bin
