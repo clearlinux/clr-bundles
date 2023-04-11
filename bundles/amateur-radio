@@ -12,6 +12,9 @@ include(libX11client)
 include(python3-basic)
 include(qt-basic)
 
+# Optional OpenBLAS support for xnec2c
+also-add(openblas)
+
 codec2
 direwolf
 fldigi
@@ -32,3 +35,4 @@ soundmodem
 wsjtx
 xastir
 xlog
+xnec2c
