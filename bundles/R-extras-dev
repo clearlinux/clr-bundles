@@ -298,6 +298,7 @@ R-jpeg
 R-jqr
 R-jquerylib
 R-jsonlite
+R-kableExtra
 R-kernlab
 R-kimisc
 R-kmi
@@ -557,6 +558,7 @@ R-strucchange
 R-styler
 R-subplex
 R-survey
+R-svglite
 R-sys
 R-systemfit
 R-systemfonts
