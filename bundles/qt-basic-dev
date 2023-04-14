@@ -388,6 +388,7 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(devpkg-opus)
+opus-dev32
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)

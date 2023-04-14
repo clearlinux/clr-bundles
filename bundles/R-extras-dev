@@ -1038,6 +1038,7 @@ include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
 include(devpkg-opus)
+opus-dev32
 include(devpkg-orc)
 include(p11-kit)
 include(devpkg-p11-kit)

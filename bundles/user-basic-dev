@@ -520,6 +520,7 @@ openssl-dev32
 openssl-lib32
 include(openvswitch)
 include(devpkg-opus)
+opus-dev32
 include(devpkg-orc)
 orc-dev32
 otp
