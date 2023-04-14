@@ -1,18 +1,9 @@
 # [TITLE]: murmur
 # [DESCRIPTION]: Mumble daemon (murmurd)
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(qt-core)
-include(qt-basic)
-include(libstdcpp)
-include(lib-openssl)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
-mumble-extras
+# To be replaced by mumble-server bundle, since the daemon has been renamed
+include(mumble-server)

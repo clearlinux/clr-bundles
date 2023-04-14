@@ -1,0 +1,14 @@
+# [TITLE]: mumble-server
+# [DESCRIPTION]: Mumble daemon (mumble-server)
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)
+include(lib-openssl)
+
+# Server components are provided by the extras subpackage
+mumble-extras
