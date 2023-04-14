@@ -1,11 +1,7 @@
 # [TITLE]: kernel-iot-lts2018-sos
 # [DESCRIPTION]: Run the kernel needed for the Service OS
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-include(bootloader)
-include(linux-firmware)
-linux-firmware-ipu
-linux-ltscurrent
-mcelog
+filesystem

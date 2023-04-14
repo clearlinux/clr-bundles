@@ -1,17 +1,8 @@
 # [TITLE]: R-rstudio-server
 # [DESCRIPTION]: RStudio is an integrated development environment (IDE) for the R programming language
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]:  Programming Languages, Data Science, R
 # [MAINTAINER]: <daniel.charles@intel.com>
 
-include(qt-basic)
-include(lib-qt5webengine)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(R-extras)
-# end of custom additions
-
-# main package
-#R-rstudio-server
+filesystem

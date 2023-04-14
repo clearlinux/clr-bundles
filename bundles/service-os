@@ -1,26 +1,7 @@
 # [TITLE]: service-os
 # [DESCRIPTION]: Provides the needed software for Service OS.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-
-# Boot Software
-include(kernel-iot-lts2018-sos)
-
-# Thermal control
-include(thermal_daemon)
-thermal_daemon-autostart
-
-#
-# The package below is a python script
-#
-include(python3-basic)
-
-# User Software
-#acrn-hypervisor
-runc
-
-include(openvswitch)
-# openvswithc python files
-openvswitch-extras
+filesystem

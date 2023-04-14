@@ -1,6 +1,6 @@
 # [TITLE]: devpkg-mozjs68
 # [DESCRIPTION]: All content for pkgconfig file mozjs68.pc.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>

@@ -1,13 +1,7 @@
 # [TITLE]: desktop-awesome
 # [DESCRIPTION]: Run a minimal desktop environment with awesome WM.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]: Run awesome as gdm session or xinit WM
 # [TAGS]: Other
 # [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
-include(x11-server)
-also-add(sxiv)
-awesome-wm
-dejavu-fonts
-include(feh)
-include(rxvt-unicode)
-also-add(xscreensaver)
+filesystem

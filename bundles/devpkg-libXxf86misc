@@ -1,10 +1,8 @@
 # [TITLE]: devpkg-libXxf86misc
 # [DESCRIPTION]: All content for pkgconfig file libXxf86misc.pc.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-include(devpkg-base)
-include(devpkg-libX11)
-include(devpkg-xorgproto)
+filesystem

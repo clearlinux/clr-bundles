@@ -1,13 +1,8 @@
 # [TITLE]: netkit-telnet
 # [DESCRIPTION]: Basic telnet client.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-# start of custom additions
-
-# end of custom additions
-
-# main package
-inetutils
+filesystem

@@ -1,18 +1,8 @@
 # [TITLE]: kernel-lts2018-preempt-rt
 # [DESCRIPTION]: Run the Intel "PK" kernel 2018, an enterprise-style kernel with backports, plus PREEMPT_RT support.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-#
-include(bootloader)
-include(libglib)
-include(linux-firmware)
-include(linux-firmware-extras)
 
-console-autostart
-irqbalance
-mcelog
-
-# kernel package
-linux-preempt-rt
+filesystem

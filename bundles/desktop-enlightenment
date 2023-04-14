@@ -1,16 +1,7 @@
 # [TITLE]: desktop-enlightenment
 # [DESCRIPTION]: Run the enlightenment desktop environment.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]: Run enlightenment as gdm session
 # [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include(x11-server)
-include(python3-basic)
-include(gstreamer)
-include(lib-poppler)
-efl
-enlightenment
-gdm
-rage
-terminology
-xdg-utils
+filesystem

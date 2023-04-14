@@ -1,14 +1,8 @@
 # [TITLE]: iasimage
 # [DESCRIPTION]: Tool for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(python3-basic)
-# end of custom additions
-
-# main package
-#iasimage
+filesystem

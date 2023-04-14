@@ -13,7 +13,6 @@ include(openmpi)
 # Key ML frameworks and tools
 #
 
-include(computer-vision-basic)
 include(machine-learning-mycroft)
 
 pypi-scikit_learn

@@ -1,38 +1,9 @@
 # [TITLE]: software-defined-cockpit
 # [DESCRIPTION]: Run the automotive software defined cockpit which has graphic, media, sound and connectivity.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
-include(libX11client)
-include(wpa_supplicant)
-include(gstreamer)
 
-# Audio
-alsa-lib
-alsa-plugins
-include(alsa-utils)
-include(pulseaudio)
-AVB-AudioModules
-SmartXbar
 
-# Graphics
-#ias
-
-# Media
-gst-plugins-bad
-gst-plugins-base
-gst-plugins-good
-include(gstreamer)
-gstreamer-vaapi
-intel-gmmlib
-intel-media-driver
-libva
-libva-intel-driver
-mediasdk
-mediasdk-extras
-include(v4l-utils)
-
-# User tools
-fontconfig
-#ioc-cbc-tools
+filesystem

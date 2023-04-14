@@ -1,36 +1,8 @@
 # [TITLE]: desktop-lxqt
 # [DESCRIPTION]: Run the LXQt desktop environment.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]: Run the LXQt desktop environment through a login manager
 # [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include(x11-server)
-include(fonts-basic)
-include(qt-basic)
 
-# base + lxqt
-libsysstat
-lxqt-about
-lxqt-admin
-lxqt-build-tools
-lxqt-config
-lxqt-globalkeys
-lxqt-notificationd
-lxqt-openssh-askpass
-lxqt-panel
-lxqt-qtplugin
-lxqt-policykit
-lxqt-powermanagement
-lxqt-qtplugin
-lxqt-runner
-lxqt-session
-lxqt-sudo
-lxqt-themes
-
-# core apps
-libfm-qt
-openbox
-pcmanfm-qt
-
-# misc session stuff
-xdg-utils
+filesystem
