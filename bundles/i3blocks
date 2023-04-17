@@ -1,8 +1,14 @@
 # [TITLE]: i3blocks
 # [DESCRIPTION]: A feed generator for text based status bars.
-# [STATUS]: Pending-Delete
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-filesystem
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(perl-basic)
+# end of custom additions
+
+# main package
+i3blocks

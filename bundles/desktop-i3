@@ -1,7 +1,17 @@
 # [TITLE]: desktop-i3
 # [DESCRIPTION]: Run the i3 desktop environment.
-# [STATUS]: Pending-Delete
+# [STATUS]: Deprecated
 # [CAPABILITIES]: Run i3 as gdm session or xinit WM
 # [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-filesystem
+include(x11-server)
+also-add(sxiv)
+dmenu
+dunst
+include(feh)
+i3
+also-add(i3blocks)
+i3lock
+i3status
+rofi
+xdg-utils

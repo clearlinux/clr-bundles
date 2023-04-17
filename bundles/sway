@@ -1,7 +1,21 @@
 # [TITLE]: sway
 # [DESCRIPTION]: i3-compatible Wayland compositor
-# [STATUS]: Pending-Delete
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-filesystem
+
+include(libX11client)
+include(libglib)
+
+# start of custom additions (edits outside this area will be removed automatically)
+swaybg
+swayidle
+swaylock
+xdg-utils
+also-add(vifm)
+also-add(mpv)
+# end of custom additions
+
+# main package
+sway
