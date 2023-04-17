@@ -1,0 +1,16 @@
+# [TITLE]: xrdp
+# [DESCRIPTION]: An open source Remote Desktop Protocol (RDP) server
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
+
+include(libX11client)
+include(lib-imageformat)
+include(xfce4-desktop)
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+xrdp
