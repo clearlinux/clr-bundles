@@ -7,3 +7,4 @@ include(libX11client)
 mesa
 wayland
 xwayland
+xkbcomp
