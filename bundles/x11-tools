@@ -29,7 +29,6 @@ xmodmap
 xprop
 xrandr
 xrdb
-xrdp
 xrestop
 also-add(xscreensaver)
 xsel
