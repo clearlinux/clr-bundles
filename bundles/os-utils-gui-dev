@@ -275,7 +275,6 @@ icon-naming-utils-dev
 include(devpkg-icu4c)
 icu4c-dev32
 igt-gpu-tools-dev
-imlib2-dev
 intel-gmmlib-dev
 intel-ipsec-mb-dev
 intel-media-driver-dev
@@ -532,7 +531,6 @@ openssl-dev32
 optipng-bin
 include(devpkg-opus)
 opus-dev32
-opusfile-dev
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)
@@ -844,7 +842,6 @@ xorg-fonts
 include(devpkg-xorg-server)
 include(devpkg-xorgproto)
 xorgproto-dev32
-include(devpkg-xrdp)
 xset
 include(devpkg-xtrans)
 xtrans-dev32

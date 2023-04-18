@@ -19,7 +19,6 @@ include(devpkg-LuaJIT)
 MarkupSafe-python3
 ModemManager-dev
 include(devpkg-NetworkManager)
-PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32
@@ -98,7 +97,6 @@ check-dev
 check-dev32
 chrpath
 clear-font
-cloudpickle-python3
 clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
@@ -861,7 +859,6 @@ pypi-flit_scm-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
 pypi-frozenlist-python3
-pypi-fsspec-python3
 pypi-funcparserlib-python3
 pypi-future-python3
 pypi-hatch_fancy_pypi_readme-python3
@@ -910,7 +907,6 @@ pypi-numpydoc-python3
 pypi-olefile
 pypi-packaging
 pypi-packaging-python3
-pypi-partd-python3
 pypi-pathspec
 pypi-pbr
 pypi-pbr-python3
@@ -947,7 +943,6 @@ pypi-pytest
 pypi-pytest-python3
 pypi-pytest_mock-python3
 pypi-pytest_runner
-pypi-pytest_runner-python3
 pypi-python_dateutil-python3
 pypi-python_dbusmock
 pypi-pythran
