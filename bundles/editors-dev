@@ -11,7 +11,6 @@ autoconf
 automake
 automake-dev
 include(binutils)
-buildreq-cmake
 buildreq-configure
 buildreq-distutils3
 buildreq-gnome
