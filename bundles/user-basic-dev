@@ -716,7 +716,6 @@ pypi-docopt-python3
 pypi-docutils
 pypi-future-python3
 pypi-hatch_vcs
-pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hkp4py-python3
 pypi-idna

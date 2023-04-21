@@ -272,7 +272,6 @@ procps-ng-bin
 include(pypi-cython)
 pypi-future-python3
 pypi-hatch_vcs
-pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml

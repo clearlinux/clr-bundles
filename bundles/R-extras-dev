@@ -1205,7 +1205,6 @@ include(pypi-cython)
 pypi-docutils
 pypi-future-python3
 pypi-hatch_vcs
-pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-iso8601-python3
 pypi-jinja2-python3

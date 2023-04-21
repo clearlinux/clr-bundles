@@ -249,7 +249,6 @@ pycairo-dev
 include(pygobject)
 include(pypi-cython)
 pypi-hatch_vcs
-pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml
