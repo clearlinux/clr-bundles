@@ -259,7 +259,7 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
 nss-altfiles
-openal-soft-dev
+include(devpkg-openal-soft)
 include(openblas)
 opencl-headers-dev
 openjdk

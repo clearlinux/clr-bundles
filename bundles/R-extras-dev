@@ -1021,7 +1021,7 @@ include(devpkg-numactl)
 ocl-icd-dev
 octave-dev
 onig-dev
-openal-soft-dev
+include(devpkg-openal-soft)
 include(openblas)
 include(devpkg-openblas)
 openblas-staticdev

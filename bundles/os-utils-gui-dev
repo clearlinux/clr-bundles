@@ -516,7 +516,7 @@ nspr-lib32
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-numactl)
-openal-soft-dev
+include(devpkg-openal-soft)
 openconnect-dev
 openexr-dev
 openjdk

@@ -423,7 +423,7 @@ numactl
 include(devpkg-numactl)
 include(devpkg-oath-toolkit)
 open-iscsi
-openal-soft-dev
+include(devpkg-openal-soft)
 opencl-headers-dev
 include(devpkg-opencv)
 openexr-dev

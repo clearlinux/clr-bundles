@@ -504,7 +504,7 @@ include(devpkg-oath-toolkit)
 onig-dev
 open-iscsi
 open-isns-dev
-openal-soft-dev
+include(devpkg-openal-soft)
 include(openblas)
 opencl-headers-dev
 include(devpkg-opencv)

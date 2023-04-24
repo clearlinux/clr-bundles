@@ -664,7 +664,7 @@ ocl-icd-dev
 onig-dev
 open-iscsi
 open-isns-dev
-openal-soft-dev
+include(devpkg-openal-soft)
 include(openblas)
 opencl-headers-dev
 include(devpkg-opencv)
@@ -899,7 +899,6 @@ pypi-attrs-python3
 pypi-bcrypt-python3
 pypi-billiard-python3
 pypi-booleanoperations-python3
-pypi-calver-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
@@ -1030,6 +1029,7 @@ python3-staticdev
 pyudev
 qatlib-dev
 qca-qt5-dev
+qcoro-dev
 qemu
 qemu-setuid
 qhull-dev

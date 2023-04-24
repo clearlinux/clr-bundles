@@ -619,7 +619,7 @@ include(devpkg-ntfs-3g)
 ntlm-auth-python3
 include(devpkg-numactl)
 onig-dev
-openal-soft-dev
+include(devpkg-openal-soft)
 include(openblas)
 include(devpkg-openblas)
 openconnect-dev
@@ -825,7 +825,6 @@ pypi-brotli-python3
 pypi-brotlicffi-python3
 pypi-build-python3
 pypi-cachetools-python3
-pypi-calver-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
