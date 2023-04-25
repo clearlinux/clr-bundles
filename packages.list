@@ -457,4 +457,5 @@ pytorch # Open source machine learning framework
 softflowd # Network traffic analyser capable of Cisco NetFlow data export
 pypi-onnx # Open Neural Network Exchange
 gnome-remote-desktop # No detailed summary available
-trurl # No detailed summary available 
+trurl # No detailed summary available
+xrdp # An open source Remote Desktop Protocol (RDP) server 
