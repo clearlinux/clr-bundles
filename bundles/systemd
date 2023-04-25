@@ -1,0 +1,8 @@
+# [TITLE]: systemd
+# [DESCRIPTION]: Basic systemd bundle
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+systemd
+systemd-bootchart

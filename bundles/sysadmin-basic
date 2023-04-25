@@ -93,7 +93,7 @@ sharutils
 include(socat)
 stow
 include(strace)
-systemd
+include(systemd)
 systemd-bootchart
 systemd-doc
 systemd-locales
