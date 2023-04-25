@@ -350,12 +350,10 @@ include(procps-ng)
 procps-ng-bin
 pypi-cffi-python3
 include(pypi-cython)
-pypi-hkp4py-python3
 pypi-idna
 pypi-jinja2-python3
 pypi-lxml
 pypi-pip
-pypi-requests-python3
 pypi-sphinx
 python3
 python3-core

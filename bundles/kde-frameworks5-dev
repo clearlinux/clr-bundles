@@ -520,7 +520,6 @@ pypi-fontmath-python3
 pypi-future-python3
 pypi-hatch_vcs
 pypi-hatchling-python3
-pypi-hkp4py-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-mako
@@ -532,7 +531,6 @@ pypi-pycparser-python3
 pypi-pylint-python3
 pypi-pytest
 pypi-python_dbusmock
-pypi-requests-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six-python3

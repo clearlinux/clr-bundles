@@ -357,7 +357,6 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 jsoncpp-dev
-kactivities-dev
 karchive-dev
 kauth
 kauth-dev
@@ -372,9 +371,7 @@ kcrash-dev
 kdbusaddons-dev
 kdeclarative-dev
 kded-dev
-kdelibs4support-dev
 kdesignerplugin-dev
-kdesu-dev
 kdoctools-dev
 kemoticons-dev
 keyutils-dev
@@ -387,7 +384,6 @@ kio-dev
 kirigami2-dev
 kitemviews-dev
 kjobwidgets-dev
-kmime-dev
 kmod
 kmod-bin
 include(devpkg-kmod)
@@ -402,7 +398,6 @@ kservice-dev
 ktextwidgets-dev
 kunitconversion-dev
 kwallet-dev
-kwayland-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
@@ -432,9 +427,6 @@ libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
 include(devpkg-libabigail)
-libaccounts-glib
-libaccounts-glib-dev
-libaccounts-qt-dev
 libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libassuan)
@@ -933,7 +925,6 @@ pypi-gssapi-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
-pypi-hkp4py-python3
 pypi-hypothesis
 pypi-idna
 pypi-idna-python3
@@ -1029,7 +1020,6 @@ python3-staticdev
 pyudev
 qatlib-dev
 qca-qt5-dev
-qcoro-dev
 qemu
 qemu-setuid
 qhull-dev
@@ -1043,7 +1033,6 @@ qtconnectivity-dev
 include(devpkg-qtdeclarative)
 qtdeclarative-staticdev
 qtmultimedia-dev
-qtquickcontrols2-dev
 qtsensors-dev
 qtserialport-dev
 include(devpkg-qtsvg)
@@ -1077,7 +1066,6 @@ serf-dev
 sg3_utils-dev
 shadow
 shared-mime-info
-signond-dev
 include(devpkg-slang)
 include(devpkg-snappy)
 solid-dev
@@ -1159,8 +1147,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-weston
-weston-dev
 include(wget)
 include(which)
 include(devpkg-woff2)

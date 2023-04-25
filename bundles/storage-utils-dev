@@ -390,7 +390,6 @@ pypi-dnspython
 pypi-docutils
 pypi-hatch_vcs
 pypi-hatchling-python3
-pypi-hkp4py-python3
 pypi-iso8601
 pypi-jinja2-python3
 pypi-lxml
@@ -399,7 +398,6 @@ pypi-markdown-python3
 pypi-meson_python-python3
 pypi-pip
 pypi-pycparser-python3
-pypi-requests-python3
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-sphinx

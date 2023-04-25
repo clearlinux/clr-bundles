@@ -280,6 +280,7 @@ gnutls-dev32
 gobject-introspection
 gobject-introspection-data
 include(devpkg-gobject-introspection)
+gobject-introspection-lib
 include(devpkg-googletest)
 gperf
 include(gpgme)
@@ -864,7 +865,6 @@ pypi-hatch_fancy_pypi_readme-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
-pypi-hkp4py-python3
 pypi-httpretty-python3
 pypi-hypothesis
 pypi-hypothesis-python3

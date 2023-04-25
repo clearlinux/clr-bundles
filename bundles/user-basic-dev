@@ -717,7 +717,6 @@ pypi-docutils
 pypi-future-python3
 pypi-hatch_vcs
 pypi-hatchling-python3
-pypi-hkp4py-python3
 pypi-idna
 pypi-imagesize
 pypi-iso8601
