@@ -4,5 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(libX11client)
+
 pipewire
 wireplumber
