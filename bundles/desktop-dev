@@ -873,7 +873,6 @@ pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
-pypi-itsdangerous-python3
 pypi-jaraco.classes-python3
 pypi-jeepney-python3
 pypi-jinja2-python3
@@ -988,7 +987,6 @@ pypi-virtualenv-python3
 pypi-wcwidth-python3
 pypi-webcolors-python3
 pypi-webencodings-python3
-pypi-werkzeug-python3
 pypi-wheel-python3
 pypi-yarl-python3
 pypi-zipp-python3

@@ -933,7 +933,6 @@ pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-iso8601-python3
-pypi-itsdangerous-python3
 pypi-jinja2-python3
 pypi-jsonpatch-python3
 pypi-kerberos-python3
@@ -1011,7 +1010,6 @@ pypi-urllib3-python3
 pypi-vine-python3
 pypi-virtualenv
 pypi-virtualenv-python3
-pypi-werkzeug-python3
 pypi-wheel-python3
 python3
 python3-core

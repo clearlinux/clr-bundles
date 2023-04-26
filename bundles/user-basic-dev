@@ -143,6 +143,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
+double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
 duktape-dev
@@ -462,6 +463,8 @@ lzo-dev
 m4
 include(make)
 man-db
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32

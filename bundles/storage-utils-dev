@@ -11,6 +11,10 @@ CUnit-dev
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
+include(devpkg-NetworkManager)
+include(devpkg-Vulkan-Headers)
+include(devpkg-Vulkan-Loader)
+Vulkan-Tools
 include(devpkg-acl)
 acl-dev32
 acl-staticdev
@@ -38,6 +42,7 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-kde
 buildreq-meson
+buildreq-scons
 bzip2
 include(devpkg-bzip2)
 cJSON-dev
@@ -65,7 +70,9 @@ include(diffutils)
 dlm-dev
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
+duktape-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -80,6 +87,8 @@ f2fs-tools-dev
 file-dev
 include(flex)
 flex-dev
+include(devpkg-fontconfig)
+include(devpkg-freetype)
 include(devpkg-fuse)
 gawk
 gcc
@@ -169,6 +178,7 @@ libfido2
 libfido2-dev
 include(devpkg-libgcrypt)
 libgcrypt-dev32
+include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
@@ -176,6 +186,8 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
+include(devpkg-libinput)
+include(devpkg-libjpeg-turbo)
 libkcapi-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -188,6 +200,7 @@ include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
 libnsl-dev
+include(devpkg-libproxy)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -218,6 +231,8 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 meson-python3
 mingw-gcc
 mpc-dev
@@ -382,6 +397,7 @@ pkg-config
 pkg-config-dev
 include(devpkg-polkit)
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 pycairo-dev
