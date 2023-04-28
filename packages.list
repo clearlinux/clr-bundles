@@ -460,3 +460,4 @@ gnome-remote-desktop # No detailed summary available
 trurl # No detailed summary available
 xrdp # An open source Remote Desktop Protocol (RDP) server
 lldpd # implementation of IEEE 802.1ab (LLDP)
+netplan # Network configuration tool using YAML 

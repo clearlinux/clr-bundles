@@ -1,0 +1,15 @@
+# [TITLE]: netplan
+# [DESCRIPTION]: Network configuration tool using YAML
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Productivity, Tools and Utilities, Networking
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libglib)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+netplan
