@@ -144,6 +144,7 @@ fltk-dev
 include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
+fonttools-python3
 include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
@@ -611,7 +612,6 @@ pypi-cython-python3
 pypi-dataclasses-python3
 pypi-docopt-python3
 pypi-docutils
-pypi-future-python3
 pypi-hatch_vcs
 pypi-hatchling-python3
 pypi-imagesize

@@ -860,7 +860,6 @@ pypi-fontmath-python3
 pypi-freezegun-python3
 pypi-frozenlist-python3
 pypi-funcparserlib-python3
-pypi-future-python3
 pypi-hatch_fancy_pypi_readme-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
@@ -933,7 +932,6 @@ pypi-pycparser-python3
 pypi-pydocstyle-python3
 pypi-pyflakes-python3
 pypi-pygments-python3
-pypi-pylint-python3
 pypi-pyomo-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3

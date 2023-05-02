@@ -221,6 +221,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 include(fontforge)
 include(fonttools)
+fonttools-python3
 include(devpkg-freeglut)
 freetype
 include(devpkg-freetype)
@@ -919,7 +920,6 @@ pypi-flask-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
-pypi-future-python3
 pypi-gitdb-python3
 pypi-gssapi-python3
 pypi-hatch_vcs
@@ -968,7 +968,6 @@ pypi-pycparser-python3
 pypi-pygithub-python3
 pypi-pygments-python3
 pypi-pyjwt-python3
-pypi-pylint-python3
 pypi-pyopenssl-python3
 pypi-pyparsing-python3
 pypi-pyproject_metadata-python3

@@ -167,6 +167,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 include(fontforge)
 include(fonttools)
+fonttools-python3
 include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
@@ -701,7 +702,6 @@ include(pypi-cython)
 pypi-dnspython
 pypi-docutils
 pypi-fontmath-python3
-pypi-future-python3
 pypi-hatch_vcs
 pypi-hatchling-python3
 pypi-iso8601
@@ -713,7 +713,6 @@ pypi-pip
 pypi-polib
 pypi-pybind11-python3
 pypi-pycparser-python3
-pypi-pylint-python3
 pypi-pytest
 pypi-python_dbusmock
 pypi-pywbem-python3

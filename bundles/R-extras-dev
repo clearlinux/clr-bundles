@@ -747,6 +747,7 @@ fltk-dev
 include(devpkg-font-util)
 fontconfig-data
 include(devpkg-fontconfig)
+fonttools-python3
 include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
@@ -1203,7 +1204,6 @@ pulseaudio-dev32
 include(pygobject)
 include(pypi-cython)
 pypi-docutils
-pypi-future-python3
 pypi-hatch_vcs
 pypi-hatchling-python3
 pypi-iso8601-python3
@@ -1215,7 +1215,6 @@ pypi-numpy-python3
 pypi-pip
 pypi-pybind11-python3
 pypi-pycparser-python3
-pypi-pylint-python3
 pypi-pytest
 pypi-python_dbusmock
 pypi-setuptools-python3

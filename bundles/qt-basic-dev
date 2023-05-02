@@ -129,6 +129,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 include(fontforge)
 include(fonttools)
+fonttools-python3
 include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
@@ -428,7 +429,6 @@ pypi-cu2qu-python3
 include(pypi-cython)
 pypi-docutils
 pypi-fontmath-python3
-pypi-future-python3
 pypi-hatch_vcs
 pypi-hatchling-python3
 pypi-jinja2-python3

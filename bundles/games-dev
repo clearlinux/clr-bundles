@@ -151,6 +151,7 @@ include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
+fonttools-python3
 include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
@@ -610,7 +611,6 @@ include(pygobject)
 include(pypi-cython)
 pypi-docutils
 pypi-evdev-python3
-pypi-future-python3
 pypi-hatch_vcs
 pypi-hatchling-python3
 pypi-jinja2-python3

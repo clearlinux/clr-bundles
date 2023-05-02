@@ -35,7 +35,6 @@ bison-dev
 include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
-buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-meson
@@ -77,6 +76,7 @@ include(flex)
 flex-dev
 fontconfig-data
 include(devpkg-fontconfig)
+fonttools-python3
 include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
@@ -270,7 +270,6 @@ include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 include(pypi-cython)
-pypi-future-python3
 pypi-hatch_vcs
 pypi-hatchling-python3
 pypi-jinja2-python3
