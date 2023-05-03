@@ -466,7 +466,6 @@ pkgconfig(libv4l2rds)	devpkg-v4l-utils
 pkgconfig(libv4lconvert)	devpkg-v4l-utils
 pkgconfig(libva)	devpkg-libva
 pkgconfig(libva-drm)	devpkg-libva
-pkgconfig(libva-glx)	devpkg-libva
 pkgconfig(libva-wayland)	devpkg-libva
 pkgconfig(libva-x11)	devpkg-libva
 pkgconfig(libvala-0.56)	devpkg-vala

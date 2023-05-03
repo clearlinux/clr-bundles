@@ -9,5 +9,4 @@ include(devpkg-base)
 include(devpkg-wayland)
 
 libva-dev
-include(lib-opengl)
 include(libX11client)
