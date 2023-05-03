@@ -12,6 +12,7 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(audio-pipewire)
 audacious-plugins
 # end of custom additions
 

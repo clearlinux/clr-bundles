@@ -19,3 +19,4 @@ xkeyboard-config
 xorg-server
 xwdrun
 include(gdk-pixbuf)
+include(audio-pipewire)

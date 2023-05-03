@@ -48,3 +48,4 @@ pinentry
 pinentry-extras
 libsoup-lib
 libproxy
+include(audio-pipewire)

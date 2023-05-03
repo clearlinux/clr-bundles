@@ -8,6 +8,7 @@
 include(lib-openssl)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(systemd)
 include(openldap)
 postfix-doc
 # end of custom additions
