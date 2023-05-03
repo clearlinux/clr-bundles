@@ -12,7 +12,6 @@ automake
 automake-dev
 include(binutils)
 buildreq-configure
-buildreq-distutils3
 buildreq-gnome
 bzip2
 include(devpkg-bzip2)

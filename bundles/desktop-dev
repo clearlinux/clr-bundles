@@ -128,7 +128,6 @@ cups-filters
 include(devpkg-cups-filters)
 include(devpkg-curl)
 curl-dev32
-cycler-python3
 include(devpkg-cyrus-sasl)
 datefudge
 dav1d-dev
@@ -200,7 +199,6 @@ include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
-fs-python3
 include(devpkg-fuse)
 gawk
 gcc
@@ -810,7 +808,6 @@ include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
 pypi-aiohttp-python3
-pypi-aiosignal-python3
 pypi-amqp-python3
 pypi-appdirs-python3
 pypi-async_timeout-python3
@@ -822,11 +819,8 @@ pypi-bleach-python3
 pypi-blockdiag-python3
 pypi-booleanoperations-python3
 pypi-bracex-python3
-pypi-brotli-python3
-pypi-brotlicffi-python3
 pypi-build-python3
 pypi-cachetools-python3
-pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
@@ -836,7 +830,6 @@ pypi-cibuildwheel-python3
 pypi-click-python3
 pypi-colorama-python3
 pypi-configparser-python3
-pypi-contourpy-python3
 pypi-coverage-python3
 pypi-cppy-python3
 pypi-cryptography-python3
@@ -893,8 +886,6 @@ pypi-meson_python-python3
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-msgpack-python3
-pypi-multidict-python3
-pypi-munkres-python3
 pypi-mypy_extensions-python3
 pypi-networkx-python3
 pypi-nose
@@ -975,8 +966,6 @@ pypi-trove_classifiers-python3
 pypi-twine-python3
 pypi-typed_ast-python3
 pypi-typing_extensions-python3
-pypi-ufolib2-python3
-pypi-uharfbuzz-python3
 pypi-urllib3-python3
 pypi-versioneer-python3
 pypi-vine-python3
@@ -986,9 +975,7 @@ pypi-wcwidth-python3
 pypi-webcolors-python3
 pypi-webencodings-python3
 pypi-wheel-python3
-pypi-yarl-python3
 pypi-zipp-python3
-pypi-zopfli-python3
 python-pocketlint
 python3
 python3-core

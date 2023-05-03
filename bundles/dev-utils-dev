@@ -63,7 +63,6 @@ buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
-buildreq-scons
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32

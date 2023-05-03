@@ -33,7 +33,6 @@ bison-dev
 include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
-buildreq-distutils3
 buildreq-gnome
 buildreq-meson
 bzip2
