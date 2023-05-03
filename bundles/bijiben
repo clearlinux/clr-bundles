@@ -11,6 +11,7 @@ include(libglib)
 include(webkitgtk)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(gnome-base-libs)
 include(NetworkManager-extras)
 include(perl-basic)
 

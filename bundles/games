@@ -139,3 +139,4 @@ SDL2_gfx
 SDL2_image
 SDL2_net
 SDL2_ttf
+include(gnome-base-libs)

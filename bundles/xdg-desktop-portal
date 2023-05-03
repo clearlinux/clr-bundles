@@ -8,6 +8,7 @@
 include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(gdk-pixbuf)
 include(lib-opengl)
 # end of custom additions
 

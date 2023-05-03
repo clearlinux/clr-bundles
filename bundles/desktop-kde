@@ -166,3 +166,4 @@ xdg-desktop-portal-kde
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
+include(gdk-pixbuf)

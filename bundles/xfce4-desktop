@@ -49,3 +49,4 @@ xfdesktop
 xfwm4
 xinit
 xrdb
+include(gdk-pixbuf)

@@ -10,6 +10,7 @@ include(openldap)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(xz)
 include(python3-basic)
 include(lib-opengl)
 include(perl-basic)

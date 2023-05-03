@@ -14,3 +14,4 @@ include(devpkg-shared-mime-info)
 gdk-pixbuf-dev
 include(libglib)
 include(lib-imageformat)
+include(gdk-pixbuf)

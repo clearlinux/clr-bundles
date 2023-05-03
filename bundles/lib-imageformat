@@ -7,6 +7,7 @@
 
 
 # start of custom additions
+include(gdk-pixbuf)
 include(libstdcpp)
 include(lib-opengl)
 include(libglib)

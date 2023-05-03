@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 wxWidgets-dev
+include(gdk-pixbuf)

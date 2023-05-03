@@ -40,3 +40,4 @@ gtk4-lib
 
 # and a lot of it pulls in SDL
 SDL2-lib
+include(gdk-pixbuf)

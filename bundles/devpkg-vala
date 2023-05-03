@@ -11,3 +11,4 @@ include(libglib)
 
 vala-dev
 include(libglib)
+include(gdk-pixbuf)

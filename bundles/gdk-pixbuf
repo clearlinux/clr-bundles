@@ -1,16 +1,16 @@
-# [TITLE]: libgsf
-# [DESCRIPTION]: GNOME Structured File library
+# [TITLE]: gdk-pixbuf
+# [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 
 include(libglib)
+include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(gdk-pixbuf)
 
 # end of custom additions
 
 # main package
-libgsf
+gdk-pixbuf

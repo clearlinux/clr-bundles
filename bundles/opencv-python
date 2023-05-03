@@ -11,3 +11,4 @@ include(lib-opengl)
 # main package
 opencv-python
 pypi-numpy
+include(gdk-pixbuf)
