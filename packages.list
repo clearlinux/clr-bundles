@@ -461,4 +461,5 @@ trurl # No detailed summary available
 xrdp # An open source Remote Desktop Protocol (RDP) server
 lldpd # implementation of IEEE 802.1ab (LLDP)
 netplan # Network configuration tool using YAML
-gdk-pixbuf # No detailed summary available 
+gdk-pixbuf # No detailed summary available
+pypi-pynacl # Python binding to the Networking and Cryptography (NaCl) library 

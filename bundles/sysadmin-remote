@@ -17,3 +17,4 @@ nagios-plugins
 nrpe
 sos
 udisks2
+include(pypi-pynacl)
