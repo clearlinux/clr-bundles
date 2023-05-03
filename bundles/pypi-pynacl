@@ -1,0 +1,15 @@
+# [TITLE]: pypi-pynacl
+# [DESCRIPTION]: Python binding to the Networking and Cryptography (NaCl) library
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
+
+include(python3-basic)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+pypi-pynacl
