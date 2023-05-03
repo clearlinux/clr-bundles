@@ -10,6 +10,7 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(libglib)
+llvm-dev
 # end of custom additions
 
 # main package
