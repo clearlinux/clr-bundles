@@ -11,3 +11,4 @@ include(postgresql)
 include(libglib)
 
 php
+include(harfbuzz-lib)

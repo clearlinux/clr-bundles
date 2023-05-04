@@ -12,3 +12,4 @@ also-add(irssi)
 pypi-khal
 taskwarrior
 also-add(weechat)
+include(harfbuzz-lib)

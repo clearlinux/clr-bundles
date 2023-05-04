@@ -6,3 +6,4 @@
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 openjdk13
 include(libstdcpp)
+include(harfbuzz-lib)

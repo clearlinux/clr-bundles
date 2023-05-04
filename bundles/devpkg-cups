@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 cups-dev
+include(harfbuzz-lib)
