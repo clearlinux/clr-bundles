@@ -11,3 +11,4 @@ include(libglib)
 gmp-dev
 ruby
 ruby-dev
+include(ncurses-lib)

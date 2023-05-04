@@ -49,3 +49,4 @@ pinentry-extras
 libsoup-lib
 libproxy
 include(audio-pipewire)
+include(dav1d-lib)

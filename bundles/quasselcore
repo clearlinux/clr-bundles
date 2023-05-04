@@ -8,6 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions
+include(dav1d-lib)
 include(qt-core)
 include(qt-basic)
 # end of custom additions

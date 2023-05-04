@@ -8,6 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(dav1d-lib)
 include(lib-imageformat)
 # end of custom additions
 

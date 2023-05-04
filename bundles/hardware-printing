@@ -18,3 +18,4 @@ epson-inkjet-printer-escpr
 gutenprint
 hplip
 sane-backends
+include(dav1d-lib)

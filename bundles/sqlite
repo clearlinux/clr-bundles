@@ -8,6 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions
+include(ncurses-lib)
 
 # end of custom additions
 

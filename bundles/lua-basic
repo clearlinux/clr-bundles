@@ -9,3 +9,4 @@ compat-lua-52
 compat-lua-53
 LuaJIT
 luarocks
+include(ncurses-lib)

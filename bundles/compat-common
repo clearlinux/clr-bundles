@@ -12,3 +12,4 @@ libudev0-shim
 ncurses-compat
 ncurses-compat-lib
 ncurses-compat-lib-narrow
+include(ncurses-lib)
