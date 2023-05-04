@@ -215,7 +215,7 @@ include(gdb)
 gdb-dev
 gdbm-dev
 gdbm-dev32
-gdk-pixbuf
+include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 include(devpkg-gdm)
 include(devpkg-gegl)
@@ -821,6 +821,7 @@ pypi-booleanoperations-python3
 pypi-bracex-python3
 pypi-build-python3
 pypi-cachetools-python3
+pypi-calver-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3

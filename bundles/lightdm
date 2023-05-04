@@ -15,7 +15,7 @@ adwaita-icon-theme
 at-spi2-core
 cantarell-fonts
 clear-font
-gdk-pixbuf
+include(gdk-pixbuf)
 hicolor-icon-theme
 include(fonts-basic)
 include(polkit)

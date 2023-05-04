@@ -7,7 +7,7 @@
 include(glmark2)
 
 clear-font
-gdk-pixbuf
+include(gdk-pixbuf)
 glib
 gnome-session
 libXcursor-lib

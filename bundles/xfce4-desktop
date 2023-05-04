@@ -14,7 +14,7 @@ clr-desktop-defaults
 elementary-xfce
 exo
 garcon
-gdk-pixbuf
+include(gdk-pixbuf)
 gnome-icon-theme
 gnome-themes-extra
 gtk+

@@ -37,7 +37,7 @@ elementary-xfce
 exo
 fontconfig
 garcon
-gdk-pixbuf
+include(gdk-pixbuf)
 also-add(geany)
 geany-plugins
 glib-networking-lib

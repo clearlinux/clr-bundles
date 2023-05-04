@@ -168,7 +168,6 @@ include(llvm)
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
-m4
 include(make)
 meson-python3
 mpc-dev
@@ -241,4 +240,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(gdk-pixbuf)

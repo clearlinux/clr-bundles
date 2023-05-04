@@ -188,7 +188,7 @@ include(gdb)
 gdb-dev
 gdbm-dev
 gdbm-dev32
-gdk-pixbuf
+include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 geany-dev
 geany-plugins-dev

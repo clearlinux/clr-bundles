@@ -32,7 +32,7 @@ dbus-extras
 desktop-file-utils
 fontconfig
 include(fuse)
-gdk-pixbuf
+include(gdk-pixbuf)
 geoclue
 geocode-glib
 include(gjs)

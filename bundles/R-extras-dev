@@ -766,7 +766,7 @@ gdal-dev
 include(gdb)
 gdb-dev
 gdbm-dev
-gdk-pixbuf
+include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 geos-dev
 gettext

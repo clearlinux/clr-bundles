@@ -61,7 +61,7 @@ drkonqi
 also-add(dolphin)
 dolphin-plugins
 exiv2
-gdk-pixbuf
+include(gdk-pixbuf)
 glib-bin
 include(gpgme)
 gsettings-desktop-schemas

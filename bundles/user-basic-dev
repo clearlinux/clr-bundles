@@ -196,7 +196,7 @@ gdb-dev
 gdbm
 gdbm-dev
 gdbm-dev32
-gdk-pixbuf
+include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 gettext
 gettext-bin
