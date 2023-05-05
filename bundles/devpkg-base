@@ -7,3 +7,5 @@
 
 include(c-basic)
 pkg-config
+libtool
+libtool-dev
