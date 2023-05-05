@@ -99,7 +99,6 @@ include(devpkg-cogl)
 include(devpkg-colord)
 include(devpkg-compat-gcr-soname1)
 include(devpkg-compat-libsoup-soname-24)
-include(devpkg-compat-webkitgtk-soname40)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
