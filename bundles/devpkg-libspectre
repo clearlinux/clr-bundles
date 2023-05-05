@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 libspectre-dev
+include(harfbuzz-lib)
