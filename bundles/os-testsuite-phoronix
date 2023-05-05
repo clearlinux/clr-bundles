@@ -141,3 +141,4 @@ include(devpkg-cfitsio)
 
 # work around infra
 also-add(hwloc)
+include(libevent-lib)

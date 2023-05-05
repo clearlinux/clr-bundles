@@ -16,3 +16,4 @@ kanagram
 khangman
 klettres
 ktuberling
+include(kde-frameworks5)

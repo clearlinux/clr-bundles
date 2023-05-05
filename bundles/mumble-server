@@ -12,3 +12,4 @@ include(lib-openssl)
 
 # Server components are provided by the extras subpackage
 mumble-extras
+include(libevent-lib)

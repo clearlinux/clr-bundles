@@ -9,3 +9,4 @@ include(libglib)
 include(qt-basic)
 
 avahi-extras
+include(libevent-lib)

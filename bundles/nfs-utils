@@ -8,6 +8,7 @@
 include(openldap)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libevent-lib)
 rpcbind
 include(libstdcpp)
 include(python3-basic)
