@@ -14,4 +14,4 @@ include(libglib)
 
 # main package
 llvm
-llvm-dev
+include(devpkg-llvm)

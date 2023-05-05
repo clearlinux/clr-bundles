@@ -41,7 +41,6 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_image)
-SFCGAL-dev
 SPIRV-Tools
 SVT-AV1-dev
 include(Sphinx)
@@ -1091,7 +1090,6 @@ qatlib-dev
 qca-qt5-dev
 qemu
 qemu-setuid
-qhull-dev
 qrencode-dev
 qt6base-dev
 include(devpkg-qtbase)
@@ -1136,6 +1134,7 @@ sed
 serf-dev
 sg3_utils-dev
 shadow
+shapelib-dev
 shared-mime-info
 include(devpkg-slang)
 include(devpkg-snappy)
@@ -1197,7 +1196,6 @@ tracker-dev
 include(tzdata)
 umockdev-dev
 unifdef
-unixODBC-dev
 include(unzip)
 upower-dev
 include(devpkg-usbredir)
@@ -1238,7 +1236,6 @@ include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xdg-dbus-proxy
 xdg-utils
-xerces-c-dev
 xfsprogs-dev
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)

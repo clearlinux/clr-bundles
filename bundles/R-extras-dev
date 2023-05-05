@@ -629,7 +629,6 @@ R-zip
 R-zoo
 include(devpkg-SDL)
 include(devpkg-SDL2)
-SFCGAL-dev
 SPIRV-Tools
 include(Sphinx)
 SuiteSparse-dev
@@ -1225,7 +1224,6 @@ python3-core
 python3-dev
 pyudev
 qemu
-qhull-dev
 qrencode-dev
 include(devpkg-qtbase)
 qtbase-extras
@@ -1239,6 +1237,7 @@ include(sassc)
 sbc-dev
 sed
 shadow
+shapelib-dev
 shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
@@ -1267,7 +1266,6 @@ tpm2-tss-dev
 include(tzdata)
 udunits-dev
 umockdev-dev
-unixODBC-dev
 include(unzip)
 util-linux
 util-linux-bin
@@ -1290,7 +1288,6 @@ xauth
 xcb-proto
 include(devpkg-xcb-proto)
 xdg-utils
-xerces-c-dev
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlsec1)
 xmlto
