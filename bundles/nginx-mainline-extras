@@ -20,3 +20,4 @@ ngx-fancyindex
 ngx_http_auth_pam_module
 ngx_http_enhanced_memcached_module
 redis2-nginx-module
+include(curl)

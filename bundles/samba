@@ -10,6 +10,7 @@ include(libglib)
 include(openldap)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(ncurses-lib)
 include(libstdcpp)
 include(openldap)
 include(lib-samba)

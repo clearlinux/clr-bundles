@@ -11,3 +11,4 @@ include(httpd)
 opencv-lib
 openQA
 os-autoinst
+include(openblas)

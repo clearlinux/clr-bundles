@@ -9,3 +9,4 @@ include(lib-openssl)
 include(python3-basic)
 nodejs
 nodejs-doc
+include(icu4c-lib)

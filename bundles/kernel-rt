@@ -12,3 +12,5 @@ include(linux-firmware)
 include(linux-firmware-extras)
 linux-preempt-rt
 mcelog
+include(systemd)
+include(libglib)

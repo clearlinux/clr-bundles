@@ -7,6 +7,7 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(ncurses-lib)
 #
 # install pynvim for python plugins to work (having python is not
 # mandatory, but it will be used if available, hence we don't include() any

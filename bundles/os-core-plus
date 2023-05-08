@@ -23,3 +23,5 @@ systemd
 systemd-lib
 shadow
 systemd-man
+include(systemd)
+include(ncurses-lib)

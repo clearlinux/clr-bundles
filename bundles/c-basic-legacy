@@ -41,3 +41,4 @@ include(make)
 pkg-config
 include(devpkg-zlib)
 # scons intentionally left out for now
+include(libstdcpp)

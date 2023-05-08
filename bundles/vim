@@ -12,3 +12,4 @@ vim
 vim-fugitive
 vim-gnupg
 #vim-go
+include(ncurses-lib)

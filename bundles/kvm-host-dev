@@ -762,3 +762,7 @@ include(devpkg-zstd)
 zstd-dev32
 include(pypi-pynacl)
 include(libstdcpp)
+include(lib-opengl)
+include(curl)
+include(lib-imageformat)
+include(desktop-kde-libs)

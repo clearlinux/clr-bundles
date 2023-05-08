@@ -8,6 +8,11 @@
 include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(lib-imageformat)
+include(openldap)
+include(libX11client)
+include(gstreamer)
+include(curl)
 include(gdk-pixbuf)
 include(lib-opengl)
 include(libglib)

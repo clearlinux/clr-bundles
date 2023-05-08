@@ -51,3 +51,4 @@ pkg-config
 pkg-config-dev
 zlib-dev
 # scons intentionally left out for now
+include(libstdcpp)

@@ -10,3 +10,4 @@ pipewire
 wireplumber
 include(libstdcpp)
 include(icu4c-lib)
+include(gnome-base-libs)

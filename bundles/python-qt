@@ -9,3 +9,4 @@ include(lib-qt5webengine)
 
 pyotherside
 pyside2-setup
+include(openblas)

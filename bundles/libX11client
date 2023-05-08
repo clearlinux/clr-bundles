@@ -41,3 +41,7 @@ gtk4-lib
 # and a lot of it pulls in SDL
 SDL2-lib
 include(gdk-pixbuf)
+include(curl)
+include(gstreamer)
+include(openldap)
+include(lib-imageformat)

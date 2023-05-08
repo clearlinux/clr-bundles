@@ -12,3 +12,7 @@ include(libglib)
 
 php
 include(harfbuzz-lib)
+include(curl)
+include(icu4c-lib)
+include(lib-imageformat)
+include(ncurses-lib)

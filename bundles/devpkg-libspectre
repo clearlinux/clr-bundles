@@ -8,3 +8,5 @@
 include(devpkg-base)
 
 libspectre-dev
+include(lib-imageformat)
+include(openldap)

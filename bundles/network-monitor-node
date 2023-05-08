@@ -9,3 +9,4 @@ zeek
 zeek-af_packet-plugin
 hyperscan
 include(suricata)
+include(openldap)

@@ -23,3 +23,4 @@ swupd-client
 swupd-overdue
 tar-bin
 xz-bin
+include(curl)

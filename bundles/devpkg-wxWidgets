@@ -10,3 +10,8 @@ include(devpkg-base)
 wxWidgets-dev
 include(gdk-pixbuf)
 include(icu4c-lib)
+include(lib-opengl)
+include(gstreamer)
+include(libX11client)
+include(openldap)
+include(lib-imageformat)

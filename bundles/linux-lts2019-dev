@@ -7,3 +7,5 @@
 linux-lts2019-dev
 include(xz)
 include(perl-basic)
+include(python3-basic)
+include(systemd)

@@ -7,3 +7,4 @@
 openjdk
 include(libstdcpp)
 include(harfbuzz-lib)
+include(lib-imageformat)

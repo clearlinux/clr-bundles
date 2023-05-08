@@ -71,3 +71,4 @@ php-Yaf
 php-yaml
 php-yar
 php-zmq
+include(openldap)

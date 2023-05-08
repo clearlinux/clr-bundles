@@ -6,3 +6,4 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 vim-extras-minimal
 usrbinvi
+include(ncurses-lib)

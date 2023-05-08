@@ -36,3 +36,4 @@ wsjtx
 xastir
 xlog
 xnec2c
+include(libevent-lib)

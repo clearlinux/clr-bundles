@@ -11,3 +11,4 @@ clr-debug-info
 swupd-probe
 swupd-probe-autostart
 # telemetrics-client
+include(curl)

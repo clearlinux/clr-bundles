@@ -23,3 +23,4 @@ include(polkit)
 qemu
 qemu-extras
 include(libstdcpp)
+include(icu4c-lib)

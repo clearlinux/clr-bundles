@@ -110,3 +110,5 @@ util-linux-man
 whois-extras
 include(xz)
 include(zstd)
+include(icu4c-lib)
+include(lib-imageformat)

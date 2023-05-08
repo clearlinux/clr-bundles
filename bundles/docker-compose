@@ -8,6 +8,8 @@
 include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(lib-imageformat)
+include(openblas)
 include(harfbuzz-lib)
 include(pypi-pynacl)
 include(containers-basic)

@@ -464,3 +464,7 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
+include(curl)
+include(desktop-kde-libs)
+include(gnome-base-libs)
+include(harfbuzz-lib)

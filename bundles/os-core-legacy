@@ -11,3 +11,5 @@ ncurses-lib32
 acl-lib32
 glib-lib32
 libcap-lib32
+include(libstdcpp)
+include(libglib)

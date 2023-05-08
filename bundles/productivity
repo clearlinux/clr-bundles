@@ -13,3 +13,4 @@ pypi-khal
 taskwarrior
 also-add(weechat)
 include(harfbuzz-lib)
+include(lib-imageformat)

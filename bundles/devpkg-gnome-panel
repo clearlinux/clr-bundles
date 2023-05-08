@@ -14,3 +14,4 @@ gnome-panel-dev
 include(libstdcpp)
 include(webkitgtk)
 include(icu4c-lib)
+include(gnome-base-libs)

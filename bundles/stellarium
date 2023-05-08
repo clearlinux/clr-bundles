@@ -10,6 +10,8 @@ include(qt-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libevent-lib)
+include(lib-qt5webengine)
 include(dav1d-lib)
 
 # end of custom additions

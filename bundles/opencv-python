@@ -12,3 +12,8 @@ include(lib-opengl)
 opencv-python
 pypi-numpy
 include(gdk-pixbuf)
+include(openblas)
+include(gstreamer)
+include(libX11client)
+include(openldap)
+include(lib-imageformat)

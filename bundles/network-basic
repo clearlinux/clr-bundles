@@ -51,3 +51,7 @@ redsocks
 tcpdump
 traceroute
 whois
+include(curl)
+include(libevent-lib)
+include(openldap)
+include(ncurses-lib)

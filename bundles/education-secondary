@@ -21,3 +21,4 @@ kturtle
 kwordquiz
 marble
 parley
+include(kde-frameworks5)

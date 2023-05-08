@@ -142,3 +142,4 @@ svgpart
 also-add(syndication)
 also-add(yakuake)
 zeroconf-ioslave
+include(kde-frameworks5)

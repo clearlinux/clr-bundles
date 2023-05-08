@@ -68,3 +68,4 @@ poxml
 prison
 purpose
 sweeper
+include(kde-frameworks5)

@@ -10,6 +10,7 @@ include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(openblas)
 blender-extras
 include(python3-basic)
 include(qt-basic)

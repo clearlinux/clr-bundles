@@ -11,3 +11,4 @@ LVM2-extras
 cryptsetup-bin
 cryptsetup-config
 cryptsetup-lib
+include(libglib)

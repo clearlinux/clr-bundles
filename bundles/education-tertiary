@@ -16,3 +16,4 @@ fritzing-app
 include(kmplot)
 kturtle
 marble
+include(kde-frameworks5)

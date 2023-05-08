@@ -12,6 +12,7 @@ include(gstreamer)
 include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(icu4c-lib)
 # sadly this one is still super common
 webkitgtk60
 # end of custom additions

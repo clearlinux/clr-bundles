@@ -13,3 +13,4 @@ mock
 pypi-gitpython
 rpm
 rpm-extras
+include(curl)
