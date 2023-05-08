@@ -10,6 +10,7 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(icu4c-lib)
 geany-plugins
 # end of custom additions
 

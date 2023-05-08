@@ -11,3 +11,4 @@ include(libglib)
 
 libosinfo-dev
 include(libglib)
+include(icu4c-lib)

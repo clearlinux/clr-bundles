@@ -1,4 +1,4 @@
-# [TITLE]: harfbuzz-lib
+# [TITLE]: icu4c-lib
 # [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -7,12 +7,8 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-# include(lib-imageformat)
-include(libglib)
-include(libstdcpp)
-# include(libX11client)
 
 # end of custom additions
 
 # main package
-harfbuzz-lib
+icu4c-lib

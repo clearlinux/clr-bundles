@@ -9,3 +9,4 @@ include(devpkg-base)
 
 wxWidgets-dev
 include(gdk-pixbuf)
+include(icu4c-lib)

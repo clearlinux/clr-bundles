@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 boost-dev
+include(icu4c-lib)

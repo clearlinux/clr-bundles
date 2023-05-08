@@ -11,3 +11,4 @@ avahi-dev
 include(libglib)
 include(qt-core)
 include(qt-basic)
+include(icu4c-lib)

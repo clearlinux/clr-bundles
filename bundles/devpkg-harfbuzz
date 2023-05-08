@@ -14,3 +14,4 @@ harfbuzz-dev
 include(libX11client)
 include(libglib)
 include(libstdcpp)
+include(icu4c-lib)

@@ -13,3 +13,4 @@ geoclue-dev
 include(libglib)
 include(gdk-pixbuf)
 include(lib-imageformat)
+include(icu4c-lib)

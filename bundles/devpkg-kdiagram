@@ -11,3 +11,4 @@ kdiagram-dev
 include(harfbuzz-lib)
 include(qt-core)
 include(qt-basic)
+include(icu4c-lib)

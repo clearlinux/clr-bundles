@@ -11,3 +11,4 @@ include(libglib)
 
 geocode-glib-dev
 include(libglib)
+include(icu4c-lib)

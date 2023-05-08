@@ -9,3 +9,4 @@ include(libX11client)
 pipewire
 wireplumber
 include(libstdcpp)
+include(icu4c-lib)
