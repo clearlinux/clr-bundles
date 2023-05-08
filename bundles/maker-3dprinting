@@ -14,4 +14,3 @@ include(maker-basic)
 include(openscad)
 
 # Slicers
-Cura
