@@ -22,3 +22,4 @@ nftables
 include(polkit)
 qemu
 qemu-extras
+include(libstdcpp)

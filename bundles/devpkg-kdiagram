@@ -9,3 +9,5 @@ include(devpkg-base)
 
 kdiagram-dev
 include(harfbuzz-lib)
+include(qt-core)
+include(qt-basic)

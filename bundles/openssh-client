@@ -10,3 +10,4 @@ openssh-config
 openssh-data
 openssh-doc
 openssh-man
+include(systemd)

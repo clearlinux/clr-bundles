@@ -6,3 +6,4 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-lts2019-dev
 include(xz)
+include(perl-basic)

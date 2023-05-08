@@ -11,3 +11,5 @@ include(libglib)
 include(devpkg-gtk3)
 
 gnome-panel-dev
+include(libstdcpp)
+include(webkitgtk)

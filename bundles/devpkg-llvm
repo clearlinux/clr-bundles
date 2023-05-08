@@ -8,3 +8,7 @@
 
 llvm-dev
 llvm-staticdev
+include(python3-basic)
+include(libstdcpp)
+include(xz)
+include(ncurses-lib)

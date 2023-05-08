@@ -5,3 +5,4 @@
 # [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 dnsmasq
+include(systemd)

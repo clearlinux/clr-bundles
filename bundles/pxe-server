@@ -10,3 +10,4 @@ dhcp
 dnsmasq
 ipxe
 wol
+include(systemd)

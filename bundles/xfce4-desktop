@@ -50,3 +50,5 @@ xfwm4
 xinit
 xrdb
 include(gdk-pixbuf)
+include(libstdcpp)
+include(webkitgtk)

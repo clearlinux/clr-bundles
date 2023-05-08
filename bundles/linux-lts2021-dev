@@ -6,3 +6,4 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 linux-lts2021-dev
 include(xz)
+include(perl-basic)

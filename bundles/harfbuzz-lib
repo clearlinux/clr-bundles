@@ -7,6 +7,10 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(lib-imageformat)
+include(libglib)
+include(libstdcpp)
+include(libX11client)
 
 # end of custom additions
 

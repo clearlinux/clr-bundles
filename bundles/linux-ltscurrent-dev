@@ -6,3 +6,4 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 linux-ltscurrent-dev
 include(xz)
+include(perl-basic)

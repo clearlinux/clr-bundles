@@ -6,3 +6,4 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 linux-iot-lts2018-sos-dev
 include(xz)
+include(perl-basic)

@@ -9,3 +9,5 @@ include(devpkg-base)
 
 avahi-dev
 include(libglib)
+include(qt-core)
+include(qt-basic)

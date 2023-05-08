@@ -11,3 +11,4 @@ include(libglib)
 include(devpkg-gtk3)
 
 gnome-bluetooth-dev
+include(libstdcpp)
