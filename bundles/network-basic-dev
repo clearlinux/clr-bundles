@@ -146,6 +146,7 @@ iptables-dev32
 include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
+include(devpkg-json-glib)
 keyutils-dev
 kmod
 include(devpkg-kmod)

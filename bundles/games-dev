@@ -76,7 +76,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -797,6 +796,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(devpkg-webkitgtk)
+webkitgtk60-dev
 include(which)
 include(devpkg-woff2)
 xauth
@@ -824,4 +824,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(dav1d)

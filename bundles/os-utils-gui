@@ -24,7 +24,7 @@ also-add(emacs-x11)
 include(xfce4-desktop)
 include(lib-imageformat)
 include(vim)
-FreeRDP
+include(FreeRDP)
 Thunar
 alsa-plugins-lib
 bash-completion
