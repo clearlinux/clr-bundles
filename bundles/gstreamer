@@ -18,7 +18,7 @@ libva-intel-driver
 intel-media-driver
 intel-gmmlib
 libva
-include(libX11client)
+# include(libX11client)
 include(lib-imageformat)
 # end of custom additions
 
