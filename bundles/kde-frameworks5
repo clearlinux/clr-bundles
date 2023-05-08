@@ -44,6 +44,6 @@ threadweaver
 
 # Misc
 breeze-icons
-include(desktop-kde-libs)
+# include(desktop-kde-libs)
 include(gnome-base-libs)
 include(lib-imageformat)
