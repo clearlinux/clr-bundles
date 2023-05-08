@@ -5,7 +5,7 @@
 # [TAGS]: Tools and Utilities, Multimedia and Graphics
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-include(libX11client)
+# include(libX11client)
 include(lib-openssl)
 include(libglib)
 
