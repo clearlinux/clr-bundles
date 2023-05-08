@@ -41,3 +41,4 @@ qtwebsockets
 qtx11extras
 qtxmlpatterns
 include(libstdcpp)
+include(pulseaudio)

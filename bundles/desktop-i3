@@ -17,3 +17,4 @@ i3status
 rofi
 xdg-utils
 include(libstdcpp)
+include(pulseaudio)

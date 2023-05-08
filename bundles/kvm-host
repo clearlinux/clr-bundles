@@ -24,3 +24,4 @@ qemu
 qemu-extras
 include(libstdcpp)
 include(icu4c-lib)
+include(pulseaudio)

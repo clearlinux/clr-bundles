@@ -52,3 +52,4 @@ xrdb
 include(gdk-pixbuf)
 include(libstdcpp)
 include(webkitgtk)
+include(pulseaudio)

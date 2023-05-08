@@ -13,3 +13,4 @@ include(devpkg-gtk3)
 gnome-bluetooth-dev
 include(libstdcpp)
 include(gnome-base-libs)
+include(pulseaudio)
