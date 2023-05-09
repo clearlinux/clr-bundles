@@ -16,3 +16,4 @@ mcelog
 
 # kernel package
 linux-preempt-rt
+include(libnl)

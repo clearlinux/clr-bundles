@@ -16,3 +16,4 @@ include(gdk-pixbuf)
 # main application
 firefox
 include(gdk-pixbuf)
+include(lz4)

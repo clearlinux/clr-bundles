@@ -18,3 +18,4 @@ pmix
 pdsh
 slurm
 
+include(lz4)

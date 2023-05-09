@@ -7,3 +7,4 @@
 
 include(libstdcpp)
 nmap-extras
+include(libnl)

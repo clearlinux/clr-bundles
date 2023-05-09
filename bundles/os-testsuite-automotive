@@ -13,3 +13,4 @@ libcap-bin
 include(net-tools)
 psmisc
 usbutils
+include(libnl)

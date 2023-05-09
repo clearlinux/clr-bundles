@@ -10,6 +10,8 @@ include(curl)
 include(openldap)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libnl)
+include(lz4)
 
 # for rrdtool
 include(libX11client)

@@ -14,3 +14,4 @@ R-rstan
 R-rstanarm
 R-rstantools
 R-shinystan
+include(libnl)

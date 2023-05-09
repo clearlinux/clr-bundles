@@ -20,3 +20,4 @@ xorg-server
 xwdrun
 include(gdk-pixbuf)
 include(audio-pipewire)
+include(libpsl-lib)

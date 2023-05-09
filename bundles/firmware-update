@@ -12,3 +12,4 @@ clr-fwupd-hooks
 fwupd
 libsoup
 include(polkit)
+include(libpsl-lib)

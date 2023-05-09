@@ -11,3 +11,4 @@ cups-dev
 include(harfbuzz-lib)
 include(lib-imageformat)
 include(openldap)
+include(lz4)

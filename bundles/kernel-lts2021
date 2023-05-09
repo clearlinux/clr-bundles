@@ -16,3 +16,4 @@ vbox-integration
 
 # kernel package
 linux-lts2021
+include(libnl)

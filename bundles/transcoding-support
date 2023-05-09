@@ -36,3 +36,4 @@ libvpx
 libwebp
 rtmpdump
 include(v4l-utils)
+include(libpsl-lib)

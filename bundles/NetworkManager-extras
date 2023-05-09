@@ -25,3 +25,4 @@ usb-modeswitch
 usb-modeswitch-data
 xl2tpd
 include(libevent-lib)
+include(lz4)

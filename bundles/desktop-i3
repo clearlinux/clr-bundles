@@ -18,3 +18,4 @@ rofi
 xdg-utils
 include(libstdcpp)
 include(pulseaudio)
+include(libnl)

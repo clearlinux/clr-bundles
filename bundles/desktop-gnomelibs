@@ -51,3 +51,4 @@ libproxy
 include(audio-pipewire)
 include(dav1d-lib)
 # include(gnome-base-libs)
+libxml2-lib

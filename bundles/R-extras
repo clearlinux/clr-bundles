@@ -812,3 +812,4 @@ R-zoo
 #
 eigen
 include(pandoc)
+include(lz4)

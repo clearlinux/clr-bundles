@@ -254,3 +254,4 @@ zstd-dev32
 include(curl)
 include(harfbuzz-lib)
 include(icu4c-lib)
+include(libpsl-lib)

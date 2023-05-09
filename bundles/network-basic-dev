@@ -448,3 +448,4 @@ zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
 include(curl)
+include(libpsl-lib)

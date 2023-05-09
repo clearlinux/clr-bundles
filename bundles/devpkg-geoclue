@@ -11,3 +11,4 @@ include(libglib)
 
 geoclue-dev
 include(libglib)
+include(libpsl-lib)

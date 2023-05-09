@@ -51,3 +51,5 @@ also-add(sshfs)
 tdb-lib
 thin-provisioning-tools
 include(xfsprogs)
+include(lz4)
+include(libnl)

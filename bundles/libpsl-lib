@@ -1,4 +1,4 @@
-# [TITLE]: ncurses-lib
+# [TITLE]: libpsl-lib
 # [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -7,8 +7,8 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-ncurses-lib-narrow
+
 # end of custom additions
 
 # main package
-ncurses-lib
+libpsl-lib

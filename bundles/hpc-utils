@@ -18,3 +18,4 @@ opa-psm2
 opensm
 perftest
 rdma-core
+include(libnl)

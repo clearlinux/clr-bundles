@@ -422,3 +422,4 @@ include(devpkg-zstd)
 zstd-dev32
 include(curl)
 include(harfbuzz-lib)
+include(libpsl-lib)

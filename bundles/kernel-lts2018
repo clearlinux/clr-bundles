@@ -16,3 +16,4 @@ vbox-integration
 
 # kernel package
 linux-lts2018
+include(libnl)

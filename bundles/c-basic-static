@@ -12,3 +12,4 @@ glibc-staticdev
 zlib-staticdev
 zstd-staticdev
 gcc-staticdev
+include(lz4)
