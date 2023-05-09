@@ -197,6 +197,7 @@ include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
+fs-python3
 include(devpkg-fuse)
 gawk
 gcc
@@ -500,6 +501,7 @@ libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsodium)
 include(devpkg-libsoup)
+include(devpkg-libspectre)
 libspiro-dev
 include(devpkg-libsrtp)
 include(devpkg-libssh)
@@ -699,6 +701,7 @@ perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl
 perl-HTML-TreeBuilder-perl
+perl-HTTP-CookieJar-perl
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon-perl
 perl-HTTP-Date-perl
@@ -817,9 +820,12 @@ pypi-bleach-python3
 pypi-blockdiag-python3
 pypi-booleanoperations-python3
 pypi-bracex-python3
+pypi-brotli-python3
+pypi-brotlicffi-python3
 pypi-build-python3
 pypi-cachetools-python3
 pypi-calver-python3
+pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
@@ -885,6 +891,7 @@ pypi-meson_python-python3
 pypi-mock-python3
 pypi-more_itertools-python3
 pypi-msgpack-python3
+pypi-munkres-python3
 pypi-mypy_extensions-python3
 pypi-networkx-python3
 pypi-nose
@@ -965,6 +972,8 @@ pypi-trove_classifiers-python3
 pypi-twine-python3
 pypi-typed_ast-python3
 pypi-typing_extensions-python3
+pypi-ufolib2-python3
+pypi-uharfbuzz-python3
 pypi-urllib3-python3
 pypi-versioneer-python3
 pypi-vine-python3
@@ -975,6 +984,7 @@ pypi-webcolors-python3
 pypi-webencodings-python3
 pypi-wheel-python3
 pypi-zipp-python3
+pypi-zopfli-python3
 python-pocketlint
 python3
 python3-core
@@ -1130,8 +1140,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(libstdcpp)
-include(lib-opengl)
-include(lib-imageformat)
-include(desktop-kde-libs)
-include(dav1d-lib)

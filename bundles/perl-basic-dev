@@ -228,6 +228,7 @@ perl-HTML-Parser-perl
 perl-HTML-Tagset-dev
 perl-HTML-Tagset-perl
 perl-HTML-TreeBuilder-perl
+perl-HTTP-CookieJar-perl
 perl-HTTP-Cookies-dev
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon-perl

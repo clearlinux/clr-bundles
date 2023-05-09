@@ -120,6 +120,7 @@ include(devpkg-graphite)
 include(graphviz)
 grep
 groff
+gtk+-dev
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
@@ -195,6 +196,7 @@ include(devpkg-librsvg)
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsodium)
+include(devpkg-libspectre)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
@@ -265,6 +267,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+poppler-dev
 include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
@@ -337,8 +340,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(openblas)
-include(lib-opengl)
-include(curl)
-include(lib-imageformat)
-include(dav1d-lib)

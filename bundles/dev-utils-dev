@@ -29,7 +29,6 @@ acl-dev32
 acl-staticdev
 include(devpkg-alsa-lib)
 alsa-lib-dev32
-armadillo-data
 asciidoc
 include(devpkg-at-spi2-core)
 include(devpkg-attr)
@@ -82,10 +81,8 @@ include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
 cppcheck
-cppunit-dev
 cracklib-dev
 include(devpkg-cryptsetup)
-cscope
 ctags
 cups
 include(devpkg-cups)
@@ -121,7 +118,6 @@ ed
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
-emacs
 include(devpkg-expat)
 expat-dev32
 expect
@@ -141,7 +137,6 @@ freetype-dev32
 include(devpkg-fribidi)
 include(devpkg-fuse)
 gawk
-include(devpkg-gc)
 gcc
 gcc-dev
 gcc-dev32
@@ -150,7 +145,6 @@ gcc-libstdc++32
 gcc-staticdev
 gcc7-dev
 gcc8-dev
-gdal-dev
 include(gdb)
 gdb-dev
 gdbm-dev
@@ -204,10 +198,8 @@ gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(guile)
-include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)
-hdf5-dev
 help2man
 hostname
 httpd-dev
@@ -226,7 +218,6 @@ include(devpkg-iso-codes)
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
-jsoncpp-dev
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -253,7 +244,6 @@ libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
 libaio-dev
-include(devpkg-libarchive)
 libatomic_ops-dev
 libatomic_ops-dev32
 include(devpkg-libavif)
@@ -331,8 +321,8 @@ libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
+include(devpkg-libspectre)
 include(devpkg-libsrtp)
-include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
@@ -378,7 +368,6 @@ man-db
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
-meson
 meson-python3
 include(devpkg-metrics-discovery)
 mingw-gcc
@@ -402,13 +391,10 @@ nss-altfiles
 include(devpkg-numactl)
 onig-dev
 include(devpkg-openal-soft)
-include(openblas)
-opencl-headers-dev
 openexr-dev
 openjdk
 openjdk-dev
 openldap-dev
-include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -422,7 +408,6 @@ include(pandoc)
 include(devpkg-pango)
 include(patch)
 patchelf
-patchutils
 include(devpkg-pcre)
 include(devpkg-pcre2)
 pcre2-dev32
@@ -474,6 +459,7 @@ perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl
 perl-HTML-TreeBuilder-perl
+perl-HTTP-CookieJar-perl
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon-perl
 perl-HTTP-Date-perl
@@ -555,7 +541,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-php-dev
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
@@ -563,8 +548,8 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 include(devpkg-polkit)
+poppler-dev
 include(devpkg-popt)
-include(devpkg-postgresql)
 processor-trace-dev
 include(procps-ng)
 procps-ng-bin
@@ -577,7 +562,6 @@ include(pypi-cython)
 pypi-docutils
 pypi-hatch_vcs
 pypi-hatchling-python3
-pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-mako
@@ -621,8 +605,6 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
-include(devpkg-subunit)
-include(subversion)
 swig
 systemd-bin
 include(devpkg-systemd)
@@ -633,7 +615,6 @@ tcl
 tcl-dev
 tcl-staticdev
 include(texinfo)
-include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk
@@ -661,7 +642,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-include(wget)
 include(which)
 xauth
 xcb-proto
@@ -682,9 +662,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(libstdcpp)
-include(lib-opengl)
-include(curl)
-include(lib-imageformat)
-include(dav1d-lib)
-include(desktop-kde-libs)

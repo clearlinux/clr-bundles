@@ -17,7 +17,6 @@ include(perl-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
 include(devpkg-Botan)
-CGAL-dev
 CUnit
 CUnit-dev
 CUnit-dev32
@@ -577,6 +576,7 @@ include(devpkg-libsodium)
 include(devpkg-libsolv)
 include(devpkg-libsoup)
 libspatialite-dev
+include(devpkg-libspectre)
 include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
@@ -803,6 +803,7 @@ perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl
 perl-HTML-TreeBuilder-perl
+perl-HTTP-CookieJar-perl
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon-perl
 perl-HTTP-Date-perl

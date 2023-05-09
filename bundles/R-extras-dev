@@ -7,7 +7,6 @@
 include(R-extras)
 include(dev-utils)
 include(os-core-dev)
-CGAL-dev
 CUnit-dev
 CUnit-dev32
 include(devpkg-ImageMagick)
@@ -109,6 +108,7 @@ R-bayesplot
 R-bbmle
 R-bdsmatrix
 R-betareg
+R-biglm
 R-bindr
 R-bit
 R-bit64
@@ -299,7 +299,6 @@ R-jpeg
 R-jqr
 R-jquerylib
 R-jsonlite
-R-kableExtra
 R-kernlab
 R-kimisc
 R-kmi
@@ -943,6 +942,7 @@ libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
 libspatialite-dev
+include(devpkg-libspectre)
 include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
@@ -1098,6 +1098,7 @@ perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl
 perl-HTML-TreeBuilder-perl
+perl-HTTP-CookieJar-perl
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon-perl
 perl-HTTP-Date-perl
@@ -1107,7 +1108,6 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
-perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -1306,8 +1306,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(libstdcpp)
-include(lib-opengl)
-include(curl)
-include(lib-imageformat)
-include(desktop-kde-libs)

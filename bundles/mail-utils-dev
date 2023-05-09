@@ -46,7 +46,6 @@ include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
-db
 include(devpkg-dbus)
 dbus-dev32
 dbus-python
@@ -260,6 +259,7 @@ perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl
 perl-HTML-TreeBuilder-perl
+perl-HTTP-CookieJar-perl
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon-perl
 perl-HTTP-Date-perl
@@ -347,13 +347,11 @@ include(devpkg-polkit)
 include(devpkg-popt)
 procmail
 include(procps-ng)
-procps-ng-bin
 pypi-cffi-python3
 include(pypi-cython)
 pypi-idna
 pypi-jinja2-python3
 pypi-lxml
-pypi-pip
 pypi-sphinx
 python3
 python3-core
@@ -367,8 +365,6 @@ ruby
 sed
 shadow
 shared-mime-info
-sqlite-autoconf
-include(devpkg-sqlite-autoconf)
 include(strace)
 swig
 systemd-bin
@@ -379,13 +375,8 @@ talloc
 include(devpkg-talloc)
 tar
 tcl
-tcl-dev
-tcl-staticdev
 include(texinfo)
 thin-provisioning-tools
-tk-dev
-tk-extras
-tk-staticdev
 tokyocabinet-dev
 tpm2-tss-dev
 include(tzdata)
@@ -410,8 +401,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(curl)
-include(desktop-kde-libs)
-include(gnome-base-libs)
-include(harfbuzz-lib)
-include(icu4c-lib)

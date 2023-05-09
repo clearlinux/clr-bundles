@@ -99,6 +99,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
+include(devpkg-dbus-glib)
 dbus-python
 dbus-python-dev
 dejagnu
@@ -380,6 +381,7 @@ libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
+include(devpkg-libspectre)
 include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
@@ -646,4 +648,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(dav1d-lib)

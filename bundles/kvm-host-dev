@@ -346,6 +346,7 @@ libslirp-dev
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
+include(devpkg-libspectre)
 include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
@@ -503,6 +504,7 @@ perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl
 perl-HTML-TreeBuilder-perl
+perl-HTTP-CookieJar-perl
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon-perl
 perl-HTTP-Date-perl
@@ -592,6 +594,7 @@ pkg-config
 pkg-config-dev
 include(devpkg-pmdk)
 include(devpkg-polkit)
+poppler-dev
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
@@ -760,9 +763,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(pypi-pynacl)
-include(libstdcpp)
-include(lib-opengl)
-include(curl)
-include(lib-imageformat)
-include(desktop-kde-libs)
