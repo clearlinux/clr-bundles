@@ -42,3 +42,4 @@ qtx11extras
 qtxmlpatterns
 include(libstdcpp)
 include(pulseaudio)
+include(icu4c-lib)
