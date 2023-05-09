@@ -11,8 +11,3 @@ include(libglib)
 
 vala-dev
 include(libglib)
-include(gdk-pixbuf)
-include(libX11client)
-include(harfbuzz-lib)
-include(lib-imageformat)
-include(icu4c-lib)

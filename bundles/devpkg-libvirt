@@ -10,4 +10,3 @@ include(devpkg-base)
 libvirt-dev
 include(curl)
 include(libglib)
-include(openldap)

@@ -9,10 +9,3 @@ include(devpkg-base)
 
 avahi-dev
 include(libglib)
-include(qt-core)
-include(qt-basic)
-include(icu4c-lib)
-include(lib-opengl)
-include(libevent-lib)
-include(lib-imageformat)
-include(openldap)
