@@ -29,6 +29,7 @@ OpenSP
 PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SDL2-dev32
 include(devpkg-SDL2_image)
 SPIRV-Tools
 SVT-AV1-dev
@@ -216,6 +217,7 @@ glibc-utils
 include(devpkg-glog)
 glslang
 include(devpkg-glu)
+glu-dev32
 glusterfs-dev
 gmime
 include(devpkg-gmime)
@@ -250,6 +252,7 @@ include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
+gtk-doc-data
 include(devpkg-gtk-doc)
 gtk-vnc-dev
 include(devpkg-gtk3)
@@ -266,6 +269,7 @@ ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
 inih-dev
+intel-gmmlib-dev
 intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
@@ -432,6 +436,7 @@ include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
 libvorbis-dev32
+include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -503,6 +508,7 @@ include(devpkg-opencv)
 openexr-dev
 openjdk
 openjdk-dev
+openjpeg
 openldap-dev
 include(devpkg-openmpi)
 openssh
@@ -766,6 +772,7 @@ qemu
 qemu-setuid
 qrencode-dev
 include(devpkg-qtbase)
+qtbase-extras
 include(devpkg-qttools)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
@@ -807,6 +814,7 @@ systemd-bin
 include(devpkg-systemd)
 systemd-dev32
 systemd-lib
+include(devpkg-taglib)
 talloc
 include(devpkg-talloc)
 talloc-extras
@@ -843,6 +851,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
@@ -850,6 +859,7 @@ include(devpkg-valgrind)
 vim
 include(devpkg-virglrenderer)
 vte-dev
+include(devpkg-wavpack)
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)

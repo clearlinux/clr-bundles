@@ -77,5 +77,3 @@ xz-dev32
 yaml-dev
 include(devpkg-zlib)
 zlib-dev32
-include(harfbuzz-lib)
-include(libpsl-lib)

@@ -15,6 +15,8 @@ include(devpkg-Linux-PAM)
 Linux-PAM-dev32
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SDL2-dev32
+include(devpkg-SDL2_image)
 SPIRV-Tools
 SVT-AV1-dev
 include(Sphinx)
@@ -122,6 +124,7 @@ include(devpkg-expat)
 expat-dev32
 expect
 extra-cmake-modules
+include(devpkg-fftw)
 file-dev
 include(devpkg-flac)
 flac-dev32
@@ -148,6 +151,7 @@ gcc8-dev
 include(gdb)
 gdb-dev
 gdbm-dev
+gdbm-dev32
 include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 gettext
@@ -170,6 +174,7 @@ glibc-staticdev
 glibc-utils
 glslang
 include(devpkg-glu)
+glu-dev32
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -195,6 +200,7 @@ include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
+gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(guile)
@@ -208,6 +214,7 @@ ibus-dev
 ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
+intel-gmmlib-dev
 intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
@@ -239,6 +246,7 @@ include(devpkg-libXres)
 include(devpkg-libXt)
 libXt-dev32
 include(devpkg-libXtst)
+libXtst-dev32
 include(devpkg-libXv)
 libXv-dev32
 include(devpkg-libXvMC)
@@ -323,6 +331,7 @@ libsndfile-dev32
 include(devpkg-libsoup)
 include(devpkg-libspectre)
 include(devpkg-libsrtp)
+include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
@@ -331,6 +340,7 @@ include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
+libtool-dev32
 libtraceevent-dev
 libtracefs-dev
 libunistring-dev
@@ -343,6 +353,7 @@ include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
 libvorbis-dev32
+include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -387,20 +398,28 @@ nettle-dev32
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
+include(devpkg-nspr)
+nspr-dev32
+nspr-lib32
 nss-altfiles
+include(devpkg-nss)
 include(devpkg-numactl)
 onig-dev
 include(devpkg-openal-soft)
 openexr-dev
 openjdk
 openjdk-dev
+openjpeg
 openldap-dev
+include(devpkg-openmpi)
+openssh
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(devpkg-opus)
 opus-dev32
 include(devpkg-orc)
+orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -585,6 +604,7 @@ qatlib-dev
 qemu
 qrencode-dev
 include(devpkg-qtbase)
+qtbase-extras
 include(devpkg-qttools)
 include(devpkg-readline)
 readline-dev32
@@ -594,6 +614,7 @@ ruby
 rustc
 include(sassc)
 sbc-dev
+sbc-dev32
 scdoc-dev
 sed
 shadow
@@ -601,6 +622,8 @@ shared-mime-info
 include(devpkg-slang)
 source-highlight
 source-highlight-dev
+include(devpkg-speex)
+speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
@@ -610,6 +633,7 @@ systemd-bin
 include(devpkg-systemd)
 systemd-dev32
 systemd-lib
+include(devpkg-taglib)
 tar
 tcl
 tcl-dev
@@ -633,11 +657,13 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
 vim
+include(devpkg-wavpack)
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
@@ -662,9 +688,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(lib-opengl)
-include(curl)
-include(lib-imageformat)
-include(dav1d-lib)
-include(libstdcpp)
-include(dav1d)

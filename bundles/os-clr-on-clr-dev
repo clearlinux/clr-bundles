@@ -83,6 +83,7 @@ autogen
 automake
 automake-dev
 babeltrace-dev
+baloo-dev
 bash
 bash-completion
 bash-completion-dev
@@ -381,6 +382,8 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 jsoncpp-dev
+kaccounts-integration-dev
+kactivities-dev
 karchive-dev
 kauth
 kauth-dev
@@ -395,15 +398,20 @@ kcrash-dev
 kdbusaddons-dev
 kdeclarative-dev
 kded-dev
+kdegraphics-mobipocket-dev
+kdelibs4support-dev
 kdesignerplugin-dev
+kdesu-dev
 kdoctools-dev
 kemoticons-dev
 keyutils-dev
+kfilemetadata-dev
 kglobalaccel
 kglobalaccel-dev
 kguiaddons-dev
 ki18n-dev
 kiconthemes-dev
+kidletime-dev
 kio-dev
 kirigami2-dev
 kitemviews-dev
@@ -422,6 +430,7 @@ kservice-dev
 ktextwidgets-dev
 kunitconversion-dev
 kwallet-dev
+kwayland-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
@@ -517,6 +526,7 @@ include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libkcapi-dev
+libkexiv2-dev
 libkipi-dev
 libksba-dev
 libmaxminddb-dev
@@ -910,6 +920,7 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
+plasma-framework-dev
 plasma-wayland-protocols-dev
 include(plzip)
 include(devpkg-pmdk)
@@ -1099,12 +1110,15 @@ qtcharts-dev
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
 qtdeclarative-staticdev
+include(devpkg-qtlocation)
 qtmultimedia-dev
+qtquickcontrols2-dev
 qtsensors-dev
 qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
 qtwayland-dev
+include(devpkg-qtwebchannel)
 qtwebsockets-dev
 qtx11extras-dev
 qtxmlpatterns-dev
@@ -1184,6 +1198,7 @@ include(texinfo)
 include(texlive)
 texlive-dev
 thin-provisioning-tools
+threadweaver-dev
 thrift-dev
 include(devpkg-tiff)
 tk
@@ -1226,6 +1241,8 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(devpkg-webkitgtk)
+weston
+weston-dev
 include(wget)
 include(which)
 include(devpkg-woff2)
@@ -1266,3 +1283,4 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
+zxing-dev

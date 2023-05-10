@@ -558,7 +558,6 @@ R-strucchange
 R-styler
 R-subplex
 R-survey
-R-svglite
 R-sys
 R-systemfit
 R-systemfonts
@@ -628,6 +627,8 @@ R-zip
 R-zoo
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SDL2-dev32
+include(devpkg-SDL2_image)
 SPIRV-Tools
 include(Sphinx)
 SuiteSparse-dev
@@ -764,6 +765,7 @@ gdal-dev
 include(gdb)
 gdb-dev
 gdbm-dev
+gdbm-dev32
 include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 geos-dev
@@ -788,6 +790,7 @@ glibc-staticdev
 glibc-utils
 glslang
 include(devpkg-glu)
+glu-dev32
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -830,6 +833,7 @@ ibus-dev
 ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
+intel-gmmlib-dev
 include(intltool)
 intltool-dev
 include(devpkg-iptables)
@@ -860,6 +864,7 @@ include(devpkg-libXpm)
 include(devpkg-libXres)
 include(devpkg-libXt)
 include(devpkg-libXtst)
+libXtst-dev32
 include(devpkg-libXv)
 libXv-dev32
 include(devpkg-libXvMC)
@@ -953,6 +958,7 @@ include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
+libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
@@ -963,6 +969,7 @@ include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
 libvorbis-dev32
+include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -999,6 +1006,7 @@ include(devpkg-mpg123)
 mtdev-dev
 munge-dev
 include(nasm)
+nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
@@ -1040,6 +1048,7 @@ openssl-lib32
 include(devpkg-opus)
 opus-dev32
 include(devpkg-orc)
+orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -1235,10 +1244,13 @@ ruby
 rustc
 include(sassc)
 sbc-dev
+sbc-dev32
 sed
 shadow
 shapelib-dev
 shared-mime-info
+include(devpkg-speex)
+speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
@@ -1250,6 +1262,7 @@ systemd-bin
 include(devpkg-systemd)
 systemd-dev32
 systemd-lib
+include(devpkg-taglib)
 tar
 include(devpkg-tbb)
 tcl
@@ -1274,10 +1287,12 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
+include(devpkg-wavpack)
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
@@ -1306,8 +1321,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(lib-opengl)
-include(curl)
-include(lib-imageformat)
-include(libstdcpp)
-include(libnl)
