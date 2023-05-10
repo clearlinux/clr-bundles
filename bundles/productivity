@@ -14,3 +14,4 @@ taskwarrior
 also-add(weechat)
 include(harfbuzz-lib)
 include(lib-imageformat)
+include(pypi-six)

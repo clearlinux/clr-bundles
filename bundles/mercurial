@@ -7,3 +7,4 @@
 include(python3-basic)
 mercurial
 include(openldap)
+include(pypi-six)

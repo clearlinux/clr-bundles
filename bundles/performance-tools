@@ -47,3 +47,4 @@ tcpdump
 time
 tiptop
 util-linux
+include(pypi-six)

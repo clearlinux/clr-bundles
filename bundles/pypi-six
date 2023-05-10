@@ -1,0 +1,15 @@
+# [TITLE]: pypi-six
+# [DESCRIPTION]: Python Numerics
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
+
+include(python3-basic)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+pypi-six

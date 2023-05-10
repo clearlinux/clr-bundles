@@ -16,3 +16,4 @@ botocore
 # hypothesis
 include(libevent-lib)
 include(openldap)
+include(pypi-six)

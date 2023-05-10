@@ -31,3 +31,4 @@ pypi-urllib3
 
 # koji command line utility
 koji
+include(pypi-six)
