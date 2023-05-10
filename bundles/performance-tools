@@ -48,3 +48,4 @@ time
 tiptop
 util-linux
 include(pypi-six)
+include(libpcap-lib)

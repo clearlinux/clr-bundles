@@ -9,6 +9,7 @@ include(curl)
 include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libpcap-lib)
 include(libpsl-lib)
 include(icu4c-lib)
 include(wpa_supplicant)

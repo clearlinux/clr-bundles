@@ -9,6 +9,7 @@ include(libstdcpp)
 include(lib-openssl)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libpcap-lib)
 include(libnl)
 include(python3-basic)
 # end of custom additions

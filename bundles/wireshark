@@ -8,3 +8,4 @@ include(postgresql)
 include(qt-basic)
 wireshark
 include(libnl)
+include(libpcap-lib)
