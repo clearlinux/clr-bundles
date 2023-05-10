@@ -126,3 +126,4 @@ Vulkan-Headers
 Vulkan-Loader
 Vulkan-Tools
 include(openblas)
+include(pypi-numpy)

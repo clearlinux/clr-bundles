@@ -10,3 +10,4 @@ include(lib-qt5webengine)
 pyotherside
 pyside2-setup
 include(openblas)
+include(pypi-numpy)

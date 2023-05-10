@@ -81,3 +81,4 @@ pypi-twine
 pypi-urllib3
 pypi-ldap3
 pypi-neat_python
+include(pypi-numpy)
