@@ -6,3 +6,4 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 dnsmasq
 include(systemd)
+include(gmp-lib)

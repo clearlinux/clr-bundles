@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-qtbase)
 
 qtlocation-dev
+include(icu4c-lib)

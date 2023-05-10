@@ -1284,3 +1284,4 @@ zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
 zxing-dev
+include(desktop-kde-libs)

@@ -12,3 +12,4 @@ gmp-dev
 ruby
 ruby-dev
 include(ncurses-lib)
+include(gmp-lib)

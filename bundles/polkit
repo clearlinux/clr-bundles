@@ -8,6 +8,7 @@
 include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(gmp-lib)
 include(curl)
 systemd-extras
 # end of custom additions

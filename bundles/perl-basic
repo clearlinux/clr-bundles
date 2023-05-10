@@ -32,3 +32,4 @@ perl-URI
 perl-XML-NamespaceSupport
 perl-XML-Parser
 perl-libwww-perl
+include(gmp-lib)

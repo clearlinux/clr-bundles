@@ -1,16 +1,14 @@
-# [TITLE]: pypi-numpy
-# [DESCRIPTION]: Python Numerics
+# [TITLE]: gmp-lib
+# [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 
-include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(openblas)
 
 # end of custom additions
 
 # main package
-pypi-numpy
+gmp-lib

@@ -11,3 +11,4 @@ libvirt-dev
 include(curl)
 include(libglib)
 include(libnl)
+include(openldap)

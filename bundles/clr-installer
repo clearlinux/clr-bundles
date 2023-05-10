@@ -43,3 +43,4 @@ syslinux-data
 tzdata-minimal
 xfsprogs-bin
 xorriso-bin
+include(icu4c-lib)

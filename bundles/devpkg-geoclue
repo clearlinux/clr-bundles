@@ -12,3 +12,5 @@ include(libglib)
 geoclue-dev
 include(libglib)
 include(libpsl-lib)
+include(gdk-pixbuf)
+include(lib-imageformat)

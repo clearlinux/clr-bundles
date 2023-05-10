@@ -468,3 +468,5 @@ zstd-dev32
 include(curl)
 include(harfbuzz-lib)
 include(libpsl-lib)
+include(desktop-kde-libs)
+include(gnome-base-libs)

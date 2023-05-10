@@ -9,3 +9,4 @@ include(xz)
 emacs
 ctags
 include(ncurses-lib)
+include(gmp-lib)

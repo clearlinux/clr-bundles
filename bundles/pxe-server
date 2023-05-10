@@ -11,3 +11,4 @@ dnsmasq
 ipxe
 wol
 include(systemd)
+include(gmp-lib)
