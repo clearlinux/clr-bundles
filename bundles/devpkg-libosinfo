@@ -11,4 +11,3 @@ include(libglib)
 
 libosinfo-dev
 include(libglib)
-include(libpsl-lib)

@@ -13,4 +13,3 @@ include(devpkg-icu4c)
 libical-dev
 include(libglib)
 include(libstdcpp)
-include(icu4c-lib)
