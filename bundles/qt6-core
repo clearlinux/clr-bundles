@@ -1,0 +1,15 @@
+# [TITLE]: qt6-core
+# [DESCRIPTION]: Run programs that use the core Qt runtime components only.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Programming Languages, Developer Tools
+# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+include(libstdcpp)
+include(libglib)
+
+# For QMimeDatabase class
+shared-mime-info
+
+qt6bas
+include(icu4c-lib)
+include(openldap)

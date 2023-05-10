@@ -1,0 +1,13 @@
+# [TITLE]: qt6-basic
+# [DESCRIPTION]: Run programs that use the Qt runtime.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Programming Languages
+# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+include(fonts-basic)
+include(libX11client)
+include(qt6-core)
+include(lib-opengl)
+
+qt6svg
+qt6tools
