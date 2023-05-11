@@ -27,4 +27,3 @@ proj
 gdal-dev
 geos-dev
 include(devpkg-proj)
-CGAL-dev
