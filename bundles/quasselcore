@@ -8,6 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions
+include(aspell)
 include(libevent-lib)
 include(lib-qt5webengine)
 include(dav1d-lib)

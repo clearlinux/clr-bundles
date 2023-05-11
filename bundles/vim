@@ -13,3 +13,4 @@ vim-fugitive
 vim-gnupg
 #vim-go
 include(ncurses-lib)
+include(libxml2)

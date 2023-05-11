@@ -14,6 +14,7 @@ include(openldap)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(pcre-lib)
 include(icu4c-lib)
 include(postgresql)
 # end of custom additions

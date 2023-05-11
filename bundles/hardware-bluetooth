@@ -10,3 +10,4 @@ include(libglib)
 bluez
 bluez-extras
 include(icu4c-lib)
+include(libxml2)

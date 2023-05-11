@@ -9,6 +9,7 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libxml2)
 thermal_daemon-autostart
 # end of custom additions
 

@@ -18,3 +18,4 @@ nrpe
 sos
 udisks2
 include(pypi-pynacl)
+include(libxml2)

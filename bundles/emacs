@@ -10,3 +10,4 @@ emacs
 ctags
 include(ncurses-lib)
 include(gmp-lib)
+include(libxml2)

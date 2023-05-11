@@ -53,3 +53,4 @@ thin-provisioning-tools
 include(xfsprogs)
 include(lz4)
 include(libnl)
+include(libxml2)

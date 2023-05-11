@@ -37,3 +37,4 @@ xastir
 xlog
 xnec2c
 include(libevent-lib)
+include(pcre-lib)

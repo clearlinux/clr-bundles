@@ -8,3 +8,4 @@ include(lib-openssl)
 include(openssh-client)
 openssh-extras-server
 tallow
+include(pcre-lib)

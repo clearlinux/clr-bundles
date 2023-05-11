@@ -21,3 +21,4 @@ sane-backends
 include(dav1d-lib)
 include(icu4c-lib)
 include(libnl)
+include(pcre-lib)

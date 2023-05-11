@@ -7,3 +7,4 @@
 include(qt-basic)
 include(texlive)
 LyX
+include(aspell)

@@ -10,3 +10,4 @@ include(devpkg-glib)
 include(libglib)
 
 compat-enchant-soname1-dev
+include(aspell)

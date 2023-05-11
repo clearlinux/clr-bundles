@@ -17,3 +17,4 @@ fish
 pcre-extras
 include(zsh)
 include(ncurses-lib)
+include(pcre-lib)

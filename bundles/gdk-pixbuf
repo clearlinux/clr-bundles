@@ -9,6 +9,7 @@ include(libglib)
 # include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libxml2)
 include(harfbuzz-lib)
 # include(libX11client)
 

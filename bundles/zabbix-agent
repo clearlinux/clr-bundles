@@ -7,3 +7,4 @@
 
 
 zabbix-extras-client
+include(pcre-lib)

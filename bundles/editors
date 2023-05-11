@@ -12,3 +12,4 @@ also-add(vim)
 ctags
 ed
 nano
+include(libxml2)

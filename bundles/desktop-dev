@@ -1140,3 +1140,5 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
+include(libstdcpp)
+include(dav1d-lib)

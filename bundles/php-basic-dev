@@ -417,3 +417,12 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
+include(lib-opengl)
+include(curl)
+include(lib-imageformat)
+include(dav1d-lib)
+include(libpsl-lib)
+include(desktop-kde-libs)
+include(gnome-base-libs)
+include(libpcap-lib)
+include(aspell)
