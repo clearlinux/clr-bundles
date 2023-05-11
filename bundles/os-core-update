@@ -24,3 +24,4 @@ swupd-overdue
 tar-bin
 xz-bin
 include(curl)
+include(libarchive)

@@ -9,6 +9,7 @@ include(curl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libarchive)
 include(lib-imageformat)
 include(xz)
 # end of custom additions

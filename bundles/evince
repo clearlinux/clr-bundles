@@ -12,6 +12,7 @@ include(gstreamer)
 include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libarchive)
 include(lib-poppler)
 # end of custom additions
 

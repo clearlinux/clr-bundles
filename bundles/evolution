@@ -12,6 +12,7 @@ include(openldap)
 include(webkitgtk)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libarchive)
 evolution-ews
 evolution-data-server
 include(systemd)

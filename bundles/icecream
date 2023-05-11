@@ -8,6 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libarchive)
 include(xz)
 # end of custom additions
 

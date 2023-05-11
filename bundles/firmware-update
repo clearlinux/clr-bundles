@@ -14,3 +14,4 @@ libsoup
 include(polkit)
 include(libpsl-lib)
 include(pypi-six)
+include(libarchive)

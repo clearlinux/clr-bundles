@@ -53,3 +53,4 @@ zlib-dev
 # scons intentionally left out for now
 include(libstdcpp)
 include(gmp-lib)
+include(libarchive)
