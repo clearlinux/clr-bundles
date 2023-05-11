@@ -10,6 +10,3 @@ include(devpkg-base)
 grilo-plugins-dev
 include(libglib)
 include(gstreamer)
-include(icu4c-lib)
-include(libpsl-lib)
-include(webkitgtk)

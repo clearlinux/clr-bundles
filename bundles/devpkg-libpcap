@@ -11,4 +11,3 @@ include(devpkg-libnl)
 include(devpkg-rdma-core)
 
 libpcap-dev
-include(libpcap-lib)
