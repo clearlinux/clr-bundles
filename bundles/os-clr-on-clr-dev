@@ -26,8 +26,6 @@ include(devpkg-LVM2)
 LVM2-extras
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
-LuaJIT
-include(devpkg-LuaJIT)
 MarkupSafe-python3
 ModemManager-dev
 include(devpkg-NetworkManager)
@@ -64,7 +62,6 @@ include(devpkg-appstream)
 appstream-glib
 include(devpkg-apr)
 include(devpkg-apr-util)
-argon2-dev
 armadillo-data
 asciidoc
 include(aspell)
@@ -83,7 +80,6 @@ autogen
 automake
 automake-dev
 babeltrace-dev
-baloo-dev
 bash
 bash-completion
 bash-completion-dev
@@ -139,7 +135,6 @@ include(devpkg-colord)
 compat-babeltrace-one-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
-compat-gcc-10-dev
 include(devpkg-compat-gcr-soname1)
 include(devpkg-compat-libsoup-soname-24)
 confuse-dev
@@ -198,14 +193,12 @@ e2fsprogs-extras
 ebtables
 ed
 efivar-dev
-eigen-data
 include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
 ell-dev
 emacs
-include(devpkg-enchant)
 include(devpkg-evolution-data-server)
 include(devpkg-exiv2)
 include(devpkg-expat)
@@ -232,7 +225,6 @@ include(fontforge)
 include(fonttools)
 fonttools-python3
 include(devpkg-freeglut)
-freetype
 include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
@@ -261,7 +253,6 @@ gdbm-dev32
 include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 include(devpkg-gdm)
-geos-dev
 gettext
 gettext-bin
 gettext-dev
@@ -270,7 +261,6 @@ include(ghostscript)
 ghostscript-dev
 gi-docgen
 gi-docgen-dev
-giflib-dev
 include(git)
 include(gjs)
 include(devpkg-gjs)
@@ -357,7 +347,6 @@ include(devpkg-hwloc)
 ibus
 ibus-dev
 ibus-libpinyin
-icu4c
 include(devpkg-icu4c)
 icu4c-dev32
 inih-dev
@@ -382,8 +371,6 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 jsoncpp-dev
-kaccounts-integration-dev
-kactivities-dev
 karchive-dev
 kauth
 kauth-dev
@@ -398,20 +385,15 @@ kcrash-dev
 kdbusaddons-dev
 kdeclarative-dev
 kded-dev
-kdegraphics-mobipocket-dev
-kdelibs4support-dev
 kdesignerplugin-dev
-kdesu-dev
 kdoctools-dev
 kemoticons-dev
 keyutils-dev
-kfilemetadata-dev
 kglobalaccel
 kglobalaccel-dev
 kguiaddons-dev
 ki18n-dev
 kiconthemes-dev
-kidletime-dev
 kio-dev
 kirigami2-dev
 kitemviews-dev
@@ -430,7 +412,6 @@ kservice-dev
 ktextwidgets-dev
 kunitconversion-dev
 kwallet-dev
-kwayland-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
@@ -507,7 +488,6 @@ include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgd)
 include(devpkg-libgdata)
-libgeotiff-dev
 include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32
@@ -526,7 +506,6 @@ include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libkcapi-dev
-libkexiv2-dev
 libkipi-dev
 libksba-dev
 libmaxminddb-dev
@@ -572,7 +551,6 @@ librdkafka-dev
 include(devpkg-librepo)
 librsvg
 include(devpkg-librsvg)
-librttopo-dev
 include(devpkg-libsamplerate)
 libsass
 include(devpkg-libsass)
@@ -585,7 +563,6 @@ libsndfile-dev32
 include(devpkg-libsodium)
 include(devpkg-libsolv)
 include(devpkg-libsoup)
-libspatialite-dev
 include(devpkg-libspectre)
 include(devpkg-libsrtp)
 include(devpkg-libssh)
@@ -631,7 +608,6 @@ libxml2-python3
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
-include(devpkg-libzip)
 links
 linux-firmware-wifi
 linux-libc-headers
@@ -669,7 +645,6 @@ mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
-include(modules)
 include(devpkg-mozjs102)
 mpc-dev
 mpfr-dev
@@ -712,7 +687,6 @@ ntlm-auth-python3
 numactl
 include(devpkg-numactl)
 include(devpkg-oath-toolkit)
-ocl-icd-dev
 onig-dev
 open-iscsi
 open-isns-dev
@@ -911,7 +885,6 @@ perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
 phonon-dev
-php
 php-dev
 pigz
 include(devpkg-pipewire)
@@ -920,26 +893,20 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
-plasma-framework-dev
 plasma-wayland-protocols-dev
 include(plzip)
 include(devpkg-pmdk)
 pmix-dev
 include(devpkg-polkit)
 polkit-qt-dev
-include(poppler)
 poppler-dev
-poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
-potrace-dev
 ppp-dev
 processor-trace-dev
 procmail
 include(procps-ng)
 procps-ng-bin
-proj
-include(devpkg-proj)
 include(devpkg-protobuf-c)
 protobuf-dev
 include(devpkg-pulseaudio)
@@ -1102,7 +1069,7 @@ qca-qt5-dev
 qemu
 qemu-setuid
 qrencode-dev
-qt6base-dev
+include(devpkg-qt6base)
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -1110,22 +1077,18 @@ qtcharts-dev
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
 qtdeclarative-staticdev
-include(devpkg-qtlocation)
 qtmultimedia-dev
-qtquickcontrols2-dev
 qtsensors-dev
 qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
 qtwayland-dev
-include(devpkg-qtwebchannel)
 qtwebsockets-dev
 qtx11extras-dev
 qtxmlpatterns-dev
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 re2-dev
-re2c
 include(devpkg-readline)
 readline-dev32
 include(devpkg-rest)
@@ -1145,10 +1108,8 @@ sbc-dev32
 sbsigntools
 scipy-python3
 sed
-serf-dev
 sg3_utils-dev
 shadow
-shapelib-dev
 shared-mime-info
 include(devpkg-slang)
 include(devpkg-snappy)
@@ -1196,9 +1157,7 @@ tevent-dev
 tevent-python3
 include(texinfo)
 include(texlive)
-texlive-dev
 thin-provisioning-tools
-threadweaver-dev
 thrift-dev
 include(devpkg-tiff)
 tk
@@ -1241,8 +1200,6 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(devpkg-webkitgtk)
-weston
-weston-dev
 include(wget)
 include(which)
 include(devpkg-woff2)
@@ -1283,5 +1240,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-zxing-dev
-include(desktop-kde-libs)

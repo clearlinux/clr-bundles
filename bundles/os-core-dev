@@ -211,6 +211,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(libX11client)
-include(libstdcpp)
-include(libglib)

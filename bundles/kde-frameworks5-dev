@@ -15,6 +15,7 @@ Imath-dev
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 Linux-PAM-dev32
+MarkupSafe-python3
 ModemManager-dev
 include(devpkg-NetworkManager)
 include(devpkg-SDL)
@@ -70,6 +71,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -727,18 +729,24 @@ pypi-libevdev
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
+pypi-mock-python3
+pypi-nose-python3
 pypi-pbr
 pypi-pip
 pypi-psutil
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pylint-python3
 pypi-pytest
 pypi-python_dbusmock
 pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six
+pypi-six-python3
 pypi-sphinx
+pypi-sphinx-python3
+pypi-tox-python3
 pypi-wheel-python3
 python3
 python3-core
@@ -747,7 +755,7 @@ pyudev
 qca-qt5-dev
 qemu
 qrencode-dev
-qt6base-dev
+include(devpkg-qt6base)
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -873,5 +881,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(dav1d-lib)
-include(dav1d)
