@@ -22,7 +22,7 @@ proj
 
 
 # higher layer pieces
-postgis
+grass
 
 # core dev compoments
 gdal-dev
