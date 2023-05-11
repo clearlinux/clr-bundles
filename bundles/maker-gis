@@ -22,8 +22,6 @@ proj
 
 
 # higher layer pieces
-grass
-QGIS
 postgis
 
 # core dev compoments
