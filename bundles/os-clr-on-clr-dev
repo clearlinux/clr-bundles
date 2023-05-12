@@ -17,7 +17,6 @@ include(perl-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
 include(devpkg-Botan)
-CUnit
 CUnit-dev
 CUnit-dev32
 Imath-dev
@@ -32,7 +31,6 @@ include(devpkg-NetworkManager)
 OpenSP
 Pacemaker-dev
 PyYAML
-PyYAML-python3
 R
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -42,7 +40,6 @@ SPIRV-Tools
 SVT-AV1-dev
 include(Sphinx)
 UCD
-VTK-dev
 Vulkan-Headers-data
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
@@ -80,6 +77,7 @@ autogen
 automake
 automake-dev
 babeltrace-dev
+baloo-dev
 bash
 bash-completion
 bash-completion-dev
@@ -94,7 +92,6 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
-boto3
 bridge-utils
 include(devpkg-brotli)
 include(devpkg-bsdiff)
@@ -183,7 +180,6 @@ docbook-xml
 include(dosfstools)
 double-conversion-dev
 include(doxygen)
-include(devpkg-dpdk)
 duktape-dev
 e2fsprogs
 e2fsprogs-data
@@ -193,6 +189,7 @@ e2fsprogs-extras
 ebtables
 ed
 efivar-dev
+eigen-data
 include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
@@ -206,7 +203,6 @@ expat-dev32
 expect
 extra-cmake-modules
 extra-cmake-modules-data
-fcgi-dev
 include(devpkg-fftw)
 include(file)
 file-bin
@@ -277,7 +273,6 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
-include(devpkg-glog)
 glslang
 glslang-bin
 glslang-dev
@@ -306,7 +301,6 @@ gobject-introspection
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
-include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
@@ -317,7 +311,6 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
-grpc-dev
 include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gsound)
@@ -361,7 +354,6 @@ ipset
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
-include(devpkg-isa-l)
 include(devpkg-iso-codes)
 itstool
 include(devpkg-jack2)
@@ -371,6 +363,8 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 jsoncpp-dev
+kaccounts-integration-dev
+kactivities-dev
 karchive-dev
 kauth
 kauth-dev
@@ -385,15 +379,20 @@ kcrash-dev
 kdbusaddons-dev
 kdeclarative-dev
 kded-dev
+kdegraphics-mobipocket-dev
+kdelibs4support-dev
 kdesignerplugin-dev
+kdesu-dev
 kdoctools-dev
 kemoticons-dev
 keyutils-dev
+kfilemetadata-dev
 kglobalaccel
 kglobalaccel-dev
 kguiaddons-dev
 ki18n-dev
 kiconthemes-dev
+kidletime-dev
 kio-dev
 kirigami2-dev
 kitemviews-dev
@@ -412,6 +411,7 @@ kservice-dev
 ktextwidgets-dev
 kunitconversion-dev
 kwallet-dev
+kwayland-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
@@ -422,7 +422,6 @@ ldb-extras
 include(devpkg-leptonica)
 include(less)
 less-bin
-leveldb-dev
 include(devpkg-libX11)
 libX11-dev32
 libX11-lib
@@ -506,6 +505,7 @@ include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libkcapi-dev
+libkexiv2-dev
 libkipi-dev
 libksba-dev
 libmaxminddb-dev
@@ -547,7 +547,6 @@ libpwquality-dev
 libqb-dev
 libqmi-dev
 libqrtr-glib-dev
-librdkafka-dev
 include(devpkg-librepo)
 librsvg
 include(devpkg-librsvg)
@@ -654,7 +653,6 @@ munge-dev
 mutter
 mutter-data
 mutter-dev
-mypy-python3
 include(nasm)
 nasm-bin
 ncurses-bin
@@ -681,12 +679,10 @@ include(devpkg-nspr)
 nspr-dev32
 nspr-lib32
 nss-altfiles
-nss-bin
 include(devpkg-nss)
 ntlm-auth-python3
 numactl
 include(devpkg-numactl)
-include(devpkg-oath-toolkit)
 onig-dev
 open-iscsi
 open-isns-dev
@@ -713,7 +709,6 @@ include(devpkg-opus)
 opus-dev32
 include(devpkg-orc)
 orc-dev32
-otp
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -733,12 +728,10 @@ perl
 perl-Algorithm-Diff-perl
 perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
-perl-Bit-Vector
 perl-Business-ISBN-Data-perl
 perl-CPAN-Meta-Check-perl
 perl-Capture-Tiny-perl
 perl-Carp-Assert-perl
-perl-Class-Accessor
 perl-Class-Data-Inheritable-perl
 perl-Class-Inspector-perl
 perl-Class-Load-XS-perl
@@ -893,6 +886,7 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
+plasma-framework-dev
 plasma-wayland-protocols-dev
 include(plzip)
 include(devpkg-pmdk)
@@ -900,6 +894,7 @@ pmix-dev
 include(devpkg-polkit)
 polkit-qt-dev
 poppler-dev
+poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
 ppp-dev
@@ -917,9 +912,7 @@ include(devpkg-pygobject)
 pypi-amqp-python3
 pypi-appdirs-python3
 pypi-async_timeout-python3
-pypi-asyncssh-python3
 pypi-attrs-python3
-pypi-bcrypt-python3
 pypi-billiard-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
@@ -931,9 +924,7 @@ pypi-cffi-python3
 pypi-cffsubr-python3
 pypi-charset_normalizer-python3
 pypi-cheetah3-python3
-pypi-cherrypy-python3
 pypi-click-python3
-pypi-cmd2-python3
 pypi-colorama-python3
 pypi-commonmark
 pypi-coverage
@@ -942,10 +933,8 @@ pypi-cryptography-python3
 pypi-cu2qu-python3
 include(pypi-cython)
 pypi-cython-python3
-pypi-dataclasses-python3
 pypi-distro-python3
 pypi-dnspython
-pypi-docopt-python3
 pypi-docutils
 pypi-flake8-python3
 pypi-flake8_import_order-python3
@@ -954,6 +943,7 @@ pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
 pypi-gitdb-python3
+pypi-glyphslib-python3
 pypi-gssapi-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
@@ -961,15 +951,12 @@ pypi-hatchling-python3
 pypi-hypothesis
 pypi-idna
 pypi-idna-python3
-pypi-imagesize
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-iso8601-python3
 pypi-jinja2-python3
-pypi-jsonpatch-python3
 pypi-kerberos-python3
-pypi-kubernetes-python3
 pypi-libevdev
 pypi-lxml
 pypi-lz4-python3
@@ -978,25 +965,20 @@ pypi-markdown-python3
 pypi-meson_python
 pypi-meson_python-python3
 pypi-mock-python3
-pypi-more_itertools-python3
 pypi-msgpack-python3
 pypi-munkres-python3
-pypi-natsort-python3
+pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
-pypi-pbr-python3
-pypi-pecan-python3
 pypi-pillow-python3
 pypi-pip
-pypi-pip-python3
 pypi-pluggy
 pypi-pluggy-python3
 pypi-ply-python3
 pypi-poetry-python3
 pypi-poetry_core-python3
-pypi-prettytable-python3
 pypi-psutil
 pypi-psycopg2-python3
 pypi-py
@@ -1004,11 +986,9 @@ pypi-py-python3
 pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycparser-python3
-pypi-pygithub-python3
 pypi-pygments-python3
-pypi-pyjwt-python3
+pypi-pylint-python3
 pypi-pyomo-python3
-pypi-pyopenssl-python3
 pypi-pyparsing-python3
 pypi-pyproject_metadata-python3
 pypi-pyroute2-python3
@@ -1017,7 +997,6 @@ pypi-pytest
 pypi-pytest-python3
 pypi-python_dateutil-python3
 pypi-python_dbusmock
-pypi-python_dotenv-python3
 pypi-python_multilib-python3
 pypi-pythran
 pypi-pythran-python3
@@ -1025,10 +1004,7 @@ pypi-requests-python3
 pypi-requests_gssapi-python3
 pypi-requests_mock-python3
 pypi-requests_toolbelt-python3
-pypi-routes-python3
-pypi-ruamel.yaml-python3
 pypi-scikit_build-python3
-pypi-scikit_learn-python3
 pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_rust-python3
@@ -1042,13 +1018,9 @@ pypi-sphinx-python3
 pypi-sphinx_rtd_theme-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-templated_dictionary-python3
-pypi-termcolor-python3
 pypi-tox
 pypi-tox-python3
 pypi-trove_classifiers-python3
-pypi-types_dataclasses-python3
-pypi-types_pyyaml-python3
-pypi-types_termcolor-python3
 pypi-typing_extensions-python3
 pypi-typogrify-python3
 pypi-ufolib2-python3
@@ -1056,7 +1028,6 @@ pypi-uharfbuzz-python3
 pypi-urllib3-python3
 pypi-vine-python3
 pypi-virtualenv
-pypi-virtualenv-python3
 pypi-wheel-python3
 pypi-zopfli-python3
 python3
@@ -1077,16 +1048,18 @@ qtcharts-dev
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
 qtdeclarative-staticdev
+include(devpkg-qtlocation)
 qtmultimedia-dev
+qtquickcontrols2-dev
 qtsensors-dev
 qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
 qtwayland-dev
+include(devpkg-qtwebchannel)
 qtwebsockets-dev
 qtx11extras-dev
 qtxmlpatterns-dev
-rabbitmq-c-dev
 include(devpkg-rdma-core)
 re2-dev
 include(devpkg-readline)
@@ -1126,7 +1099,6 @@ spice-protocol-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-sqlite-autoconf-staticdev
 sssd-dev
 include(devpkg-startup-notification)
 stoken-dev
@@ -1158,7 +1130,7 @@ tevent-python3
 include(texinfo)
 include(texlive)
 thin-provisioning-tools
-thrift-dev
+threadweaver-dev
 include(devpkg-tiff)
 tk
 tk-dev
@@ -1175,8 +1147,6 @@ upower-dev
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
 usrbinpython
-utf8proc
-utf8proc-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
@@ -1200,6 +1170,8 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(devpkg-webkitgtk)
+weston
+weston-dev
 include(wget)
 include(which)
 include(devpkg-woff2)
@@ -1213,7 +1185,6 @@ xdg-utils
 xfsprogs-dev
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
-include(devpkg-xmlsec1)
 xmlto
 xorg-fonts
 xorg-server
@@ -1240,4 +1211,4 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(desktop-kde-libs)
+zxing-dev

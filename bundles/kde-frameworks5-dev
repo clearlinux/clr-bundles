@@ -41,6 +41,7 @@ alsa-lib-dev32
 include(devpkg-appstream)
 appstream-glib
 asciidoc
+include(aspell)
 aspell-dev
 assimp-dev
 include(devpkg-at-spi2-core)
@@ -881,5 +882,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(dav1d-lib)
-include(aspell)

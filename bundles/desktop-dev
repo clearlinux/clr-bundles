@@ -858,6 +858,7 @@ pypi-fontmath-python3
 pypi-freezegun-python3
 pypi-frozenlist-python3
 pypi-funcparserlib-python3
+pypi-glyphslib-python3
 pypi-hatch_fancy_pypi_readme-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
@@ -971,6 +972,9 @@ pypi-tox-python3
 pypi-trove_classifiers-python3
 pypi-twine-python3
 pypi-typed_ast-python3
+pypi-types_psutil-python3
+pypi-types_setuptools-python3
+pypi-types_typed_ast-python3
 pypi-typing_extensions-python3
 pypi-ufolib2-python3
 pypi-uharfbuzz-python3
@@ -1140,5 +1144,3 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
-include(libstdcpp)
-include(dav1d-lib)
