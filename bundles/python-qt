@@ -12,3 +12,4 @@ pyside2-setup
 include(openblas)
 include(pypi-numpy)
 include(pypi-six)
+include(pypi-requests)

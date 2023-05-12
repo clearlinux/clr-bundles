@@ -53,3 +53,4 @@ include(dav1d-lib)
 # include(gnome-base-libs)
 libxml2-lib
 include(aspell)
+include(not-ffmpeg-lib)

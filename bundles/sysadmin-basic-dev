@@ -561,3 +561,7 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
+include(curl)
+include(libpsl-lib)
+include(lib-opengl)
+include(lib-imageformat)

@@ -20,3 +20,4 @@ perftest
 rdma-core
 include(libnl)
 include(libxml2)
+include(numactl)

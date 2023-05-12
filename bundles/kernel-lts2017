@@ -17,3 +17,4 @@ vbox-integration
 # kernel package
 linux-lts2017
 include(libnl)
+include(numactl)

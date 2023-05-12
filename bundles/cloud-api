@@ -17,3 +17,4 @@ botocore
 include(libevent-lib)
 include(openldap)
 include(pypi-six)
+include(yaml)

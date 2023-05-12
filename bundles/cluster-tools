@@ -19,3 +19,4 @@ pdsh
 slurm
 
 include(lz4)
+include(numactl)

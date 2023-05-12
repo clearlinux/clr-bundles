@@ -18,3 +18,4 @@ netaddr
 # End ansible deps
 include(pypi-pynacl)
 include(pypi-six)
+include(pypi-requests)

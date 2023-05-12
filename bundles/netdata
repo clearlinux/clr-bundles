@@ -9,6 +9,7 @@ include(lib-openssl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(nettle-lib)
 include(gmp-lib)
 include(lz4)
 include(openldap)

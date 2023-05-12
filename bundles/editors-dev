@@ -233,3 +233,5 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
+include(harfbuzz-lib)
+include(libpsl-lib)

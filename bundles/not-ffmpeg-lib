@@ -1,20 +1,14 @@
-# [TITLE]: pytorch
-# [DESCRIPTION]: Open source machine learning framework
+# [TITLE]: not-ffmpeg-lib
+# [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 
-include(python3-basic)
-include(openblas)
-include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(numactl)
-include(pypi-pynacl)
-include(python-data-science)
-include(pypi-onnx)
+
 # end of custom additions
 
 # main package
-pytorch
+not-ffmpeg-lib

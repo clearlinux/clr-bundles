@@ -11,3 +11,5 @@ ctags
 include(ncurses-lib)
 include(gmp-lib)
 include(libxml2)
+include(nettle-lib)
+include(yaml)

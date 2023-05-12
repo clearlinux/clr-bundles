@@ -13,3 +13,4 @@ ctags
 ed
 nano
 include(libxml2)
+include(yaml)

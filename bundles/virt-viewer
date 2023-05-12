@@ -9,6 +9,7 @@ include(libglib)
 include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(numactl)
 include(libpcap-lib)
 include(libnl)
 include(lz4)

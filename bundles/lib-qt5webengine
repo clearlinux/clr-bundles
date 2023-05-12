@@ -9,3 +9,4 @@ include(qt-basic)
 qtwebengine
 include(dav1d-lib)
 include(libevent-lib)
+include(not-ffmpeg-lib)

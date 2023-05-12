@@ -700,3 +700,8 @@ include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
 zstd-dev32
+include(pypi-requests)
+include(lib-opengl)
+include(curl)
+include(lib-imageformat)
+include(libstdcpp)

@@ -464,4 +464,6 @@ netplan # Network configuration tool using YAML
 gdk-pixbuf # No detailed summary available
 pypi-pynacl # Python binding to the Networking and Cryptography (NaCl) library
 dav1d # No detailed summary available
-FreeRDP # Free implementation of the Remote Desktop Protocol (RDP) 
+FreeRDP # Free implementation of the Remote Desktop Protocol (RDP)
+numactl # libnuma libraries
+yaml # Library to parse and emit YAML 

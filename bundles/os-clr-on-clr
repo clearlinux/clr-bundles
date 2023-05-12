@@ -81,3 +81,4 @@ include(devpkg-xcb-proto)
 include(devpkg-xorgproto)
 xmlstarlet
 include(xorriso)
+include(pypi-requests)

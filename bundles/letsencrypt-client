@@ -8,3 +8,4 @@ include(python3-basic)
 include(cloud-api)
 
 pypi-certbot
+include(pypi-requests)

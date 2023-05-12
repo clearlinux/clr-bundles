@@ -16,3 +16,4 @@ rpm-extras
 include(curl)
 include(libxml2)
 include(libarchive)
+include(pypi-requests)

@@ -14,3 +14,4 @@ vim-gnupg
 #vim-go
 include(ncurses-lib)
 include(libxml2)
+include(yaml)

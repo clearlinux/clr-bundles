@@ -16,3 +16,4 @@ pypi-gsutil
 micro-config-drive
 include(pypi-pynacl)
 include(pypi-six)
+include(pypi-requests)
