@@ -73,7 +73,7 @@ nano
 ncurses
 neofetch
 nmap-extras
-numactl
+include(numactl)
 include(parallel)
 include(patch)
 pciutils

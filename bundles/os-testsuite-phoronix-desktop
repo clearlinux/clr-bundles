@@ -90,7 +90,7 @@ mpfr-dev
 also-add(nasm)
 also-add(devpkg-ncurses)
 ninja
-numactl
+include(numactl)
 include(devpkg-numactl)
 pypi-numpy
 ocl-icd
