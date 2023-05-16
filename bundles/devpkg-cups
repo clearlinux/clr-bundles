@@ -10,3 +10,4 @@ include(devpkg-gnutls)
 
 cups-dev
 include(libstdcpp)
+include(nettle-lib)
