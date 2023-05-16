@@ -1171,7 +1171,7 @@ include(valgrind)
 include(devpkg-valgrind)
 vim
 include(devpkg-virglrenderer)
-vte-dev
+include(devpkg-vte)
 include(devpkg-wavpack)
 wayland
 include(devpkg-wayland)
@@ -1221,6 +1221,3 @@ include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
 zxing-dev
-include(pypi-requests)
-include(not-ffmpeg-lib)
-include(libglib)

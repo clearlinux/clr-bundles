@@ -796,7 +796,7 @@ include(valgrind)
 include(devpkg-valgrind)
 vim
 include(devpkg-virglrenderer)
-vte-dev
+include(devpkg-vte)
 include(devpkg-wavpack)
 include(devpkg-wayland)
 include(devpkg-wayland)
