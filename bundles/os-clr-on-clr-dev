@@ -311,6 +311,7 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gsound)
@@ -917,11 +918,13 @@ pypi-billiard-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
+pypi-cachetools-python3
 pypi-calver-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
+pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cheetah3-python3
 pypi-click-python3
@@ -933,9 +936,12 @@ pypi-cryptography-python3
 pypi-cu2qu-python3
 include(pypi-cython)
 pypi-cython-python3
+pypi-devpi_process-python3
+pypi-distlib-python3
 pypi-distro-python3
 pypi-dnspython
 pypi-docutils
+pypi-filelock-python3
 pypi-flake8-python3
 pypi-flake8_import_order-python3
 pypi-flask-python3
@@ -990,11 +996,13 @@ pypi-pygments-python3
 pypi-pylint-python3
 pypi-pyomo-python3
 pypi-pyparsing-python3
+pypi-pyproject_api-python3
 pypi-pyproject_metadata-python3
 pypi-pyroute2-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
+pypi-pytest_mock-python3
 pypi-python_dateutil-python3
 pypi-python_dbusmock
 pypi-python_multilib-python3
@@ -1028,6 +1036,7 @@ pypi-uharfbuzz-python3
 pypi-urllib3-python3
 pypi-vine-python3
 pypi-virtualenv
+pypi-virtualenv-python3
 pypi-wheel-python3
 pypi-zopfli-python3
 python3
@@ -1212,7 +1221,3 @@ include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
 zxing-dev
-include(pypi-requests)
-include(not-ffmpeg-lib)
-include(libglib)
-include(desktop-kde-libs)

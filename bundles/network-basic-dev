@@ -13,7 +13,6 @@ CUnit-dev
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
-include(devpkg-NetworkManager)
 acl-bin
 include(devpkg-acl)
 include(devpkg-acl)
@@ -103,6 +102,7 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
+gi-docgen
 include(git)
 glib-bin
 include(devpkg-glib)
@@ -122,11 +122,14 @@ gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(devpkg-gnutls)
+include(devpkg-gobject-introspection)
 gperf
 gpm-dev
 include(graphviz)
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
@@ -204,6 +207,7 @@ libpwquality-dev
 include(devpkg-librsvg)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
+include(devpkg-libsoup)
 libstdc++
 include(devpkg-libtasn1)
 include(devpkg-libtasn1)
@@ -455,6 +459,7 @@ util-linux-bin
 include(devpkg-util-linux)
 include(devpkg-util-linux)
 util-linux-extras
+vala
 include(valgrind)
 include(devpkg-valgrind)
 include(which)
@@ -468,5 +473,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(pypi-requests)
-include(libpsl-lib)

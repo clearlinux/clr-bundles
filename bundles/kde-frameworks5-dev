@@ -238,6 +238,7 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gsound)
@@ -887,8 +888,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(dav1d-lib)
-include(not-ffmpeg-lib)
-include(dav1d)
-include(pypi-requests)
-include(libglib)

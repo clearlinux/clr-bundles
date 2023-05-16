@@ -23,7 +23,6 @@ include(devpkg-LVM2)
 LVM2-extras
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
-include(devpkg-NetworkManager)
 OpenSP
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -235,6 +234,8 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
