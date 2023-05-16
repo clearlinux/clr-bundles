@@ -19,7 +19,7 @@ gcc-dev
 ghc
 ghc-dev
 glibc-dev
-gmp-dev
+include(devpkg-gmp)
 ncurses-lib
 perl
 stack

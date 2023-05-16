@@ -10,12 +10,12 @@ include(qt-basic)
 include(hardware-gpu)
 
 include(devpkg-llvm)
-SPIRV-Tools-dev
+include(devpkg-SPIRV-Tools)
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
 glslang-bin
-waffle-dev
+include(devpkg-waffle)
 glslang-dev
-SPIRV-Cross-dev
+include(devpkg-SPIRV-Cross)
 
 #intel-graphics-compiler-dev

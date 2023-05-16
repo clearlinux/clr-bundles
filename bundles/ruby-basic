@@ -8,7 +8,7 @@ include(p11-kit)
 include(libstdcpp)
 include(libglib)
 
-gmp-dev
+include(devpkg-gmp)
 ruby
 ruby-dev
 include(ncurses-lib)

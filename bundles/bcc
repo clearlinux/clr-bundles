@@ -13,7 +13,7 @@ include(llvm)
 include(python3-basic)
 
 # We need to add the .so file
-bcc-dev
+include(devpkg-bcc)
 # end of custom additions
 
 # main package

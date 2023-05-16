@@ -22,7 +22,7 @@ graphite
 include(devpkg-hwloc)
 include(llvm)
 include(devpkg-mariadb)
-libXaw-dev
+include(devpkg-libXaw)
 include(memcached)
 include(moreutils)
 include(pandoc)

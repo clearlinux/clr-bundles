@@ -7,7 +7,7 @@
 include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
-CUnit-dev
+include(devpkg-CUnit)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
@@ -24,7 +24,7 @@ autoconf-archive-dev
 autogen
 automake
 automake-dev
-bash-completion-dev
+include(devpkg-bash-completion)
 bats
 include(binutils)
 include(bison)
@@ -67,7 +67,7 @@ emacs
 include(devpkg-expat)
 include(devpkg-expat)
 expect
-file-dev
+include(devpkg-file)
 include(flex)
 flex-dev
 include(devpkg-fuse)
@@ -97,8 +97,8 @@ glibc-staticdev
 glibc-utils
 gmime
 include(devpkg-gmime)
-gmp-dev
-gmp-dev
+include(devpkg-gmp)
+include(devpkg-gmp)
 gmp-gmpxx
 gmp-lib32
 gnu-efi
@@ -108,7 +108,7 @@ include(gnupg)
 include(devpkg-gnutls)
 gperf
 include(gpgme)
-gpgme-dev
+include(devpkg-gpgme)
 include(graphviz)
 grep
 groff
@@ -123,7 +123,7 @@ include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-json-c)
 include(devpkg-json-c)
-keyutils-dev
+include(devpkg-keyutils)
 kmod
 include(devpkg-kmod)
 include(devpkg-kmod)
@@ -133,7 +133,7 @@ include(devpkg-libX11)
 include(devpkg-libX11)
 libaio-dev
 include(devpkg-libassuan)
-libbpf-dev
+include(devpkg-libbpf)
 libc6-dev
 include(devpkg-libcap)
 include(devpkg-libcap)
@@ -144,7 +144,7 @@ include(devpkg-libedit)
 include(devpkg-libffi)
 include(devpkg-libffi)
 libfido2
-libfido2-dev
+include(devpkg-libfido2)
 include(devpkg-libgcrypt)
 include(devpkg-libgcrypt)
 include(devpkg-libgpg-error)
@@ -163,7 +163,7 @@ include(devpkg-libnfnetlink)
 include(devpkg-libnfnetlink)
 include(devpkg-libnftnl)
 include(devpkg-libnftnl)
-libpwquality-dev
+include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
 libstdc++
@@ -183,18 +183,18 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
-lmdb-dev
+include(devpkg-lmdb)
 include(devpkg-lua)
 include(lynx)
 include(devpkg-lz4)
 include(devpkg-lz4)
-lzo-dev
+include(devpkg-lzo)
 m4
 include(make)
 meson-python3
 mingw-gcc
 mpc-dev
-mpfr-dev
+include(devpkg-mpfr)
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(net-tools)
@@ -342,7 +342,7 @@ perl-namespace-clean-perl
 perl-perl
 pigz
 pkg-config
-pkg-config-dev
+include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-popt)
 procmail
@@ -377,8 +377,8 @@ tar
 tcl
 include(texinfo)
 thin-provisioning-tools
-tokyocabinet-dev
-tpm2-tss-dev
+include(devpkg-tokyocabinet)
+include(devpkg-tpm2-tss)
 include(tzdata)
 include(unzip)
 util-linux

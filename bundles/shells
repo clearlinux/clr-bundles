@@ -9,7 +9,7 @@ bash
 bash-bin
 bash-completion
 bash-completion-data
-bash-completion-dev
+include(devpkg-bash-completion)
 bash-doc
 bash-extras
 bash-locales

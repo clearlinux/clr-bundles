@@ -46,7 +46,7 @@ hdf5-dev
 #Keras
 leveldb-dev
 include(devpkg-libjpeg-turbo)
-lmdb-dev
+include(devpkg-lmdb)
 pypi-matplotlib
 pypi-mido
 mkl-dnn-dev
@@ -54,7 +54,7 @@ mpi4py
 nose-parameterized
 pypi-numpy
 ocl-icd
-ocl-icd-dev
+include(devpkg-ocl-icd)
 include(openblas)
 include(devpkg-opencv)
 opencv-python
@@ -63,7 +63,7 @@ pandas
 pypi-pillow
 pypi-posix_ipc
 include(devpkg-protobuf-c)
-protobuf-dev
+include(devpkg-protobuf)
 protobuf-python
 pypi-pydot
 pydotplus

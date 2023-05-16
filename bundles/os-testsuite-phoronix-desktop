@@ -61,12 +61,12 @@ glibc-staticdev
 glibc-lib-avx2
 also-add(devpkg-glog)
 also-add(devpkg-glu)
-gmp-dev
+include(devpkg-gmp)
 include(gnupg)
 also-add(gnuplot)
 also-add(devpkg-hwloc)
-jemalloc-dev
-jemalloc-dev
+include(devpkg-jemalloc)
+include(devpkg-jemalloc)
 libXpm
 also-add(devpkg-libXv)
 also-add(devpkg-libXvMC)
@@ -77,7 +77,7 @@ also-add(devpkg-libevent)
 also-add(devpkg-libgcrypt)
 also-add(devpkg-libgpg-error)
 also-add(devpkg-libjpeg-turbo)
-libksba-dev
+include(devpkg-libksba)
 also-add(devpkg-libnl)
 also-add(devpkg-libogg)
 also-add(devpkg-libpng)
@@ -86,7 +86,7 @@ include(devpkg-libvorbis)
 also-add(devpkg-lua)
 mesa-demos
 meson
-mpfr-dev
+include(devpkg-mpfr)
 also-add(nasm)
 also-add(devpkg-ncurses)
 ninja
@@ -94,7 +94,7 @@ include(numactl)
 include(devpkg-numactl)
 pypi-numpy
 ocl-icd
-ocl-icd-dev
+include(devpkg-ocl-icd)
 also-add(openblas)
 opencl-headers-dev
 also-add(devpkg-openssl)
@@ -107,7 +107,7 @@ also-add(devpkg-pcre)
 perl
 perl-Digest-MD5
 include(phoronix-test-suite)
-pkg-config-dev
+include(devpkg-pkg-config)
 also-add(devpkg-popt)
 pth-dev
 python3-dev

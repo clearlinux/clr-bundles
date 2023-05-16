@@ -7,7 +7,7 @@
 include(dev-utils)
 include(os-core-dev)
 include(perl-basic)
-CUnit-dev
+include(devpkg-CUnit)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
@@ -20,7 +20,7 @@ autoconf
 autogen
 automake
 automake-dev
-bash-completion-dev
+include(devpkg-bash-completion)
 bats
 include(binutils)
 include(bison)
@@ -73,8 +73,8 @@ glibc-dev
 glibc-libc32
 include(glibc-locale)
 glibc-utils
-gmp-dev
-gmp-dev
+include(devpkg-gmp)
+include(devpkg-gmp)
 gmp-gmpxx
 gmp-lib32
 gnu-efi
@@ -96,13 +96,13 @@ include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-json-c)
 include(devpkg-json-c)
-keyutils-dev
+include(devpkg-keyutils)
 kmod
 include(devpkg-kmod)
 include(devpkg-kmod)
 less-bin
 libaio-dev
-libbpf-dev
+include(devpkg-libbpf)
 libc6-dev
 include(devpkg-libcap)
 include(devpkg-libcap)
@@ -113,7 +113,7 @@ include(devpkg-libedit)
 include(devpkg-libffi)
 include(devpkg-libffi)
 libfido2
-libfido2-dev
+include(devpkg-libfido2)
 include(devpkg-libgcrypt)
 include(devpkg-libgcrypt)
 include(devpkg-libgpg-error)
@@ -132,7 +132,7 @@ include(devpkg-libnfnetlink)
 include(devpkg-libnfnetlink)
 include(devpkg-libnftnl)
 include(devpkg-libnftnl)
-libpwquality-dev
+include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
 libstdc++
@@ -156,7 +156,7 @@ include(devpkg-lz4)
 include(make)
 meson-python3
 mpc-dev
-mpfr-dev
+include(devpkg-mpfr)
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(net-tools)
@@ -325,7 +325,7 @@ perl-namespace-clean-perl
 perl-perl
 pigz
 pkg-config
-pkg-config-dev
+include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
@@ -350,7 +350,7 @@ tar
 tcl
 include(texinfo)
 thin-provisioning-tools
-tpm2-tss-dev
+include(devpkg-tpm2-tss)
 include(unzip)
 util-linux
 util-linux-bin

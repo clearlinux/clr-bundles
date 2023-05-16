@@ -7,8 +7,8 @@
 include(dev-utils)
 include(os-core-dev)
 include(os-core-update)
-CUnit-dev
-CUnit-dev
+include(devpkg-CUnit)
+include(devpkg-CUnit)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
@@ -24,7 +24,7 @@ autoconf-archive-dev
 autogen
 automake
 automake-dev
-bash-completion-dev
+include(devpkg-bash-completion)
 bats
 include(binutils)
 include(bison)
@@ -39,7 +39,7 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 ca-certs
-check-dev
+include(devpkg-check)
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -60,13 +60,13 @@ include(doxygen)
 e2fsprogs
 include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
-efivar-dev
+include(devpkg-efivar)
 include(devpkg-elfutils)
 include(devpkg-elfutils)
 include(devpkg-expat)
 include(devpkg-expat)
 expect
-file-dev
+include(devpkg-file)
 include(flex)
 flex-dev
 include(devpkg-fuse)
@@ -92,7 +92,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
-gmp-dev
+include(devpkg-gmp)
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
@@ -112,7 +112,7 @@ include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-json-c)
 include(devpkg-json-c)
-keyutils-dev
+include(devpkg-keyutils)
 kmod
 include(devpkg-kmod)
 include(devpkg-kmod)
@@ -121,7 +121,7 @@ include(devpkg-libX11)
 include(devpkg-libX11)
 libaio-dev
 include(devpkg-libarchive)
-libbpf-dev
+include(devpkg-libbpf)
 libc6
 libc6-dev
 include(devpkg-libcap)
@@ -136,7 +136,7 @@ include(devpkg-libevent)
 include(devpkg-libffi)
 include(devpkg-libffi)
 libfido2
-libfido2-dev
+include(devpkg-libfido2)
 include(devpkg-libgcrypt)
 include(devpkg-libgcrypt)
 include(devpkg-libgpg-error)
@@ -144,7 +144,7 @@ include(devpkg-libgpg-error)
 libgpg-error-extras
 include(devpkg-libidn)
 include(devpkg-libidn)
-libkcapi-dev
+include(devpkg-libkcapi)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 include(devpkg-libmnl)
@@ -155,7 +155,7 @@ include(devpkg-libnfnetlink)
 include(devpkg-libnftnl)
 include(devpkg-libnftnl)
 include(devpkg-libproxy)
-libpwquality-dev
+include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
 include(devpkg-libsodium)
@@ -176,12 +176,12 @@ linux-libc-headers
 include(llvm)
 include(devpkg-lz4)
 include(devpkg-lz4)
-lzo-dev
+include(devpkg-lzo)
 m4
 include(make)
 meson-python3
 mpc-dev
-mpfr-dev
+include(devpkg-mpfr)
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 netbase
@@ -203,7 +203,7 @@ perl-Test-Simple-perl
 perl-XML-Parser-perl
 pigz
 pkg-config
-pkg-config-dev
+include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
@@ -231,7 +231,7 @@ tar
 tcl
 include(texinfo)
 thin-provisioning-tools
-tpm2-tss-dev
+include(devpkg-tpm2-tss)
 include(tzdata)
 include(unzip)
 util-linux

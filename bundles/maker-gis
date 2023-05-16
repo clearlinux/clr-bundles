@@ -24,6 +24,6 @@ proj
 # higher layer pieces
 
 # core dev compoments
-gdal-dev
-geos-dev
+include(devpkg-gdal)
+include(devpkg-geos)
 include(devpkg-proj)
