@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 libproxy-dev
-include(libstdcpp)
 include(libglib)

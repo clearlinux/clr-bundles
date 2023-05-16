@@ -13,5 +13,3 @@ include(devpkg-nss)
 include(devpkg-openssl)
 
 xmlsec1-dev
-include(lz4)
-include(nettle-lib)

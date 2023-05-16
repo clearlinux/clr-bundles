@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 libpsl-dev
-include(libpsl-lib)

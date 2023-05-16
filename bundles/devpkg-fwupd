@@ -16,4 +16,3 @@ fwupd-dev
 include(curl)
 include(libglib)
 include(xz)
-include(pypi-six)
