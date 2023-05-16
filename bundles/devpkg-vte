@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-harfbuzz
-# [DESCRIPTION]: All content for pkgconfig file harfbuzz.pc.
+# [TITLE]: devpkg-vte
+# [DESCRIPTION]: All content for pkgconfig file vte.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -8,9 +8,10 @@
 include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
-include(devpkg-graphite)
+include(devpkg-gtk3)
+include(devpkg-pango)
 
-harfbuzz-dev
+vte-dev
 include(libX11client)
 include(libglib)
 include(libstdcpp)

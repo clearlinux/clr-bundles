@@ -295,6 +295,7 @@ pkgconfig(libgeoclue-2.0)	devpkg-geoclue
 pkgconfig(libgfbgraph-0.2)	devpkg-gfbgraph
 pkgconfig(libglog)	devpkg-glog
 pkgconfig(libgnome-menu-3.0)	devpkg-gnome-menus
+pkgconfig(libgnome-panel)	devpkg-gnome-panel
 pkgconfig(libgnomekbd)	devpkg-libgnomekbd
 pkgconfig(libgnomekbdui)	devpkg-libgnomekbd
 pkgconfig(libgphoto2)	devpkg-libgphoto2
@@ -549,6 +550,7 @@ pkgconfig(videoproto)	devpkg-xorgproto
 pkgconfig(virglrenderer)	devpkg-virglrenderer
 pkgconfig(vorbis)	devpkg-libvorbis
 pkgconfig(vpx)	devpkg-libvpx
+pkgconfig(vte-2.91)	devpkg-vte
 pkgconfig(wavpack)	devpkg-wavpack
 pkgconfig(wayland-client)	devpkg-wayland
 pkgconfig(wayland-cursor)	devpkg-wayland
