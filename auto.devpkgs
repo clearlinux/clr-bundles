@@ -76,10 +76,6 @@ bsdiff
 btrfs-progs
 bytesize
 bzip2
-cairo
-cairo-fc
-cairo-ft
-cairo-gobject
 cairomm
 cairomm-1
 cairomm-ft-1
@@ -89,16 +85,6 @@ cairomm-ps-1
 cairomm-svg-1
 cairomm-xlib-1
 cairomm-xlib-xrender-1
-cairo-pdf
-cairo-png
-cairo-ps
-cairo-script
-cairo-script-interpreter
-cairo-svg
-cairo-xcb
-cairo-xcb-shm
-cairo-xlib
-cairo-xlib-xrender
 cally-1
 camel-1
 capnp
@@ -406,8 +392,6 @@ freerdp2
 freerdp-client2
 freerdp-server2
 freerdp-shadow2
-freetype
-freetype2
 fribidi
 fuse
 fuse3
