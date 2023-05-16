@@ -9,3 +9,4 @@ include(devpkg-base)
 
 libpsl-dev
 include(libpsl-lib)
+include(icu4c-lib)

@@ -11,3 +11,8 @@ include(devpkg-gnutls)
 cups-dev
 include(libstdcpp)
 include(nettle-lib)
+include(libX11client)
+include(harfbuzz-lib)
+include(icu4c-lib)
+include(lib-imageformat)
+include(openldap)

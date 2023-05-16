@@ -10,3 +10,5 @@ include(devpkg-bzip2)
 include(devpkg-zlib)
 
 freetype-dev
+include(libX11client)
+include(icu4c-lib)
