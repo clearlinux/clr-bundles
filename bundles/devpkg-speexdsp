@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-speexdsp
+# [DESCRIPTION]: All content for pkgconfig file speexdsp.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+speexdsp-dev

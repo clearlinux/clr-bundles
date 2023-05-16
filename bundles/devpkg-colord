@@ -8,6 +8,7 @@
 include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
+include(devpkg-libgusb)
 
 colord-dev
 include(libglib)

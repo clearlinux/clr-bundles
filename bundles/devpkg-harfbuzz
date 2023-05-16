@@ -6,9 +6,12 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-cairo)
+include(devpkg-freetype)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-graphite)
+include(devpkg-icu4c)
 
 harfbuzz-dev
 include(libX11client)

@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-qtxmlpatterns
+# [DESCRIPTION]: All content for pkgconfig file qtxmlpatterns.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+
+qtxmlpatterns-dev
+include(qt-core)
+include(libstdcpp)

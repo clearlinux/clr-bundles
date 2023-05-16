@@ -1,5 +1,5 @@
 # [TITLE]: devpkg-qt6base
-# [DESCRIPTION]: All content for pkgconfig file qtbase.pc.
+# [DESCRIPTION]: All content for pkgconfig file qt6base.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -8,10 +8,7 @@
 include(devpkg-base)
 
 qt6base-dev
-include(lib-opengl)
-include(qt-core)
 include(libX11client)
 include(libglib)
 include(lib-imageformat)
 include(libstdcpp)
-include(libxml2)

@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-qtnetworkauth
+# [DESCRIPTION]: All content for pkgconfig file qtnetworkauth.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+
+qtnetworkauth-dev
+include(qt-core)
+include(libstdcpp)

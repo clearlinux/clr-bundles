@@ -1,0 +1,15 @@
+# [TITLE]: devpkg-kactivities
+# [DESCRIPTION]: All content for pkgconfig file kactivities.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+
+kactivities-dev
+include(desktop-kde-libs)
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)

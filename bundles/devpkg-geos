@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-geos
+# [DESCRIPTION]: All content for pkgconfig file geos.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+geos-dev
+include(libstdcpp)

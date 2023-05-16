@@ -1,0 +1,14 @@
+# [TITLE]: devpkg-igt-gpu-tools
+# [DESCRIPTION]: All content for pkgconfig file igt-gpu-tools.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-libdrm)
+
+igt-gpu-tools-dev
+include(libX11client)
+include(libglib)
+include(igt-gpu-tools)

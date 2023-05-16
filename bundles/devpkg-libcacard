@@ -1,0 +1,14 @@
+# [TITLE]: devpkg-libcacard
+# [DESCRIPTION]: All content for pkgconfig file libcacard.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-glib)
+include(libglib)
+include(devpkg-nss)
+
+libcacard-dev
+include(libglib)

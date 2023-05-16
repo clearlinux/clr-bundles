@@ -10,3 +10,6 @@ include(devpkg-qtbase)
 include(devpkg-qtdeclarative)
 
 qt3d-dev
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)

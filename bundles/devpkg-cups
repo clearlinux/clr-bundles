@@ -1,15 +1,12 @@
 # [TITLE]: devpkg-cups
-# [DESCRIPTION]: Files for developing against CUPS (Commun Unix Printing System)
+# [DESCRIPTION]: All content for pkgconfig file cups.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-gnutls)
 
 cups-dev
-include(harfbuzz-lib)
-include(lib-imageformat)
-include(openldap)
-include(lz4)
-include(nettle-lib)
+include(libstdcpp)

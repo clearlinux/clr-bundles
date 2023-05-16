@@ -1,0 +1,18 @@
+# [TITLE]: devpkg-qtwayland
+# [DESCRIPTION]: All content for pkgconfig file qtwayland.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+include(devpkg-qtdeclarative)
+
+qtwayland-dev
+include(lib-opengl)
+include(qt-core)
+include(qt-basic)
+include(libX11client)
+include(libglib)
+include(libstdcpp)

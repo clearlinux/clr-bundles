@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-libgit2
+# [DESCRIPTION]: All content for pkgconfig file libgit2.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-openssl)
+include(devpkg-pcre2)
+include(devpkg-zlib)
+
+libgit2-dev

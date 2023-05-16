@@ -1,5 +1,5 @@
 # [TITLE]: devpkg-qt6svg
-# [DESCRIPTION]: All content for pkgconfig file qtsvg.pc.
+# [DESCRIPTION]: All content for pkgconfig file qt6svg.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -9,6 +9,4 @@ include(devpkg-base)
 include(devpkg-qt6base)
 
 qt6svg-dev
-include(qt6-core)
-include(qt6-basic)
 include(libstdcpp)

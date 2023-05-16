@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-source-highlight
+# [DESCRIPTION]: All content for pkgconfig file source-highlight.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+source-highlight-dev
+include(libstdcpp)

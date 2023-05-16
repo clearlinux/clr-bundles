@@ -1,0 +1,14 @@
+# [TITLE]: devpkg-stoken
+# [DESCRIPTION]: All content for pkgconfig file stoken.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-libxml2)
+include(devpkg-nettle)
+
+stoken-dev
+include(libX11client)
+include(libglib)

@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-mm-common
+# [DESCRIPTION]: All content for pkgconfig file mm-common.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+mm-common-dev

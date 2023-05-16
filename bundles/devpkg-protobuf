@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-protobuf
+# [DESCRIPTION]: All content for pkgconfig file protobuf.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+protobuf-dev
+include(libstdcpp)
+include(protobuf)

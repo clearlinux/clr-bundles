@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-yajl
+# [DESCRIPTION]: All content for pkgconfig file yajl.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+yajl-dev

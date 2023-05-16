@@ -9,3 +9,7 @@ include(devpkg-base)
 include(devpkg-qtbase)
 
 qtdeclarative-dev
+include(lib-opengl)
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)

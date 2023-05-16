@@ -1,0 +1,14 @@
+# [TITLE]: devpkg-tpm2-abrmd
+# [DESCRIPTION]: All content for pkgconfig file tpm2-abrmd.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-glib)
+include(libglib)
+include(devpkg-tpm2-tss)
+
+tpm2-abrmd-dev
+include(libglib)

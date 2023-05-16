@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-libdbusmenu-qt
+# [DESCRIPTION]: All content for pkgconfig file libdbusmenu-qt.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libdbusmenu-qt-dev
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)

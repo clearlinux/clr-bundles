@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-utf8proc
+# [DESCRIPTION]: All content for pkgconfig file utf8proc.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+utf8proc-dev

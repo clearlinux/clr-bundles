@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-qtspeech
+# [DESCRIPTION]: All content for pkgconfig file qtspeech.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+
+qtspeech-dev
+include(qt-core)
+include(libstdcpp)

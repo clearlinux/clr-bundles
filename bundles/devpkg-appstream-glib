@@ -14,3 +14,6 @@ include(devpkg-libarchive)
 include(devpkg-util-linux)
 
 appstream-glib-dev
+include(libX11client)
+include(curl)
+include(libglib)

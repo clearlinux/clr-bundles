@@ -1,0 +1,15 @@
+# [TITLE]: devpkg-colord-gtk
+# [DESCRIPTION]: All content for pkgconfig file colord-gtk.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-colord)
+include(devpkg-gtk3)
+include(devpkg-gtk4)
+
+colord-gtk-dev
+include(libX11client)
+include(libglib)

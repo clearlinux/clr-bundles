@@ -10,3 +10,5 @@ include(devpkg-qtbase)
 include(devpkg-qtdeclarative)
 
 qtwebchannel-dev
+include(qt-core)
+include(libstdcpp)

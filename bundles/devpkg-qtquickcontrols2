@@ -1,0 +1,15 @@
+# [TITLE]: devpkg-qtquickcontrols2
+# [DESCRIPTION]: All content for pkgconfig file qtquickcontrols2.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+include(devpkg-qtdeclarative)
+
+qtquickcontrols2-dev
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)

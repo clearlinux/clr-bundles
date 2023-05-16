@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-libspiro
+# [DESCRIPTION]: All content for pkgconfig file libspiro.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libspiro-dev

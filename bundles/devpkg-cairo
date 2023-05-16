@@ -11,6 +11,7 @@ include(devpkg-freetype)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-libX11)
+include(devpkg-lzo)
 include(devpkg-pixman)
 include(devpkg-zlib)
 

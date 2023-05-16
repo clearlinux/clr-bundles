@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 openal-soft-dev
+include(libstdcpp)

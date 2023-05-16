@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-phonon
+# [DESCRIPTION]: All content for pkgconfig file phonon.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+phonon-dev
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)

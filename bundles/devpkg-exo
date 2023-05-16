@@ -1,0 +1,14 @@
+# [TITLE]: devpkg-exo
+# [DESCRIPTION]: All content for pkgconfig file exo.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-gtk3)
+include(devpkg-libxfce4util)
+
+exo-dev
+include(libX11client)
+include(libglib)

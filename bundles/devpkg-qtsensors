@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-qtsensors
+# [DESCRIPTION]: All content for pkgconfig file qtsensors.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+
+qtsensors-dev
+include(qt-core)
+include(libstdcpp)

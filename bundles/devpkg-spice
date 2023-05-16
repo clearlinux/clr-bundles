@@ -1,0 +1,18 @@
+# [TITLE]: devpkg-spice
+# [DESCRIPTION]: All content for pkgconfig file spice.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-glib)
+include(libglib)
+include(devpkg-libcacard)
+include(devpkg-openssl)
+include(devpkg-pixman)
+include(devpkg-spice-protocol)
+
+spice-dev
+include(libglib)
+include(lib-imageformat)

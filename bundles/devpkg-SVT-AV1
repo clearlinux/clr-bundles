@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-SVT-AV1
+# [DESCRIPTION]: All content for pkgconfig file SVT-AV1.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+SVT-AV1-dev
+include(SVT-AV1)

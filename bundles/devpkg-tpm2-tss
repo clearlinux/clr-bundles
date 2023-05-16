@@ -1,0 +1,15 @@
+# [TITLE]: devpkg-tpm2-tss
+# [DESCRIPTION]: All content for pkgconfig file tpm2-tss.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-curl)
+include(devpkg-json-c)
+include(devpkg-openssl)
+include(devpkg-util-linux)
+
+tpm2-tss-dev
+include(curl)

@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-qtx11extras
+# [DESCRIPTION]: All content for pkgconfig file qtx11extras.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+
+qtx11extras-dev
+include(qt-core)
+include(qt-basic)

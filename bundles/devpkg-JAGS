@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-JAGS
+# [DESCRIPTION]: All content for pkgconfig file JAGS.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+JAGS-dev
+include(openblas)
+include(libstdcpp)

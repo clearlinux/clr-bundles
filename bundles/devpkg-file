@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-file
+# [DESCRIPTION]: All content for pkgconfig file file.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+file-dev
+include(xz)
+include(file)

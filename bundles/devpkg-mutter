@@ -1,0 +1,26 @@
+# [TITLE]: devpkg-mutter
+# [DESCRIPTION]: All content for pkgconfig file mutter.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-at-spi2-core)
+include(devpkg-cairo)
+include(devpkg-glib)
+include(libglib)
+include(devpkg-graphene)
+include(devpkg-gsettings-desktop-schemas)
+include(devpkg-harfbuzz)
+include(devpkg-json-glib)
+include(devpkg-libX11)
+include(devpkg-libglvnd)
+include(devpkg-pango)
+include(devpkg-wayland)
+
+mutter-dev
+include(lib-opengl)
+include(libX11client)
+include(gnome-base-libs)
+include(libglib)

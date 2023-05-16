@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-gnome-icon-theme
+# [DESCRIPTION]: All content for pkgconfig file gnome-icon-theme.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+gnome-icon-theme-dev

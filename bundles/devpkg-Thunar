@@ -1,0 +1,15 @@
+# [TITLE]: devpkg-Thunar
+# [DESCRIPTION]: All content for pkgconfig file Thunar.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-glib)
+include(libglib)
+include(devpkg-gtk3)
+
+Thunar-dev
+include(libX11client)
+include(libglib)

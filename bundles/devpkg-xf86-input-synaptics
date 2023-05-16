@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-xf86-input-synaptics
+# [DESCRIPTION]: All content for pkgconfig file xf86-input-synaptics.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+xf86-input-synaptics-dev
+include(libX11client)

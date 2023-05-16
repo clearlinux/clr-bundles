@@ -1,0 +1,14 @@
+# [TITLE]: devpkg-gnome-control-center
+# [DESCRIPTION]: All content for pkgconfig file gnome-control-center.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+gnome-control-center-dev
+include(libglib)
+include(libX11client)
+include(gnome-base-libs)
+include(libstdcpp)

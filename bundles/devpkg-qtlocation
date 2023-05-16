@@ -7,6 +7,9 @@
 
 include(devpkg-base)
 include(devpkg-qtbase)
+include(devpkg-qtdeclarative)
 
 qtlocation-dev
-include(icu4c-lib)
+include(qt-core)
+include(qt-basic)
+include(libstdcpp)

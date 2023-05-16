@@ -1,0 +1,17 @@
+# [TITLE]: devpkg-openconnect
+# [DESCRIPTION]: All content for pkgconfig file openconnect.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-gnutls)
+include(devpkg-libproxy)
+include(devpkg-libxml2)
+include(devpkg-lz4)
+include(devpkg-p11-kit)
+include(devpkg-stoken)
+include(devpkg-zlib)
+
+openconnect-dev

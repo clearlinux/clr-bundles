@@ -10,3 +10,4 @@ include(devpkg-curl)
 include(devpkg-openssl)
 
 liboauth-dev
+include(curl)

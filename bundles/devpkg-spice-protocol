@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-spice-protocol
+# [DESCRIPTION]: All content for pkgconfig file spice-protocol.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+spice-protocol-dev

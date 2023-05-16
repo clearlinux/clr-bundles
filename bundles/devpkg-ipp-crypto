@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-ipp-crypto
+# [DESCRIPTION]: All content for pkgconfig file ipp-crypto.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+ipp-crypto-dev

@@ -1,0 +1,18 @@
+# [TITLE]: devpkg-libportal
+# [DESCRIPTION]: All content for pkgconfig file libportal.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-glib)
+include(libglib)
+include(devpkg-gtk3)
+include(devpkg-gtk4)
+include(devpkg-qtbase)
+include(devpkg-qtx11extras)
+
+libportal-dev
+include(libglib)
+include(libX11client)

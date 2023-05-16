@@ -1,0 +1,16 @@
+# [TITLE]: devpkg-libXaw
+# [DESCRIPTION]: All content for pkgconfig file libXaw.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-libX11)
+include(devpkg-libXmu)
+include(devpkg-libXpm)
+include(devpkg-libXt)
+include(devpkg-xorgproto)
+
+libXaw-dev
+include(libX11client)

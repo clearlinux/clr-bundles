@@ -1,10 +1,11 @@
 # [TITLE]: devpkg-libusb-compat
-# [DESCRIPTION]: All content for pkgconfig file libusb.pc (from libusb-compat).
+# [DESCRIPTION]: All content for pkgconfig file libusb-compat.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-libusb)
 
 libusb-compat-dev
