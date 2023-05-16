@@ -9,6 +9,7 @@ include(libX11client)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libunwind-lib)
 include(not-ffmpeg-lib)
 include(pulseaudio)
 include(dav1d-lib)

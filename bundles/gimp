@@ -10,6 +10,7 @@ include(libglib)
 include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libunwind-lib)
 include(not-ffmpeg-lib)
 include(dav1d-lib)
 include(curl)

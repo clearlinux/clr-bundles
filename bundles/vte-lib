@@ -1,4 +1,4 @@
-# [TITLE]: not-ffmpeg-lib
+# [TITLE]: vte-lib
 # [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -7,17 +7,8 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(nettle-lib)
-include(lib-imageformat)
-include(icu4c-lib)
-include(harfbuzz-lib)
-include(gmp-lib)
-include(libglib)
-include(dav1d-lib)
-include(libstdcpp)
-include(libX11client)
 
 # end of custom additions
 
 # main package
-not-ffmpeg-lib
+vte-lib

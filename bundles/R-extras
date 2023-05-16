@@ -813,3 +813,4 @@ R-zoo
 eigen
 include(pandoc)
 include(lz4)
+include(libunwind-lib)

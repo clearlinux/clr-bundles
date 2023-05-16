@@ -160,3 +160,4 @@ ntfs-3g
 swupd-search
 also-add(thermal_daemon)
 include(gdk-pixbuf)
+include(vte-lib)

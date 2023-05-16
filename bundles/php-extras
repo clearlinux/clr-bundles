@@ -72,3 +72,4 @@ php-yaml
 php-yar
 php-zmq
 include(openldap)
+include(libunwind-lib)
