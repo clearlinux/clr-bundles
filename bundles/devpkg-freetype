@@ -7,8 +7,6 @@
 
 include(devpkg-base)
 include(devpkg-bzip2)
-include(devpkg-harfbuzz)
 include(devpkg-zlib)
 
 freetype-dev
-include(lib-imageformat)
