@@ -2,7 +2,9 @@ alsa
 apr-1
 apr-util-1
 audit
+avahi-client
 babl-0.1
+babl
 bigreqsproto
 blkid
 bluez
@@ -41,7 +43,6 @@ fontutil
 form
 formw
 freeglut
-glut
 freetype2
 fribidi
 fuse
@@ -91,6 +92,7 @@ glibmm-2.4
 glm
 glproto
 glu
+glut
 gmime-3.0
 gmock
 gmock_main
@@ -247,6 +249,7 @@ libglog
 libgnomekbd
 libgnomekbdui
 libgnome-menu-3.0
+libgnome-panel
 libgphoto2
 libgphoto2_port
 libgsf
@@ -344,7 +347,6 @@ libpgtypes
 libpinyin
 libpipeline
 libpipewire-0.3
-libspa-0.2
 libpkcs11-helper-1
 libpmem
 libpmemblk
@@ -380,8 +382,11 @@ libsmbios_c
 libsolv
 libsolvext
 libsoup-2.4
+libsoup-3.0
+libsoup
 libsoup-gnome-2.4
 libspa-0.1
+libspa-0.2
 libspectre
 libsrtp
 libssh
@@ -408,13 +413,13 @@ libunwind-coredump
 libunwind-generic
 libunwind-ptrace
 libunwind-setjmp
-liburing
 liburcu
 liburcu-bp
 liburcu-cds
 liburcu-mb
 liburcu-qsbr
 liburcu-signal
+liburing
 libusb-1.0
 libusbredirhost
 libusbredirparser-0.5
@@ -427,9 +432,8 @@ libv4lconvert
 libva
 libva-drm
 libva-glx
-libvala-0.56
 libvala-0.46
-vapigen
+libvala-0.56
 libva-wayland
 libva-x11
 libvirt
@@ -469,6 +473,7 @@ numa
 ogg
 ompi
 opencv
+OpenImageIO
 openssl
 opus
 pango
@@ -480,6 +485,7 @@ Qt5Svg
 Qt5UiTools
 Qt5Widgets
 readline
+rest-1.0
 samplerate
 SDL2_gfx
 SDL2_image
@@ -500,6 +506,9 @@ talloc
 tbb
 tesseract
 theora
+vapigen
+vte-2.91
+vte
 virglrenderer
 vorbis
 vpx
@@ -597,6 +606,3 @@ xxf86vm
 yaml-cpp
 zlib
 zstd
-OpenImageIO
-rest-1.0
-avahi-client
