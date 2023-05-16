@@ -10,3 +10,4 @@ include(devpkg-dbus)
 include(devpkg-libnl)
 
 libpcap-dev
+include(libpcap-lib)

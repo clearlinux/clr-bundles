@@ -14,6 +14,7 @@ include(linux-firmware-wifi)
 include(openssh-server)
 include(storage-utils)
 include(wpa_supplicant)
+include(network-basic)
 
 also-add(glibc-locale)
 also-add(less)

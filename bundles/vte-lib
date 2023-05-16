@@ -7,6 +7,22 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libxml2)
+include(nettle-lib)
+include(ncurses-lib)
+include(xz)
+include(openldap)
+include(lib-imageformat)
+include(icu4c-lib)
+include(harfbuzz-lib)
+include(gstreamer)
+include(gmp-lib)
+include(libglib)
+include(curl)
+include(lib-opengl)
+include(libX11client)
+include(gdk-pixbuf)
+include(libstdcpp)
 
 # end of custom additions
 
