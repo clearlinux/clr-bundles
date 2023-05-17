@@ -8,6 +8,8 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(bcc)
+include(bcc-lib)
 include(libxml2)
 include(ncurses-lib)
 include(python3-basic)

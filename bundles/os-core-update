@@ -26,3 +26,4 @@ xz-bin
 include(curl)
 include(libarchive)
 include(popt-lib)
+include(clr-hardware-files)
