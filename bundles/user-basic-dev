@@ -44,6 +44,7 @@ acl-staticdev
 include(acpica-unix2)
 include(devpkg-alsa-lib)
 include(devpkg-alsa-lib)
+armadillo-data
 asciidoc
 include(aspell)
 include(devpkg-at-spi2-core)
@@ -106,8 +107,10 @@ include(devpkg-compat-libsoup-soname-24)
 include(devpkg-confuse)
 coreutils
 cppcheck
+include(devpkg-cppunit)
 cracklib-dev
 include(devpkg-cryptsetup)
+cscope
 ctags
 cups
 include(devpkg-cups)
@@ -170,6 +173,7 @@ include(devpkg-freetype)
 include(devpkg-fribidi)
 include(devpkg-fuse)
 gawk
+include(devpkg-gc)
 gcc
 gcc-dev
 gcc-dev
@@ -178,6 +182,7 @@ gcc-libstdc++32
 gcc-staticdev
 gcc7-dev
 gcc8-dev
+include(devpkg-gdal)
 include(gdb)
 gdb-dev
 gdbm
@@ -247,8 +252,10 @@ include(devpkg-gtk-doc)
 gtk-vnc-dev
 include(devpkg-gtk3)
 include(guile)
+include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)
+hdf5-dev
 help2man
 hostname
 httpd-dev
@@ -276,6 +283,7 @@ include(devpkg-jansson)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
+include(devpkg-jsoncpp)
 kdoctools-dev
 include(devpkg-keyutils)
 kmod
@@ -451,6 +459,7 @@ man-db
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
+meson
 meson-python3
 mingw-gcc
 mpc-dev
@@ -486,6 +495,8 @@ include(devpkg-onig)
 open-iscsi
 include(devpkg-open-isns)
 include(devpkg-openal-soft)
+include(openblas)
+opencl-headers-dev
 include(devpkg-openexr)
 openjdk
 openjdk-dev
@@ -510,6 +521,7 @@ include(devpkg-pango)
 include(devpkg-parted)
 include(patch)
 patchelf
+patchutils
 include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre2
@@ -651,6 +663,7 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
+php-dev
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
@@ -663,6 +676,7 @@ include(devpkg-pmdk)
 include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
+include(devpkg-postgresql)
 processor-trace-dev
 procmail
 include(procps-ng)
@@ -683,6 +697,7 @@ pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-idna
 pypi-iso8601
+pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-mako
@@ -749,6 +764,8 @@ include(devpkg-sqlite-autoconf)
 sssd-dev
 include(devpkg-stoken)
 include(strace)
+include(devpkg-subunit)
+include(subversion)
 swig
 systemd
 systemd-bin
@@ -768,6 +785,7 @@ tdb-python3
 include(devpkg-tevent)
 tevent-python3
 include(texinfo)
+include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk
@@ -802,6 +820,7 @@ include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
+include(wget)
 include(which)
 include(devpkg-xapian-core)
 xauth

@@ -149,7 +149,6 @@ linux-libc-headers
 include(llvm)
 include(devpkg-lz4)
 include(devpkg-lz4)
-m4
 include(make)
 meson-python3
 mpc-dev
@@ -239,5 +238,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(harfbuzz-lib)
-include(libpsl-lib)
