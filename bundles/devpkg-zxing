@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-qt6base
-# [DESCRIPTION]: All content for pkgconfig file qt6base.pc.
+# [TITLE]: devpkg-zxing
+# [DESCRIPTION]: All content for pkgconfig file zxing.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,8 +7,5 @@
 
 include(devpkg-base)
 
-qt6base-dev
-include(libX11client)
-include(libglib)
-include(lib-imageformat)
+zxing-dev
 include(libstdcpp)

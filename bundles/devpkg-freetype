@@ -7,8 +7,8 @@
 
 include(devpkg-base)
 include(devpkg-bzip2)
+include(devpkg-harfbuzz)
 include(devpkg-zlib)
 
 freetype-dev
-include(libX11client)
-include(icu4c-lib)
+include(lib-imageformat)

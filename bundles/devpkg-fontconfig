@@ -7,9 +7,6 @@
 
 include(devpkg-base)
 include(devpkg-expat)
+include(devpkg-freetype)
 
 fontconfig-dev
-include(libX11client)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)

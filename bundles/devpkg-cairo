@@ -6,14 +6,15 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-fontconfig)
+include(devpkg-freetype)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-libX11)
-include(devpkg-lzo)
+include(devpkg-pixman)
 include(devpkg-zlib)
 
 cairo-dev
 include(libX11client)
-include(harfbuzz-lib)
-include(icu4c-lib)
+include(libglib)
 include(lib-imageformat)

@@ -1,7 +1,9 @@
+pkgconfig(Baloo)	devpkg-baloo
 pkgconfig(DirectX-Headers)	devpkg-directx-headers
 pkgconfig(INIReader)	devpkg-inih
 pkgconfig(ImageMagick)	devpkg-ImageMagick
 pkgconfig(Imath)	devpkg-Imath
+pkgconfig(KF5WaylandClient)	devpkg-kwayland
 pkgconfig(Magick++)	devpkg-ImageMagick
 pkgconfig(MagickCore)	devpkg-ImageMagick
 pkgconfig(MagickCore-7.Q16HDRI)	devpkg-ImageMagick
@@ -263,6 +265,10 @@ pkgconfig(botan-2)	devpkg-Botan
 pkgconfig(bsdiff)	devpkg-bsdiff
 pkgconfig(bytesize)	devpkg-libbytesize
 pkgconfig(bzip2)	devpkg-bzip2
+pkgconfig(cairo)	devpkg-cairo
+pkgconfig(cairo-gobject)	devpkg-cairo
+pkgconfig(cairo-xlib)	devpkg-cairo
+pkgconfig(cairomm-1.0)	devpkg-compat-cairomm-soname10
 pkgconfig(camel-1.2)	devpkg-evolution-data-server
 pkgconfig(capnp)	devpkg-capnproto
 pkgconfig(capnp-json)	devpkg-capnproto
@@ -339,6 +345,7 @@ pkgconfig(flac)	devpkg-flac
 pkgconfig(flac++)	devpkg-flac
 pkgconfig(flatpak)	devpkg-flatpak
 pkgconfig(fmt)	devpkg-fmt
+pkgconfig(fontconfig)	devpkg-fontconfig
 pkgconfig(fontenc)	devpkg-libfontenc
 pkgconfig(fontsproto)	devpkg-xorgproto
 pkgconfig(fontutil)	devpkg-font-util
@@ -899,6 +906,9 @@ pkgconfig(libwacom)	devpkg-libwacom
 pkgconfig(libwebp)	devpkg-libwebp
 pkgconfig(libwebpdemux)	devpkg-libwebp
 pkgconfig(libwebpmux)	devpkg-libwebp
+pkgconfig(libweston-6)	devpkg-weston
+pkgconfig(libweston-6-protocols)	devpkg-weston
+pkgconfig(libweston-desktop-6)	devpkg-weston
 pkgconfig(libwnck-3.0)	devpkg-libwnck3
 pkgconfig(libwoff2common)	devpkg-woff2
 pkgconfig(libwoff2dec)	devpkg-woff2
@@ -1111,6 +1121,7 @@ pkgconfig(wayland-scanner)	devpkg-wayland
 pkgconfig(wayland-server)	devpkg-wayland
 pkgconfig(wbclient)	devpkg-samba
 pkgconfig(webkit2gtk-4.1)	devpkg-webkitgtk
+pkgconfig(weston)	devpkg-weston
 pkgconfig(wlroots)	devpkg-wlroots
 pkgconfig(x11)	devpkg-libX11
 pkgconfig(x11-xcb)	devpkg-libX11
@@ -1214,3 +1225,4 @@ pkgconfig(xxf86vm)	devpkg-libX11
 pkgconfig(yajl)	devpkg-yajl
 pkgconfig(yelp-xsl)	devpkg-yelp-xsl
 pkgconfig(zlib)	devpkg-zlib
+pkgconfig(zxing)	devpkg-zxing

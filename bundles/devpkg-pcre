@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 pcre-dev
-include(pcre-lib)

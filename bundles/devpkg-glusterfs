@@ -10,4 +10,3 @@ include(devpkg-util-linux)
 
 glusterfs-dev
 include(curl)
-include(libnl)

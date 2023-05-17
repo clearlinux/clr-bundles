@@ -1,14 +1,14 @@
-# [TITLE]: devpkg-qt6base
-# [DESCRIPTION]: All content for pkgconfig file qt6base.pc.
+# [TITLE]: devpkg-kwayland
+# [DESCRIPTION]: All content for pkgconfig file kwayland.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-qtbase)
 
-qt6base-dev
-include(libX11client)
-include(libglib)
-include(lib-imageformat)
+kwayland-dev
+include(qt-core)
+include(qt-basic)
 include(libstdcpp)
