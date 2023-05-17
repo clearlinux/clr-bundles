@@ -25,3 +25,4 @@ shadow
 systemd-man
 include(systemd)
 include(ncurses-lib)
+include(dbus-lib)

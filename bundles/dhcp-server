@@ -8,3 +8,4 @@ dnsmasq
 include(systemd)
 include(gmp-lib)
 include(nettle-lib)
+include(dbus-lib)

@@ -12,3 +12,4 @@ cryptsetup-bin
 cryptsetup-config
 cryptsetup-lib
 include(libglib)
+include(popt-lib)

@@ -9,3 +9,4 @@ gptfdisk-bin
 shim
 include(syslinux)
 include(libstdcpp)
+include(popt-lib)

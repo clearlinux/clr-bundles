@@ -13,3 +13,6 @@ include(devpkg-gtk3)
 Thunar-dev
 include(libX11client)
 include(libglib)
+include(libpsl-lib)
+include(webkitgtk)
+include(popt-lib)

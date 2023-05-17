@@ -9,3 +9,5 @@ include(devpkg-base)
 
 kronosnet-dev
 include(xz)
+include(lz4)
+include(libnl)

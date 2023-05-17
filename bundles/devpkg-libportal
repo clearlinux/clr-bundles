@@ -16,3 +16,5 @@ include(devpkg-qtx11extras)
 libportal-dev
 include(libglib)
 include(libX11client)
+include(gnome-base-libs)
+include(audio-pipewire)

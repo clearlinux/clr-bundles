@@ -7,6 +7,8 @@
 
 
 # start of custom additions
+include(popt-lib)
+include(dbus-lib)
 include(openldap)
 include(icu4c-lib)
 include(libstdcpp)
