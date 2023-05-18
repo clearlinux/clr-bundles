@@ -8,6 +8,7 @@
 include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(PyYAML)
 include(pypi-requests)
 include(lib-imageformat)
 include(openldap)

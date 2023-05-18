@@ -19,3 +19,4 @@ netaddr
 include(pypi-pynacl)
 include(pypi-six)
 include(pypi-requests)
+include(PyYAML)
