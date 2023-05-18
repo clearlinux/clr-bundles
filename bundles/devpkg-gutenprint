@@ -12,3 +12,5 @@ gutenprint-dev
 include(libX11client)
 include(libglib)
 include(LibRaw-lib)
+include(dav1d-lib)
+include(not-ffmpeg-lib)

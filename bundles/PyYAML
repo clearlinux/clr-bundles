@@ -7,6 +7,10 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(yaml)
+include(sqlite)
+include(xz)
+include(python3-basic)
 PyYAML-python3
 
 # end of custom additions

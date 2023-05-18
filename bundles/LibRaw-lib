@@ -7,6 +7,8 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+# include(lib-imageformat)
+include(libstdcpp)
 
 # end of custom additions
 
