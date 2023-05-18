@@ -7,6 +7,7 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(LibRaw-lib)
 include(php-basic)
 include(unzip)
 php-imagick

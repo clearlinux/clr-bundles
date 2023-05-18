@@ -12,3 +12,4 @@ ImageMagick
 gifsicle
 jpegoptim
 pngcrush
+include(LibRaw-lib)

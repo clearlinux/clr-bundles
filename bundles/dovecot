@@ -9,6 +9,7 @@ include(lib-openssl)
 include(openldap)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(sqlite)
 include(lz4)
 dovecot-doc
 pigeonhole

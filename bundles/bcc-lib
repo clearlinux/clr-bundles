@@ -7,6 +7,13 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(sqlite)
+# include(bcc)
+include(libxml2)
+include(ncurses-lib)
+include(xz)
+include(libstdcpp)
+include(python3-basic)
 
 # end of custom additions
 

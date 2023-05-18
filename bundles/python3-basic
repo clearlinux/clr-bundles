@@ -17,3 +17,4 @@ python3-dev
 pypi-setuptools
 swupd-search
 pypi-virtualenv
+include(sqlite)

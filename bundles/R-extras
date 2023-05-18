@@ -814,3 +814,4 @@ eigen
 include(pandoc)
 include(lz4)
 include(libunwind-lib)
+include(LibRaw-lib)
