@@ -77,6 +77,7 @@ autogen
 automake
 automake-dev
 include(devpkg-babeltrace)
+include(devpkg-baloo)
 bash
 bash-completion
 include(devpkg-bash-completion)
@@ -363,6 +364,8 @@ include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
 include(devpkg-jsoncpp)
+kaccounts-integration-dev
+include(devpkg-kactivities)
 karchive-dev
 kauth
 kauth-dev
@@ -377,15 +380,20 @@ kcrash-dev
 kdbusaddons-dev
 kdeclarative-dev
 kded-dev
+kdegraphics-mobipocket-dev
+kdelibs4support-dev
 kdesignerplugin-dev
+kdesu-dev
 kdoctools-dev
 kemoticons-dev
 include(devpkg-keyutils)
+kfilemetadata-dev
 kglobalaccel
 kglobalaccel-dev
 kguiaddons-dev
 ki18n-dev
 kiconthemes-dev
+kidletime-dev
 kio-dev
 kirigami2-dev
 kitemviews-dev
@@ -404,6 +412,7 @@ kservice-dev
 ktextwidgets-dev
 kunitconversion-dev
 kwallet-dev
+include(devpkg-kwayland)
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
@@ -497,6 +506,7 @@ include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libkcapi)
+libkexiv2-dev
 libkipi-dev
 include(devpkg-libksba)
 include(devpkg-libmaxminddb)
@@ -681,6 +691,7 @@ include(devpkg-openal-soft)
 include(openblas)
 include(devpkg-openblas)
 opencl-headers-dev
+include(devpkg-opencv)
 include(devpkg-openexr)
 openjade-dev
 openjdk
@@ -876,6 +887,7 @@ include(devpkg-pixman)
 include(devpkg-pkcs11-helper)
 pkg-config
 include(devpkg-pkg-config)
+plasma-framework-dev
 plasma-wayland-protocols-dev
 include(plzip)
 include(devpkg-pmdk)
@@ -883,6 +895,7 @@ pmix-dev
 include(devpkg-polkit)
 include(devpkg-polkit-qt)
 include(devpkg-poppler)
+poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
 ppp-dev
@@ -960,6 +973,7 @@ pypi-meson_python-python3
 pypi-mock-python3
 pypi-msgpack-python3
 pypi-munkres-python3
+pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
@@ -979,6 +993,7 @@ pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pygments-python3
+pypi-pylint-python3
 pypi-pyomo-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
@@ -1012,6 +1027,7 @@ pypi-sphinx_rtd_theme-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-templated_dictionary-python3
 pypi-tox
+pypi-tox-python3
 pypi-trove_classifiers-python3
 pypi-typing_extensions-python3
 pypi-typogrify-python3
@@ -1041,16 +1057,20 @@ include(devpkg-qtcharts)
 include(devpkg-qtconnectivity)
 include(devpkg-qtdeclarative)
 qtdeclarative-staticdev
+include(devpkg-qtlocation)
 include(devpkg-qtmultimedia)
+include(devpkg-qtquickcontrols2)
 include(devpkg-qtsensors)
 include(devpkg-qtserialport)
 include(devpkg-qtsvg)
 include(devpkg-qttools)
 include(devpkg-qtwayland)
+include(devpkg-qtwebchannel)
 include(devpkg-qtwebsockets)
 include(devpkg-qtx11extras)
 include(devpkg-qtxmlpatterns)
 include(devpkg-rdma-core)
+include(devpkg-re2)
 include(devpkg-readline)
 include(devpkg-readline)
 include(devpkg-rest)
@@ -1119,6 +1139,7 @@ tevent-python3
 include(texinfo)
 include(texlive)
 thin-provisioning-tools
+threadweaver-dev
 include(devpkg-tiff)
 tk
 include(devpkg-tk)
@@ -1158,6 +1179,8 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 include(devpkg-webkitgtk)
+weston
+include(devpkg-weston)
 include(wget)
 include(which)
 include(devpkg-woff2)
@@ -1197,5 +1220,4 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(pypi-requests)
-include(libglib)
+include(devpkg-zxing)
