@@ -12,4 +12,3 @@ include(libglib)
 compat-enchant-soname1-dev
 include(libglib)
 include(libstdcpp)
-include(aspell)
