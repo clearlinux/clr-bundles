@@ -9,3 +9,4 @@ include(devpkg-base)
 
 dav1d-dev
 include(dav1d)
+include(dav1d-lib)

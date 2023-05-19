@@ -12,3 +12,4 @@ include(devpkg-libgcrypt)
 include(devpkg-util-linux)
 
 cryptsetup-dev
+include(popt-lib)

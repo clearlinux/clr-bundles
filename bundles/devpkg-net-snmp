@@ -8,3 +8,6 @@
 include(devpkg-base)
 
 net-snmp-dev
+include(libnl)
+include(libpcap-lib)
+include(pcre-lib)

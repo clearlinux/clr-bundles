@@ -11,3 +11,5 @@ include(devpkg-zlib)
 
 freetype-dev
 include(lib-imageformat)
+include(harfbuzz-lib)
+include(icu4c-lib)
