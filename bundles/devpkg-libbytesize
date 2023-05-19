@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 libbytesize-dev
-include(pypi-six)

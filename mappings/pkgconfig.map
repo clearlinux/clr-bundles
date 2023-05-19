@@ -529,12 +529,6 @@ pkgconfig(ini_config)	devpkg-ding-libs
 pkgconfig(inih)	devpkg-inih
 pkgconfig(inputproto)	devpkg-xorgproto
 pkgconfig(intel-gen4asm)	devpkg-igt-gpu-tools
-pkgconfig(ippcp-dynamic-ia32)	devpkg-ipp-crypto
-pkgconfig(ippcp-dynamic-intel64)	devpkg-ipp-crypto
-pkgconfig(ippcp-static-ia32)	devpkg-ipp-crypto
-pkgconfig(ippcp-static-ia32-nonpic)	devpkg-ipp-crypto
-pkgconfig(ippcp-static-intel64)	devpkg-ipp-crypto
-pkgconfig(ippcp-static-intel64-nonpic)	devpkg-ipp-crypto
 pkgconfig(iso-codes)	devpkg-iso-codes
 pkgconfig(jack)	devpkg-jack2
 pkgconfig(jags)	devpkg-JAGS

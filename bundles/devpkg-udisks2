@@ -11,4 +11,3 @@ include(libglib)
 
 udisks2-dev
 include(libglib)
-include(pypi-six)

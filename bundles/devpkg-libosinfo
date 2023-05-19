@@ -11,6 +11,3 @@ include(libglib)
 
 libosinfo-dev
 include(libglib)
-include(icu4c-lib)
-include(libpsl-lib)
-include(clr-hardware-files)

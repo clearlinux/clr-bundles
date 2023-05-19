@@ -15,4 +15,3 @@ vte-dev
 include(libX11client)
 include(libglib)
 include(libstdcpp)
-include(vte-lib)
