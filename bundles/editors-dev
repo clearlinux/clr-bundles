@@ -27,6 +27,7 @@ bats
 include(binutils)
 include(bison)
 bison-dev
+include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
@@ -238,5 +239,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(harfbuzz-lib)
-include(libpsl-lib)
