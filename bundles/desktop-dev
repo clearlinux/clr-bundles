@@ -155,6 +155,7 @@ include(docbook-utils)
 docbook-xml
 double-conversion-dev
 include(doxygen)
+include(devpkg-dpdk)
 include(devpkg-duktape)
 e2fsprogs
 e2fsprogs-data
@@ -1144,6 +1145,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(PyYAML)
-include(libX11client)
-include(libglib)
