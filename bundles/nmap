@@ -8,6 +8,9 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(sqlite)
+include(xz)
+include(python3-basic)
 include(pcre-lib)
 include(libpcap-lib)
 include(libnl)

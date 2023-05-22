@@ -8,3 +8,5 @@
 include(devpkg-base)
 
 libspatialite-dev
+include(sqlite)
+include(libxml2)

@@ -33,3 +33,4 @@ pypi-urllib3
 koji
 include(pypi-six)
 include(pypi-requests)
+include(openldap)

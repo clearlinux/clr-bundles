@@ -9,3 +9,4 @@ include(devpkg-base)
 
 libunwind-dev
 include(xz)
+include(libunwind-lib)

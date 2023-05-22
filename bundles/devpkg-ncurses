@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 ncurses-dev
+include(ncurses-lib)
