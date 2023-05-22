@@ -9,4 +9,3 @@ include(devpkg-base)
 
 intel-media-driver-dev
 include(libstdcpp)
-include(libX11client)

@@ -296,8 +296,6 @@ pkgconfig(com_err)	devpkg-e2fsprogs
 pkgconfig(compositeproto)	devpkg-xorgproto
 pkgconfig(corosync)	devpkg-corosync
 pkgconfig(cppunit)	devpkg-cppunit
-pkgconfig(crypto_mb-dynamic-intel64)	devpkg-ipp-crypto
-pkgconfig(crypto_mb-static-intel64)	devpkg-ipp-crypto
 pkgconfig(cunit)	devpkg-CUnit
 pkgconfig(cups)	devpkg-cups
 pkgconfig(damageproto)	devpkg-xorgproto
@@ -1162,7 +1160,6 @@ pkgconfig(xcmiscproto)	devpkg-xorgproto
 pkgconfig(xcomposite)	devpkg-libX11
 pkgconfig(xcursor)	devpkg-libXcursor
 pkgconfig(xdamage)	devpkg-libX11
-pkgconfig(xdg-desktop-portal)	devpkg-xdg-desktop-portal
 pkgconfig(xdmcp)	devpkg-libX11
 pkgconfig(xext)	devpkg-libX11
 pkgconfig(xextproto)	devpkg-xorgproto

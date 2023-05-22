@@ -8,6 +8,3 @@
 include(devpkg-base)
 
 libspatialite-dev
-include(lib-imageformat)
-include(sqlite)
-include(libxml2)
