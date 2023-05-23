@@ -26,3 +26,4 @@ include(openssh-client)
 psmisc
 include(sqlite)
 include(xorriso)
+include(gobject-introspection)

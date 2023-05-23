@@ -9,3 +9,12 @@ include(devpkg-base)
 
 nlopt-dev
 include(libstdcpp)
+include(libnl)
+include(libX11client)
+include(lib-opengl)
+include(qt-core)
+include(qt-basic)
+include(harfbuzz-lib)
+include(icu4c-lib)
+include(lib-imageformat)
+include(openldap)

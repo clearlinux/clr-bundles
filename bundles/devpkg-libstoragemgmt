@@ -10,3 +10,4 @@ include(devpkg-base)
 libstoragemgmt-dev
 include(libglib)
 include(libstdcpp)
+include(pypi-six)

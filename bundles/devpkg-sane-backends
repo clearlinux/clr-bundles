@@ -10,3 +10,5 @@ include(devpkg-base)
 sane-backends-dev
 include(lib-imageformat)
 include(libstdcpp)
+include(libnl)
+include(pcre-lib)

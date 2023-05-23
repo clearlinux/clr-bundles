@@ -40,3 +40,4 @@ pidgin-sipe
 thermal_monitor
 include(openblas)
 include(vte-lib)
+include(opencv-python)

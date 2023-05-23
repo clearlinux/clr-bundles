@@ -13,3 +13,4 @@ cryptsetup-config
 cryptsetup-lib
 include(libglib)
 include(popt-lib)
+include(gobject-introspection)

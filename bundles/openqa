@@ -12,3 +12,4 @@ opencv-lib
 openQA
 os-autoinst
 include(openblas)
+include(opencv-python)

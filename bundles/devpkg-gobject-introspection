@@ -11,3 +11,4 @@ include(libglib)
 
 gobject-introspection-dev
 include(libglib)
+include(gobject-introspection)

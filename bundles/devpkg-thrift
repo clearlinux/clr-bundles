@@ -12,3 +12,4 @@ include(libglib)
 thrift-dev
 include(libglib)
 include(libstdcpp)
+include(pypi-six)
