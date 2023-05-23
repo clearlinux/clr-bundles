@@ -11,4 +11,5 @@ include(devpkg-libdrm)
 igt-gpu-tools-dev
 include(libX11client)
 include(libglib)
+include(perl-basic)
 include(igt-gpu-tools)

@@ -9,3 +9,4 @@ include(devpkg-base)
 
 hunspell-dev
 include(libstdcpp)
+include(perl-basic)

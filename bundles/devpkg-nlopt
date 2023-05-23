@@ -9,4 +9,3 @@ include(devpkg-base)
 
 nlopt-dev
 include(libstdcpp)
-include(libnl)

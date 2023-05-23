@@ -10,3 +10,4 @@ include(devpkg-util-linux)
 
 glusterfs-dev
 include(curl)
+include(python3-basic)

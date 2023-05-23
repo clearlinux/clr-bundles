@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 icon-naming-utils-dev
+include(perl-basic)

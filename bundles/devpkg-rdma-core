@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-libnl)
 
 rdma-core-dev
+include(perl-basic)

@@ -16,3 +16,4 @@ include(devpkg-zlib)
 
 libgd-dev
 include(lib-imageformat)
+include(perl-basic)

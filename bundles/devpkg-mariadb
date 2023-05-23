@@ -11,4 +11,5 @@ mariadb-dev
 include(curl)
 include(xz)
 include(libstdcpp)
+include(perl-basic)
 include(mariadb)

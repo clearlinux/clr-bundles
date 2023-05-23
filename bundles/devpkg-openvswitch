@@ -8,5 +8,6 @@
 include(devpkg-base)
 
 openvswitch-dev
+include(python3-basic)
 include(libstdcpp)
 include(openvswitch)

@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 libstatgrab-dev
+include(perl-basic)

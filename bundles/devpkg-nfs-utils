@@ -9,4 +9,5 @@ include(devpkg-base)
 
 nfs-utils-dev
 include(openldap)
+include(python3-basic)
 include(nfs-utils)
