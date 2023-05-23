@@ -355,6 +355,7 @@ ipset
 include(iptables)
 include(devpkg-iptables)
 include(devpkg-iptables)
+include(devpkg-isa-l)
 include(devpkg-iso-codes)
 itstool
 include(devpkg-jack2)
@@ -979,6 +980,7 @@ pypi-py-python3
 pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pyelftools-python3
 pypi-pygments-python3
 pypi-pyomo-python3
 pypi-pyparsing-python3
@@ -1198,5 +1200,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(pypi-requests)
-include(libglib)
