@@ -227,7 +227,7 @@ gnu-efi-staticdev
 include(gnupg)
 include(devpkg-gnutls)
 go
-gobject-introspection
+include(gobject-introspection)
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf

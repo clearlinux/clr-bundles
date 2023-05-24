@@ -226,7 +226,7 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg)
 include(devpkg-gnutls)
-gobject-introspection
+include(gobject-introspection)
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
@@ -888,5 +888,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(pypi-requests)
-include(libglib)

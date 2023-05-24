@@ -297,7 +297,7 @@ include(gnupg)
 include(devpkg-gnutls)
 include(devpkg-gnutls)
 go
-gobject-introspection
+include(gobject-introspection)
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
@@ -927,7 +927,6 @@ include(pypi-cython)
 pypi-cython-python3
 pypi-devpi_process-python3
 pypi-distlib-python3
-pypi-distro-python3
 pypi-dnspython
 pypi-docutils
 pypi-filelock-python3
@@ -959,6 +958,7 @@ pypi-mako
 pypi-markdown-python3
 pypi-meson_python
 pypi-meson_python-python3
+pypi-mock
 pypi-mock-python3
 pypi-msgpack-python3
 pypi-munkres-python3
@@ -986,7 +986,6 @@ pypi-pyomo-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
 pypi-pyproject_metadata-python3
-pypi-pyroute2-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
@@ -1013,7 +1012,6 @@ pypi-sphinx
 pypi-sphinx-python3
 pypi-sphinx_rtd_theme-python3
 pypi-sphinxcontrib_serializinghtml-python3
-pypi-templated_dictionary-python3
 pypi-tox
 pypi-trove_classifiers-python3
 pypi-typing_extensions-python3
@@ -1200,5 +1198,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(pypi-requests)
-include(libglib)
