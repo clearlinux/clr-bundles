@@ -9,12 +9,3 @@ include(devpkg-base)
 
 gi-docgen-dev
 include(python3-basic)
-include(gdk-pixbuf)
-include(libX11client)
-include(lib-opengl)
-include(qt-core)
-include(qt-basic)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)
-include(openldap)

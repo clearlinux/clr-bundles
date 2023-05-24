@@ -1160,6 +1160,7 @@ pkgconfig(xcmiscproto)	devpkg-xorgproto
 pkgconfig(xcomposite)	devpkg-libX11
 pkgconfig(xcursor)	devpkg-libXcursor
 pkgconfig(xdamage)	devpkg-libX11
+pkgconfig(xdg-desktop-portal)	devpkg-xdg-desktop-portal
 pkgconfig(xdmcp)	devpkg-libX11
 pkgconfig(xext)	devpkg-libX11
 pkgconfig(xextproto)	devpkg-xorgproto
