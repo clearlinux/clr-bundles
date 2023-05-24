@@ -10,3 +10,5 @@ include(devpkg-base)
 grilo-plugins-dev
 include(libglib)
 include(gstreamer)
+include(libpsl-lib)
+include(webkitgtk)

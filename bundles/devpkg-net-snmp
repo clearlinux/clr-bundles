@@ -9,3 +9,6 @@ include(devpkg-base)
 
 net-snmp-dev
 include(perl-basic)
+include(libnl)
+include(libpcap-lib)
+include(pcre-lib)

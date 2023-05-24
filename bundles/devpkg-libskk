@@ -12,3 +12,4 @@ include(devpkg-libgee)
 
 libskk-dev
 include(libglib)
+include(libX11client)

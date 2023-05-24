@@ -9,3 +9,4 @@ include(devpkg-base)
 
 slang-dev
 include(lib-imageformat)
+include(pcre-lib)
