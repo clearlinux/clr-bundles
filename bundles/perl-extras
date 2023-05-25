@@ -835,3 +835,4 @@ perl-prefork
 perl-strictures
 include(libevent-lib)
 include(icu4c-lib)
+include(libXpm-lib)

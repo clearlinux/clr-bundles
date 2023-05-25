@@ -144,3 +144,4 @@ also-add(yakuake)
 zeroconf-ioslave
 include(kde-frameworks5)
 include(LibRaw-lib)
+include(kmime)

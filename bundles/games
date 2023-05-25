@@ -140,3 +140,4 @@ SDL2_image
 SDL2_net
 SDL2_ttf
 include(gnome-base-libs)
+include(libXpm-lib)

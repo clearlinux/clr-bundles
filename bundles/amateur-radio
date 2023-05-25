@@ -38,3 +38,4 @@ xlog
 xnec2c
 include(libevent-lib)
 include(pcre-lib)
+include(libXpm-lib)

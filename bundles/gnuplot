@@ -12,6 +12,7 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libXpm-lib)
 
 # end of custom additions
 

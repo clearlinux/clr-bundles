@@ -10,3 +10,4 @@ include(devpkg-libX11)
 
 libXpm-dev
 include(libX11client)
+include(libXpm-lib)

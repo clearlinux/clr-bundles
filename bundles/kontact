@@ -12,6 +12,7 @@ include(lib-qt5webengine)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(kmime)
 
 # end of custom additions
 
