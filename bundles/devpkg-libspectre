@@ -8,3 +8,8 @@
 include(devpkg-base)
 
 libspectre-dev
+include(libX11client)
+include(harfbuzz-lib)
+include(icu4c-lib)
+include(lib-imageformat)
+include(openldap)

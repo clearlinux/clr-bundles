@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 dbus-dev
+include(dbus-lib)
