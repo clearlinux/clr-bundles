@@ -1,16 +1,15 @@
-# [TITLE]: iwd
-# [DESCRIPTION]: Wireless daemon for Linux
+# [TITLE]: gegl
+# [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+# [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(systemd)
-include(ncurses-lib)
+include(gegl-lib)
 
 # end of custom additions
 
 # main package
-iwd
+gegl
