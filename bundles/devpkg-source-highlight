@@ -9,4 +9,3 @@ include(devpkg-base)
 
 source-highlight-dev
 include(libstdcpp)
-include(icu4c-lib)

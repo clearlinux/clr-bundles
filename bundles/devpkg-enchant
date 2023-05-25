@@ -12,4 +12,3 @@ include(libglib)
 enchant-dev
 include(libglib)
 include(libstdcpp)
-include(aspell)

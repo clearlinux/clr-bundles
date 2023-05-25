@@ -13,6 +13,3 @@ include(devpkg-gtk3)
 gnome-panel-dev
 include(libX11client)
 include(libglib)
-include(gnome-base-libs)
-include(libpsl-lib)
-include(webkitgtk)
