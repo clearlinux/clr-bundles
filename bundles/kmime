@@ -7,8 +7,6 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(kmime-lib)
-
 # end of custom additions
 
 # main package
