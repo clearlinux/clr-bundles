@@ -8,6 +8,7 @@ include(perl-basic)
 include(libX11client)
 include(wayland-server)
 include(webkitgtk)
+include(x11-tools)
 
 perl-Cairo
 perl-Cairo-GObject

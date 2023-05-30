@@ -7,6 +7,23 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libxml2)
+include(not-ffmpeg-lib)
+include(sqlite)
+include(LibRaw-lib)
+include(nettle-lib)
+include(xz)
+include(lib-imageformat)
+include(icu4c-lib)
+include(harfbuzz-lib)
+include(gmp-lib)
+include(libglib)
+include(dbus-lib)
+include(dav1d-lib)
+include(curl)
+include(libstdcpp)
+include(libX11client)
+include(gdk-pixbuf)
 	
 # end of custom additions
 
