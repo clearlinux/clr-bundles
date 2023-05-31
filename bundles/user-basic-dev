@@ -70,6 +70,7 @@ bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
 bridge-utils
+include(devpkg-brotli)
 include(devpkg-bsdiff)
 include(devpkg-btrfs-progs)
 buildreq-cmake

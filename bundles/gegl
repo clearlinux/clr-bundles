@@ -24,7 +24,7 @@ include(curl)
 include(libstdcpp)
 include(libX11client)
 include(gdk-pixbuf)
-	
+
 # end of custom additions
 
 # main package

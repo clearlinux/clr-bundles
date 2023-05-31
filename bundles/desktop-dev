@@ -327,6 +327,7 @@ include(devpkg-icon-naming-utils)
 include(devpkg-icu4c)
 include(devpkg-icu4c)
 include(devpkg-igt-gpu-tools)
+include(devpkg-inih)
 include(devpkg-intel-gmmlib)
 intel-ipsec-mb-dev
 include(devpkg-intel-media-driver)
@@ -865,7 +866,6 @@ pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-httpretty-python3
-pypi-hypothesis
 pypi-hypothesis-python3
 pypi-idna-python3
 pypi-importlib_metadata-python3
@@ -931,7 +931,6 @@ pypi-pycparser-python3
 pypi-pydocstyle-python3
 pypi-pyflakes-python3
 pypi-pygments-python3
-pypi-pyomo-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
 pypi-pytest
@@ -988,6 +987,7 @@ pypi-wcwidth-python3
 pypi-webcolors-python3
 pypi-webencodings-python3
 pypi-wheel-python3
+pypi-xmlschema-python3
 pypi-zipp-python3
 pypi-zopfli-python3
 python-pocketlint

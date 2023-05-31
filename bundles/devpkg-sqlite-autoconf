@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 sqlite-autoconf-dev
-include(sqlite)

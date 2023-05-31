@@ -664,6 +664,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+include(devpkg-brotli)
 buildreq-R
 buildreq-cmake
 buildreq-configure
@@ -833,6 +834,7 @@ ibus-dev
 ibus-libpinyin
 include(devpkg-icu4c)
 include(devpkg-icu4c)
+include(devpkg-inih)
 include(devpkg-intel-gmmlib)
 include(intltool)
 intltool-dev
@@ -1327,7 +1329,3 @@ include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
 include(libX11client)
-include(pypi-numpy)
-include(desktop-kde-libs)
-include(vte-lib)
-include(clr-hardware-files)

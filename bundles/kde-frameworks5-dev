@@ -264,6 +264,7 @@ ibus-dev
 ibus-libpinyin
 include(devpkg-icu4c)
 include(devpkg-icu4c)
+include(devpkg-inih)
 include(devpkg-intel-gmmlib)
 include(intltool)
 intltool-dev

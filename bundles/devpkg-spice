@@ -16,4 +16,3 @@ include(devpkg-spice-protocol)
 spice-dev
 include(libglib)
 include(lib-imageformat)
-include(lz4)

@@ -11,4 +11,3 @@ include(devpkg-lcms2)
 LibRaw-dev
 include(lib-imageformat)
 include(libstdcpp)
-include(LibRaw-lib)
