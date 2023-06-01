@@ -9,4 +9,3 @@ include(devpkg-base)
 
 gperftools-dev
 include(libstdcpp)
-include(libunwind-lib)

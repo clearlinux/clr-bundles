@@ -1041,8 +1041,6 @@ source-highlight
 include(devpkg-source-highlight)
 include(devpkg-speex)
 include(devpkg-speexdsp)
-include(devpkg-spice)
-include(devpkg-spice-protocol)
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)

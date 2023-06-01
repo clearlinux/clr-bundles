@@ -14,6 +14,3 @@ Thunar-dev
 include(libX11client)
 include(libglib)
 include(libXpm-lib)
-include(popt-lib)
-include(libpsl-lib)
-include(webkitgtk)
