@@ -11,3 +11,4 @@ include(devpkg-tdb)
 
 ldb-dev
 include(openldap)
+include(popt-lib)

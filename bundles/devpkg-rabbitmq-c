@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-openssl)
 
 rabbitmq-c-dev
+include(popt-lib)

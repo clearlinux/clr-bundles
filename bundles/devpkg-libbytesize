@@ -9,3 +9,4 @@ include(devpkg-base)
 
 libbytesize-dev
 include(python3-basic)
+include(pypi-six)
