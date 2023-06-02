@@ -597,7 +597,6 @@ R-uuid
 R-vcd
 R-vcr
 R-vctrs
-R-vdiffr
 R-vegan
 R-vembedr
 R-viridis
@@ -1329,7 +1328,3 @@ include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
 include(libX11client)
-include(pypi-numpy)
-include(desktop-kde-libs)
-include(vte-lib)
-include(clr-hardware-files)
