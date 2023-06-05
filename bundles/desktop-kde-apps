@@ -145,3 +145,4 @@ zeroconf-ioslave
 include(kde-frameworks5)
 include(LibRaw-lib)
 include(kmime)
+include(libssh-lib)

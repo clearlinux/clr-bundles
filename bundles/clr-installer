@@ -46,3 +46,4 @@ xfsprogs-bin
 xorriso-bin
 include(icu4c-lib)
 include(numactl)
+include(libssh-lib)

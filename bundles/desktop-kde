@@ -169,3 +169,4 @@ xdg-utils
 include(gdk-pixbuf)
 include(kde-frameworks5)
 include(pypi-six)
+include(libssh-lib)

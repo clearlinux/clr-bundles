@@ -9,3 +9,4 @@ include(qt-basic)
 wireshark
 include(libnl)
 include(libpcap-lib)
+include(libssh-lib)
