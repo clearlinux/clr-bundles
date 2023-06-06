@@ -125,6 +125,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -139,6 +140,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
+double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
 include(devpkg-duktape)
@@ -166,6 +168,7 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -282,6 +285,7 @@ include(devpkg-iptables)
 include(devpkg-iso-codes)
 include(devpkg-jack2)
 include(devpkg-jansson)
+include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -458,6 +462,8 @@ include(devpkg-lzo)
 m4
 include(make)
 man-db
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
@@ -591,6 +597,7 @@ perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
 perl-IO-stringy-perl
+perl-IPC-Run-perl
 perl-IPC-Run3-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl

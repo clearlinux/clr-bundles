@@ -950,6 +950,7 @@ pypi-requests-python3
 pypi-requests_toolbelt-python3
 pypi-rfc3986-python3
 pypi-rich-python3
+pypi-scikit_build-python3
 pypi-scikit_learn-python3
 pypi-secretstorage-python3
 pypi-seqdiag-python3

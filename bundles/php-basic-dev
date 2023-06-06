@@ -90,6 +90,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -101,6 +102,7 @@ directx-headers-staticdev
 dlm-dev
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 e2fsprogs
@@ -122,6 +124,7 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -148,6 +151,7 @@ include(devpkg-gdk-pixbuf)
 gettext
 gettext-bin
 gettext-dev
+include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
@@ -172,17 +176,21 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
+include(gnupg)
 include(devpkg-gnutls)
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
+include(devpkg-gpgme)
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -210,6 +218,7 @@ intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)
+include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -238,6 +247,7 @@ include(devpkg-libXv)
 include(devpkg-libXvMC)
 include(devpkg-libXvMC)
 libaio-dev
+include(devpkg-libassuan)
 include(devpkg-libatomic_ops)
 include(devpkg-libatomic_ops)
 include(devpkg-libavif)
@@ -329,6 +339,7 @@ libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libunwind)
+include(devpkg-liburing)
 include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
@@ -358,6 +369,7 @@ include(devpkg-lzo)
 m4
 include(make)
 include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
@@ -383,6 +395,7 @@ include(devpkg-nspr)
 nspr-lib32
 nss-altfiles
 include(devpkg-nss)
+include(devpkg-numactl)
 include(devpkg-onig)
 include(devpkg-openal-soft)
 include(devpkg-openexr)
@@ -473,6 +486,7 @@ include(devpkg-sbc)
 sed
 shadow
 shared-mime-info
+include(devpkg-snappy)
 include(devpkg-speex)
 include(devpkg-speexdsp)
 sqlite-autoconf
@@ -536,8 +550,3 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(pypi-numpy)
-include(desktop-kde-libs)
-include(gnome-base-libs)
-include(libpcap-lib)
-include(vte-lib)

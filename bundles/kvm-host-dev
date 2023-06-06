@@ -96,6 +96,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -110,6 +111,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
+double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 e2fsprogs
@@ -134,6 +136,7 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -194,12 +197,15 @@ include(gobject-introspection)
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
+include(devpkg-gpgme)
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -232,6 +238,7 @@ include(devpkg-iptables)
 include(devpkg-iso-codes)
 include(devpkg-jack2)
 include(devpkg-jansson)
+include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -261,6 +268,7 @@ include(devpkg-libXv)
 include(devpkg-libXvMC)
 include(devpkg-libXvMC)
 libaio-dev
+include(devpkg-libassuan)
 include(devpkg-libatomic_ops)
 include(devpkg-libatomic_ops)
 include(devpkg-libavtp)
@@ -379,6 +387,8 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
@@ -496,6 +506,7 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
+perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -578,6 +589,7 @@ include(devpkg-pmdk)
 include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 include(devpkg-protobuf)
@@ -710,7 +722,3 @@ include(devpkg-zstd)
 include(pypi-requests)
 include(PyYAML)
 include(libX11client)
-include(pypi-pynacl)
-include(pypi-numpy)
-include(desktop-kde-libs)
-include(clr-hardware-files)

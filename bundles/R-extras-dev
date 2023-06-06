@@ -708,6 +708,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -719,6 +720,7 @@ directx-headers-staticdev
 dlm-dev
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 e2fsprogs
@@ -742,6 +744,7 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 include(devpkg-font-util)
 fontconfig-data
 include(devpkg-fontconfig)
@@ -772,6 +775,7 @@ include(devpkg-geos)
 gettext
 gettext-bin
 gettext-dev
+include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
@@ -798,11 +802,13 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
+include(gnupg)
 include(devpkg-gnutls)
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
+include(devpkg-gpgme)
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
@@ -810,6 +816,8 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -840,6 +848,7 @@ intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)
+include(devpkg-jemalloc)
 jq-dev
 include(devpkg-json-c)
 include(devpkg-json-c)
@@ -872,6 +881,7 @@ include(devpkg-libXvMC)
 include(devpkg-libXvMC)
 libaio-dev
 include(devpkg-libarchive)
+include(devpkg-libassuan)
 include(devpkg-libatomic_ops)
 include(devpkg-libatomic_ops)
 include(devpkg-libavtp)
@@ -964,6 +974,7 @@ libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libunwind)
+include(devpkg-liburing)
 include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
@@ -992,6 +1003,8 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
@@ -1026,7 +1039,6 @@ nss-altfiles
 nss-bin
 include(devpkg-nss)
 include(devpkg-numactl)
-include(devpkg-ocl-icd)
 octave-dev
 include(devpkg-onig)
 include(devpkg-openal-soft)
@@ -1118,6 +1130,7 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
+perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -1255,6 +1268,7 @@ sed
 shadow
 include(devpkg-shapelib)
 shared-mime-info
+include(devpkg-snappy)
 include(devpkg-speex)
 include(devpkg-speexdsp)
 sqlite-autoconf
@@ -1328,7 +1342,3 @@ include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
 include(libX11client)
-include(pypi-numpy)
-include(desktop-kde-libs)
-include(vte-lib)
-include(clr-hardware-files)

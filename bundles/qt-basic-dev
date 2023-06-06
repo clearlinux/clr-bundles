@@ -181,11 +181,13 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
+include(gnupg)
 include(devpkg-gnutls)
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
+include(devpkg-gpgme)
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
@@ -249,6 +251,7 @@ include(devpkg-libXv)
 include(devpkg-libXvMC)
 include(devpkg-libXvMC)
 libaio-dev
+include(devpkg-libassuan)
 include(devpkg-libatomic_ops)
 include(devpkg-libatomic_ops)
 include(devpkg-libavtp)
@@ -578,6 +581,3 @@ include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
 include(libX11client)
-include(desktop-kde-libs)
-include(vte-lib)
-include(clr-hardware-files)
