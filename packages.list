@@ -469,4 +469,5 @@ numactl # libnuma libraries
 yaml # Library to parse and emit YAML
 pypi-b4 # A tool to work with public-inbox and patch archives
 xdg-desktop-portal-gnome # No detailed summary available
-gobject-introspection # No detailed summary available 
+gobject-introspection # No detailed summary available
+Endeavour # No detailed summary available 

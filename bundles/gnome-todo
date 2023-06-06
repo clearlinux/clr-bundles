@@ -16,4 +16,4 @@ include(gstreamer)
 # end of custom additions
 
 # main package
-gnome-todo
+include(Endeavour)
