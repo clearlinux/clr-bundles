@@ -9,3 +9,4 @@ include(devpkg-base)
 
 netcdf-dev
 include(curl)
+include(libevent-lib)

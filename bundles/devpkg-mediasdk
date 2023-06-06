@@ -9,3 +9,4 @@ include(devpkg-base)
 
 mediasdk-dev
 include(libstdcpp)
+include(libX11client)
