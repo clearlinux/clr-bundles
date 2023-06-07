@@ -13,3 +13,4 @@ include(devpkg-libxml2)
 grilo-dev
 include(libglib)
 include(libX11client)
+include(libpsl-lib)
