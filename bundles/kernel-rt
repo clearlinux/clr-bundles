@@ -10,7 +10,7 @@ init-rdahead-extras
 irqbalance
 include(linux-firmware)
 include(linux-firmware-extras)
-linux-preempt-rt
+also-add(kernel-preempt-rt)
 mcelog
 include(systemd)
 include(libglib)

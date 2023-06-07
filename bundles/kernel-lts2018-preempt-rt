@@ -6,3 +6,4 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 
 filesystem
+also-add(kernel-preempt-rt)
