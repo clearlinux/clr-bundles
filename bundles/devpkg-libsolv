@@ -9,4 +9,3 @@ include(devpkg-base)
 
 libsolv-dev
 include(xz)
-include(popt-lib)

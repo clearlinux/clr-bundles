@@ -11,7 +11,3 @@ libvirt-dev
 include(curl)
 include(libglib)
 include(libssh-lib)
-include(openldap)
-include(libnl)
-include(numactl)
-include(libpcap-lib)
