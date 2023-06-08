@@ -1,0 +1,10 @@
+# [TITLE]: gphoto
+# [DESCRIPTION]: Command line interface to libgphoto2.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+
+
+gphoto2-lib
