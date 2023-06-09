@@ -96,7 +96,7 @@ pypi-numpy
 ocl-icd
 include(devpkg-ocl-icd)
 also-add(openblas)
-opencl-headers-dev
+include(devpkg-opencl-headers)
 also-add(devpkg-openssl)
 also-add(devpkg-opus)
 p7zip

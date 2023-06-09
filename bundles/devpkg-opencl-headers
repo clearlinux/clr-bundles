@@ -1,11 +1,10 @@
-# [TITLE]: devpkg-ocl-icd
-# [DESCRIPTION]: All content for pkgconfig file ocl-icd.pc.
+# [TITLE]: devpkg-opencl-headers
+# [DESCRIPTION]: All content for pkgconfig file opencl-headers.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-opencl-headers)
 
-ocl-icd-dev
+opencl-headers-dev

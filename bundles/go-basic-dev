@@ -261,7 +261,7 @@ ninja
 nss-altfiles
 include(devpkg-openal-soft)
 include(openblas)
-opencl-headers-dev
+include(devpkg-opencl-headers)
 openjdk
 openjdk-dev
 openldap-dev

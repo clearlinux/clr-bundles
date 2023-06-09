@@ -11,6 +11,7 @@ pkgconfig(MagickWand)	devpkg-ImageMagick
 pkgconfig(MagickWand-7.Q16HDRI)	devpkg-ImageMagick
 pkgconfig(ModemManager)	devpkg-ModemManager
 pkgconfig(OpenCL)	devpkg-ocl-icd
+pkgconfig(OpenCL-Headers)	devpkg-opencl-headers
 pkgconfig(OpenEXR)	devpkg-openexr
 pkgconfig(OpenImageIO)	devpkg-oiio
 pkgconfig(Qt53DAnimation)	devpkg-qt3d
@@ -920,7 +921,6 @@ pkgconfig(libzmq)	devpkg-libzmq
 pkgconfig(libzstd)	devpkg-zstd
 pkgconfig(lmdb)	devpkg-lmdb
 pkgconfig(lttng-ust)	devpkg-lttng-ust
-pkgconfig(lttng-ust-ctl)	devpkg-lttng-ust
 pkgconfig(lua)	devpkg-lua
 pkgconfig(luajit)	devpkg-LuaJIT
 pkgconfig(lzo2)	devpkg-lzo

@@ -692,7 +692,7 @@ include(devpkg-open-isns)
 include(devpkg-openal-soft)
 include(openblas)
 include(devpkg-openblas)
-opencl-headers-dev
+include(devpkg-opencl-headers)
 include(devpkg-opencv)
 include(devpkg-openexr)
 openjade-dev

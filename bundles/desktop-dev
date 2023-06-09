@@ -891,7 +891,6 @@ pypi-meson_python
 pypi-meson_python-python3
 pypi-mock-python3
 pypi-more_itertools-python3
-pypi-msgpack-python3
 pypi-munkres-python3
 pypi-mypy_extensions-python3
 pypi-networkx-python3

@@ -12,8 +12,6 @@ include(libglib)
 include(devpkg-poppler-extras)
 
 poppler-dev
-include(qt-core)
-include(qt-basic)
 include(libX11client)
 include(curl)
 include(libglib)

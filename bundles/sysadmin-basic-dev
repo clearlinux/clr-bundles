@@ -67,7 +67,6 @@ include(devpkg-cmocka)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
-include(devpkg-cups)
 include(devpkg-curl)
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
@@ -75,7 +74,6 @@ datefudge
 db
 include(devpkg-dbus)
 include(devpkg-dbus)
-include(devpkg-dbus-glib)
 dbus-python
 dejagnu
 desktop-file-utils
@@ -86,11 +84,9 @@ directx-headers-staticdev
 dlm-dev
 include(docbook-utils)
 docbook-xml
-double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
 dracut-dev
-include(devpkg-duktape)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -107,7 +103,6 @@ expect
 include(devpkg-file)
 include(flex)
 flex-dev
-include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -133,9 +128,6 @@ include(devpkg-gdk-pixbuf)
 gettext
 gettext-bin
 gettext-dev
-include(devpkg-gflags)
-include(ghostscript)
-ghostscript-dev
 gi-docgen
 include(git)
 include(devpkg-glew)
@@ -168,11 +160,8 @@ include(devpkg-gpgme)
 gpm-dev
 include(devpkg-graphite)
 include(graphviz)
-graphviz-extras
 grep
 groff
-gsettings-desktop-schemas
-include(devpkg-gsettings-desktop-schemas)
 gtk+-dev
 gtk-doc
 gtk-doc-data
@@ -192,7 +181,6 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
-include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-keyutils)
@@ -205,8 +193,6 @@ include(less)
 less-bin
 include(devpkg-libX11)
 include(devpkg-libX11)
-libX11-lib
-libX11-lib32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
 include(devpkg-libXft)
@@ -240,7 +226,6 @@ include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libedit)
 libev-dev
-include(devpkg-libevdev)
 include(devpkg-libevent)
 include(devpkg-libevent)
 include(devpkg-libffi)
@@ -257,7 +242,6 @@ include(devpkg-libidn)
 include(devpkg-libidn)
 include(devpkg-libidn2)
 include(devpkg-libidn2)
-include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libmicrohttpd)
@@ -294,7 +278,6 @@ libtool-dev
 libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
-include(devpkg-liburing)
 include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvdpau)
@@ -318,15 +301,12 @@ include(devpkg-lzo)
 m4
 include(make)
 man-db
-include(devpkg-mariadb)
-include(devpkg-md4c)
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson-python3
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
-include(devpkg-mtdev)
 include(nasm)
 include(devpkg-ncurses)
 include(devpkg-ncurses)
@@ -342,7 +322,6 @@ include(devpkg-nspr)
 nspr-lib32
 nss-altfiles
 include(devpkg-nss)
-include(devpkg-numactl)
 include(devpkg-onig)
 openjdk
 openjdk-dev
@@ -422,7 +401,6 @@ perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
 perl-IO-stringy-perl
-perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -502,7 +480,6 @@ include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
-include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 include(devpkg-protobuf)
@@ -546,7 +523,6 @@ shadow
 shadow-dev
 shared-mime-info
 include(devpkg-slang)
-include(devpkg-snappy)
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
@@ -576,7 +552,6 @@ include(devpkg-util-linux)
 util-linux-extras
 include(devpkg-util-macros)
 include(devpkg-util-macros)
-vala
 include(valgrind)
 include(devpkg-valgrind)
 include(devpkg-wayland)
@@ -587,8 +562,6 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-xdg-utils
-include(devpkg-xkeyboard-config)
 xmlto
 xorg-fonts
 include(devpkg-xorgproto)
