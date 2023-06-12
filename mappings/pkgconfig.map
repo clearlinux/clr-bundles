@@ -852,7 +852,6 @@ pkgconfig(libtelemetry)	devpkg-telemetrics-client
 pkgconfig(libthai)	devpkg-libthai
 pkgconfig(libtiff-4)	devpkg-tiff
 pkgconfig(libtirpc)	devpkg-libtirpc
-pkgconfig(libtracecmd)	devpkg-trace-cmd
 pkgconfig(libtraceevent)	devpkg-libtraceevent
 pkgconfig(libtracefs)	devpkg-libtracefs
 pkgconfig(libturbojpeg)	devpkg-libjpeg-turbo

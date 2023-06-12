@@ -656,7 +656,6 @@ include(devpkg-tk)
 tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
-include(devpkg-trace-cmd)
 include(tzdata)
 umockdev-dev
 include(unzip)
