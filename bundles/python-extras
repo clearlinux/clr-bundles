@@ -83,3 +83,4 @@ pypi-ldap3
 pypi-neat_python
 include(pypi-numpy)
 include(pypi-requests)
+include(pypi-cython)

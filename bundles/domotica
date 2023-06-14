@@ -18,3 +18,4 @@ python-openzwave
 qtmqtt
 pypi-spyrk
 include(pypi-requests)
+include(pypi-cython)
