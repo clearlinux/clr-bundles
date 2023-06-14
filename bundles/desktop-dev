@@ -925,6 +925,7 @@ pypi-pyasn1-python3
 pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycares-python3
+pypi-pyclipper-python3
 pypi-pycodestyle-python3
 pypi-pycparser-python3
 pypi-pydocstyle-python3
@@ -955,8 +956,10 @@ pypi-secretstorage-python3
 pypi-seqdiag-python3
 pypi-setuptools
 pypi-setuptools-python3
+pypi-setuptools_git_ls_files-python3
 pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3
+pypi-setuptools_scm_git_archive-python3
 pypi-six-python3
 pypi-sortedcontainers-python3
 pypi-sphinx
