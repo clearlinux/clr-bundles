@@ -20,6 +20,7 @@ include(devpkg-Botan)
 include(devpkg-CUnit)
 include(devpkg-CUnit)
 include(devpkg-Imath)
+include(devpkg-Judy)
 LVM2
 include(devpkg-LVM2)
 LVM2-extras

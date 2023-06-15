@@ -922,6 +922,7 @@ pypi-py
 pypi-py-python3
 pypi-pyaml
 pypi-pyasn1-python3
+pypi-pybind11
 pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycares-python3

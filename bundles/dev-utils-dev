@@ -10,6 +10,7 @@ include(perl-basic-dev)
 include(devpkg-CUnit)
 include(devpkg-CUnit)
 include(devpkg-Imath)
+include(devpkg-Judy)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
@@ -118,6 +119,7 @@ include(devpkg-e2fsprogs)
 include(devpkg-e2fsprogs)
 e2fsprogs-extras
 ed
+include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 include(devpkg-elfutils)
