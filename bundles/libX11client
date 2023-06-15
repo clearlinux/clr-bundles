@@ -27,6 +27,7 @@ libXft-lib
 libXScrnSaver-lib
 libXcursor-lib
 libXtst-lib
+libXt-lib
 libpng-lib
 mesa-lib
 llvm-lib

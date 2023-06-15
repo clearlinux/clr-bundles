@@ -43,3 +43,4 @@ qtxmlpatterns
 include(libstdcpp)
 include(pulseaudio)
 include(icu4c-lib)
+include(lib-imageformat)
