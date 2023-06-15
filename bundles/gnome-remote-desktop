@@ -10,7 +10,7 @@ include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(audio-pipewire)
-
+include(xdg-desktop-portal-gnome)
 # end of custom additions
 
 # main package
