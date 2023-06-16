@@ -70,3 +70,4 @@ purpose
 sweeper
 include(kde-frameworks5)
 include(kmime)
+include(protobuf-lib)

@@ -14,6 +14,7 @@ include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(protobuf-lib)
 include(libXpm-lib)
 include(not-ffmpeg-lib)
 include(libarchive)

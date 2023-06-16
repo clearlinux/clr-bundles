@@ -23,3 +23,4 @@ marble
 parley
 include(kde-frameworks5)
 include(LibRaw-lib)
+include(protobuf-lib)
