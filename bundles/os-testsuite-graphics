@@ -21,3 +21,4 @@ xwdrun
 include(gdk-pixbuf)
 include(audio-pipewire)
 include(libpsl-lib)
+include(x11-server)
