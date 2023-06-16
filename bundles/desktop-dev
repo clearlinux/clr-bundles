@@ -815,6 +815,7 @@ pypi-amqp-python3
 pypi-appdirs-python3
 pypi-async_timeout-python3
 pypi-atomicwrites-python3
+pypi-attr-python3
 pypi-attrs-python3
 pypi-bashlex-python3
 pypi-billiard-python3
