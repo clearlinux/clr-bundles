@@ -5,4 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
+include(libstdcpp)
+
 protobuf-lib
