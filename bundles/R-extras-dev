@@ -597,6 +597,7 @@ R-uuid
 R-vcd
 R-vcr
 R-vctrs
+R-vdiffr
 R-vegan
 R-vembedr
 R-viridis
@@ -690,7 +691,6 @@ cmake
 include(devpkg-cmocka)
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
-compat-gcc-10-dev
 include(devpkg-compat-libsoup-soname-24)
 coreutils
 include(devpkg-cppunit)

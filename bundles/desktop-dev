@@ -82,7 +82,6 @@ buildreq-gnome
 buildreq-kde
 buildreq-meson
 buildreq-qmake
-buildreq-scons
 bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
@@ -937,7 +936,6 @@ pypi-pyparsing-python3
 pypi-pyproject_api-python3
 pypi-pytest
 pypi-pytest-python3
-pypi-pytest_mock-python3
 pypi-pytest_runner
 pypi-python_dateutil-python3
 pypi-python_dbusmock

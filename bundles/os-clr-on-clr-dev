@@ -1005,7 +1005,6 @@ pypi-pyproject_metadata-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
-pypi-pytest_mock-python3
 pypi-python_dateutil-python3
 pypi-python_dbusmock
 pypi-python_multilib-python3
