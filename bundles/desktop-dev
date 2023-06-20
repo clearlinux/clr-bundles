@@ -100,7 +100,6 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 include(devpkg-cmocka)
-cmrt
 include(devpkg-cmrt)
 include(devpkg-cogl)
 colord
