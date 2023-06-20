@@ -10,6 +10,7 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(mpfr-lib)
 include(icu4c-lib)
 qalculate-gtk-doc
 qalculate-gtk-man

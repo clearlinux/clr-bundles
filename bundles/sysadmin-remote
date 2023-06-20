@@ -20,3 +20,4 @@ udisks2
 include(pypi-pynacl)
 include(libxml2)
 include(pypi-requests)
+include(mpfr-lib)

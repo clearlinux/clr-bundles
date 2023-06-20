@@ -11,3 +11,4 @@ proj-dev
 include(curl)
 include(libstdcpp)
 include(lib-imageformat)
+include(lz4)

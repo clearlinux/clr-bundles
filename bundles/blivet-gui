@@ -6,6 +6,7 @@
 # [MAINTAINER]: Karthik Prabhu Vinod <karthik.prabhu.vinod@intel.com>
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(mpfr-lib)
 include(gobject-introspection)
 include(gmp-lib)
 include(pypi-six)
