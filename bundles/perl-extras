@@ -9,6 +9,9 @@ include(libstdcpp)
 include(python3-basic)
 include(postgresql)
 include(libX11client)
+include(libevent-lib)
+include(icu4c-lib)
+include(libXpm-lib)
 
 perl-Acme-Damn
 perl-Algorithm-C3
@@ -411,6 +414,7 @@ perl-List-UtilsBy
 perl-Locale-Maketext-Gettext
 perl-Locale-Maketext-Lexicon
 perl-Locale-Msgfmt
+perl-Locale-gettext
 perl-Log-Agent
 perl-Log-Any
 perl-Log-Contextual
@@ -820,7 +824,6 @@ perl-boolean
 perl-common-sense
 perl-constant-defer
 perl-curry
-perl-gettext
 perl-inc-latest
 perl-indirect
 perl-latest
@@ -833,6 +836,3 @@ perl-namespace-clean
 perl-pmtools
 perl-prefork
 perl-strictures
-include(libevent-lib)
-include(icu4c-lib)
-include(libXpm-lib)
