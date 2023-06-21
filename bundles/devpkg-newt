@@ -9,3 +9,4 @@ include(devpkg-base)
 include(devpkg-slang)
 
 newt-dev
+include(popt-lib)

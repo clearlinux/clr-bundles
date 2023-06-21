@@ -9,3 +9,4 @@ include(devpkg-base)
 
 libspatialite-dev
 include(lz4)
+include(lib-imageformat)
