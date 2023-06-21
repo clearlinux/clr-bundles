@@ -16,4 +16,3 @@ tiff-dev
 include(lib-imageformat)
 include(xz)
 include(libstdcpp)
-include(lz4)

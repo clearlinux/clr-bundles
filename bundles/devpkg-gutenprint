@@ -11,6 +11,3 @@ include(devpkg-gtkplus)
 gutenprint-dev
 include(libX11client)
 include(libglib)
-include(gegl)
-include(dav1d-lib)
-include(not-ffmpeg-lib)

@@ -14,4 +14,3 @@ include(devpkg-zlib)
 
 grpc-dev
 include(libstdcpp)
-include(protobuf-lib)

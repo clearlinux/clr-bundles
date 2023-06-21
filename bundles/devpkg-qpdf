@@ -14,4 +14,3 @@ include(devpkg-zlib)
 qpdf-dev
 include(lib-imageformat)
 include(libstdcpp)
-include(lz4)

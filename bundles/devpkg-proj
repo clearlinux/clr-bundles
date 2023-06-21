@@ -6,9 +6,11 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-curl)
+include(devpkg-sqlite-autoconf)
+include(devpkg-tiff)
 
 proj-dev
 include(curl)
 include(libstdcpp)
-include(lib-imageformat)
 include(lz4)

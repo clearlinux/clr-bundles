@@ -9,4 +9,3 @@ include(devpkg-base)
 
 protobuf-c-dev
 include(libstdcpp)
-include(protobuf-lib)

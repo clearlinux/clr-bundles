@@ -9,4 +9,3 @@ include(devpkg-base)
 include(devpkg-systemd)
 
 LVM2-dev
-include(gobject-introspection)

@@ -817,7 +817,6 @@ pypi-attr-python3
 pypi-attrs-python3
 pypi-bashlex-python3
 pypi-billiard-python3
-pypi-bleach-python3
 pypi-blockdiag-python3
 pypi-booleanoperations-python3
 pypi-bracex-python3
@@ -871,7 +870,6 @@ pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
-pypi-jaraco.classes-python3
 pypi-jeepney-python3
 pypi-jinja2-python3
 pypi-jmespath-python3
@@ -930,7 +928,6 @@ pypi-pycodestyle-python3
 pypi-pycparser-python3
 pypi-pydocstyle-python3
 pypi-pyflakes-python3
-pypi-pygments-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
 pypi-pytest
@@ -951,7 +948,6 @@ pypi-rfc3986-python3
 pypi-rich-python3
 pypi-scikit_build-python3
 pypi-scikit_learn-python3
-pypi-secretstorage-python3
 pypi-seqdiag-python3
 pypi-setuptools
 pypi-setuptools-python3
