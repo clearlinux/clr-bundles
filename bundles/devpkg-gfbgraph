@@ -1,17 +1,7 @@
 # [TITLE]: devpkg-gfbgraph
 # [DESCRIPTION]: All content for pkgconfig file gfbgraph.pc.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(devpkg-base)
-include(devpkg-compat-libsoup-soname-24)
-include(devpkg-compat-rest-soname07)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-gnome-online-accounts)
-include(devpkg-json-glib)
-
-gfbgraph-dev
-include(libglib)
+filesystem
