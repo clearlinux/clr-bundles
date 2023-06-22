@@ -13,5 +13,5 @@ include(devpkg-tiff)
 proj-dev
 include(curl)
 include(libstdcpp)
-include(lz4)
 include(lib-imageformat)
+include(lz4)
