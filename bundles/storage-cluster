@@ -12,8 +12,5 @@ include(nfs-utils)
 LVM2-bin
 LVM2-config
 LVM2-extras
-include(ceph)
-ceph-deploy
-ceph-extras
 glusterfs
 include(parted)

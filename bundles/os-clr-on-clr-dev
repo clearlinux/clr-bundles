@@ -118,7 +118,6 @@ include(devpkg-cJSON)
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)
-ceph-dev
 check
 include(devpkg-check)
 include(devpkg-check)

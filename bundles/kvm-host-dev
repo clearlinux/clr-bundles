@@ -72,7 +72,6 @@ include(devpkg-bzip2)
 ca-certs
 include(devpkg-cairo)
 include(devpkg-capstone)
-ceph-dev
 include(devpkg-check)
 include(devpkg-check)
 clear-font
