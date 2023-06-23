@@ -653,7 +653,6 @@ pkgconfig(libgcab-1.0)	devpkg-gcab
 pkgconfig(libgcrypt)	devpkg-libgcrypt
 pkgconfig(libgdata)	devpkg-libgdata
 pkgconfig(libgeoclue-2.0)	devpkg-geoclue
-pkgconfig(libgfbgraph-0.2)	devpkg-gfbgraph
 pkgconfig(libgfchangelog)	devpkg-glusterfs
 pkgconfig(libgit2)	devpkg-libgit2
 pkgconfig(libglog)	devpkg-glog
@@ -1015,7 +1014,6 @@ pkgconfig(recordproto)	devpkg-xorgproto
 pkgconfig(ref_array)	devpkg-ding-libs
 pkgconfig(renderproto)	devpkg-xorgproto
 pkgconfig(resourceproto)	devpkg-xorgproto
-pkgconfig(rest-0.7)	devpkg-compat-rest-soname07
 pkgconfig(rest-1.0)	devpkg-rest
 pkgconfig(rfxcodec)	devpkg-xrdp
 pkgconfig(rttopo)	devpkg-librttopo
