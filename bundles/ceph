@@ -5,3 +5,7 @@
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 filesystem
+include(pypi-requests)
+include(PyYAML)
+include(icu4c-lib)
+include(pypi-cython)
