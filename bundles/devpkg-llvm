@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-include(devpkg-base)
+#include(devpkg-base)
 
 llvm-dev
 include(xz)
