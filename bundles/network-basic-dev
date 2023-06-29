@@ -55,7 +55,6 @@ cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 include(devpkg-curl)
-curl-mini-dev
 include(devpkg-cyrus-sasl)
 datefudge
 db

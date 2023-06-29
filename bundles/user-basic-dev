@@ -117,7 +117,6 @@ cups
 include(devpkg-cups)
 include(devpkg-curl)
 include(devpkg-curl)
-curl-mini-dev
 include(devpkg-cyrus-sasl)
 datefudge
 include(devpkg-dav1d)
