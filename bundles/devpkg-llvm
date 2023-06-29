@@ -5,11 +5,9 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
+include(devpkg-base)
 
 llvm-dev
-llvm-staticdev
-include(python3-basic)
-include(libstdcpp)
 include(xz)
-include(ncurses-lib)
-include(libxml2)
+include(libstdcpp)
+include(llvm)

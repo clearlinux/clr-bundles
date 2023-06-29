@@ -4,6 +4,7 @@ pkgconfig(INIReader)	devpkg-inih
 pkgconfig(ImageMagick)	devpkg-ImageMagick
 pkgconfig(Imath)	devpkg-Imath
 pkgconfig(KF5WaylandClient)	devpkg-kwayland
+pkgconfig(LLVMSPIRVLib)	devpkg-llvm
 pkgconfig(Magick++)	devpkg-ImageMagick
 pkgconfig(MagickCore)	devpkg-ImageMagick
 pkgconfig(MagickCore-7.Q16HDRI)	devpkg-ImageMagick
@@ -1082,11 +1083,9 @@ pkgconfig(tss2-tcti-tabrmd)	devpkg-tpm2-abrmd
 pkgconfig(tss2-tctildr)	devpkg-tpm2-tss
 pkgconfig(udev)	devpkg-systemd
 pkgconfig(udisks2)	devpkg-udisks2
-pkgconfig(udisks2-bcache)	devpkg-udisks2
 pkgconfig(udisks2-btrfs)	devpkg-udisks2
 pkgconfig(udisks2-lsm)	devpkg-udisks2
 pkgconfig(udisks2-lvm2)	devpkg-udisks2
-pkgconfig(udisks2-zram)	devpkg-udisks2
 pkgconfig(upower-glib)	devpkg-upower
 pkgconfig(uuid)	devpkg-util-linux
 pkgconfig(valgrind)	devpkg-valgrind

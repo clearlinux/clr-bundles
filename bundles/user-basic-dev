@@ -386,6 +386,7 @@ include(devpkg-libnftnl)
 include(devpkg-libnice)
 include(devpkg-libnl)
 include(devpkg-libnsl)
+libnvme-dev
 include(devpkg-libogg)
 include(devpkg-libogg)
 include(devpkg-libpcap)
@@ -448,6 +449,7 @@ linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
+llvm-staticdev
 lm-sensors-dev
 include(devpkg-lmdb)
 include(devpkg-lua)

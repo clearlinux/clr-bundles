@@ -533,6 +533,7 @@ include(devpkg-libnice)
 include(devpkg-libnl)
 include(devpkg-libnotify)
 include(devpkg-libnsl)
+libnvme-dev
 include(devpkg-liboauth)
 include(devpkg-libogg)
 include(devpkg-libogg)

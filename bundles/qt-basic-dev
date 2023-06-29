@@ -359,6 +359,7 @@ linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
+llvm-staticdev
 include(devpkg-lmdb)
 include(devpkg-lua)
 include(devpkg-lz4)

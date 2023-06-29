@@ -470,6 +470,7 @@ include(devpkg-libnice)
 include(devpkg-libnl)
 include(devpkg-libnma)
 include(devpkg-libnotify)
+libnvme-dev
 include(devpkg-liboauth)
 include(devpkg-libogg)
 include(devpkg-libogg)
@@ -553,6 +554,7 @@ linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
+llvm-staticdev
 lm-sensors-dev
 include(devpkg-lmdb)
 include(devpkg-lua)

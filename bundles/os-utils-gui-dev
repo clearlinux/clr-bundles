@@ -427,6 +427,7 @@ include(devpkg-libnftnl)
 include(devpkg-libnice)
 include(devpkg-libnl)
 include(devpkg-libnotify)
+libnvme-dev
 include(devpkg-liboauth)
 include(devpkg-libogg)
 include(devpkg-libogg)
@@ -506,6 +507,7 @@ linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
+llvm-staticdev
 include(devpkg-lmdb)
 include(devpkg-lua)
 include(devpkg-lz4)
@@ -610,7 +612,6 @@ perl-Devel-LexAlias-perl
 perl-Devel-OverloadInfo-perl
 perl-Devel-OverrideGlobalRequire-perl
 perl-Devel-StackTrace-perl
-perl-Digest-CRC-perl
 perl-Digest-HMAC-perl
 perl-Dist-CheckConflicts-perl
 perl-Encode-Locale-perl

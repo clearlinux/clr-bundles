@@ -188,6 +188,7 @@ include(devpkg-libnftnl)
 include(devpkg-libnftnl)
 include(devpkg-libnl)
 include(devpkg-libnsl)
+libnvme-dev
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
