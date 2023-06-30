@@ -387,7 +387,6 @@ man-db
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
-meson-python3
 include(devpkg-metrics-discovery)
 mingw-gcc
 mpc-dev
@@ -599,7 +598,6 @@ pypi-pluggy
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
-pypi-pygments-python3
 pypi-pytest
 pypi-python_dbusmock
 pypi-setuptools-python3

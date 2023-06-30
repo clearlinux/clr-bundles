@@ -1000,7 +1000,6 @@ include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson
-meson-python3
 mingw-gcc
 mkfontdir-bin
 mkfontscale-bin

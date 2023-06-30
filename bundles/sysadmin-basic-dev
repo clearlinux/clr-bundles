@@ -304,7 +304,6 @@ include(make)
 man-db
 include(devpkg-mesa)
 include(devpkg-mesa)
-meson-python3
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)

@@ -169,7 +169,6 @@ include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
 include(make)
-meson-python3
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-ncurses)

@@ -468,7 +468,6 @@ include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
-meson-python3
 mingw-gcc
 mkfontdir
 mkfontdir-bin

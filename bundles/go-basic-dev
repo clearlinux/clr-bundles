@@ -245,7 +245,6 @@ m4
 include(make)
 include(devpkg-mesa)
 meson
-meson-python3
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)

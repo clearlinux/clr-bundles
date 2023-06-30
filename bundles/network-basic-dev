@@ -233,7 +233,6 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
-meson-python3
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
