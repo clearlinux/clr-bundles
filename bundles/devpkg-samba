@@ -10,6 +10,5 @@ include(devpkg-talloc)
 include(devpkg-tevent)
 
 samba-dev
-include(openldap)
 include(python3-basic)
 include(samba)
