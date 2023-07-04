@@ -17,6 +17,5 @@ evolution-dev
 include(libX11client)
 include(gnome-base-libs)
 include(libglib)
-include(openldap)
 include(webkitgtk)
 include(evolution)

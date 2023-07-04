@@ -29,6 +29,7 @@ include(devpkg-SDL_image)
 include(devpkg-SDL_net)
 include(devpkg-SDL_ttf)
 SPIRV-Tools
+include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
 include(Sphinx)
 UCD

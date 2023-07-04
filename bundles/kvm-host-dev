@@ -21,6 +21,7 @@ include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
+include(devpkg-SPIRV-Tools)
 include(Sphinx)
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)

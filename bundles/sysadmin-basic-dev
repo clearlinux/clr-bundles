@@ -13,6 +13,7 @@ include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
 SPIRV-Tools
+include(devpkg-SPIRV-Tools)
 include(Sphinx)
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)

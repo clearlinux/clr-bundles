@@ -630,6 +630,7 @@ include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
+include(devpkg-SPIRV-Tools)
 include(Sphinx)
 SuiteSparse-dev
 include(devpkg-Vulkan-Headers)
