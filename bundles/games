@@ -33,8 +33,6 @@ alsa-lib-lib
 attr-lib
 bzip2-lib
 cairo-lib
-compat-curl-gnutls-soname4-lib
-compat-curl-gnutls-soname4-lib
 compat-libpng-soname12-lib
 compat-libpng-soname12-lib
 compat-libva-soname1-lib
