@@ -42,7 +42,6 @@ libtool
 libtool-dev
 linux-libc-headers
 include(llvm)
-include(llvm)
 m4
 include(make)
 include(nasm)
