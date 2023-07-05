@@ -1,12 +1,7 @@
 # [TITLE]: linux-iot-lts2018-dev
 # [DESCRIPTION]: Files for building modules against IoT LTS2018 kernel.
-# [STATUS]: WIP
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-linux-iot-lts2018-dev
-include(xz)
-include(perl-basic)
-include(python3-basic)
-include(systemd)
-include(lib-openssl)
+filesystem
