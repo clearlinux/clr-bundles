@@ -1,21 +1,7 @@
 # [TITLE]: kernel-mainline-vanilla
 # [DESCRIPTION]: Run the mainline current vanilla kernel.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(hardware-uefi)
-
-console-autostart
-include(bootloader)
-include(libglib)
-include(linux-firmware)
-include(linux-firmware-extras)
-include(qemu-guest-additions)
-
-init-rdahead-extras
-irqbalance
-mcelog
-
-# kernel package
-linux-mainline
+filesystem
