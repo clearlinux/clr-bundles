@@ -10,4 +10,3 @@ include(devpkg-base)
 cups-filters-dev
 include(lib-imageformat)
 include(libglib)
-include(openldap)
