@@ -374,6 +374,7 @@ include(devpkg-libdbusmenu-qt)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libedit)
+libei-dev
 include(devpkg-libepoxy)
 libev-dev
 include(devpkg-libevdev)

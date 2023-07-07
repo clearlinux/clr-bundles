@@ -376,6 +376,7 @@ include(devpkg-libdmx)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libedit)
+libei-dev
 include(devpkg-libepoxy)
 liberation-fonts
 libev-dev

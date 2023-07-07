@@ -475,6 +475,7 @@ include(devpkg-libdbusmenu-qt)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libedit)
+libei-dev
 include(devpkg-libepoxy)
 liberation-fonts
 libev-dev
@@ -932,7 +933,6 @@ pypi-cffsubr-python3
 pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cheetah3-python3
-pypi-click-python3
 pypi-colorama-python3
 pypi-commonmark
 pypi-coverage
@@ -983,7 +983,6 @@ pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
-pypi-pillow-python3
 pypi-pip
 pypi-pluggy
 pypi-ply-python3

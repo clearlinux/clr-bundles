@@ -415,6 +415,7 @@ include(devpkg-libdmx)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libedit)
+libei-dev
 include(devpkg-libepoxy)
 liberation-fonts
 libev-dev
@@ -835,7 +836,6 @@ pypi-cffsubr-python3
 pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cibuildwheel-python3
-pypi-click-python3
 pypi-colorama-python3
 pypi-configparser-python3
 pypi-coverage-python3
