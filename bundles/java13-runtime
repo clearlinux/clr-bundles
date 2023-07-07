@@ -1,9 +1,7 @@
 # [TITLE]: java13-runtime
 # [DESCRIPTION]: Runtime environment for Java 13 language programs.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Programming Languages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
-openjdk13
-include(libstdcpp)
-include(harfbuzz-lib)
+filesystem

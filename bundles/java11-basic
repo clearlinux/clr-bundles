@@ -1,12 +1,7 @@
 # [TITLE]: java11-basic
 # [DESCRIPTION]: Build and run Java 11 language programs.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]: Compile and run basic java9 applications
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
-include(libX11client)
-include(p11-kit)
-include(python3-basic)
-include(which)
-openjdk11
-openjdk11-dev
+filesystem
