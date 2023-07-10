@@ -320,6 +320,7 @@ include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
 less-bin
+libX11
 include(devpkg-libX11)
 include(devpkg-libX11)
 libX11-lib
@@ -375,6 +376,8 @@ libdbusmenu-dev
 include(devpkg-libdmx)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
+libeconf-dev
+libeconf-dev
 include(devpkg-libedit)
 libei-dev
 include(devpkg-libepoxy)
@@ -892,6 +895,7 @@ xfce4-panel-dev
 include(devpkg-xfconf)
 xkbcomp-bin
 include(devpkg-xkbcomp)
+xkeyboard-config
 include(devpkg-xkeyboard-config)
 xmlto
 xorg-fonts

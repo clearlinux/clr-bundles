@@ -66,6 +66,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+breeze-icons-dev
 include(devpkg-brotli)
 bubblewrap
 buildreq-cmake
@@ -330,6 +331,7 @@ include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
 less-bin
+libX11
 include(devpkg-libX11)
 include(devpkg-libX11)
 libX11-lib
@@ -373,6 +375,8 @@ libdbusmenu-dev
 include(devpkg-libdbusmenu-qt)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
+libeconf-dev
+libeconf-dev
 include(devpkg-libedit)
 libei-dev
 include(devpkg-libepoxy)
@@ -870,6 +874,7 @@ include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xdg-dbus-proxy
 xdg-utils
+xkeyboard-config
 include(devpkg-xkeyboard-config)
 xmlto
 xorg-fonts

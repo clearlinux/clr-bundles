@@ -183,6 +183,8 @@ include(devpkg-libcap-ng)
 include(devpkg-libcap-ng)
 include(devpkg-libcgroup)
 include(devpkg-libcroco)
+libeconf-dev
+libeconf-dev
 include(devpkg-libedit)
 libev-dev
 include(devpkg-libevent)

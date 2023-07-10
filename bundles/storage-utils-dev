@@ -161,6 +161,8 @@ include(devpkg-libcap-ng)
 include(devpkg-libcap-ng)
 include(devpkg-libcgroup)
 include(devpkg-libdrm)
+libeconf-dev
+libeconf-dev
 include(devpkg-libedit)
 include(devpkg-libevent)
 include(devpkg-libffi)
