@@ -12,7 +12,7 @@ include(libstdcpp)
 include(libxml2)
 include(libglib)
 include(xz)
-llvm-dev
+include(devpkg-llvm)
 # end of custom additions
 
 # main package

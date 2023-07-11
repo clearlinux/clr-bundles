@@ -68,6 +68,7 @@ include(devpkg-cmocka)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+include(devpkg-cups)
 include(devpkg-curl)
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
@@ -75,6 +76,7 @@ datefudge
 db
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 dejagnu
 desktop-file-utils
@@ -85,9 +87,11 @@ directx-headers-staticdev
 dlm-dev
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
 dracut-dev
+include(devpkg-duktape)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -163,6 +167,8 @@ include(devpkg-graphite)
 include(graphviz)
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 gtk+-dev
 gtk-doc
 gtk-doc-data
@@ -245,6 +251,7 @@ include(devpkg-libidn)
 include(devpkg-libidn)
 include(devpkg-libidn2)
 include(devpkg-libidn2)
+include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libmicrohttpd)
@@ -305,6 +312,8 @@ include(devpkg-lzo)
 m4
 include(make)
 man-db
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mesa)
 include(devpkg-mesa)
 mingw-gcc
@@ -483,6 +492,7 @@ include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 include(devpkg-protobuf)
@@ -555,6 +565,7 @@ include(devpkg-util-linux)
 util-linux-extras
 include(devpkg-util-macros)
 include(devpkg-util-macros)
+vala
 include(valgrind)
 include(devpkg-valgrind)
 include(devpkg-wayland)

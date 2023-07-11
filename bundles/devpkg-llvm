@@ -1,7 +1,13 @@
 # [TITLE]: devpkg-llvm
 # [DESCRIPTION]: All content for pkgconfig file llvm.pc.
-# [STATUS]: Pending-Delete
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-filesystem
+
+include(devpkg-base)
+
+llvm-dev
+include(xz)
+include(libstdcpp)
+include(llvm)

@@ -8,9 +8,13 @@ include(dev-utils)
 include(os-core-dev)
 include(storage-utils)
 include(devpkg-CUnit)
+include(devpkg-CUnit)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
+include(devpkg-Vulkan-Headers)
+include(devpkg-Vulkan-Loader)
+Vulkan-Tools
 include(devpkg-acl)
 include(devpkg-acl)
 acl-staticdev
@@ -41,6 +45,7 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 include(devpkg-cJSON)
+ca-certs
 include(devpkg-check)
 include(devpkg-check)
 cifs-utils-dev
@@ -58,6 +63,7 @@ datefudge
 db
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 dejagnu
 desktop-file-utils
@@ -65,7 +71,9 @@ include(diffutils)
 dlm-dev
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
+include(devpkg-duktape)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -80,6 +88,8 @@ f2fs-tools-dev
 include(devpkg-file)
 include(flex)
 flex-dev
+include(devpkg-fontconfig)
+include(devpkg-freetype)
 include(devpkg-fuse)
 gawk
 gcc
@@ -97,6 +107,7 @@ gettext-bin
 gettext-dev
 include(ghostscript)
 ghostscript-dev
+gi-docgen
 include(git)
 glib-bin
 include(devpkg-glib)
@@ -117,17 +128,21 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg)
 include(devpkg-gnutls)
+include(devpkg-gobject-introspection)
 gperf
 include(devpkg-gpgme)
 include(graphviz)
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 gtk-doc
 include(devpkg-gtk-doc)
 include(guile)
 include(gzip)
 help2man
 hostname
+httpd-dev
 include(devpkg-icu4c)
 include(devpkg-icu4c)
 include(devpkg-inih)
@@ -154,6 +169,7 @@ libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libassuan)
 include(devpkg-libbpf)
+libc6
 libc6-dev
 include(devpkg-libcap)
 include(devpkg-libcap)
@@ -164,6 +180,8 @@ include(devpkg-libdrm)
 libeconf-dev
 libeconf-dev
 include(devpkg-libedit)
+libev-dev
+include(devpkg-libevent)
 include(devpkg-libevent)
 include(devpkg-libffi)
 include(devpkg-libffi)
@@ -171,6 +189,7 @@ libfido2
 include(devpkg-libfido2)
 include(devpkg-libgcrypt)
 include(devpkg-libgcrypt)
+include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 include(devpkg-libgpg-error)
 libgpg-error-extras
@@ -178,6 +197,8 @@ include(devpkg-libidn)
 include(devpkg-libidn)
 include(devpkg-libidn2)
 include(devpkg-libidn2)
+include(devpkg-libinput)
+include(devpkg-libjpeg-turbo)
 include(devpkg-libkcapi)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -191,6 +212,7 @@ include(devpkg-libnftnl)
 include(devpkg-libnl)
 include(devpkg-libnsl)
 libnvme-dev
+include(devpkg-libproxy)
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
@@ -222,6 +244,8 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 meson-python3
 mingw-gcc
 mpc-dev
@@ -234,6 +258,8 @@ include(net-tools)
 netbase
 include(devpkg-nettle)
 include(devpkg-nettle)
+include(devpkg-nghttp2)
+include(devpkg-nghttp2)
 ninja-python3
 nss-altfiles
 include(devpkg-ntfs-3g)
@@ -387,6 +413,7 @@ pkg-config
 include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 include(devpkg-pycairo)
@@ -461,6 +488,7 @@ util-linux-bin
 include(devpkg-util-linux)
 include(devpkg-util-linux)
 util-linux-extras
+vala
 include(valgrind)
 include(devpkg-valgrind)
 include(which)

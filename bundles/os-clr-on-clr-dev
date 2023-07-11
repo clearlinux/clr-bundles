@@ -26,6 +26,8 @@ include(devpkg-LVM2)
 LVM2-extras
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
+LuaJIT
+include(devpkg-LuaJIT)
 MarkupSafe-python3
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
@@ -62,6 +64,7 @@ include(devpkg-appstream)
 appstream-glib
 include(devpkg-apr)
 include(devpkg-apr-util)
+include(devpkg-argon2)
 armadillo-data
 asciidoc
 include(aspell)
@@ -198,6 +201,7 @@ include(devpkg-elfutils)
 include(devpkg-elfutils)
 include(devpkg-ell)
 emacs
+include(devpkg-enchant)
 include(devpkg-evolution-data-server)
 include(devpkg-exiv2)
 include(devpkg-expat)
@@ -223,6 +227,7 @@ include(fontforge)
 include(fonttools)
 fonttools-python3
 include(devpkg-freeglut)
+freetype
 include(devpkg-freetype)
 include(devpkg-freetype)
 include(devpkg-fribidi)
@@ -251,6 +256,7 @@ gdbm-dev
 include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 include(devpkg-gdm)
+include(devpkg-geos)
 gettext
 gettext-bin
 gettext-dev
@@ -259,6 +265,7 @@ include(ghostscript)
 ghostscript-dev
 gi-docgen
 include(devpkg-gi-docgen)
+giflib-dev
 include(git)
 include(gjs)
 include(devpkg-gjs)
@@ -343,6 +350,7 @@ include(devpkg-hwloc)
 ibus
 ibus-dev
 ibus-libpinyin
+icu4c
 include(devpkg-icu4c)
 include(devpkg-icu4c)
 include(devpkg-inih)
@@ -495,6 +503,7 @@ include(devpkg-libgcrypt)
 include(devpkg-libgcrypt)
 include(devpkg-libgd)
 include(devpkg-libgdata)
+libgeotiff-dev
 include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 include(devpkg-libgpg-error)
@@ -559,6 +568,7 @@ include(devpkg-libqrtr-glib)
 include(devpkg-librepo)
 librsvg
 include(devpkg-librsvg)
+include(devpkg-librttopo)
 include(devpkg-libsamplerate)
 libsass
 include(devpkg-libsass)
@@ -571,6 +581,7 @@ include(devpkg-libsndfile)
 include(devpkg-libsodium)
 include(devpkg-libsolv)
 include(devpkg-libsoup)
+include(devpkg-libspatialite)
 include(devpkg-libspectre)
 include(devpkg-libsrtp)
 include(devpkg-libssh)
@@ -616,6 +627,7 @@ libxml2-python3
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
+include(devpkg-libzip)
 links
 linux-firmware-wifi
 linux-libc-headers
@@ -653,6 +665,7 @@ mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
 include(devpkg-mobile-broadband-provider-info)
+include(modules)
 include(devpkg-mozjs102)
 mpc-dev
 include(devpkg-mpfr)
@@ -887,6 +900,7 @@ perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
 include(devpkg-phonon)
+php
 php-dev
 pigz
 include(devpkg-pipewire)
@@ -902,15 +916,19 @@ include(devpkg-pmdk)
 pmix-dev
 include(devpkg-polkit)
 include(devpkg-polkit-qt)
+include(poppler)
 include(devpkg-poppler)
 poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
+potrace-dev
 ppp-dev
 processor-trace-dev
 procmail
 include(procps-ng)
 procps-ng-bin
+proj
+include(devpkg-proj)
 include(devpkg-protobuf-c)
 include(devpkg-protobuf)
 include(devpkg-pulseaudio)
@@ -1079,6 +1097,7 @@ include(devpkg-qtx11extras)
 include(devpkg-qtxmlpatterns)
 include(devpkg-rdma-core)
 include(devpkg-re2)
+re2c
 include(devpkg-readline)
 include(devpkg-readline)
 include(devpkg-rest)
@@ -1098,8 +1117,10 @@ include(devpkg-sbc)
 sbsigntools
 scipy-python3
 sed
+serf-dev
 sg3_utils-dev
 shadow
+include(devpkg-shapelib)
 shared-mime-info
 include(devpkg-slang)
 include(devpkg-snappy)
@@ -1146,6 +1167,7 @@ include(devpkg-tevent)
 tevent-python3
 include(texinfo)
 include(texlive)
+texlive-dev
 thin-provisioning-tools
 threadweaver-dev
 include(devpkg-tiff)

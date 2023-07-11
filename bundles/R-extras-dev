@@ -709,6 +709,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -720,6 +721,7 @@ directx-headers-staticdev
 dlm-dev
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 e2fsprogs
@@ -813,6 +815,8 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -999,6 +1003,8 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
