@@ -38,6 +38,7 @@ buildreq-gnome
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
+include(devpkg-bzip2)
 ca-certs
 include(devpkg-check)
 clr-rpm-config
@@ -128,8 +129,8 @@ include(devpkg-libcap)
 include(devpkg-libcap-ng)
 include(devpkg-libcap-ng)
 include(devpkg-libcgroup)
-libeconf-dev
-libeconf-dev
+include(devpkg-libeconf)
+include(devpkg-libeconf)
 include(devpkg-libedit)
 libev-dev
 include(devpkg-libevent)

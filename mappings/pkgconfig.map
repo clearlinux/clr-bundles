@@ -629,6 +629,7 @@ pkgconfig(libebackend-1.2)	devpkg-evolution-data-server
 pkgconfig(libebook-1.2)	devpkg-evolution-data-server
 pkgconfig(libebook-contacts-1.2)	devpkg-evolution-data-server
 pkgconfig(libecal-2.0)	devpkg-evolution-data-server
+pkgconfig(libeconf)	devpkg-libeconf
 pkgconfig(libecpg)	devpkg-postgresql
 pkgconfig(libecpg_compat)	devpkg-postgresql
 pkgconfig(libedata-book-1.2)	devpkg-evolution-data-server

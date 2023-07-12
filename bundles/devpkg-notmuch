@@ -8,3 +8,5 @@
 include(devpkg-base)
 
 notmuch-dev
+include(qt-core)
+include(icu4c-lib)

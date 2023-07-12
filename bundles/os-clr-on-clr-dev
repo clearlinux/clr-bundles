@@ -483,8 +483,8 @@ libdbusmenu-dev
 include(devpkg-libdbusmenu-qt)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
-libeconf-dev
-libeconf-dev
+include(devpkg-libeconf)
+include(devpkg-libeconf)
 include(devpkg-libedit)
 libei-dev
 include(devpkg-libepoxy)

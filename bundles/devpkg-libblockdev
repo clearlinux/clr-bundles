@@ -11,3 +11,5 @@ include(libglib)
 
 libblockdev-dev
 include(libglib)
+include(qt-core)
+include(icu4c-lib)

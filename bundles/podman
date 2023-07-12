@@ -7,6 +7,10 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(sqlite)
+include(icu4c-lib)
+include(curl)
+include(qt-core)
 include(libglib)
 include(systemd)
 include(libstdcpp)

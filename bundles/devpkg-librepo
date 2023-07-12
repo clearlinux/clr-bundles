@@ -15,3 +15,5 @@ include(devpkg-openssl)
 librepo-dev
 include(curl)
 include(libglib)
+include(qt-core)
+include(icu4c-lib)

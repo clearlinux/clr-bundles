@@ -415,8 +415,8 @@ libdbusmenu-dev
 include(devpkg-libdmx)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
-libeconf-dev
-libeconf-dev
+include(devpkg-libeconf)
+include(devpkg-libeconf)
 include(devpkg-libedit)
 libei-dev
 include(devpkg-libepoxy)

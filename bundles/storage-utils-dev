@@ -44,6 +44,7 @@ buildreq-kde
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
+include(devpkg-bzip2)
 include(devpkg-cJSON)
 ca-certs
 include(devpkg-check)
@@ -177,8 +178,8 @@ include(devpkg-libcap-ng)
 include(devpkg-libcap-ng)
 include(devpkg-libcgroup)
 include(devpkg-libdrm)
-libeconf-dev
-libeconf-dev
+include(devpkg-libeconf)
+include(devpkg-libeconf)
 include(devpkg-libedit)
 libev-dev
 include(devpkg-libevent)

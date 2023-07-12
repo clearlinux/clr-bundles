@@ -35,6 +35,7 @@ buildreq-gnome
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
+include(devpkg-bzip2)
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -112,8 +113,8 @@ include(devpkg-libcap)
 include(devpkg-libcap-ng)
 include(devpkg-libcap-ng)
 include(devpkg-libcgroup)
-libeconf-dev
-libeconf-dev
+include(devpkg-libeconf)
+include(devpkg-libeconf)
 include(devpkg-libedit)
 include(devpkg-libffi)
 include(devpkg-libffi)

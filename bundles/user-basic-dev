@@ -342,8 +342,8 @@ include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
-libeconf-dev
-libeconf-dev
+include(devpkg-libeconf)
+include(devpkg-libeconf)
 include(devpkg-libedit)
 include(devpkg-libepoxy)
 liberation-fonts

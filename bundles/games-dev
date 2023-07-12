@@ -340,8 +340,8 @@ include(devpkg-libdatrie)
 libdbusmenu-dev
 include(devpkg-libdrm)
 include(devpkg-libdrm)
-libeconf-dev
-libeconf-dev
+include(devpkg-libeconf)
+include(devpkg-libeconf)
 include(devpkg-libedit)
 libei-dev
 include(devpkg-libepoxy)
