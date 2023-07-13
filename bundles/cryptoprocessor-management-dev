@@ -42,7 +42,6 @@ ca-certs
 clr-rpm-config
 include(devpkg-cmocka)
 coreutils
-cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 include(devpkg-curl)

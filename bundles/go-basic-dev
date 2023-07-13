@@ -60,7 +60,6 @@ cmake
 include(devpkg-compat-fuse-soname2)
 coreutils
 include(devpkg-cppunit)
-cracklib-dev
 include(devpkg-cryptsetup)
 cscope
 ctags

@@ -101,7 +101,6 @@ include(devpkg-colord)
 include(devpkg-compat-gcr-soname1)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
-cracklib-dev
 include(devpkg-cryptsetup)
 cups
 include(devpkg-cups)

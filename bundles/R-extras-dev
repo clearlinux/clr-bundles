@@ -695,7 +695,6 @@ include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
 include(devpkg-cppunit)
-cracklib-dev
 include(devpkg-cryptsetup)
 cscope
 ctags

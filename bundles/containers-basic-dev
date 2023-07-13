@@ -47,7 +47,6 @@ include(devpkg-check)
 clr-rpm-config
 include(devpkg-compat-gcr-soname1)
 coreutils
-cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 include(devpkg-curl)

@@ -36,7 +36,6 @@ include(devpkg-bzip2)
 ca-certs
 clr-rpm-config
 coreutils
-cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 include(devpkg-dbus)

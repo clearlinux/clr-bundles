@@ -33,6 +33,7 @@ include(devpkg-acl)
 acl-staticdev
 include(devpkg-alsa-lib)
 include(devpkg-alsa-lib)
+armadillo-data
 asciidoc
 include(devpkg-at-spi2-core)
 include(devpkg-attr)
@@ -86,8 +87,9 @@ include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
 cppcheck
-cracklib-dev
+include(devpkg-cppunit)
 include(devpkg-cryptsetup)
+cscope
 ctags
 cups
 include(devpkg-cups)
@@ -126,6 +128,7 @@ include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 include(devpkg-elfutils)
+emacs
 include(devpkg-expat)
 include(devpkg-expat)
 expect
@@ -146,6 +149,7 @@ include(devpkg-freetype)
 include(devpkg-fribidi)
 include(devpkg-fuse)
 gawk
+include(devpkg-gc)
 gcc
 gcc-dev
 gcc-dev
@@ -154,6 +158,7 @@ gcc-libstdc++32
 gcc-staticdev
 gcc7-dev
 gcc8-dev
+include(devpkg-gdal)
 include(gdb)
 gdb-dev
 gdbm-dev
@@ -214,8 +219,10 @@ gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(guile)
+include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)
+hdf5-dev
 help2man
 hostname
 httpd-dev
@@ -236,6 +243,7 @@ include(devpkg-iso-codes)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
+include(devpkg-jsoncpp)
 include(devpkg-keyutils)
 kmod
 include(devpkg-kmod)
@@ -263,6 +271,7 @@ include(devpkg-libXv)
 include(devpkg-libXvMC)
 include(devpkg-libXvMC)
 libaio-dev
+include(devpkg-libarchive)
 include(devpkg-libassuan)
 include(devpkg-libatomic_ops)
 include(devpkg-libatomic_ops)
@@ -396,6 +405,7 @@ include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
+meson
 include(devpkg-metrics-discovery)
 mingw-gcc
 mpc-dev
@@ -422,6 +432,8 @@ include(devpkg-nss)
 include(devpkg-numactl)
 include(devpkg-onig)
 include(devpkg-openal-soft)
+include(openblas)
+include(devpkg-opencl-headers)
 include(devpkg-openexr)
 openjdk
 openjdk-dev
@@ -443,6 +455,7 @@ include(pandoc)
 include(devpkg-pango)
 include(patch)
 patchelf
+patchutils
 include(devpkg-pcre)
 include(devpkg-pcre2)
 include(devpkg-pcre2)
@@ -576,6 +589,7 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
+php-dev
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
@@ -599,6 +613,7 @@ pypi-docutils
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
+pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-mako
@@ -649,6 +664,8 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 include(strace)
+include(devpkg-subunit)
+include(subversion)
 swig
 systemd-bin
 include(devpkg-systemd)
@@ -660,6 +677,7 @@ tcl
 include(devpkg-tcl)
 tcl-staticdev
 include(texinfo)
+include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk
@@ -688,6 +706,7 @@ include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
+include(wget)
 include(which)
 xauth
 xcb-proto

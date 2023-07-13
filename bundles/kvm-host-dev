@@ -84,7 +84,6 @@ include(devpkg-cmocka)
 include(devpkg-colord)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
-cracklib-dev
 include(devpkg-cryptsetup)
 cups
 include(devpkg-cups)

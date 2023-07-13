@@ -66,7 +66,6 @@ clr-rpm-config
 cmake
 include(devpkg-cmocka)
 coreutils
-cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-cups)
 include(devpkg-curl)
