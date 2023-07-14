@@ -78,6 +78,7 @@ buildreq-qmake
 bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
+include(devpkg-c-ares)
 include(devpkg-cJSON)
 ca-certs
 include(devpkg-cairo)
@@ -551,6 +552,7 @@ include(devpkg-nettle)
 include(devpkg-newt)
 include(devpkg-nghttp2)
 include(devpkg-nghttp2)
+nghttp3-dev
 ninja
 include(devpkg-not-ffmpeg)
 npth-dev

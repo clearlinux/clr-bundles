@@ -42,6 +42,7 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
+include(devpkg-c-ares)
 ca-certs
 include(devpkg-check)
 clr-rpm-config
@@ -221,6 +222,7 @@ include(devpkg-nettle)
 include(devpkg-nettle)
 include(devpkg-nghttp2)
 include(devpkg-nghttp2)
+nghttp3-dev
 ninja-python3
 npth-dev
 nss-altfiles

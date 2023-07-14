@@ -44,6 +44,7 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
+include(devpkg-c-ares)
 ca-certs
 clr-rpm-config
 coreutils
@@ -233,6 +234,7 @@ include(devpkg-nettle)
 include(devpkg-nettle)
 include(devpkg-nghttp2)
 include(devpkg-nghttp2)
+nghttp3-dev
 nss-altfiles
 openldap-dev
 include(openssl)

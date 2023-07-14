@@ -38,6 +38,7 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
+include(devpkg-c-ares)
 ca-certs
 clr-rpm-config
 include(devpkg-cmocka)
@@ -178,6 +179,7 @@ include(devpkg-ncurses)
 netbase
 include(devpkg-nghttp2)
 include(devpkg-nghttp2)
+nghttp3-dev
 nss-altfiles
 openldap-dev
 include(openssl)
