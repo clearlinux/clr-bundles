@@ -12,5 +12,3 @@ include(libglib)
 udisks2-dev
 include(libglib)
 include(pypi-six)
-include(qt-core)
-include(icu4c-lib)

@@ -13,5 +13,3 @@ ostree-dev
 include(curl)
 include(libglib)
 include(xz)
-include(qt-core)
-include(icu4c-lib)

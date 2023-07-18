@@ -40,3 +40,5 @@ xnec2c
 include(libevent-lib)
 include(pcre-lib)
 include(libXpm-lib)
+include(pypi-requests)
+include(pypi-six)
