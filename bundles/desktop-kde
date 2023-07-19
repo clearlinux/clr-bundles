@@ -150,7 +150,7 @@ powerdevil
 print-manager
 include(pulseaudio)
 qqc2-desktop-style
-include(sddm)
+also-add(sddm)
 sddm-autostart
 sddm-kcm
 solid

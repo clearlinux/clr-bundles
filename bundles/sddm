@@ -8,7 +8,7 @@
 include(fonts-basic)
 include(libX11client)
 include(polkit)
-include(x11-server)
+also-add(x11-server)
 include(qt-basic)
 dbus
 icu4c
