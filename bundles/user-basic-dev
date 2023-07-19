@@ -27,7 +27,6 @@ include(devpkg-Linux-PAM)
 OpenSP
 include(devpkg-SDL)
 include(devpkg-SDL2)
-include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -433,7 +432,6 @@ include(devpkg-libunwind)
 include(devpkg-libunwind)
 include(devpkg-liburing)
 include(devpkg-libusb)
-include(devpkg-libusb)
 include(devpkg-libuv)
 include(devpkg-libva)
 include(devpkg-libvdpau)
@@ -479,6 +477,7 @@ include(devpkg-mpg123)
 include(devpkg-mtdev)
 include(nasm)
 nasm-bin
+ncurses
 ncurses-bin
 include(devpkg-ncurses)
 include(devpkg-ncurses)

@@ -44,7 +44,9 @@ ca-certs
 include(devpkg-check)
 clr-rpm-config
 coreutils
+cppcheck
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 include(devpkg-curl)
 include(devpkg-dbus)
@@ -97,6 +99,7 @@ gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
 gperf
+gpm-dev
 include(graphviz)
 grep
 groff
@@ -183,6 +186,7 @@ m4
 include(make)
 mpc-dev
 include(devpkg-mpfr)
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 netbase

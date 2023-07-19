@@ -627,7 +627,6 @@ R-zip
 R-zoo
 include(devpkg-SDL)
 include(devpkg-SDL2)
-include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -695,6 +694,7 @@ include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
+cppcheck
 include(devpkg-cppunit)
 include(devpkg-cryptsetup)
 cscope
@@ -808,6 +808,7 @@ include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
 include(devpkg-gpgme)
+gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
@@ -973,8 +974,6 @@ libtool-dev
 libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
-include(devpkg-libunwind)
-include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvdpau)
@@ -1020,6 +1019,7 @@ include(devpkg-mtdev)
 munge-dev
 include(nasm)
 nasm-bin
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(net-tools)

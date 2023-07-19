@@ -48,7 +48,9 @@ include(devpkg-c-ares)
 ca-certs
 clr-rpm-config
 coreutils
+cppcheck
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-cups)
 include(devpkg-curl)
 include(devpkg-curl)
@@ -126,6 +128,7 @@ include(devpkg-gobject-introspection)
 gperf
 include(gpgme)
 include(devpkg-gpgme)
+gpm-dev
 include(graphviz)
 grep
 groff
@@ -228,6 +231,7 @@ include(devpkg-md4c)
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(net-tools)

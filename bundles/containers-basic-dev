@@ -48,7 +48,9 @@ include(devpkg-check)
 clr-rpm-config
 include(devpkg-compat-gcr-soname1)
 coreutils
+cppcheck
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 include(devpkg-curl)
 datefudge
@@ -114,6 +116,7 @@ include(devpkg-gobject-introspection)
 golang-github-cpuguy83-go-md2man
 gperf
 include(devpkg-gpgme)
+gpm-dev
 include(graphviz)
 grep
 groff
@@ -214,6 +217,7 @@ include(make)
 meson-python3
 mpc-dev
 include(devpkg-mpfr)
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(net-tools)

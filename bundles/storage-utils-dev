@@ -55,8 +55,10 @@ clr-rpm-config
 include(devpkg-cmocka)
 include(devpkg-compat-fuse-soname2)
 coreutils
+cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-cups)
 include(devpkg-curl)
 include(devpkg-curl)
@@ -133,6 +135,7 @@ include(devpkg-gnutls)
 include(devpkg-gobject-introspection)
 gperf
 include(devpkg-gpgme)
+gpm-dev
 include(graphviz)
 grep
 groff
@@ -253,6 +256,7 @@ mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-multipath-tools)
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(devpkg-ndctl)

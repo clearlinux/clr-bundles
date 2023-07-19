@@ -67,7 +67,9 @@ clr-rpm-config
 cmake
 include(devpkg-cmocka)
 coreutils
+cppcheck
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-cups)
 include(devpkg-curl)
 include(devpkg-curl)
@@ -320,6 +322,7 @@ mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
 include(nasm)
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(net-tools)

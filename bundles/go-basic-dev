@@ -60,6 +60,7 @@ clr-rpm-config
 cmake
 include(devpkg-compat-fuse-soname2)
 coreutils
+cppcheck
 include(devpkg-cppunit)
 include(devpkg-cryptsetup)
 cscope
@@ -132,6 +133,7 @@ go
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
+gpm-dev
 include(graphviz)
 grep
 groff
@@ -251,6 +253,7 @@ meson
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(net-tools)

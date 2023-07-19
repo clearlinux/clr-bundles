@@ -21,7 +21,6 @@ include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 include(devpkg-SDL)
 include(devpkg-SDL2)
-include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -527,9 +526,7 @@ include(devpkg-libunibreak)
 libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
-include(devpkg-libunwind)
 include(devpkg-liburing)
-include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvdpau)
@@ -601,6 +598,7 @@ mypy-python3
 include(nasm)
 nasm-bin
 include(devpkg-nautilus)
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(devpkg-ndctl)

@@ -38,7 +38,9 @@ include(devpkg-bzip2)
 include(devpkg-bzip2)
 clr-rpm-config
 coreutils
+cppcheck
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 db
 include(devpkg-dbus)
@@ -82,6 +84,7 @@ gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
 gperf
+gpm-dev
 include(graphviz)
 grep
 groff
@@ -155,6 +158,7 @@ include(devpkg-lz4)
 include(make)
 mpc-dev
 include(devpkg-mpfr)
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 netbase

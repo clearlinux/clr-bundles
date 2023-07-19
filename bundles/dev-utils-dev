@@ -16,7 +16,6 @@ include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
 include(devpkg-SDL)
 include(devpkg-SDL2)
-include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -202,6 +201,7 @@ include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
 include(devpkg-gpgme)
+gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
@@ -372,7 +372,6 @@ libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libunwind)
 include(devpkg-libusb)
-include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvdpau)
 include(devpkg-libvorbis)
@@ -415,6 +414,7 @@ include(devpkg-mpg123)
 include(devpkg-mtdev)
 include(nasm)
 nasm-bin
+ncurses
 ncurses-bin
 include(devpkg-ncurses)
 include(devpkg-ncurses)

@@ -19,7 +19,6 @@ include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 include(devpkg-SDL)
 include(devpkg-SDL2)
-include(devpkg-SDL2)
 include(devpkg-SDL2_gfx)
 include(devpkg-SDL2_image)
 include(devpkg-SDL2_net)
@@ -102,7 +101,9 @@ include(devpkg-colord)
 include(devpkg-compat-gcr-soname1)
 include(devpkg-compat-libsoup-soname-24)
 coreutils
+cppcheck
 include(devpkg-cryptsetup)
+ctags
 cups
 include(devpkg-cups)
 include(devpkg-curl)
@@ -234,6 +235,7 @@ include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
 include(devpkg-gpgme)
+gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)
 include(graphviz)
@@ -431,9 +433,7 @@ include(devpkg-libunibreak)
 libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
-include(devpkg-libunwind)
 include(devpkg-liburing)
-include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvdpau)
@@ -488,6 +488,7 @@ mutter-data
 include(devpkg-mutter)
 include(nasm)
 nasm-bin
+ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
 include(net-tools)
