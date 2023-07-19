@@ -58,7 +58,6 @@ memkind
 memkind-dev
 include(devpkg-mesa)
 include(mkosi)
-ncurses-data-rare
 p7zip
 pypi-pep8
 pesign
