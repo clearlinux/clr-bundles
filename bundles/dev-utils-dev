@@ -111,7 +111,6 @@ include(diffutils)
 include(devpkg-directx-headers)
 directx-headers-staticdev
 directx-headers-staticdev
-dlm-dev
 include(docbook-utils)
 docbook-xml
 double-conversion-dev

@@ -72,7 +72,6 @@ dbus-python
 dejagnu
 desktop-file-utils
 include(diffutils)
-dlm-dev
 include(docbook-utils)
 docbook-xml
 double-conversion-dev

@@ -148,7 +148,6 @@ include(diffutils)
 include(devpkg-directx-headers)
 directx-headers-staticdev
 directx-headers-staticdev
-dlm-dev
 dnsmasq
 include(docbook-utils)
 docbook-xml

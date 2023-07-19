@@ -105,7 +105,6 @@ include(diffutils)
 include(devpkg-directx-headers)
 directx-headers-staticdev
 directx-headers-staticdev
-dlm-dev
 dmidecode
 dnsmasq
 include(docbook-utils)

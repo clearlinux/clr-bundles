@@ -32,7 +32,6 @@ MarkupSafe-python3
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 OpenSP
-Pacemaker-dev
 PyYAML
 R
 include(devpkg-SDL)
@@ -174,7 +173,6 @@ include(devpkg-ding-libs)
 include(devpkg-directx-headers)
 directx-headers-staticdev
 directx-headers-staticdev
-dlm-dev
 dmidecode
 include(dnf)
 dnsmasq

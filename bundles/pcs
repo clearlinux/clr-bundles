@@ -1,15 +1,7 @@
 # [TITLE]: pcs
 # [DESCRIPTION]: Pacemaker command line interface and GUI
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(python3-basic)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(libX11client)
-# end of custom additions
-
-# main package
-pcs
+filesystem
