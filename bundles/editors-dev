@@ -116,7 +116,6 @@ include(devpkg-libcap-ng)
 include(devpkg-libcgroup)
 include(devpkg-libeconf)
 include(devpkg-libeconf)
-include(devpkg-libedit)
 include(devpkg-libffi)
 include(devpkg-libffi)
 libfido2

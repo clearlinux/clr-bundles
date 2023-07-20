@@ -154,7 +154,6 @@ include(devpkg-libcap-ng)
 include(devpkg-libcgroup)
 include(devpkg-libeconf)
 include(devpkg-libeconf)
-include(devpkg-libedit)
 libev-dev
 include(devpkg-libevent)
 include(devpkg-libevent)

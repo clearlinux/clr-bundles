@@ -555,7 +555,6 @@ perl-Clone-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
-perl-Crypt-SSLeay-perl
 perl-Data-OptList-perl
 perl-DateTime
 perl-DateTime-Locale-perl
@@ -616,10 +615,8 @@ perl-Module-Pluggable-perl
 perl-Module-Runtime-perl
 perl-Moo-perl
 perl-Moose-perl
-perl-Mozilla-CA-perl
 perl-Net-Daemon-perl
 perl-Net-HTTP-perl
-perl-Net-SSLeay-perl
 perl-Package-DeprecationManager-perl
 perl-Package-Stash-perl
 perl-PadWalker-perl
