@@ -87,7 +87,6 @@ libxml2-lib
 mesa
 mesa-lib
 ncurses-lib
-#ncurses-compat-lib
 nspr
 nss-lib
 nss-altfiles-lib
