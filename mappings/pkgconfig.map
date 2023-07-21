@@ -349,7 +349,6 @@ pkgconfig(fontconfig)	devpkg-fontconfig
 pkgconfig(fontenc)	devpkg-libfontenc
 pkgconfig(fontsproto)	devpkg-xorgproto
 pkgconfig(fontutil)	devpkg-font-util
-pkgconfig(form)	devpkg-ncurses
 pkgconfig(formw)	devpkg-ncurses
 pkgconfig(freetype2)	devpkg-freetype
 pkgconfig(fribidi)	devpkg-fribidi
@@ -548,6 +547,7 @@ pkgconfig(kj-gzip)	devpkg-capnproto
 pkgconfig(kj-http)	devpkg-capnproto
 pkgconfig(kj-test)	devpkg-capnproto
 pkgconfig(kj-tls)	devpkg-capnproto
+pkgconfig(kpathsea)	devpkg-texlive
 pkgconfig(krb5)	devpkg-krb5
 pkgconfig(krb5-gssapi)	devpkg-krb5
 pkgconfig(ksba)	devpkg-libksba
@@ -940,7 +940,6 @@ pkgconfig(mtdev)	devpkg-mtdev
 pkgconfig(mutter-clutter-12)	devpkg-mutter
 pkgconfig(mutter-cogl-12)	devpkg-mutter
 pkgconfig(mutter-cogl-pango-12)	devpkg-mutter
-pkgconfig(ncurses)	devpkg-ncurses
 pkgconfig(ncursesw)	devpkg-ncurses
 pkgconfig(ndr)	devpkg-samba
 pkgconfig(ndr_krb5pac)	devpkg-samba
@@ -1000,6 +999,7 @@ pkgconfig(presentproto)	devpkg-xorgproto
 pkgconfig(proj)	devpkg-proj
 pkgconfig(protobuf)	devpkg-protobuf
 pkgconfig(protobuf-lite)	devpkg-protobuf
+pkgconfig(ptexenc)	devpkg-texlive
 pkgconfig(pthread-stubs)	devpkg-libpthread-stubs
 pkgconfig(pwquality)	devpkg-libpwquality
 pkgconfig(py3cairo)	devpkg-pycairo
@@ -1028,6 +1028,7 @@ pkgconfig(scdoc)	devpkg-scdoc
 pkgconfig(scrnsaverproto)	devpkg-xorgproto
 pkgconfig(sdl)	devpkg-SDL
 pkgconfig(sdl2)	devpkg-SDL2
+pkgconfig(serf-1)	devpkg-serf
 pkgconfig(shapelib)	devpkg-shapelib
 pkgconfig(shared-mime-info)	devpkg-shared-mime-info
 pkgconfig(sigc++-2.0)	devpkg-compat-libsigcplusplus-soname20
@@ -1047,6 +1048,7 @@ pkgconfig(spirv-cross-c-shared)	devpkg-SPIRV-Cross
 pkgconfig(sqlite3)	devpkg-sqlite-autoconf
 pkgconfig(ss)	devpkg-e2fsprogs
 pkgconfig(stoken)	devpkg-stoken
+pkgconfig(synctex)	devpkg-texlive
 pkgconfig(systemd)	devpkg-systemd
 pkgconfig(taglib)	devpkg-taglib
 pkgconfig(taglib_c)	devpkg-taglib
@@ -1056,6 +1058,8 @@ pkgconfig(tdb)	devpkg-tdb
 pkgconfig(telepathy-glib)	devpkg-telepathy-glib
 pkgconfig(tesseract)	devpkg-tesseract
 pkgconfig(tevent)	devpkg-tevent
+pkgconfig(texlua53)	devpkg-texlive
+pkgconfig(texluajit)	devpkg-texlive
 pkgconfig(theora)	devpkg-libtheora
 pkgconfig(theoradec)	devpkg-libtheora
 pkgconfig(theoraenc)	devpkg-libtheora
@@ -1063,7 +1067,6 @@ pkgconfig(thrift)	devpkg-thrift
 pkgconfig(thrift-z)	devpkg-thrift
 pkgconfig(thrift_c_glib)	devpkg-thrift
 pkgconfig(thunarx-3)	devpkg-Thunar
-pkgconfig(tinfo)	devpkg-ncurses
 pkgconfig(tk)	devpkg-tk
 pkgconfig(tokyocabinet)	devpkg-tokyocabinet
 pkgconfig(tss2-esys)	devpkg-tpm2-tss

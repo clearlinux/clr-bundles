@@ -19,3 +19,4 @@ shadow-bin
 shadow-data
 tzdata-minimal
 util-linux-bin
+include(libstdcpp)

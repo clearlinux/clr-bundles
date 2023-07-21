@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 ncurses-dev
-include(libstdcpp)
+include(ncurses-lib)

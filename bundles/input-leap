@@ -11,6 +11,7 @@ include(libX11client)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libevent-lib)
 
 # end of custom additions
 

@@ -9,6 +9,7 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(gnome-base-libs)
 include(pulseaudio)
 include(ncurses-lib)
 include(libX11client)

@@ -414,7 +414,6 @@ kpackage-dev
 kparts-dev
 kplotting-dev
 include(devpkg-krb5)
-include(devpkg-kronosnet)
 kservice-dev
 ktextwidgets-dev
 kunitconversion-dev
@@ -558,7 +557,6 @@ include(devpkg-libpsl)
 include(devpkg-libpsl)
 include(devpkg-libpthread-stubs)
 include(devpkg-libpwquality)
-include(devpkg-libqb)
 include(devpkg-libqmi)
 include(devpkg-libqrtr-glib)
 include(devpkg-librepo)
@@ -582,7 +580,6 @@ include(devpkg-libspectre)
 include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
-include(devpkg-libstatgrab)
 libstdc++
 include(devpkg-libtasn1)
 include(devpkg-libtasn1)
