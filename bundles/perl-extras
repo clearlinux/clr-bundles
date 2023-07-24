@@ -219,6 +219,7 @@ perl-Devel-Refactor
 perl-Devel-Size
 perl-Devel-StackTrace
 perl-Devel-StackTrace-AsHTML
+perl-Devel-StackTrace-Extract
 perl-Devel-Symdump
 perl-Digest-CRC
 perl-Digest-HMAC
@@ -360,6 +361,7 @@ perl-IO-Interactive
 perl-IO-Interactive-Tiny
 perl-IO-Interface
 perl-IO-Multiplex
+perl-IO-Pager
 perl-IO-Pipely
 perl-IO-Prompter
 perl-IO-Socket-INET6
@@ -640,6 +642,7 @@ perl-Sub-Exporter
 perl-Sub-Exporter-ForMethods
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
+perl-Sub-Infix
 perl-Sub-Info
 perl-Sub-Install
 perl-Sub-Name
@@ -683,6 +686,7 @@ perl-Test-Fatal
 perl-Test-File
 perl-Test-File-ShareDir-Dist
 perl-Test-Fork
+perl-Test-Future-IO-Impl
 perl-Test-Identity
 perl-Test-Inter
 perl-Test-LWP-UserAgent
@@ -830,6 +834,7 @@ perl-latest
 perl-libwww-perl
 perl-libxml-perl
 perl-local-lib
+perl-match-simple
 perl-multidimensional
 perl-namespace-autoclean
 perl-namespace-clean
