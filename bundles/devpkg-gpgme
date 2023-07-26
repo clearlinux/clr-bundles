@@ -12,6 +12,5 @@ include(devpkg-libassuan)
 include(devpkg-libgpg-error)
 
 gpgme-dev
-include(qt-core)
 include(libstdcpp)
 include(gpgme)
