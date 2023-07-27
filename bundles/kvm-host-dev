@@ -96,7 +96,6 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
-include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -110,7 +109,6 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
-double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 e2fsprogs
@@ -203,8 +201,6 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-gsettings-desktop-schemas
-include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -386,8 +382,6 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
-include(devpkg-mariadb)
-include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 include(devpkg-mesa)
@@ -585,7 +579,6 @@ include(devpkg-pmdk)
 include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
-include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 include(devpkg-protobuf)

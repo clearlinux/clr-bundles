@@ -149,6 +149,7 @@ elfutils
 include(devpkg-elfutils)
 include(devpkg-elfutils)
 include(devpkg-ell)
+emacs
 include(devpkg-enchant)
 include(devpkg-evolution-data-server)
 include(devpkg-exiv2)
