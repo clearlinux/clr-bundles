@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 readline-dev
+include(ncurses-lib)
