@@ -5,8 +5,6 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 lua
-compat-lua-52
-compat-lua-53
 LuaJIT
 luarocks
 include(ncurses-lib)
