@@ -851,7 +851,6 @@ perl-Sub-Exporter-perl
 perl-Sub-Identify-perl
 perl-Sub-Info-perl
 perl-Sub-Install-perl
-perl-Sub-Name-perl
 perl-Sub-Quote-perl
 perl-Sub-Uplevel-perl
 perl-Term-Table-perl
@@ -930,7 +929,6 @@ include(devpkg-pycairo)
 include(pygobject)
 include(devpkg-pygobject)
 pypi-amqp-python3
-pypi-anyio-python3
 pypi-appdirs-python3
 pypi-async_timeout-python3
 pypi-attr-python3
@@ -970,7 +968,6 @@ pypi-freezegun-python3
 pypi-gitdb-python3
 pypi-glyphslib-python3
 pypi-gssapi-python3
-pypi-h11-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
@@ -1040,7 +1037,6 @@ pypi-six
 pypi-six-python3
 pypi-smartypants-python3
 pypi-smmap-python3
-pypi-sniffio-python3
 pypi-sphinx
 pypi-sphinx-python3
 pypi-sphinx_rtd_theme-python3

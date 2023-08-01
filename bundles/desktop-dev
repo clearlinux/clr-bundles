@@ -755,7 +755,6 @@ perl-Sub-Exporter-perl
 perl-Sub-Identify-perl
 perl-Sub-Info-perl
 perl-Sub-Install-perl
-perl-Sub-Name-perl
 perl-Sub-Quote-perl
 perl-Sub-Uplevel-perl
 perl-Test-Base-perl
@@ -876,6 +875,7 @@ pypi-jeepney-python3
 pypi-jinja2-python3
 pypi-jmespath-python3
 pypi-jsonschema-python3
+pypi-jsonschema_specifications-python3
 pypi-keyring-python3
 pypi-kiwisolver-python3
 pypi-lazy_loader-python3
@@ -941,6 +941,7 @@ pypi-pytz-python3
 pypi-pywavelets-python3
 pypi-pywbem-python3
 pypi-readme_renderer-python3
+pypi-referencing-python3
 pypi-reportlab-python3
 pypi-requests-python3
 pypi-requests_toolbelt-python3
