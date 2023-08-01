@@ -32,5 +32,8 @@ perl-URI
 perl-XML-NamespaceSupport
 perl-XML-Parser
 perl-libwww-perl
+
+clr-check-perl-modules
+
 include(gmp-lib)
 include(nettle-lib)
