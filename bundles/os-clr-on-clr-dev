@@ -51,6 +51,7 @@ Vulkan-Tools
 WPEBackend-fdo-dev
 Z3-dev
 Z3-dev
+include(devpkg-abseil-cpp)
 acl-bin
 include(devpkg-acl)
 include(devpkg-acl)
