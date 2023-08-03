@@ -13,8 +13,10 @@ include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
 include(devpkg-acl)
 include(devpkg-acl)
+acl-staticdev
 include(devpkg-attr)
 include(devpkg-attr)
+attr-staticdev
 include(devpkg-audit)
 autoconf
 autogen
@@ -72,6 +74,7 @@ glibc-bin
 glibc-dev
 glibc-libc32
 include(glibc-locale)
+glibc-staticdev
 glibc-utils
 include(devpkg-gmp)
 include(devpkg-gmp)

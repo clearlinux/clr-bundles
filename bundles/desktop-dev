@@ -34,7 +34,6 @@ Vulkan-Tools
 WPEBackend-fdo-dev
 Z3-dev
 Z3-dev
-include(devpkg-abseil-cpp)
 include(devpkg-accountsservice)
 acl-bin
 include(devpkg-acl)
@@ -888,6 +887,8 @@ pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-matplotlib-python3
+pypi-maturin
+pypi-maturin-python3
 pypi-meson_python
 pypi-meson_python-python3
 pypi-mock-python3
