@@ -970,6 +970,8 @@ libtool-dev
 libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
+include(devpkg-libunwind)
+include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvdpau)

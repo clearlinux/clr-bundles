@@ -432,7 +432,9 @@ include(devpkg-libunibreak)
 libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
+include(devpkg-libunwind)
 include(devpkg-liburing)
+include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvdpau)
