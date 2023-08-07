@@ -1,0 +1,10 @@
+# [TITLE]: python-graphics
+# [DESCRIPTION]: Python libraries to support graphical applications
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Programming Languages, Developer Tools, Python
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(python3-basic)
+#
+pypi-wxPython
