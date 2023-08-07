@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include(postgresql)
+include(postgresql-lib)
 include(qt-basic)
 wireshark
 include(libnl)
