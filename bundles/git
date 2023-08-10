@@ -9,6 +9,7 @@ include(lib-openssl)
 include(curl)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(systemd)
 include(less)
 hub
 include(p11-kit)
