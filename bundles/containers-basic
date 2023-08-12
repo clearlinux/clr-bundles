@@ -16,6 +16,7 @@ include(btrfs-progs)
 LVM2-bin
 LVM2-config
 bridge-utils
+buildx
 cni
 cni-plugins
 containerd
