@@ -10,3 +10,4 @@ wireshark
 include(libnl)
 include(libpcap-lib)
 include(libssh-lib)
+include(lz4)

@@ -8,6 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(systemd)
 
 # end of custom additions
 
