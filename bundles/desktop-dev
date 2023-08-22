@@ -868,7 +868,6 @@ pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-httpretty-python3
 pypi-hypothesis-python3
-pypi-idna-python3
 pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
