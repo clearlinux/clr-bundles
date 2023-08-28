@@ -601,6 +601,7 @@ pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pyparsing-python3
 pypi-pytest
+pypi-pytest-python3
 pypi-python_dbusmock
 pypi-setuptools-python3
 pypi-setuptools_scm-python3

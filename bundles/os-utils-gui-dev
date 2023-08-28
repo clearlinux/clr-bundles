@@ -762,6 +762,7 @@ pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pytest
+pypi-pytest-python3
 pypi-python_dbusmock
 pypi-pywbem-python3
 pypi-setuptools
