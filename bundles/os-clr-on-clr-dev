@@ -423,6 +423,7 @@ kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
 include(devpkg-kyotocabinet)
+ladspa_sdk-dev
 include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
@@ -451,6 +452,7 @@ include(devpkg-libXvMC)
 include(devpkg-libabigail)
 include(devpkg-libadwaita)
 libaio-dev
+libaom-dev
 include(devpkg-libarchive)
 include(devpkg-libass)
 include(devpkg-libassuan)
@@ -545,6 +547,7 @@ libnvme-dev
 include(devpkg-liboauth)
 include(devpkg-libogg)
 include(devpkg-libogg)
+libopenmpt-dev
 include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 include(devpkg-libpciaccess)
@@ -1127,6 +1130,7 @@ include(devpkg-spice-protocol)
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
+srt-dev
 sssd-dev
 include(devpkg-startup-notification)
 include(devpkg-stoken)
@@ -1189,6 +1193,7 @@ vala-bin
 include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
+vid.stab-dev
 vim
 include(devpkg-virglrenderer)
 include(devpkg-vte)
@@ -1204,6 +1209,8 @@ include(devpkg-weston)
 include(wget)
 include(which)
 include(devpkg-woff2)
+x264-dev
+x265-dev
 include(devpkg-xapian-core)
 xauth
 xcb-proto
@@ -1225,6 +1232,7 @@ xset
 include(devpkg-xtrans)
 include(devpkg-xtrans)
 xvfb-run
+xvidcore-dev
 xwayland
 include(devpkg-xwayland)
 include(xz)
@@ -1235,6 +1243,7 @@ yajl-lib
 yaml-dev
 include(yasm)
 include(zenity)
+zimg-dev
 include(zip)
 zlib
 include(devpkg-zlib)

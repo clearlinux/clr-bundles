@@ -12,7 +12,9 @@ include(libX11client)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-graphene)
+include(devpkg-libX11)
 include(devpkg-pango)
+include(devpkg-wayland)
 
 gtk4-dev
 include(libX11client)

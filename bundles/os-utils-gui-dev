@@ -314,6 +314,7 @@ kmod
 include(devpkg-kmod)
 include(devpkg-kmod)
 include(devpkg-krb5)
+ladspa_sdk-dev
 include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
@@ -342,6 +343,7 @@ include(devpkg-libXvMC)
 include(devpkg-libXvMC)
 include(devpkg-libadwaita)
 libaio-dev
+libaom-dev
 include(devpkg-libarchive)
 include(devpkg-libass)
 include(devpkg-libassuan)
@@ -434,6 +436,7 @@ libnvme-dev
 include(devpkg-liboauth)
 include(devpkg-libogg)
 include(devpkg-libogg)
+libopenmpt-dev
 include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 include(devpkg-libpciaccess)
@@ -567,6 +570,7 @@ include(devpkg-openexr)
 openjdk
 openjdk-dev
 openjpeg
+include(devpkg-openjpeg)
 openldap-dev
 include(devpkg-openmpi)
 openssh
@@ -818,6 +822,7 @@ include(devpkg-spice-protocol)
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
+srt-dev
 include(devpkg-startup-notification)
 include(devpkg-stoken)
 include(strace)
@@ -869,6 +874,7 @@ vala-bin
 include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
+vid.stab-dev
 volume_key-dev
 include(devpkg-vte)
 include(devpkg-wavpack)
@@ -879,6 +885,8 @@ include(devpkg-wayland-protocols)
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
+x264-dev
+x265-dev
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -904,6 +912,7 @@ xset
 include(devpkg-xtrans)
 include(devpkg-xtrans)
 xvfb-run
+xvidcore-dev
 xwayland
 include(devpkg-xwayland)
 include(xz)
@@ -913,6 +922,7 @@ include(devpkg-yajl)
 yaml-dev
 include(yasm)
 include(zenity)
+zimg-dev
 include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)

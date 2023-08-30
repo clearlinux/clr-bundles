@@ -9,8 +9,10 @@ include(devpkg-base)
 
 not-ffmpeg-dev
 include(libX11client)
+include(libglib)
+include(libstdcpp)
+include(lib-imageformat)
 include(dav1d-lib)
 include(harfbuzz-lib)
 include(icu4c-lib)
-include(lib-imageformat)
 include(not-ffmpeg-lib)
