@@ -1,15 +1,7 @@
 # [TITLE]: openqa
 # [DESCRIPTION]: OpenQA infrastructure, providing a significant part of release validation testing.
-# [STATUS]: WIP
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
-include(kvm-host)
-include(perl-extras)
-include(postgresql)
-include(httpd)
-opencv-lib
-openQA
-os-autoinst
-include(openblas)
-include(opencv-python)
+filesystem
