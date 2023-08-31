@@ -916,6 +916,7 @@ include(poppler)
 include(devpkg-poppler)
 poppler-extras
 include(devpkg-popt)
+portaudio-dev
 include(devpkg-postgresql)
 potrace-dev
 ppp-dev

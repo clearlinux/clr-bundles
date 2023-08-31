@@ -804,6 +804,7 @@ include(poppler)
 include(devpkg-poppler-data-clr-rename)
 include(devpkg-poppler)
 include(devpkg-popt)
+portaudio-dev
 include(devpkg-postgresql)
 ppp-dev
 include(procps-ng)

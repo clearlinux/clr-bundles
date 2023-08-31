@@ -714,6 +714,7 @@ include(devpkg-polkit-qt)
 include(devpkg-poppler)
 poppler-extras
 include(devpkg-popt)
+portaudio-dev
 include(devpkg-postgresql)
 ppp-dev
 include(procps-ng)

@@ -673,6 +673,7 @@ include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
+portaudio-dev
 include(devpkg-postgresql)
 ppp-dev
 include(procps-ng)
