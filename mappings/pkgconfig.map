@@ -787,6 +787,7 @@ pkgconfig(libportal)	devpkg-libportal
 pkgconfig(libportal-gtk3)	devpkg-libportal
 pkgconfig(libportal-gtk4)	devpkg-libportal
 pkgconfig(libportal-qt5)	devpkg-libportal
+pkgconfig(libpostproc)	devpkg-not-ffmpeg
 pkgconfig(libpq)	devpkg-postgresql
 pkgconfig(libprocps)	devpkg-procps-ng
 pkgconfig(libprofiler)	devpkg-gperftools
@@ -885,6 +886,7 @@ pkgconfig(libv4l2rds)	devpkg-v4l-utils
 pkgconfig(libv4lconvert)	devpkg-v4l-utils
 pkgconfig(libva)	devpkg-libva
 pkgconfig(libva-drm)	devpkg-libva
+pkgconfig(libva-glx)	devpkg-libva
 pkgconfig(libva-wayland)	devpkg-libva
 pkgconfig(libva-x11)	devpkg-libva
 pkgconfig(libvala-0.56)	devpkg-vala

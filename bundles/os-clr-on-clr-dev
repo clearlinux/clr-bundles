@@ -51,6 +51,7 @@ Vulkan-Tools
 WPEBackend-fdo-dev
 Z3-dev
 Z3-dev
+include(devpkg-abseil-cpp)
 acl-bin
 include(devpkg-acl)
 include(devpkg-acl)
@@ -995,7 +996,6 @@ pypi-mock
 pypi-mock-python3
 pypi-msgpack-python3
 pypi-munkres-python3
-pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
@@ -1014,7 +1014,6 @@ pypi-pyclipper-python3
 pypi-pycparser-python3
 pypi-pyelftools-python3
 pypi-pygments-python3
-pypi-pylint-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
 pypi-pyproject_metadata-python3
@@ -1046,7 +1045,6 @@ pypi-sphinx-python3
 pypi-sphinx_rtd_theme-python3
 pypi-sphinxcontrib_serializinghtml-python3
 pypi-tox
-pypi-tox-python3
 pypi-trove_classifiers-python3
 pypi-typing_extensions-python3
 pypi-typogrify-python3
