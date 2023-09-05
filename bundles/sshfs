@@ -1,15 +1,7 @@
 # [TITLE]: sshfs
 # [DESCRIPTION]: FUSE client based on the SSH File Transfer Protocol
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(libglib)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
-sshfs
+filesystem
