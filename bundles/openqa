@@ -5,4 +5,3 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 filesystem
-include(opencv-python)
