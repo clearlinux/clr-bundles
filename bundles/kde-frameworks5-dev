@@ -15,6 +15,7 @@ include(devpkg-Imath)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
+MarkupSafe-python3
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 include(devpkg-SDL)
@@ -73,6 +74,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -741,6 +743,8 @@ pypi-libevdev
 pypi-lxml
 pypi-mako
 pypi-markdown-python3
+pypi-mock-python3
+pypi-nose-python3
 pypi-pbr
 pypi-pip
 pypi-pluggy
@@ -748,6 +752,7 @@ pypi-psutil
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pylint-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-python_dbusmock
@@ -755,8 +760,11 @@ pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six
+pypi-six-python3
 pypi-sphinx
+pypi-sphinx-python3
 pypi-tox
+pypi-tox-python3
 pypi-virtualenv
 pypi-wheel-python3
 python3
