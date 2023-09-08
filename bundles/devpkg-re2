@@ -6,6 +6,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-abseil-cpp)
 
 re2-dev
 include(libstdcpp)
