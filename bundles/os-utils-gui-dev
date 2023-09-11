@@ -524,6 +524,7 @@ include(make)
 include(devpkg-mariadb)
 include(devpkg-md4c)
 include(devpkg-mediasdk)
+mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)
 mingw-gcc
@@ -748,6 +749,7 @@ pypi-cu2qu-python3
 include(pypi-cython)
 pypi-dnspython
 pypi-docutils
+pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
@@ -756,8 +758,10 @@ pypi-iso8601
 pypi-jinja2-python3
 pypi-libevdev
 pypi-lxml
+pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
+pypi-packaging-python3
 pypi-pbr
 pypi-pip
 pypi-pluggy
@@ -776,6 +780,7 @@ pypi-setuptools_scm-python3
 pypi-six
 pypi-sphinx
 pypi-tox
+pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-wheel-python3
 python-pocketlint

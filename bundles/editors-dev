@@ -154,6 +154,7 @@ include(llvm)
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(make)
+mercurial
 mpc-dev
 include(devpkg-mpfr)
 ncurses
@@ -182,11 +183,14 @@ include(procps-ng)
 procps-ng-bin
 include(pypi-cython)
 pypi-docutils
+pypi-flit_core-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml
+pypi-lz4-python3
+pypi-packaging-python3
 pypi-pip
 pypi-pluggy
 pypi-py-python3
@@ -195,6 +199,7 @@ pypi-pytest
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-tox
+pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-wheel-python3
 python3

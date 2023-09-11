@@ -466,6 +466,7 @@ man-db
 include(devpkg-mariadb)
 include(devpkg-md4c)
 include(devpkg-mediasdk)
+mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson
@@ -699,6 +700,7 @@ pypi-commonmark
 include(pypi-cython)
 pypi-dnspython
 pypi-docutils
+pypi-flit_core-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
@@ -707,10 +709,12 @@ pypi-iso8601
 pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-lxml
+pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-meson_python-python3
 pypi-msgpack-python3
+pypi-packaging-python3
 pypi-pip
 pypi-pluggy
 pypi-ply-python3
@@ -727,6 +731,7 @@ pypi-six-python3
 pypi-sphinx
 pypi-sphinx_rtd_theme-python3
 pypi-tox
+pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-wheel-python3
 python3

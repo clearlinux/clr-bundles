@@ -1002,6 +1002,7 @@ include(devpkg-lzo)
 m4
 include(make)
 include(devpkg-mediasdk)
+mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson
@@ -1217,15 +1218,18 @@ include(devpkg-pulseaudio)
 include(pygobject)
 include(pypi-cython)
 pypi-docutils
+pypi-flit_core-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-lxml
+pypi-lz4-python3
 pypi-mako
 pypi-msgpack-python3
 pypi-numpy-python3
+pypi-packaging-python3
 pypi-pip
 pypi-pluggy
 pypi-py-python3
@@ -1238,6 +1242,7 @@ pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-sphinx
 pypi-tox
+pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-wheel-python3
 python3
