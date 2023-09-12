@@ -711,6 +711,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -721,6 +722,7 @@ directx-headers-staticdev
 directx-headers-staticdev
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 e2fsprogs
@@ -744,6 +746,7 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 include(devpkg-font-util)
 fontconfig-data
 include(devpkg-fontconfig)
@@ -774,6 +777,7 @@ include(devpkg-geos)
 gettext
 gettext-bin
 gettext-dev
+include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
@@ -815,6 +819,8 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -845,6 +851,7 @@ intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)
+include(devpkg-jemalloc)
 jq-dev
 include(devpkg-json-c)
 include(devpkg-json-c)
@@ -972,6 +979,7 @@ libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libunwind)
+include(devpkg-liburing)
 include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
@@ -1001,6 +1009,8 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
@@ -1127,6 +1137,7 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
+perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -1266,6 +1277,7 @@ sed
 shadow
 include(devpkg-shapelib)
 shared-mime-info
+include(devpkg-snappy)
 include(devpkg-speex)
 include(devpkg-speexdsp)
 sqlite-autoconf

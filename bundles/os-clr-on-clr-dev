@@ -953,6 +953,7 @@ pypi-charset_normalizer-python3
 pypi-cheetah3-python3
 pypi-colorama-python3
 pypi-commonmark
+pypi-commonmark-python3
 pypi-coverage
 pypi-coverage-python3
 pypi-cryptography-python3
@@ -970,6 +971,7 @@ pypi-flask-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
+pypi-future-python3
 pypi-gitdb-python3
 pypi-glyphslib-python3
 pypi-gssapi-python3
@@ -978,11 +980,14 @@ pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hypothesis-python3
 pypi-idna
+pypi-importlib_metadata-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-iso8601-python3
+pypi-jeepney-python3
 pypi-jinja2-python3
 pypi-kerberos-python3
+pypi-keyring-python3
 pypi-libevdev
 pypi-lxml
 pypi-lxml-python3
@@ -1001,6 +1006,7 @@ pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
 pypi-pip
+pypi-pkgconfig-python3
 pypi-pluggy
 pypi-ply-python3
 pypi-poetry_core-python3
@@ -1030,7 +1036,10 @@ pypi-requests-python3
 pypi-requests_gssapi-python3
 pypi-requests_mock-python3
 pypi-requests_toolbelt-python3
+pypi-rfc3986-python3
+pypi-rich-python3
 pypi-scikit_build-python3
+pypi-secretstorage-python3
 pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_git_ls_files-python3
@@ -1058,6 +1067,7 @@ pypi-virtualenv
 pypi-virtualenv-python3
 pypi-wheel-python3
 pypi-xmlschema-python3
+pypi-zipp-python3
 pypi-zopfli-python3
 python3
 python3-core
@@ -1140,6 +1150,7 @@ include(devpkg-subunit)
 include(subversion)
 swig
 syndication-dev
+syntax-highlighting-dev
 sysprof-dev
 sysprof-staticdev
 systemd
