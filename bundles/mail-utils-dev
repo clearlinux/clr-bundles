@@ -384,7 +384,6 @@ include(devpkg-postgresql)
 procmail
 include(procps-ng)
 procps-ng-bin
-pypi-cffi-python3
 include(pypi-cython)
 pypi-flit_core-python3
 pypi-hatch_vcs

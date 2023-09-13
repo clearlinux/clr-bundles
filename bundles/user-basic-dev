@@ -698,7 +698,6 @@ include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 include(devpkg-pycairo)
 include(pygobject)
-pypi-cffi-python3
 pypi-commonmark
 include(pypi-cython)
 pypi-dnspython
