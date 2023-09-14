@@ -1332,10 +1332,12 @@ xauth
 xcb-proto
 include(devpkg-xcb-proto)
 xdg-utils
+include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlsec1)
 xmlto
 xorg-fonts
+include(devpkg-xorg-server)
 include(devpkg-xorgproto)
 include(devpkg-xorgproto)
 include(devpkg-xtrans)

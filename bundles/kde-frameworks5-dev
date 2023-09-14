@@ -888,11 +888,13 @@ include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xdg-dbus-proxy
 xdg-utils
+include(devpkg-xkbcomp)
 xkeyboard-config
 include(devpkg-xkeyboard-config)
 xmlto
 xorg-fonts
 xorg-server
+include(devpkg-xorg-server)
 include(devpkg-xorgproto)
 include(devpkg-xorgproto)
 include(devpkg-xtrans)
