@@ -134,6 +134,7 @@ ModemManager
 include(NetworkManager-extras)
 NetworkManager-openconnect
 oxygen
+oxygen-sounds
 phonon
 phonon-vlc
 plasma-browser-integration
