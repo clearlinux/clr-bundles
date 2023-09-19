@@ -891,6 +891,7 @@ xdg-utils
 include(devpkg-xkbcomp)
 xkeyboard-config
 include(devpkg-xkeyboard-config)
+include(devpkg-xmlb)
 xmlto
 xorg-fonts
 xorg-server
@@ -906,6 +907,7 @@ include(devpkg-xwayland)
 include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
+yaml-dev
 include(yasm)
 include(zenity)
 zimg-dev

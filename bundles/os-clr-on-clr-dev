@@ -437,6 +437,8 @@ libX11-lib
 libX11-lib32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
+include(devpkg-libXfont)
+include(devpkg-libXfont2)
 include(devpkg-libXft)
 include(devpkg-libXmu)
 include(devpkg-libXpm)
@@ -478,6 +480,7 @@ include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
 include(devpkg-libdbusmenu-qt)
+include(devpkg-libdmx)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libeconf)
@@ -611,6 +614,7 @@ include(devpkg-libwacom)
 include(devpkg-libwebp)
 libwpe-dev
 libxcvt
+include(devpkg-libxcvt)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbfile)
@@ -1231,9 +1235,11 @@ include(devpkg-xcb-util-cursor)
 xdg-dbus-proxy
 xdg-utils
 xfsprogs-dev
+xkbcomp-bin
 include(devpkg-xkbcomp)
 xkeyboard-config
 include(devpkg-xkeyboard-config)
+include(devpkg-xmlb)
 xmlto
 xorg-fonts
 xorg-server

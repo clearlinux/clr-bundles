@@ -45,6 +45,7 @@ include(devpkg-acl)
 acl-staticdev
 include(devpkg-alsa-lib)
 include(devpkg-alsa-lib)
+include(devpkg-appstream)
 appstream-glib
 asciidoc
 include(aspell)
@@ -835,6 +836,7 @@ xdg-utils
 include(devpkg-xkbcomp)
 xkeyboard-config
 include(devpkg-xkeyboard-config)
+include(devpkg-xmlb)
 xmlto
 xorg-fonts
 xorg-server
@@ -850,6 +852,7 @@ include(devpkg-xwayland)
 include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
+yaml-dev
 include(yasm)
 include(zenity)
 zimg-dev

@@ -39,6 +39,7 @@ include(devpkg-acl)
 acl-staticdev
 include(devpkg-alsa-lib)
 include(devpkg-alsa-lib)
+include(devpkg-appstream)
 appstream-glib
 asciidoc
 include(aspell)
@@ -908,6 +909,7 @@ xkbcomp-bin
 include(devpkg-xkbcomp)
 xkeyboard-config
 include(devpkg-xkeyboard-config)
+include(devpkg-xmlb)
 xmlto
 xorg-fonts
 xorg-server
