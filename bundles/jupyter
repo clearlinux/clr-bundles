@@ -24,7 +24,6 @@ pypi-ipykernel
 pypi-jupyter_core
 pypi-jupyterlab
 pypi-jupyterlab_launcher
-pypi-jupyter_nbgallery
 pypi-jupyter_client
 pypi-jupyter_console
 pypi-jupyter_core
