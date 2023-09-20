@@ -70,7 +70,7 @@ pydotplus
 pypi-pydot_ng
 pypi-pyparsing
 pypi-future
-pypi-python_levenshtein
+pypi-levenshtein
 pypi-mock
 PyYAML
 pypi-scikit_image
