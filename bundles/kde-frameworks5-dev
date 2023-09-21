@@ -554,7 +554,6 @@ openjdk-dev
 openjpeg
 include(devpkg-openjpeg)
 openldap-dev
-include(devpkg-openmpi)
 openssh
 include(openssl)
 include(devpkg-openssl)

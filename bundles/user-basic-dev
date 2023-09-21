@@ -167,7 +167,6 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
-include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -284,7 +283,6 @@ include(devpkg-iptables)
 include(devpkg-iso-codes)
 include(devpkg-jack2)
 include(devpkg-jansson)
-include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -602,7 +600,6 @@ perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
 perl-IO-stringy-perl
-perl-IPC-Run-perl
 perl-IPC-Run3-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl

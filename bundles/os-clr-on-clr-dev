@@ -1057,7 +1057,6 @@ pypi-smmap-python3
 pypi-sphinx
 pypi-sphinx-python3
 pypi-sphinx_rtd_theme-python3
-pypi-sphinxcontrib_serializinghtml-python3
 pypi-tox
 pypi-tox-python3
 pypi-trove_classifiers-python3

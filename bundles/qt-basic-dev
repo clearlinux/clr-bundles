@@ -410,8 +410,6 @@ openjdk
 openjdk-dev
 openjpeg
 openldap-dev
-include(devpkg-openmpi)
-openssh
 include(openssl)
 include(devpkg-openssl)
 include(devpkg-openssl)
