@@ -681,6 +681,7 @@ pkgconfig(libinput)	devpkg-libinput
 pkgconfig(libip4tc)	devpkg-iptables
 pkgconfig(libip6tc)	devpkg-iptables
 pkgconfig(libipmctl)	devpkg-ipmctl
+pkgconfig(libipset)	devpkg-ipset
 pkgconfig(libiptc)	devpkg-iptables
 pkgconfig(libisal)	devpkg-isa-l
 pkgconfig(libiscsi)	devpkg-libiscsi
