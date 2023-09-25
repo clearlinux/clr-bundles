@@ -475,4 +475,6 @@ intel-one-mono # An expressive monospaced font family
 fprintd # No detailed summary available
 syncthing # No detailed summary available
 input-leap # No detailed summary available
-waypipe # No detailed summary available 
+waypipe # No detailed summary available
+lsof # A utility which lists open files on a Linux/UNIX system
+fontconfig # Font configuration and customization library 

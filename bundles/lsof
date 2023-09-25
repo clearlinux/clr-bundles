@@ -1,0 +1,14 @@
+# [TITLE]: lsof
+# [DESCRIPTION]: A utility which lists open files on a Linux/UNIX system
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+lsof
