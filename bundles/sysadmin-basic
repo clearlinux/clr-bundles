@@ -59,7 +59,7 @@ libcap-bin
 LS_COLORS
 lsacpi
 lshw
-lsof
+include(lsof)
 lzop
 man-db
 include(man-pages)

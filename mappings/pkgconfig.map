@@ -227,7 +227,6 @@ pkgconfig(absl_type_traits)	devpkg-abseil-cpp
 pkgconfig(absl_utility)	devpkg-abseil-cpp
 pkgconfig(absl_variant)	devpkg-abseil-cpp
 pkgconfig(accountsservice)	devpkg-accountsservice
-pkgconfig(adwaita-icon-theme)	devpkg-adwaita-icon-theme
 pkgconfig(alsa)	devpkg-alsa-lib
 pkgconfig(alsa-topology)	devpkg-alsa-lib
 pkgconfig(applewmproto)	devpkg-xorgproto
@@ -714,8 +713,6 @@ pkgconfig(libmnl)	devpkg-libmnl
 pkgconfig(libmpg123)	devpkg-mpg123
 pkgconfig(libmspack)	devpkg-libmspack
 pkgconfig(libmtp)	devpkg-libmtp
-pkgconfig(libmutter-12)	devpkg-mutter
-pkgconfig(libmutter-test-12)	devpkg-mutter
 pkgconfig(libmypaint)	devpkg-libmypaint
 pkgconfig(libnautilus-extension-4)	devpkg-nautilus
 pkgconfig(libndctl)	devpkg-ndctl
@@ -939,9 +936,6 @@ pkgconfig(mozjs-102)	devpkg-mozjs102
 pkgconfig(mozjs-91)	devpkg-mozjs91
 pkgconfig(mpfr)	devpkg-mpfr
 pkgconfig(mtdev)	devpkg-mtdev
-pkgconfig(mutter-clutter-12)	devpkg-mutter
-pkgconfig(mutter-cogl-12)	devpkg-mutter
-pkgconfig(mutter-cogl-pango-12)	devpkg-mutter
 pkgconfig(ncursesw)	devpkg-ncurses
 pkgconfig(ndr)	devpkg-samba
 pkgconfig(ndr_krb5pac)	devpkg-samba

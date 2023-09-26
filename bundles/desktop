@@ -31,7 +31,7 @@ clutter
 colord
 dbus-extras
 desktop-file-utils
-fontconfig
+include(fontconfig)
 include(fuse)
 include(gdk-pixbuf)
 geoclue

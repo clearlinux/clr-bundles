@@ -24,7 +24,7 @@ adwaita-icon-theme
 bluez
 dbus-extras
 desktop-file-utils
-fontconfig
+include(fontconfig)
 shared-mime-info
 include(tzdata)
 

@@ -10,7 +10,7 @@ include(python3-basic)
 include(lib-opengl)
 
 # tools
-fontconfig
+include(fontconfig)
 freetype
 harfbuzz
 mkfontdir

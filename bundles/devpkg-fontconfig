@@ -10,3 +10,4 @@ include(devpkg-expat)
 include(devpkg-freetype)
 
 fontconfig-dev
+include(fontconfig)

@@ -5,3 +5,5 @@
 # [TAGS]: Data Science, Tools and Utilities, Python
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 filesystem
+include(pypi-cython)
+include(pandas)
