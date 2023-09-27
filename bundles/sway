@@ -10,6 +10,7 @@ include(libglib)
 include(wayland-server)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(gnome-base-libs)
 swaybg
 swayidle
 swaylock

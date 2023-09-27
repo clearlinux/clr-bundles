@@ -1,11 +1,11 @@
-# [TITLE]: devpkg-lttng-ust
-# [DESCRIPTION]: All content for pkgconfig file lttng-ust.pc.
+# [TITLE]: devpkg-mozjs115
+# [DESCRIPTION]: All content for pkgconfig file mozjs115.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-userspace-rcu)
 
-lttng-ust-dev
+mozjs115-dev
+include(libstdcpp)

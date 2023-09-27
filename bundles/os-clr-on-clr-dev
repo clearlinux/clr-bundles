@@ -36,6 +36,7 @@ PyYAML
 R
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -480,6 +481,7 @@ include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
 include(devpkg-libdbusmenu-qt)
+libdisplay-info-dev
 include(devpkg-libdmx)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
@@ -666,7 +668,7 @@ mkfontscale-bin
 mobile-broadband-provider-info
 include(devpkg-mobile-broadband-provider-info)
 include(modules)
-mozjs115-dev
+include(devpkg-mozjs115)
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mpg123)
@@ -1005,7 +1007,6 @@ pypi-mock-python3
 pypi-msgpack-python3
 pypi-munkres-python3
 pypi-nose-python3
-pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
 pypi-pbr

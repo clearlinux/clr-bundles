@@ -629,6 +629,7 @@ R-zip
 R-zoo
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -1228,7 +1229,6 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-msgpack-python3
-pypi-numpy-python3
 pypi-packaging-python3
 pypi-pip
 pypi-pluggy

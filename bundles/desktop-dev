@@ -21,6 +21,7 @@ include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -413,6 +414,7 @@ include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 include(devpkg-libdazzle)
 libdbusmenu-dev
+libdisplay-info-dev
 include(devpkg-libdmx)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
@@ -588,7 +590,7 @@ mkfontscale-bin
 include(devpkg-mm-common)
 mobile-broadband-provider-info
 include(devpkg-mobile-broadband-provider-info)
-mozjs115-dev
+include(devpkg-mozjs115)
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mpg123)
@@ -903,7 +905,6 @@ pypi-mypy_extensions-python3
 pypi-networkx-python3
 pypi-nose
 pypi-nose-python3
-pypi-numpy-python3
 pypi-numpydoc-python3
 pypi-olefile
 pypi-packaging
@@ -938,6 +939,7 @@ pypi-pydocstyle-python3
 pypi-pyflakes-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
+pypi-pyproject_metadata-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-pytest_runner
@@ -1036,6 +1038,7 @@ include(devpkg-sbc)
 include(devpkg-sbc)
 scipy-python3
 sed
+setxkbmap
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -1069,6 +1072,7 @@ include(devpkg-tcl)
 tcl-staticdev
 include(devpkg-tdb)
 tdb-python3
+tecla-dev
 include(devpkg-telepathy-glib)
 include(devpkg-tevent)
 tevent-python3

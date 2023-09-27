@@ -19,6 +19,7 @@ include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2)
 include(devpkg-SDL2_gfx)
 include(devpkg-SDL2_image)
 include(devpkg-SDL2_net)
@@ -342,6 +343,7 @@ include(devpkg-libcroco)
 include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
+libdisplay-info-dev
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libeconf)
@@ -484,7 +486,7 @@ mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
 include(devpkg-mobile-broadband-provider-info)
-mozjs115-dev
+include(devpkg-mozjs115)
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mpg123)

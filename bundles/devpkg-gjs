@@ -11,7 +11,7 @@ include(devpkg-glib)
 include(libglib)
 include(devpkg-gobject-introspection)
 include(devpkg-libffi)
-include(devpkg-mozjs102)
+include(devpkg-mozjs115)
 
 gjs-dev
 include(libX11client)

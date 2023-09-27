@@ -16,6 +16,7 @@ include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)

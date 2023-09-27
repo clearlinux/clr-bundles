@@ -227,6 +227,7 @@ pkgconfig(absl_type_traits)	devpkg-abseil-cpp
 pkgconfig(absl_utility)	devpkg-abseil-cpp
 pkgconfig(absl_variant)	devpkg-abseil-cpp
 pkgconfig(accountsservice)	devpkg-accountsservice
+pkgconfig(adwaita-icon-theme)	devpkg-adwaita-icon-theme
 pkgconfig(alsa)	devpkg-alsa-lib
 pkgconfig(alsa-topology)	devpkg-alsa-lib
 pkgconfig(applewmproto)	devpkg-xorgproto
@@ -933,6 +934,7 @@ pkgconfig(mm-glib)	devpkg-ModemManager
 pkgconfig(mobile-broadband-provider-info)	devpkg-mobile-broadband-provider-info
 pkgconfig(mount)	devpkg-util-linux
 pkgconfig(mozjs-102)	devpkg-mozjs102
+pkgconfig(mozjs-115)	devpkg-mozjs115
 pkgconfig(mozjs-91)	devpkg-mozjs91
 pkgconfig(mpfr)	devpkg-mpfr
 pkgconfig(mtdev)	devpkg-mtdev

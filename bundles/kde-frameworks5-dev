@@ -20,6 +20,7 @@ include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 include(devpkg-SDL)
 include(devpkg-SDL2)
+include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -376,6 +377,7 @@ include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
 include(devpkg-libdbusmenu-qt)
+libdisplay-info-dev
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libeconf)
@@ -518,7 +520,7 @@ mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
 include(devpkg-mobile-broadband-provider-info)
-mozjs115-dev
+include(devpkg-mozjs115)
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mpg123)
