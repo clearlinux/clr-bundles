@@ -250,7 +250,6 @@ include(make)
 include(devpkg-mariadb)
 include(devpkg-md4c)
 mercurial
-meson-python3
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
@@ -266,7 +265,6 @@ include(devpkg-nettle)
 include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
-ninja-python3
 nss-altfiles
 include(devpkg-ntfs-3g)
 include(devpkg-open-iscsi)
@@ -432,7 +430,6 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
-pypi-meson_python-python3
 pypi-packaging-python3
 pypi-pip
 pypi-pluggy

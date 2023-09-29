@@ -471,7 +471,6 @@ mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson
-meson-python3
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
@@ -495,7 +494,6 @@ include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
 ninja
-ninja-python3
 nmap-extras
 include(devpkg-nspr)
 include(devpkg-nspr)
@@ -712,7 +710,6 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
-pypi-meson_python-python3
 pypi-msgpack-python3
 pypi-packaging-python3
 pypi-pip

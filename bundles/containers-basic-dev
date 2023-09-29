@@ -213,7 +213,6 @@ include(devpkg-lzo)
 m4
 include(make)
 mercurial
-meson-python3
 mpc-dev
 include(devpkg-mpfr)
 ncurses
@@ -226,7 +225,6 @@ include(devpkg-nettle)
 include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
-ninja-python3
 npth-dev
 nss-altfiles
 openldap-dev
@@ -264,7 +262,6 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
-pypi-meson_python-python3
 pypi-packaging-python3
 pypi-pip
 pypi-pluggy

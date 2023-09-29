@@ -8,6 +8,8 @@
 include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libglib)
+include(dbus-lib)
 include(PyYAML)
 include(yaml)
 include(pypi-six)
