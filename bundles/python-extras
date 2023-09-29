@@ -32,7 +32,7 @@ pypi-flake8
 pypi-flake8_blind_except
 pypi-flake8_class_newline
 pypi-flake8_docstrings
-pypi-flake8_import_order
+pypi-flake8_isort
 pypi-flit
 glibc-lib-avx2
 pypi-hatchling
