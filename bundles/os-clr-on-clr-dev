@@ -971,7 +971,6 @@ pypi-dnspython
 pypi-docutils
 pypi-filelock-python3
 pypi-flake8-python3
-pypi-flake8_isort-python3
 pypi-flask-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
