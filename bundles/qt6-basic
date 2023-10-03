@@ -20,7 +20,6 @@ qt6doc
 qt6grpc
 qt6httpserver
 qt6imageformats
-qt6location
 qt6multimedia
 qt6positioning
 qt6quick3d
@@ -31,4 +30,3 @@ qt6serialport
 qt6shadertools
 qt6svg
 qt6tools
-qt6virtualkeyboard
