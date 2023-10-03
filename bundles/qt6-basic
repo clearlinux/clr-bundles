@@ -11,3 +11,24 @@ include(lib-opengl)
 
 qt6svg
 qt6tools
+qt63d
+qt6activeqt
+qt6charts
+qt6connectivity
+qt6declarative
+qt6doc
+qt6grpc
+qt6httpserver
+qt6imageformats
+qt6location
+qt6multimedia
+qt6positioning
+qt6quick3d
+qt6quick3dphysics
+qt6remoteobjects
+qt6sensors
+qt6serialport
+qt6shadertools
+qt6svg
+qt6tools
+qt6virtualkeyboard
