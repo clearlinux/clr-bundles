@@ -8,6 +8,5 @@
 include(devpkg-base)
 
 openmpi-dev
-include(libstdcpp)
 include(perl-basic)
 include(openmpi)

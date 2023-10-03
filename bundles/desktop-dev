@@ -879,6 +879,7 @@ pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
+pypi-isort-python3
 pypi-jeepney-python3
 pypi-jinja2-python3
 pypi-jmespath-python3
