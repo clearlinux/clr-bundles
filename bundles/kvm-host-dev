@@ -65,6 +65,7 @@ buildreq-gnome
 buildreq-kde
 buildreq-meson
 buildreq-nginx
+buildreq-qt6
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
@@ -195,6 +196,7 @@ include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
 include(devpkg-gpgme)
+gpgme-extras
 gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)

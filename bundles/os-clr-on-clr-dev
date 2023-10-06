@@ -112,6 +112,7 @@ buildreq-kde
 buildreq-meson
 buildreq-nginx
 buildreq-qmake
+buildreq-qt6
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
@@ -309,6 +310,7 @@ include(devpkg-googletest)
 gperf
 include(gpgme)
 include(devpkg-gpgme)
+gpgme-extras
 gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)
@@ -901,7 +903,6 @@ perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
 include(devpkg-phonon)
-php
 php-dev
 pigz
 include(devpkg-pipewire)

@@ -68,6 +68,7 @@ buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
+buildreq-qt6
 bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
@@ -199,6 +200,7 @@ include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
 include(devpkg-gpgme)
+gpgme-extras
 gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)
