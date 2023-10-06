@@ -12,7 +12,6 @@ include(libstdcpp)
 include(sqlite)
 include(icu4c-lib)
 include(curl)
-include(qt-core)
 
 # end of custom additions
 
