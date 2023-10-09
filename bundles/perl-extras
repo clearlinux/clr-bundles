@@ -147,6 +147,7 @@ perl-Crypt-Rijndael
 perl-Crypt-SSLeay
 perl-Crypt-URandom
 perl-Curses
+perl-DBD-MariaDB
 perl-DBD-Pg
 perl-DBD-SQLite
 perl-DBD-SQLite2
