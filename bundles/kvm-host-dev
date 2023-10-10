@@ -98,6 +98,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -111,6 +112,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
+double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 e2fsprogs
@@ -135,6 +137,7 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -204,6 +207,8 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -236,6 +241,7 @@ include(devpkg-iptables)
 include(devpkg-iso-codes)
 include(devpkg-jack2)
 include(devpkg-jansson)
+include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -371,11 +377,14 @@ include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
+include(devpkg-libxkbfile)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
+include(devpkg-libxslt)
 linux-libc-headers
+include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -387,6 +396,8 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
+include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
@@ -413,6 +424,7 @@ include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
 ninja
+nodejs-dev
 include(devpkg-nspr)
 include(devpkg-nspr)
 nspr-lib32
@@ -504,6 +516,7 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
+perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -583,6 +596,7 @@ include(devpkg-pmdk)
 include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
+include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
 include(devpkg-protobuf)
@@ -698,10 +712,12 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xdg-utils
 xfsprogs-dev
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
+xmlstarlet
 xmlto
 xorg-fonts
 include(devpkg-xorg-server)

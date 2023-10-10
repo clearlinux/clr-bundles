@@ -635,6 +635,7 @@ include(devpkg-libzip)
 links
 linux-firmware-wifi
 linux-libc-headers
+include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -700,6 +701,7 @@ nghttp3-dev
 ninja
 nmap-extras
 nodejs
+nodejs-dev
 include(devpkg-not-ffmpeg)
 npth-dev
 include(devpkg-nspr)
@@ -1240,6 +1242,7 @@ include(devpkg-xkbcomp)
 xkeyboard-config
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlb)
+xmlstarlet
 xmlto
 xorg-fonts
 xorg-server

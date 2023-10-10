@@ -358,11 +358,14 @@ include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
+include(devpkg-libxkbfile)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
+include(devpkg-libxslt)
 linux-libc-headers
+include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -401,6 +404,7 @@ include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
 ninja
+nodejs-dev
 include(devpkg-nspr)
 include(devpkg-nspr)
 nspr-lib32
@@ -576,9 +580,11 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xdg-utils
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
+xmlstarlet
 xmlto
 xorg-fonts
 include(devpkg-xorg-server)

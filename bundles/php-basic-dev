@@ -93,6 +93,7 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
+include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -103,6 +104,7 @@ directx-headers-staticdev
 directx-headers-staticdev
 include(docbook-utils)
 docbook-xml
+double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 e2fsprogs
@@ -124,6 +126,7 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -150,6 +153,7 @@ include(devpkg-gdk-pixbuf)
 gettext
 gettext-bin
 gettext-dev
+include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
@@ -189,6 +193,8 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
+include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
@@ -216,6 +222,7 @@ intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)
+include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -338,6 +345,7 @@ libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libunwind)
+include(devpkg-liburing)
 include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
@@ -348,6 +356,7 @@ include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
+include(devpkg-libxkbfile)
 include(libxml2)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
@@ -356,6 +365,7 @@ libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
 linux-libc-headers
+include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -368,6 +378,7 @@ include(devpkg-lzo)
 m4
 include(make)
 include(devpkg-mariadb)
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
@@ -390,11 +401,13 @@ include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
 ninja
+nodejs-dev
 include(devpkg-nspr)
 include(devpkg-nspr)
 nspr-lib32
 nss-altfiles
 include(devpkg-nss)
+include(devpkg-numactl)
 include(devpkg-onig)
 include(devpkg-openal-soft)
 include(devpkg-openexr)
@@ -487,6 +500,7 @@ include(devpkg-sbc)
 sed
 shadow
 shared-mime-info
+include(devpkg-snappy)
 include(devpkg-speex)
 include(devpkg-speexdsp)
 sqlite-autoconf
@@ -534,9 +548,11 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xdg-utils
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
+xmlstarlet
 xmlto
 xorg-fonts
 include(devpkg-xorg-server)

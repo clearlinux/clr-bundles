@@ -562,6 +562,7 @@ include(devpkg-libyami)
 links
 linux-firmware-wifi
 linux-libc-headers
+include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -623,6 +624,7 @@ nghttp3-dev
 ninja
 include(nmap)
 nmap-extras
+nodejs-dev
 include(devpkg-not-ffmpeg)
 include(devpkg-nspr)
 include(devpkg-nspr)
@@ -1126,6 +1128,7 @@ x265-dev
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xcursorgen
 xdg-dbus-proxy
 xdg-user-dirs
@@ -1136,6 +1139,7 @@ include(devpkg-xkbcomp)
 xkeyboard-config
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlb)
+xmlstarlet
 xmlto
 xorg-fonts
 xorg-server
