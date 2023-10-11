@@ -82,7 +82,10 @@ pkgconfig(Qt5XmlPatterns)	devpkg-qtxmlpatterns
 pkgconfig(Qt6Concurrent)	devpkg-qt6base
 pkgconfig(Qt6Core)	devpkg-qt6base
 pkgconfig(Qt6DBus)	devpkg-qt6base
+pkgconfig(Qt6Designer)	devpkg-qt6tools
 pkgconfig(Qt6Gui)	devpkg-qt6base
+pkgconfig(Qt6Help)	devpkg-qt6tools
+pkgconfig(Qt6Linguist)	devpkg-qt6tools
 pkgconfig(Qt6Network)	devpkg-qt6base
 pkgconfig(Qt6OpenGL)	devpkg-qt6base
 pkgconfig(Qt6OpenGLWidgets)	devpkg-qt6base
@@ -92,6 +95,8 @@ pkgconfig(Qt6Sql)	devpkg-qt6base
 pkgconfig(Qt6Svg)	devpkg-qt6svg
 pkgconfig(Qt6SvgWidgets)	devpkg-qt6svg
 pkgconfig(Qt6Test)	devpkg-qt6base
+pkgconfig(Qt6UiPlugin)	devpkg-qt6tools
+pkgconfig(Qt6UiTools)	devpkg-qt6tools
 pkgconfig(Qt6Widgets)	devpkg-qt6base
 pkgconfig(Qt6Xml)	devpkg-qt6base
 pkgconfig(SDL2_gfx)	devpkg-SDL2_gfx

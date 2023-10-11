@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-qt6tools
+# [DESCRIPTION]: All content for pkgconfig file qt6tools.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qt6base)
+
+qt6tools-dev
+include(libstdcpp)
