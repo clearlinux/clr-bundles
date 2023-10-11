@@ -11,6 +11,5 @@ include(Sphinx)
 include(maker-basic)
 
 # Modeling tools
-include(openscad)
 
 # Slicers
