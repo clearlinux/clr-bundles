@@ -1004,6 +1004,7 @@ pkgconfig(protobuf)	devpkg-protobuf
 pkgconfig(protobuf-lite)	devpkg-protobuf
 pkgconfig(ptexenc)	devpkg-texlive
 pkgconfig(pthread-stubs)	devpkg-libpthread-stubs
+pkgconfig(pugixml)	devpkg-pugixml
 pkgconfig(pwquality)	devpkg-libpwquality
 pkgconfig(py3cairo)	devpkg-pycairo
 pkgconfig(pygobject-3.0)	devpkg-pygobject

@@ -7,6 +7,11 @@
 
 
 # start of custom additions
+include(nettle-lib)
+include(lib-imageformat)
+include(libX11client)
+include(gmp-lib)
+include(gdk-pixbuf)
 include(libxml2)
 include(ncurses-lib)
 include(harfbuzz-lib)

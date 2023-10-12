@@ -377,6 +377,7 @@ include(devpkg-libcroco)
 include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
+libdecor-dev
 libdisplay-info-dev
 include(devpkg-libdmx)
 include(devpkg-libdrm)

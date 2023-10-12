@@ -379,6 +379,7 @@ include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
 include(devpkg-libdbusmenu-qt)
+libdecor-dev
 libdisplay-info-dev
 include(devpkg-libdrm)
 include(devpkg-libdrm)

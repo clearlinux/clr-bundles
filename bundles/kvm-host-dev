@@ -288,6 +288,7 @@ include(devpkg-libclc)
 include(devpkg-libcroco)
 include(devpkg-libdatrie)
 include(devpkg-libdatrie)
+libdecor-dev
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libeconf)
