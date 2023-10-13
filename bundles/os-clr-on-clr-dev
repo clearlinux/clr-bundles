@@ -1051,10 +1051,8 @@ pypi-scikit_build-python3
 pypi-secretstorage-python3
 pypi-setuptools
 pypi-setuptools-python3
-pypi-setuptools_git_ls_files-python3
 pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3
-pypi-setuptools_scm_git_archive-python3
 pypi-six
 pypi-six-python3
 pypi-smartypants-python3
