@@ -712,6 +712,7 @@ pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-idna
+pypi-iniconfig-python3
 pypi-iso8601
 pypi-iso8601-python3
 pypi-jinja2-python3
@@ -728,6 +729,7 @@ pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pyparsing-python3
+pypi-pyproject_hooks-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-python_dbusmock

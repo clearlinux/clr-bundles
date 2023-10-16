@@ -307,6 +307,7 @@ include(devpkg-gnutls)
 go
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
+gobject-introspection-lib
 include(devpkg-googletest)
 gperf
 include(gpgme)
@@ -985,12 +986,14 @@ pypi-future-python3
 pypi-gitdb-python3
 pypi-glyphslib-python3
 pypi-gssapi-python3
+pypi-hatch_fancy_pypi_readme-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hypothesis-python3
 pypi-idna
 pypi-importlib_metadata-python3
+pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-iso8601-python3
@@ -1013,11 +1016,14 @@ pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
+pypi-pathspec-python3
 pypi-pbr
 pypi-pip
 pypi-pkgconfig-python3
 pypi-pluggy
+pypi-pluggy-python3
 pypi-ply-python3
+pypi-poetry-python3
 pypi-poetry_core-python3
 pypi-psutil
 pypi-psycopg2-python3
@@ -1032,6 +1038,7 @@ pypi-pygments-python3
 pypi-pylint-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
+pypi-pyproject_hooks-python3
 pypi-pyproject_metadata-python3
 pypi-pyspnego-python3
 pypi-pytest

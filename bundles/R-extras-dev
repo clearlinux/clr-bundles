@@ -39,7 +39,6 @@ R-GGally
 R-GPArotation
 R-GeneralizedHyperbolic
 R-GlobalOptions
-R-Guerry
 R-Hmisc
 R-ICS
 R-IRdisplay
@@ -1240,6 +1239,7 @@ pypi-flit_core-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
+pypi-iniconfig-python3
 pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-lxml
@@ -1253,6 +1253,7 @@ pypi-pluggy
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pyproject_hooks-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-python_dbusmock

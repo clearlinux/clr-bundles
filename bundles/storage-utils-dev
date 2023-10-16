@@ -425,6 +425,7 @@ pypi-flit_core-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
+pypi-iniconfig-python3
 pypi-iso8601
 pypi-jinja2-python3
 pypi-lxml
@@ -436,6 +437,7 @@ pypi-pip
 pypi-pluggy
 pypi-py-python3
 pypi-pycparser-python3
+pypi-pyproject_hooks-python3
 pypi-pytest
 pypi-setuptools-python3
 pypi-setuptools_scm-python3

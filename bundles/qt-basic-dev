@@ -187,6 +187,7 @@ include(gnupg)
 include(devpkg-gnutls)
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
+gobject-introspection-lib
 include(devpkg-googletest)
 gperf
 include(devpkg-gpgme)
@@ -467,6 +468,7 @@ pypi-fontmath-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
+pypi-iniconfig-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-lz4-python3
@@ -477,6 +479,7 @@ pypi-pluggy
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pyproject_hooks-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-python_dbusmock
