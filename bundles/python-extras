@@ -20,7 +20,6 @@ glibc-bin
 #
 PyYAML
 pypi-black
-pypi-boto
 pypi-build
 pypi-certifi
 pypi-coverage

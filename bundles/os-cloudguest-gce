@@ -10,7 +10,6 @@ include(libglib)
 include(lib-openssl)
 include(python3-basic)
 
-compute-image-packages
 e2fsprogs-extras
 pypi-gsutil
 micro-config-drive
