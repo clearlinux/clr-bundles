@@ -116,7 +116,6 @@ include(devpkg-compat-glibmm-soname24)
 compat-libsigc++-soname20-dev
 include(devpkg-compat-libsoup-soname-24)
 include(devpkg-compat-pangomm-soname14)
-compat-python311-core
 coreutils
 cppcheck
 cracklib-dev
@@ -887,9 +886,9 @@ pypi-iso8601
 pypi-isort-python3
 pypi-jeepney-python3
 pypi-jinja2-python3
+pypi-jmespath-python3
 pypi-jsonschema-python3
 pypi-jsonschema_specifications-python3
-pypi-keyring-python3
 pypi-kiwisolver-python3
 pypi-lazy_loader-python3
 pypi-libevdev
@@ -923,7 +922,6 @@ pypi-pep8-python3
 pypi-pillow-python3
 pypi-pip
 pypi-pip-python3
-pypi-pkginfo-python3
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
@@ -958,13 +956,10 @@ pypi-pythran-python3
 pypi-pytz-python3
 pypi-pywavelets-python3
 pypi-pywbem-python3
-pypi-readme_renderer-python3
 pypi-referencing-python3
 pypi-reportlab-python3
 pypi-requests-python3
 pypi-requests_toolbelt-python3
-pypi-rfc3986-python3
-pypi-rich-python3
 pypi-scikit_build-python3
 pypi-scikit_learn-python3
 pypi-seqdiag-python3
