@@ -633,7 +633,6 @@ nspr-lib32
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-ntfs-3g)
-ntlm-auth-python3
 include(devpkg-numactl)
 include(devpkg-onig)
 include(devpkg-openal-soft)
