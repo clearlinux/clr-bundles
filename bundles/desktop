@@ -26,7 +26,6 @@ also-add(x11-tools)
 # gir/typelibs have been split out and we need them.
 bluez
 bolt
-caribou
 clutter
 colord
 dbus-extras
