@@ -5,8 +5,6 @@
 # [TAGS]: Tools and Utilities, Security, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-zeek
-zeek-af_packet-plugin
 hyperscan
 include(suricata)
 include(openldap)
