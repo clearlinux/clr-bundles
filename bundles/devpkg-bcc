@@ -8,5 +8,6 @@
 include(devpkg-base)
 
 bcc-dev
+include(xz)
 include(libstdcpp)
 include(bcc)

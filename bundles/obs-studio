@@ -5,3 +5,4 @@
 # [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 filesystem
+include(not-ffmpeg-lib)

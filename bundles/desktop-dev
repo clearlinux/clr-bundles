@@ -275,7 +275,6 @@ include(gnupg)
 include(devpkg-gnutls)
 include(devpkg-gnutls)
 include(gobject-introspection)
-gobject-introspection-data
 include(devpkg-gobject-introspection)
 gobject-introspection-lib
 include(devpkg-googletest)
@@ -820,7 +819,6 @@ include(devpkg-pulseaudio)
 include(devpkg-pycairo)
 include(pygobject)
 include(devpkg-pygobject)
-pygobject-python
 pypi-aiohttp-python3
 pypi-amqp-python3
 pypi-appdirs-python3
@@ -944,6 +942,7 @@ pypi-pyparsing-python3
 pypi-pyproject_api-python3
 pypi-pyproject_hooks-python3
 pypi-pyproject_metadata-python3
+pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-pytest_runner
@@ -978,6 +977,8 @@ pypi-tox
 pypi-tox-python3
 pypi-trove_classifiers-python3
 pypi-typed_ast-python3
+pypi-types_psutil-python3
+pypi-types_setuptools-python3
 pypi-typing_extensions-python3
 pypi-tzdata-python3
 pypi-ufo2ft-python3

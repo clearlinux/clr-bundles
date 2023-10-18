@@ -5,3 +5,4 @@
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 filesystem
+include(gobject-introspection)

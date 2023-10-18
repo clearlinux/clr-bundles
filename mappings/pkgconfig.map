@@ -771,8 +771,6 @@ pkgconfig(libpcre32)	devpkg-pcre
 pkgconfig(libpcrecpp)	devpkg-pcre
 pkgconfig(libpcreposix)	devpkg-pcre
 pkgconfig(libpcsclite)	devpkg-pcsc-lite
-pkgconfig(libpeas-1.0)	devpkg-libpeas
-pkgconfig(libpeas-gtk-1.0)	devpkg-libpeas
 pkgconfig(libpgtypes)	devpkg-postgresql
 pkgconfig(libpinyin)	devpkg-libpinyin
 pkgconfig(libpipeline)	devpkg-libpipeline
