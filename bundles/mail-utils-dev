@@ -365,6 +365,7 @@ include(pypi-cython)
 pypi-idna
 pypi-jinja2-python3
 pypi-lxml
+pypi-setuptools-python3
 pypi-sphinx
 python3
 python3-core

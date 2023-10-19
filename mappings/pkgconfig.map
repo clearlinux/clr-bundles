@@ -14,7 +14,6 @@ pkgconfig(ModemManager)	devpkg-ModemManager
 pkgconfig(OpenCL)	devpkg-ocl-icd
 pkgconfig(OpenCL-Headers)	devpkg-opencl-headers
 pkgconfig(OpenEXR)	devpkg-openexr
-pkgconfig(OpenImageIO)	devpkg-oiio
 pkgconfig(Qt53DAnimation)	devpkg-qt3d
 pkgconfig(Qt53DCore)	devpkg-qt3d
 pkgconfig(Qt53DExtras)	devpkg-qt3d
@@ -771,6 +770,8 @@ pkgconfig(libpcre32)	devpkg-pcre
 pkgconfig(libpcrecpp)	devpkg-pcre
 pkgconfig(libpcreposix)	devpkg-pcre
 pkgconfig(libpcsclite)	devpkg-pcsc-lite
+pkgconfig(libpeas-1.0)	devpkg-libpeas
+pkgconfig(libpeas-gtk-1.0)	devpkg-libpeas
 pkgconfig(libpgtypes)	devpkg-postgresql
 pkgconfig(libpinyin)	devpkg-libpinyin
 pkgconfig(libpipeline)	devpkg-libpipeline
