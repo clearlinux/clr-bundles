@@ -40,7 +40,7 @@ also-add(kamera)
 also-add(kapidox)
 kapptemplate
 also-add(kleopatra)
-also-add(kate)
+# also-add(kate)
 also-add(kbackup)
 also-add(kblog)
 also-add(kcachegrind)
