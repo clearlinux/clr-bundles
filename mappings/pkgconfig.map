@@ -14,6 +14,7 @@ pkgconfig(ModemManager)	devpkg-ModemManager
 pkgconfig(OpenCL)	devpkg-ocl-icd
 pkgconfig(OpenCL-Headers)	devpkg-opencl-headers
 pkgconfig(OpenEXR)	devpkg-openexr
+pkgconfig(OpenImageIO)	devpkg-oiio
 pkgconfig(Qt53DAnimation)	devpkg-qt3d
 pkgconfig(Qt53DCore)	devpkg-qt3d
 pkgconfig(Qt53DExtras)	devpkg-qt3d
