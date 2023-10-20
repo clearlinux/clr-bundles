@@ -183,6 +183,7 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
+mandoc
 mpc-dev
 include(devpkg-mpfr)
 ncurses

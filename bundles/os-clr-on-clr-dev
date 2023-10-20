@@ -573,6 +573,7 @@ include(devpkg-libpwquality)
 include(devpkg-libqmi)
 include(devpkg-libqrtr-glib)
 include(devpkg-librepo)
+librist-dev
 librsvg
 include(devpkg-librsvg)
 include(devpkg-librttopo)
@@ -654,6 +655,7 @@ include(devpkg-lzo)
 m4
 include(make)
 man-db
+mandoc
 include(devpkg-mariadb)
 include(devpkg-md4c)
 media-player-info
@@ -994,7 +996,6 @@ pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-iso8601-python3
-pypi-jeepney-python3
 pypi-jinja2-python3
 pypi-kerberos-python3
 pypi-libevdev
@@ -1140,6 +1141,7 @@ solid-dev
 sonnet-dev
 source-highlight
 include(devpkg-source-highlight)
+spdlog-dev
 include(devpkg-speex)
 include(devpkg-speexdsp)
 spice

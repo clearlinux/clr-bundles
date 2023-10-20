@@ -85,7 +85,6 @@ buildreq-kde
 buildreq-meson
 buildreq-nginx
 buildreq-qmake
-buildreq-qt6
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
@@ -169,7 +168,6 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
-include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -238,7 +236,6 @@ include(devpkg-googletest)
 gperf
 include(gpgme)
 include(devpkg-gpgme)
-gpgme-extras
 gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)
@@ -254,7 +251,6 @@ include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
-gtk-doc-data
 include(devpkg-gtk-doc)
 gtk-vnc-dev
 include(devpkg-gtk3)
@@ -287,7 +283,6 @@ include(devpkg-iptables)
 include(devpkg-iso-codes)
 include(devpkg-jack2)
 include(devpkg-jansson)
-include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -447,7 +442,6 @@ include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
-include(devpkg-libxkbfile)
 include(libxml2)
 libxml2-bin
 include(devpkg-libxml2)
@@ -456,7 +450,6 @@ include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
-include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -471,6 +464,7 @@ include(devpkg-lzo)
 m4
 include(make)
 man-db
+mandoc
 include(devpkg-mariadb)
 include(devpkg-md4c)
 include(devpkg-mediasdk)
@@ -502,7 +496,6 @@ include(devpkg-nghttp2)
 nghttp3-dev
 ninja
 nmap-extras
-nodejs-dev
 include(devpkg-nspr)
 include(devpkg-nspr)
 nspr-lib32
@@ -519,7 +512,6 @@ include(devpkg-opencl-headers)
 include(devpkg-openexr)
 openjdk
 openjdk-dev
-openjpeg
 openldap-dev
 include(devpkg-openmpi)
 openssh
@@ -607,7 +599,6 @@ perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
 perl-IO-stringy-perl
-perl-IPC-Run-perl
 perl-IPC-Run3-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
@@ -846,12 +837,10 @@ include(devpkg-xapian-core)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xdg-utils
 xfsprogs-dev
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
-xmlstarlet
 xmlto
 xorg-fonts
 include(devpkg-xorg-server)

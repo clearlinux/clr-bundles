@@ -72,6 +72,7 @@ R-RcppParallel
 R-RcppProgress
 R-RcppTOML
 R-Rdpack
+R-RhpcBLASctl
 R-Rmpi
 R-Ryacas
 R-SQUAREM

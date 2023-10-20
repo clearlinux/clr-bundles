@@ -456,6 +456,7 @@ include(devpkg-libpthread-stubs)
 include(devpkg-libpwquality)
 include(devpkg-libqmi)
 include(devpkg-libqrtr-glib)
+librist-dev
 librsvg
 include(devpkg-librsvg)
 include(devpkg-libsamplerate)

@@ -68,7 +68,6 @@ buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
-buildreq-qt6
 bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
@@ -104,7 +103,6 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
-include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -115,7 +113,6 @@ directx-headers-staticdev
 directx-headers-staticdev
 include(docbook-utils)
 docbook-xml
-double-conversion-dev
 include(doxygen)
 include(devpkg-duktape)
 dwarves-dev
@@ -141,7 +138,6 @@ include(devpkg-flac)
 include(flex)
 flex-dev
 fltk-dev
-include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fonttools-python3
@@ -170,7 +166,6 @@ include(devpkg-gdk-pixbuf)
 gettext
 gettext-bin
 gettext-dev
-include(devpkg-gflags)
 include(ghostscript)
 ghostscript-dev
 gi-docgen
@@ -196,15 +191,12 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
-include(gnupg)
 include(devpkg-gnutls)
 go
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
-include(devpkg-gpgme)
-gpgme-extras
 gpm-dev
 include(devpkg-graphene)
 include(devpkg-graphite)
@@ -212,15 +204,12 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-gsettings-desktop-schemas
-include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
-gtk-doc-data
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(guile)
@@ -245,7 +234,6 @@ include(devpkg-ipp-crypto)
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)
-include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -278,7 +266,6 @@ include(devpkg-libXvMC)
 include(devpkg-libXvMC)
 libaio-dev
 include(devpkg-libarchive)
-include(devpkg-libassuan)
 include(devpkg-libatomic_ops)
 include(devpkg-libatomic_ops)
 include(devpkg-libavif)
@@ -377,7 +364,6 @@ libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libunwind)
-include(devpkg-liburing)
 include(devpkg-libusb)
 include(devpkg-libusb)
 include(devpkg-libva)
@@ -388,7 +374,6 @@ include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
-include(devpkg-libxkbfile)
 libxml2-bin
 include(devpkg-libxml2)
 include(devpkg-libxml2)
@@ -396,7 +381,6 @@ include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
-include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -410,8 +394,6 @@ include(devpkg-lzo)
 m4
 include(make)
 man-db
-include(devpkg-mariadb)
-include(devpkg-md4c)
 include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
@@ -437,10 +419,6 @@ include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
 ninja
-nodejs-dev
-include(devpkg-nspr)
-include(devpkg-nspr)
-nspr-lib32
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-numactl)
@@ -451,7 +429,6 @@ include(devpkg-opencl-headers)
 include(devpkg-openexr)
 openjdk
 openjdk-dev
-openjpeg
 openldap-dev
 include(devpkg-openmpi)
 include(openssl)
@@ -529,7 +506,6 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
-perl-IPC-Run-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -673,7 +649,6 @@ sed
 shadow
 shared-mime-info
 include(devpkg-slang)
-include(devpkg-snappy)
 source-highlight
 include(devpkg-source-highlight)
 include(devpkg-speex)
@@ -729,11 +704,9 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
-include(devpkg-xcb-util-cursor)
 xdg-utils
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
-xmlstarlet
 xmlto
 xorg-fonts
 include(devpkg-xorg-server)

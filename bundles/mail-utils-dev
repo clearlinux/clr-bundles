@@ -52,6 +52,7 @@ include(devpkg-curl)
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
+db
 include(devpkg-dbus)
 include(devpkg-dbus)
 dbus-python
@@ -361,10 +362,12 @@ include(devpkg-polkit)
 include(devpkg-popt)
 procmail
 include(procps-ng)
+procps-ng-bin
 include(pypi-cython)
 pypi-idna
 pypi-jinja2-python3
 pypi-lxml
+pypi-pip
 pypi-setuptools-python3
 pypi-sphinx
 python3
@@ -379,6 +382,7 @@ ruby
 sed
 shadow
 shared-mime-info
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
 swig
@@ -390,8 +394,13 @@ talloc
 include(devpkg-talloc)
 tar
 tcl
+include(devpkg-tcl)
+tcl-staticdev
 include(texinfo)
 thin-provisioning-tools
+include(devpkg-tk)
+tk-extras
+tk-staticdev
 include(devpkg-tokyocabinet)
 include(devpkg-tpm2-tss)
 include(tzdata)
