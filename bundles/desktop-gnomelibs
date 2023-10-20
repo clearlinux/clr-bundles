@@ -9,7 +9,6 @@ include(perl-basic)
 include(lib-samba)
 include(lib-imageformat)
 include(lib-opengl)
-include(qt-basic)
 include(webkitgtk)
 include(curl)
 accountsservice-lib
