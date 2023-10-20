@@ -40,7 +40,6 @@ jdcal
 pypi-kcc
 pypi-lxml
 mypy
-pypi-nose
 pypi-numpy
 pypi-pathlib2
 pypi-pbr

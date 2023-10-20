@@ -15,7 +15,6 @@ pypi-bokeh
 pypi-dask
 pypi-ipython
 pypi-matplotlib
-pypi-nose
 pypi-numpy
 scipy
 sympy

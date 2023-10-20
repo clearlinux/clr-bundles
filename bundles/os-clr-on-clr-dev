@@ -1009,7 +1009,6 @@ pypi-mock
 pypi-mock-python3
 pypi-msgpack-python3
 pypi-munkres-python3
-pypi-nose-python3
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
