@@ -19,7 +19,6 @@ include(sysadmin-basic-dev)
 include(devpkg-Botan)
 include(devpkg-CUnit)
 include(devpkg-CUnit)
-include(devpkg-GConf)
 include(devpkg-Imath)
 include(devpkg-Judy)
 LVM2
@@ -940,7 +939,6 @@ proj
 include(devpkg-proj)
 include(devpkg-protobuf-c)
 include(devpkg-protobuf)
-include(devpkg-pugixml)
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 include(devpkg-pycairo)
@@ -1084,10 +1082,6 @@ qemu
 qemu-setuid
 include(devpkg-qrencode)
 include(devpkg-qt6base)
-qt6declarative-dev
-qt6multimedia-dev
-qt6quick3d-dev
-qt6shadertools-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -1201,7 +1195,6 @@ include(devpkg-upower)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
 usrbinpython
-utfcpp-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

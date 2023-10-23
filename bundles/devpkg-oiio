@@ -1,8 +1,15 @@
 # [TITLE]: devpkg-oiio
 # [DESCRIPTION]: All content for pkgconfig file oiio.pc.
-# [STATUS]: Pending-Delete
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-filesystem
+
+include(devpkg-base)
+
+oiio-dev
+include(lib-imageformat)
+include(libstdcpp)
+include(qt-core)
+include(qt-basic)
 include(opencv-python)
