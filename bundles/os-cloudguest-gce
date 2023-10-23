@@ -8,12 +8,6 @@ include(sudo)
 include(which)
 include(libglib)
 include(lib-openssl)
-include(python3-basic)
 
 e2fsprogs-extras
-pypi-gsutil
 micro-config-drive
-include(pypi-pynacl)
-include(pypi-six)
-include(pypi-requests)
-include(PyYAML)
