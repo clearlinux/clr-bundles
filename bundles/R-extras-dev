@@ -179,7 +179,6 @@ R-diptest
 R-distr
 R-distributional
 R-doParallel
-R-doRNG
 R-dotCall64
 R-downlit
 R-dplyr
@@ -561,6 +560,7 @@ R-strucchange
 R-styler
 R-subplex
 R-survey
+R-svglite
 R-sys
 R-systemfit
 R-systemfonts
