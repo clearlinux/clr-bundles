@@ -2188,6 +2188,7 @@ x11
 x11-xcb
 x86-64-v3
 x86-64-v4
+x86simdsort
 xapian-core
 xau
 xaw6
