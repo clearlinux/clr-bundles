@@ -1,11 +1,11 @@
-# [TITLE]: devpkg-lttng-ust
-# [DESCRIPTION]: All content for pkgconfig file lttng-ust.pc.
+# [TITLE]: devpkg-spdlog
+# [DESCRIPTION]: All content for pkgconfig file spdlog.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-userspace-rcu)
 
-lttng-ust-dev
+spdlog-dev
+include(libstdcpp)

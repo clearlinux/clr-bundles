@@ -1044,6 +1044,7 @@ pkgconfig(smbclient)	devpkg-samba
 pkgconfig(sndfile)	devpkg-libsndfile
 pkgconfig(source-highlight)	devpkg-source-highlight
 pkgconfig(spatialite)	devpkg-libspatialite
+pkgconfig(spdlog)	devpkg-spdlog
 pkgconfig(speex)	devpkg-speex
 pkgconfig(speexdsp)	devpkg-speexdsp
 pkgconfig(spice-protocol)	devpkg-spice-protocol

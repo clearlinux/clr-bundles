@@ -10,6 +10,8 @@ include(libglib)
 include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(qt-basic)
+include(qt-core)
 include(mpfr-lib)
 include(LibRaw-lib)
 include(curl)

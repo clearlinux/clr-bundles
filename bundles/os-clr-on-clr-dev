@@ -1133,7 +1133,7 @@ solid-dev
 sonnet-dev
 source-highlight
 include(devpkg-source-highlight)
-spdlog-dev
+include(devpkg-spdlog)
 include(devpkg-speex)
 include(devpkg-speexdsp)
 spice
