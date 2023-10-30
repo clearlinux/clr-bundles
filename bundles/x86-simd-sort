@@ -1,0 +1,15 @@
+# [TITLE]: x86-simd-sort
+# [DESCRIPTION]: No detailed summary available
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(libstdcpp)
+
+# start of custom additions (edits outside this area will be removed automatically)
+x86-simd-sort-dev
+# end of custom additions
+
+# main package
+x86-simd-sort
