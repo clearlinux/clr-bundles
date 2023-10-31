@@ -19,6 +19,7 @@ include(devpkg-LuaJIT)
 MarkupSafe-python3
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
+PyYAML-python3
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)
@@ -905,6 +906,8 @@ pypi-mock-python3
 pypi-munkres-python3
 pypi-mypy_extensions-python3
 pypi-networkx-python3
+pypi-nocasedict-python3
+pypi-nocaselist-python3
 pypi-numpy-python3
 pypi-numpydoc-python3
 pypi-packaging
@@ -920,6 +923,7 @@ pypi-pip-python3
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
+pypi-ply-python3
 pypi-poetry_core-python3
 pypi-polib
 pypi-psutil
