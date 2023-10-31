@@ -144,8 +144,6 @@ include(devpkg-dconf)
 dejagnu
 dejavu-fonts
 desktop-file-utils
-dhcp
-dhcp-dev
 include(diffutils)
 include(devpkg-directx-headers)
 directx-headers-staticdev

@@ -6,7 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(iptables)
 include(nginx)
-dhcp
 dnsmasq
 ipxe
 wol

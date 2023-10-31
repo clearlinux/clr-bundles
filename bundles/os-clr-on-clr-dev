@@ -168,7 +168,6 @@ include(devpkg-dbus-python)
 include(devpkg-dconf)
 dejagnu
 desktop-file-utils
-dhcp
 include(diffutils)
 include(devpkg-ding-libs)
 include(devpkg-directx-headers)

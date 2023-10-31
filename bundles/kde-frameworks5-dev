@@ -123,7 +123,6 @@ include(devpkg-dbus-python)
 include(devpkg-dconf)
 dejagnu
 desktop-file-utils
-dhcp
 include(diffutils)
 include(devpkg-directx-headers)
 directx-headers-staticdev

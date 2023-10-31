@@ -82,7 +82,6 @@ cups
 cups-filters
 cups-pk-helper
 system-config-printer
-dhcp
 also-add(ghostscript)
 gutenprint
 gnome-online-accounts
