@@ -792,7 +792,6 @@ pkgconfig(libportal-gtk4)	devpkg-libportal
 pkgconfig(libportal-qt5)	devpkg-libportal
 pkgconfig(libpostproc)	devpkg-not-ffmpeg
 pkgconfig(libpq)	devpkg-postgresql
-pkgconfig(libprocps)	devpkg-procps-ng
 pkgconfig(libprofiler)	devpkg-gperftools
 pkgconfig(libprotobuf-c)	devpkg-protobuf-c
 pkgconfig(libproxy-1.0)	devpkg-libproxy

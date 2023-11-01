@@ -9,4 +9,3 @@ include(devpkg-base)
 
 exiv2-dev
 include(libstdcpp)
-include(lib-imageformat)

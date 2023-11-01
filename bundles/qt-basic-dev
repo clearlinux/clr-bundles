@@ -329,7 +329,6 @@ include(devpkg-libsndfile)
 include(devpkg-libsoup)
 include(devpkg-libspectre)
 include(devpkg-libsrtp)
-include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)

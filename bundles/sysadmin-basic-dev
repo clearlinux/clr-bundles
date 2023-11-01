@@ -223,7 +223,6 @@ include(devpkg-librsvg)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
 include(devpkg-libspectre)
-include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
