@@ -111,7 +111,7 @@ whois-extras
 include(xz)
 include(zstd)
 include(icu4c-lib)
-include(lib-imageformat)
+# include(lib-imageformat)
 include(libpcap-lib)
 include(pcre-lib)
 include(numactl)
