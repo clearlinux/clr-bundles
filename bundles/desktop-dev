@@ -875,7 +875,6 @@ pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hypothesis-python3
-pypi-importlib_metadata-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
@@ -993,7 +992,6 @@ pypi-webcolors-python3
 pypi-webencodings-python3
 pypi-wheel-python3
 pypi-xmlschema-python3
-pypi-zipp-python3
 pypi-zopfli-python3
 python-pocketlint
 python3
