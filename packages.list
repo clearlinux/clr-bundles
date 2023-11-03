@@ -477,4 +477,6 @@ syncthing # No detailed summary available
 input-leap # No detailed summary available
 waypipe # No detailed summary available
 lsof # A utility which lists open files on a Linux/UNIX system
-fontconfig # Font configuration and customization library 
+fontconfig # Font configuration and customization library
+x86-simd-sort # No detailed summary available
+tree # No detailed summary available 
