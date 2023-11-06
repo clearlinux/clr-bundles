@@ -1052,7 +1052,6 @@ include(devpkg-nspr)
 include(devpkg-nspr)
 nspr-lib32
 nss-altfiles
-nss-bin
 include(devpkg-nss)
 include(devpkg-numactl)
 octave-dev

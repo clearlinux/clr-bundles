@@ -100,7 +100,7 @@ systemd-locales
 thunderbolt-software-user-space
 time
 include(tmux)
-tree
+include(tree)
 include(tzdata)
 include(unzip)
 usbutils
