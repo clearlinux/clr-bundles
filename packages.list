@@ -479,4 +479,5 @@ waypipe # No detailed summary available
 lsof # A utility which lists open files on a Linux/UNIX system
 fontconfig # Font configuration and customization library
 x86-simd-sort # No detailed summary available
-tree # No detailed summary available 
+tree # No detailed summary available
+nut # Power devices discovery with Network UPS Tools 
