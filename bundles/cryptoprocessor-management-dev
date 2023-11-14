@@ -171,6 +171,7 @@ include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
 include(make)
+mandoc
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-ncurses)

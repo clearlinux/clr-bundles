@@ -749,6 +749,7 @@ include(devpkg-qtsvg)
 include(devpkg-qttools)
 include(devpkg-qtwebsockets)
 include(devpkg-qtxmlpatterns)
+rdfind
 include(devpkg-readline)
 include(devpkg-readline)
 include(devpkg-rest)

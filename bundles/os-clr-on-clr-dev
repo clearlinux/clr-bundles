@@ -1099,6 +1099,7 @@ include(devpkg-qtwebchannel)
 include(devpkg-qtwebsockets)
 include(devpkg-qtx11extras)
 include(devpkg-qtxmlpatterns)
+rdfind
 include(devpkg-rdma-core)
 include(devpkg-re2)
 re2c
@@ -1211,14 +1212,11 @@ vim
 include(devpkg-virglrenderer)
 include(devpkg-vte)
 include(devpkg-wavpack)
-wayland
 include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 include(devpkg-webkitgtk)
-weston
-include(devpkg-weston)
 include(wget)
 include(which)
 include(devpkg-woff2)
