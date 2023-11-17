@@ -9,6 +9,19 @@ include(python3-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(pcre-lib)
+include(libnl)
+include(lib-imageformat)
+include(icu4c-lib)
+include(harfbuzz-lib)
+include(gmp-lib)
+include(libglib)
+include(dbus-lib)
+include(curl)
+include(libXpm-lib)
+include(libX11client)
+include(systemd)
+include(perl-basic)
 
 # end of custom additions
 
