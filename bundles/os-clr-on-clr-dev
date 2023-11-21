@@ -1003,6 +1003,7 @@ pypi-mako
 pypi-markdown-python3
 pypi-meson_python
 pypi-mock-python3
+pypi-mpmath-python3
 pypi-msgpack-python3
 pypi-munkres-python3
 pypi-numpy-python3
@@ -1151,6 +1152,7 @@ include(strace)
 include(devpkg-subunit)
 include(subversion)
 swig
+sympy-python3
 syndication-dev
 syntax-highlighting-dev
 sysprof-dev

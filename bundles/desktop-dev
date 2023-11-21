@@ -898,6 +898,7 @@ pypi-maturin-python3
 pypi-meson_python
 pypi-meson_python-python3
 pypi-mock-python3
+pypi-mpmath-python3
 pypi-munkres-python3
 pypi-mypy_extensions-python3
 pypi-networkx-python3
@@ -1053,6 +1054,7 @@ include(devpkg-startup-notification)
 include(devpkg-stoken)
 include(strace)
 swig
+sympy-python3
 sysprof-dev
 sysprof-staticdev
 systemd-bin
