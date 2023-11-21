@@ -7,4 +7,3 @@
 include(desktop)
 include(openssh-server)
 include(tigervnc)
-tigervnc-extras
