@@ -1,0 +1,9 @@
+# [TITLE]: nut-cgi
+# [DESCRIPTION]: CGI resources for Network UPS Tools
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(nut)
+nut-extras-cgi
