@@ -16,3 +16,4 @@ pinentry
 rng-tools
 rng-tools-autostart
 include(curl)
+include(lib-openssl)

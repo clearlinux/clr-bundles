@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 oath-toolkit-dev
+include(lib-openssl)

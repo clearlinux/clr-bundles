@@ -54,3 +54,4 @@ libxml2-lib
 include(aspell)
 include(not-ffmpeg-lib)
 include(gobject-introspection)
+include(lib-openssl)
