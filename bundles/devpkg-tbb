@@ -1,5 +1,5 @@
 # [TITLE]: devpkg-tbb
-# [DESCRIPTION]: All content for tbb.
+# [DESCRIPTION]: All content for pkgconfig file tbb.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 tbb-dev
+include(libstdcpp)

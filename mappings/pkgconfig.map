@@ -1057,6 +1057,7 @@ pkgconfig(systemd)	devpkg-systemd
 pkgconfig(taglib)	devpkg-taglib
 pkgconfig(taglib_c)	devpkg-taglib
 pkgconfig(talloc)	devpkg-talloc
+pkgconfig(tbb)	devpkg-tbb
 pkgconfig(tcl)	devpkg-tcl
 pkgconfig(tdb)	devpkg-tdb
 pkgconfig(telepathy-glib)	devpkg-telepathy-glib

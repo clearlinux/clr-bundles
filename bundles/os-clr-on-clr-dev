@@ -989,7 +989,6 @@ pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hypothesis-python3
 pypi-idna
-pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-iso8601-python3
@@ -998,7 +997,6 @@ pypi-kerberos-python3
 pypi-libevdev
 pypi-lxml
 pypi-lxml-python3
-pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-meson_python
@@ -1059,7 +1057,6 @@ pypi-sphinx_rtd_theme-python3
 pypi-tox
 pypi-tox-python3
 pypi-trove_classifiers-python3
-pypi-typing_extensions-python3
 pypi-tzdata-python3
 pypi-ufo2ft-python3
 pypi-ufolib2-python3

@@ -590,12 +590,9 @@ pypi-flit_core-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
-pypi-iniconfig-python3
 pypi-jinja2-python3
 pypi-lxml
-pypi-lz4-python3
 pypi-mako
-pypi-packaging-python3
 pypi-pip
 pypi-pluggy
 pypi-py-python3
@@ -612,7 +609,6 @@ pypi-six-python3
 pypi-sphinx
 pypi-sphinx_rtd_theme-python3
 pypi-tox
-pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-wheel-python3
 python3

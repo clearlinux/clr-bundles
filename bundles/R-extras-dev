@@ -121,6 +121,7 @@ R-brglm
 R-bridgesampling
 R-brio
 R-broom
+R-broom.helpers
 R-bslib
 R-ca
 R-caTools
@@ -249,6 +250,7 @@ R-gfonts
 R-ggfortify
 R-ggplot2
 R-ggridges
+R-ggstats
 R-gh
 R-gitcreds
 R-gld
@@ -388,6 +390,7 @@ R-parsedate
 R-partitions
 R-party
 R-partykit
+R-patchwork
 R-patrick
 R-pbapply
 R-pbdZMQ
@@ -475,7 +478,6 @@ R-rentrez
 R-renv
 R-repr
 R-reprex
-R-reshape
 R-reshape2
 R-reticulate
 R-rex
@@ -1241,15 +1243,12 @@ pypi-flit_core-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
-pypi-iniconfig-python3
 pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-lxml
-pypi-lz4-python3
 pypi-mako
 pypi-msgpack-python3
 pypi-numpy-python3
-pypi-packaging-python3
 pypi-pip
 pypi-pluggy
 pypi-py-python3
@@ -1263,7 +1262,6 @@ pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-sphinx
 pypi-tox
-pypi-typing_extensions-python3
 pypi-virtualenv
 pypi-wheel-python3
 python3
