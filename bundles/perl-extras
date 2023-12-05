@@ -151,7 +151,6 @@ perl-DBD-MariaDB
 perl-DBD-Pg
 perl-DBD-SQLite
 perl-DBD-SQLite2
-perl-DBD-mysql
 perl-DBI
 perl-DBICx-TestDatabase
 perl-DBIx-Class
