@@ -72,7 +72,6 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
-botocore-python3
 include(devpkg-brotli)
 include(devpkg-btrfs-progs)
 bubblewrap
@@ -845,7 +844,6 @@ pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cibuildwheel-python3
 pypi-colorama-python3
-pypi-configparser-python3
 pypi-coverage-python3
 pypi-cppy-python3
 pypi-cryptography-python3

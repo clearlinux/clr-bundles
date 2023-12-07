@@ -268,7 +268,6 @@ pkgconfig(blkid)	devpkg-util-linux
 pkgconfig(blockdev)	devpkg-libblockdev
 pkgconfig(blockdev-utils)	devpkg-libblockdev
 pkgconfig(bluez)	devpkg-bluez
-pkgconfig(botan-2)	devpkg-Botan
 pkgconfig(bsdiff)	devpkg-bsdiff
 pkgconfig(bytesize)	devpkg-libbytesize
 pkgconfig(bzip2)	devpkg-bzip2

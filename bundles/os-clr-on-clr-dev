@@ -979,7 +979,6 @@ pypi-flask-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
-pypi-future-python3
 pypi-gitdb-python3
 pypi-glyphslib-python3
 pypi-gssapi-python3
@@ -1010,7 +1009,6 @@ pypi-pathspec
 pypi-pathspec-python3
 pypi-pbr
 pypi-pip
-pypi-pkgconfig-python3
 pypi-pluggy
 pypi-pluggy-python3
 pypi-ply-python3
