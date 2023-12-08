@@ -39,11 +39,8 @@ php-msgpack
 php-oauth
 php-parle
 php-pcov
-php-proctitle
-php-propro
 php-protobuf
 php-psr
-php-radius
 php-raphf
 php-rdkafka
 php-redis
@@ -53,7 +50,6 @@ php-SeasLog
 php-stomp
 php-svm
 php-sync
-php-taint
 php-timezonedb
 php-trader
 php-uopz
