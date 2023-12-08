@@ -13,7 +13,6 @@ php-APCu
 php-apfd
 php-ast
 php-Bitset
-php-componere
 php-crypto
 php-datadog_trace
 php-dbase
@@ -21,7 +20,6 @@ php-dio
 php-ds
 php-eio
 php-ev
-php-gender
 php-geospatial
 php-gnupg
 php-gRPC
@@ -36,13 +34,11 @@ php-lua
 php-lzf
 php-mailparse
 php-memcached
-php-Molten
 php-mongodb
 php-msgpack
 php-oauth
 php-parle
 php-pcov
-php-PDO_SQLANYWHERE
 php-proctitle
 php-propro
 php-protobuf
@@ -58,7 +54,6 @@ php-stomp
 php-svm
 php-sync
 php-taint
-php-timecop
 php-timezonedb
 php-trader
 php-uopz
@@ -67,7 +62,6 @@ php-xattr
 php-Xdebug
 php-xlswriter
 php-xxtea
-php-Yaf
 php-yaml
 php-zmq
 include(openldap)
