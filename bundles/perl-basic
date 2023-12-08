@@ -16,6 +16,7 @@ perl-DateTime-TimeZone
 perl-Encode-Locale
 perl-Error
 perl-File-Listing
+perl-Getopt-Long
 perl-HTML-Parser
 perl-HTML-Tagset
 perl-HTTP-Cookies
