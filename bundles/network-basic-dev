@@ -234,7 +234,6 @@ include(devpkg-lmdb)
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
-m4
 include(make)
 mercurial
 mingw-gcc
@@ -312,6 +311,7 @@ perl-File-ShareDir-Install-perl
 perl-File-ShareDir-perl
 perl-File-Which-perl
 perl-Getopt-Long-Descriptive-perl
+perl-Getopt-Long-perl
 perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl

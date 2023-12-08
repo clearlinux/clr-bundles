@@ -36,7 +36,6 @@ include(devpkg-btrfs-progs)
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils3
 buildreq-gnome
 buildreq-meson
 buildreq-qmake
@@ -285,6 +284,7 @@ perl-File-ShareDir-Install-perl
 perl-File-ShareDir-perl
 perl-File-Which-perl
 perl-Getopt-Long-Descriptive-perl
+perl-Getopt-Long-perl
 perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl

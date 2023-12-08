@@ -28,7 +28,6 @@ include(bison)
 bison-dev
 buildreq-cmake
 buildreq-configure
-buildreq-distutils3
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
@@ -150,7 +149,6 @@ linux-libc-headers
 include(llvm)
 include(devpkg-lz4)
 include(devpkg-lz4)
-m4
 include(make)
 mpc-dev
 include(devpkg-mpfr)

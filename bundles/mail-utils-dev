@@ -34,7 +34,6 @@ include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils3
 buildreq-gnome
 buildreq-kde
 buildreq-meson
@@ -205,7 +204,6 @@ include(lynx)
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
-m4
 include(make)
 mingw-gcc
 mpc-dev
@@ -273,6 +271,7 @@ perl-File-ShareDir-Install-perl
 perl-File-ShareDir-perl
 perl-File-Which-perl
 perl-Getopt-Long-Descriptive-perl
+perl-Getopt-Long-perl
 perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl

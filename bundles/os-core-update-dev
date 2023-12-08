@@ -33,7 +33,6 @@ include(devpkg-boost)
 include(devpkg-bsdiff)
 buildreq-cmake
 buildreq-configure
-buildreq-distutils3
 buildreq-gnome
 buildreq-meson
 bzip2
@@ -205,6 +204,7 @@ include(patch)
 patchelf
 include(devpkg-pcre2)
 include(devpkg-pcre2)
+perl-Getopt-Long-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 pigz

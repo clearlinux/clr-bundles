@@ -806,6 +806,7 @@ perl-File-ShareDir-perl
 perl-File-Slurp
 perl-File-Which-perl
 perl-Getopt-Long-Descriptive-perl
+perl-Getopt-Long-perl
 perl-HTML-Form-perl
 perl-HTML-Parser-perl
 perl-HTML-Tagset-perl

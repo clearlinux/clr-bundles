@@ -410,6 +410,7 @@ include(devpkg-pcre)
 include(devpkg-pcre2)
 include(devpkg-pcre2)
 perl
+perl-Getopt-Long-perl
 perl-IPC-Run-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
