@@ -866,7 +866,6 @@ pypi-flit_core-python3
 pypi-flit_scm-python3
 pypi-fontmath-python3
 pypi-freezegun-python3
-pypi-frozenlist-python3
 pypi-funcparserlib-python3
 pypi-glyphslib-python3
 pypi-hatch_fancy_pypi_readme-python3
@@ -888,6 +887,7 @@ pypi-libevdev
 pypi-locket-python3
 pypi-lxml
 pypi-lxml-python3
+pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-matplotlib-python3
