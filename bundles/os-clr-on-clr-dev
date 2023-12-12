@@ -1211,11 +1211,14 @@ vim
 include(devpkg-virglrenderer)
 include(devpkg-vte)
 include(devpkg-wavpack)
+wayland
 include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 include(devpkg-webkitgtk)
+weston
+include(devpkg-weston)
 include(wget)
 include(which)
 include(devpkg-woff2)
