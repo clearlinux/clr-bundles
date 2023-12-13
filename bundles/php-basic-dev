@@ -362,7 +362,6 @@ include(devpkg-lzo)
 m4
 include(make)
 include(devpkg-mariadb)
-include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)

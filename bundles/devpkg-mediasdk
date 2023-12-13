@@ -1,12 +1,7 @@
 # [TITLE]: devpkg-mediasdk
 # [DESCRIPTION]: All content for pkgconfig file mediasdk.pc.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(devpkg-base)
-
-mediasdk-dev
-include(libstdcpp)
-include(libX11client)
+filesystem

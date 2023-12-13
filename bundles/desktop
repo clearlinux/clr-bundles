@@ -115,8 +115,6 @@ intel-media-driver
 libva
 libva-intel-driver
 libyami
-mediasdk
-mediasdk-extras
 
 gnome-applets
 gnome-panel
