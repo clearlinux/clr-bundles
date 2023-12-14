@@ -577,6 +577,7 @@ mandoc
 include(devpkg-mariadb)
 mccabe-python3
 include(devpkg-md4c)
+include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)

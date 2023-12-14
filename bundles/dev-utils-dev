@@ -393,6 +393,7 @@ include(devpkg-lzo)
 m4
 include(make)
 man-db
+include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)

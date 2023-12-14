@@ -1021,6 +1021,7 @@ m4
 include(make)
 include(devpkg-mariadb)
 include(devpkg-md4c)
+include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)

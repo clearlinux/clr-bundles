@@ -515,6 +515,7 @@ include(make)
 include(devpkg-mariadb)
 include(devpkg-md4c)
 media-player-info
+include(devpkg-mediasdk)
 mercurial
 include(devpkg-mesa)
 include(devpkg-mesa)
