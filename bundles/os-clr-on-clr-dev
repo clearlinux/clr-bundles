@@ -1008,11 +1008,9 @@ pypi-munkres-python3
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
-pypi-pathspec-python3
 pypi-pbr
 pypi-pip
 pypi-pluggy
-pypi-pluggy-python3
 pypi-ply-python3
 pypi-poetry-python3
 pypi-poetry_core-python3
