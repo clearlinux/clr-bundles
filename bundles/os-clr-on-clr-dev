@@ -182,6 +182,7 @@ include(dosfstools)
 double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
+include(devpkg-dtc)
 include(devpkg-duktape)
 e2fsprogs
 e2fsprogs-data

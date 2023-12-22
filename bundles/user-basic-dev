@@ -142,6 +142,7 @@ include(dosfstools)
 double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)
+include(devpkg-dtc)
 include(devpkg-duktape)
 e2fsprogs
 e2fsprogs-data
@@ -155,7 +156,9 @@ include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 include(devpkg-elfutils)
+include(devpkg-ell)
 emacs
+include(devpkg-evolution-data-server)
 include(devpkg-expat)
 include(devpkg-expat)
 expect
@@ -231,6 +234,7 @@ include(devpkg-gnutls)
 go
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
+gobject-introspection-lib
 include(devpkg-googletest)
 gperf
 include(gpgme)
@@ -328,6 +332,7 @@ include(devpkg-libbsd)
 libc6
 libc6-dev
 include(devpkg-libcacard)
+include(devpkg-libcanberra)
 include(devpkg-libcap)
 include(devpkg-libcap)
 include(devpkg-libcap-ng)
@@ -364,6 +369,7 @@ include(devpkg-libgpg-error)
 libgpg-error-extras
 include(devpkg-libgudev)
 include(devpkg-libgusb)
+include(devpkg-libical)
 include(devpkg-libidn)
 include(devpkg-libidn)
 include(devpkg-libidn2)
@@ -775,6 +781,7 @@ include(strace)
 include(devpkg-subunit)
 include(subversion)
 swig
+sysprof-dev
 systemd
 systemd-bin
 include(devpkg-systemd)
