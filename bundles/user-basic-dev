@@ -84,7 +84,6 @@ buildreq-kde
 buildreq-meson
 buildreq-nginx
 buildreq-qmake
-buildreq-scons
 bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
