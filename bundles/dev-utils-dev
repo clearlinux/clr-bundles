@@ -289,6 +289,7 @@ include(devpkg-libeconf)
 include(devpkg-libeconf)
 include(devpkg-libedit)
 include(devpkg-libepoxy)
+include(devpkg-libepoxy)
 liberation-fonts
 libev-dev
 include(devpkg-libevdev)
@@ -608,6 +609,7 @@ pypi-mako
 pypi-msgpack-python3
 pypi-pip
 pypi-pluggy
+pypi-ply
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3

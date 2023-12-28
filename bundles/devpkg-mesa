@@ -10,3 +10,4 @@ include(devpkg-base)
 mesa-dev
 include(libX11client)
 include(libstdcpp)
+include(libglib)

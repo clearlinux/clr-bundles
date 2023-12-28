@@ -349,6 +349,7 @@ include(devpkg-libeconf)
 include(devpkg-libedit)
 libei-dev
 include(devpkg-libepoxy)
+include(devpkg-libepoxy)
 libev-dev
 include(devpkg-libevdev)
 include(devpkg-libevent)
@@ -710,6 +711,7 @@ pypi-markdown-python3
 pypi-pbr
 pypi-pip
 pypi-pluggy
+pypi-ply
 pypi-psutil
 pypi-py-python3
 pypi-pybind11-python3
