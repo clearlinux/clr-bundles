@@ -139,15 +139,6 @@ libgpg-error-extras
 include(devpkg-libidn)
 include(devpkg-libidn)
 include(devpkg-libmicrohttpd)
-include(devpkg-libmnl)
-include(devpkg-libmnl)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnfnetlink)
-include(devpkg-libnfnetlink)
-include(devpkg-libnftnl)
-include(devpkg-libnftnl)
-include(devpkg-libpcap)
 include(devpkg-libproxy)
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
@@ -188,6 +179,7 @@ include(devpkg-openssl)
 include(p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)
+passwdqc-dev
 include(patch)
 include(devpkg-pcre2)
 include(devpkg-pcre2)
@@ -203,6 +195,8 @@ include(procps-ng)
 include(pypi-cython)
 pypi-jinja2-python3
 pypi-lxml
+pypi-pefile-python3
+pypi-pyelftools
 python3
 python3-core
 python3-dev

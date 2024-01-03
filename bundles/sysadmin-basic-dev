@@ -236,6 +236,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)
+passwdqc-dev
 include(patch)
 patchelf
 include(devpkg-pciutils)
@@ -378,6 +379,8 @@ include(devpkg-protobuf)
 include(pypi-cython)
 pypi-jinja2-python3
 pypi-lxml
+pypi-pefile-python3
+pypi-pyelftools
 pypi-sphinx
 python3
 python3-core

@@ -168,15 +168,6 @@ include(devpkg-libidn)
 include(devpkg-libidn2)
 include(devpkg-libidn2)
 include(devpkg-libmicrohttpd)
-include(devpkg-libmnl)
-include(devpkg-libmnl)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnfnetlink)
-include(devpkg-libnfnetlink)
-include(devpkg-libnftnl)
-include(devpkg-libnftnl)
-include(devpkg-libpcap)
 include(devpkg-libproxy)
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
@@ -227,6 +218,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)
+passwdqc-dev
 include(patch)
 patchelf
 include(devpkg-pcre2)
@@ -366,7 +358,9 @@ include(pypi-cython)
 pypi-idna
 pypi-jinja2-python3
 pypi-lxml
+pypi-pefile-python3
 pypi-pip
+pypi-pyelftools
 pypi-setuptools-python3
 pypi-sphinx
 python3

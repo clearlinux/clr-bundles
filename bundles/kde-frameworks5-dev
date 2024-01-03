@@ -421,15 +421,7 @@ include(devpkg-libjpeg-turbo)
 libkexiv2-dev
 include(devpkg-libmbim)
 include(devpkg-libmicrohttpd)
-include(devpkg-libmnl)
-include(devpkg-libmnl)
 include(devpkg-libndp)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnfnetlink)
-include(devpkg-libnfnetlink)
-include(devpkg-libnftnl)
-include(devpkg-libnftnl)
 include(devpkg-libnice)
 include(devpkg-libnl)
 include(devpkg-libnotify)
@@ -577,6 +569,7 @@ include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)
 include(devpkg-pango)
+passwdqc-dev
 include(patch)
 patchelf
 include(devpkg-pcre)
@@ -756,6 +749,7 @@ pypi-mako
 pypi-markdown-python3
 pypi-mock-python3
 pypi-pbr
+pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply
@@ -763,6 +757,7 @@ pypi-psutil
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pyelftools
 pypi-pylint-python3
 pypi-pyproject_hooks-python3
 pypi-pytest

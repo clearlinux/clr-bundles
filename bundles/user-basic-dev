@@ -535,6 +535,7 @@ include(devpkg-p11-kit)
 include(pandoc)
 include(devpkg-pango)
 include(devpkg-parted)
+passwdqc-dev
 include(patch)
 patchelf
 patchutils
@@ -717,6 +718,7 @@ pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-msgpack-python3
+pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply
@@ -724,6 +726,7 @@ pypi-ply-python3
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pyelftools
 pypi-pyparsing-python3
 pypi-pyproject_hooks-python3
 pypi-pytest

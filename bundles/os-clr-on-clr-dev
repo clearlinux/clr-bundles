@@ -748,6 +748,7 @@ include(devpkg-p11-kit)
 include(pandoc)
 include(devpkg-pango)
 include(devpkg-parted)
+passwdqc-dev
 include(patch)
 patchelf
 patchutils
@@ -1012,6 +1013,7 @@ pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
+pypi-pefile-python3
 pypi-pip
 pypi-pkgconfig-python3
 pypi-pluggy
@@ -1027,6 +1029,7 @@ pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pyclipper-python3
 pypi-pycparser-python3
+pypi-pyelftools
 pypi-pyelftools-python3
 pypi-pygments-python3
 pypi-pylint-python3

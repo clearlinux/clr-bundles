@@ -126,15 +126,6 @@ include(devpkg-libgpg-error)
 include(devpkg-libgpg-error)
 libgpg-error-extras
 include(devpkg-libmicrohttpd)
-include(devpkg-libmnl)
-include(devpkg-libmnl)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnfnetlink)
-include(devpkg-libnfnetlink)
-include(devpkg-libnftnl)
-include(devpkg-libnftnl)
-include(devpkg-libpcap)
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
@@ -170,6 +161,7 @@ include(devpkg-openssl)
 include(p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)
+passwdqc-dev
 include(patch)
 patchelf
 include(devpkg-pcre2)
@@ -192,10 +184,12 @@ pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-lz4-python3
+pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-py-python3
 pypi-pycparser-python3
+pypi-pyelftools
 pypi-pyproject_hooks-python3
 pypi-pytest
 pypi-setuptools-python3

@@ -662,6 +662,7 @@ include(pandoc)
 include(devpkg-pango)
 include(parallel)
 include(devpkg-parted)
+passwdqc-dev
 include(patch)
 patchelf
 include(devpkg-pciutils)
@@ -910,6 +911,7 @@ pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
 pypi-pbr-python3
+pypi-pefile-python3
 pypi-pep8-python3
 pypi-pillow-python3
 pypi-pip
@@ -935,6 +937,7 @@ pypi-pyclipper-python3
 pypi-pycodestyle-python3
 pypi-pycparser-python3
 pypi-pydocstyle-python3
+pypi-pyelftools
 pypi-pyflakes-python3
 pypi-pyparsing-python3
 pypi-pyproject_api-python3

@@ -301,14 +301,6 @@ include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libmicrohttpd)
-include(devpkg-libmnl)
-include(devpkg-libmnl)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnetfilter_conntrack)
-include(devpkg-libnfnetlink)
-include(devpkg-libnfnetlink)
-include(devpkg-libnftnl)
-include(devpkg-libnftnl)
 include(devpkg-libnice)
 include(devpkg-libogg)
 include(devpkg-libogg)
@@ -416,6 +408,7 @@ include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)
 include(devpkg-pango)
+passwdqc-dev
 include(patch)
 patchelf
 include(devpkg-pcre)
@@ -458,12 +451,14 @@ pypi-jinja2-python3
 pypi-lxml
 pypi-lz4-python3
 pypi-mako
+pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
+pypi-pyelftools
 pypi-pyproject_hooks-python3
 pypi-pytest
 pypi-pytest-python3
