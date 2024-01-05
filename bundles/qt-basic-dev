@@ -422,7 +422,6 @@ perl-XML-Parser-perl
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
-include(devpkg-pixman)
 pkg-config
 include(devpkg-pkg-config)
 include(devpkg-polkit)

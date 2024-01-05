@@ -708,7 +708,6 @@ include(devpkg-phonon)
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
-include(devpkg-pixman)
 pkg-config
 include(devpkg-pkg-config)
 plasma-wayland-protocols-dev
