@@ -10,8 +10,4 @@ include(devpkg-base)
 cups-filters-dev
 include(lib-imageformat)
 include(libglib)
-include(lib-opengl)
-include(qt-core)
-include(qt-basic)
-include(libX11client)
 include(lib-openssl)
