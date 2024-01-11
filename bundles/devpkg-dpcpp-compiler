@@ -4,10 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
 include(devpkg-base)
 
-dpcpp-compiler-dev
 llvm-dev
 include(libstdcpp)
 include(xz)
