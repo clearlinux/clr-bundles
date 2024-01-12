@@ -54,3 +54,5 @@ include(libstdcpp)
 include(gmp-lib)
 include(libarchive)
 include(mpfr-lib)
+elfutils
+elfutils-dev
