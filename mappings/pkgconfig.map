@@ -4,7 +4,7 @@ pkgconfig(INIReader)	devpkg-inih
 pkgconfig(ImageMagick)	devpkg-ImageMagick
 pkgconfig(Imath)	devpkg-Imath
 pkgconfig(KF5WaylandClient)	devpkg-kwayland
-pkgconfig(LLVMSPIRVLib)	devpkg-dpcpp-compiler
+pkgconfig(LLVMSPIRVLib)	devpkg-llvm
 pkgconfig(Magick++)	devpkg-ImageMagick
 pkgconfig(MagickCore)	devpkg-ImageMagick
 pkgconfig(MagickCore-7.Q16HDRI)	devpkg-ImageMagick
