@@ -156,6 +156,7 @@ include(devpkg-ipmctl)
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-jansson)
+include(joe)
 include(devpkg-json-c)
 include(devpkg-json-c)
 kdoctools-dev

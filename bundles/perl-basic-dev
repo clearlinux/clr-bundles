@@ -97,6 +97,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
+include(joe)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-keyutils)

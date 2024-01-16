@@ -56,3 +56,4 @@ include(libarchive)
 include(mpfr-lib)
 elfutils
 elfutils-dev
+include(lz4)
