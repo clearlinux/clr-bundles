@@ -1,0 +1,9 @@
+# [TITLE]: oneapi-dev
+# [DESCRIPTION]: Development tools for oneAPI.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Programming Languages
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(llvm)
+dpcpp-compiler
