@@ -163,7 +163,7 @@ include(devpkg-p11-kit)
 include(pandoc)
 passwdqc-dev
 include(patch)
-patchelf
+include(patchelf)
 include(devpkg-pcre2)
 perl-Getopt-Long-perl
 perl-Test-Simple-perl

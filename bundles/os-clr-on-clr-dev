@@ -512,7 +512,7 @@ include(devpkg-libgcrypt)
 include(devpkg-libgd)
 include(devpkg-libgdata)
 libgeotiff-dev
-include(devpkg-libglvnd)
+include(devpkg-libgit2)
 include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 include(devpkg-libgpg-error)
@@ -752,7 +752,7 @@ include(devpkg-pango)
 include(devpkg-parted)
 passwdqc-dev
 include(patch)
-patchelf
+include(patchelf)
 patchutils
 include(devpkg-pciutils)
 pcre

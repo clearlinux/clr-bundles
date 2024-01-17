@@ -368,7 +368,6 @@ include(devpkg-libgcrypt)
 include(devpkg-libgcrypt)
 include(devpkg-libgdata)
 include(devpkg-libglvnd)
-include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 include(devpkg-libgpg-error)
 libgpg-error-extras
@@ -551,7 +550,7 @@ include(devpkg-pango)
 include(devpkg-parted)
 passwdqc-dev
 include(patch)
-patchelf
+include(patchelf)
 include(devpkg-pcre)
 include(devpkg-pcre2)
 include(devpkg-pcre2)

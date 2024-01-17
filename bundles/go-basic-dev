@@ -273,7 +273,7 @@ include(devpkg-p11-kit)
 include(pandoc)
 passwdqc-dev
 include(patch)
-patchelf
+include(patchelf)
 patchutils
 include(devpkg-pcre)
 include(devpkg-pcre2)
