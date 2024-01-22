@@ -8,4 +8,4 @@
 include(llvm)
 dpcpp-compiler
 oneDPL-dev
-tbb-dev
+include(devpkg-tbb)

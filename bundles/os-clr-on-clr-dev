@@ -876,7 +876,6 @@ perl-Sub-Quote-perl
 perl-Sub-Uplevel-perl
 perl-Term-Table-perl
 perl-Test-Base-perl
-perl-Test-CleanNamespaces-perl
 perl-Test-Deep-perl
 perl-Test-Exception-perl
 perl-Test-Fatal-perl
@@ -1020,7 +1019,6 @@ pypi-pkgconfig-python3
 pypi-pluggy
 pypi-ply
 pypi-ply-python3
-pypi-poetry-python3
 pypi-poetry_core-python3
 pypi-psutil
 pypi-psycopg2-python3
