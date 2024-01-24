@@ -12,3 +12,5 @@ include(maker-basic)
 
 # Design tools
 fritzing-app
+kicad
+ngspice
