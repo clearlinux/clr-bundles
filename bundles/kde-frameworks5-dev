@@ -758,6 +758,7 @@ pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pyelftools
+pypi-pygments
 pypi-pylint-python3
 pypi-pyproject_hooks-python3
 pypi-pytest

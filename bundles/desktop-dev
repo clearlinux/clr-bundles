@@ -939,6 +939,7 @@ pypi-pycparser-python3
 pypi-pydocstyle-python3
 pypi-pyelftools
 pypi-pyflakes-python3
+pypi-pygments
 pypi-pyparsing-python3
 pypi-pyproject_api-python3
 pypi-pyproject_hooks-python3
