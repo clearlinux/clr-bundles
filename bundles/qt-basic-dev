@@ -543,6 +543,7 @@ include(devpkg-tpm2-tss)
 include(tzdata)
 umockdev-dev
 include(unzip)
+utfcpp-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

@@ -875,6 +875,7 @@ unifdef
 include(unzip)
 include(devpkg-upower)
 usrbinpython
+utfcpp-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
