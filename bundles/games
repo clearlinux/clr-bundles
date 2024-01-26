@@ -101,7 +101,7 @@ xz-lib
 zlib-lib
 
 # helpers for Steam + runtime
-libratbag
+include(libratbag)
 steam-devices
 xdg-user-dirs
 include(zenity)

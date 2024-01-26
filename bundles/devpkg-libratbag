@@ -9,3 +9,4 @@ include(devpkg-base)
 
 libratbag-dev
 include(libglib)
+include(libratbag)
