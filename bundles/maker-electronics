@@ -11,6 +11,6 @@ include(Sphinx)
 include(maker-basic)
 
 # Design tools
+include(kicad)
 fritzing-app
-kicad
 ngspice
