@@ -403,7 +403,6 @@ include(devpkg-libpthread-stubs)
 include(devpkg-libpwquality)
 include(devpkg-libqmi)
 include(devpkg-libqrtr-glib)
-include(devpkg-libratbag)
 librist-dev
 librsvg
 include(devpkg-librsvg)
