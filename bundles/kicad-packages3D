@@ -1,9 +1,8 @@
-# [TITLE]: kicad-packages3d
+# [TITLE]: kicad-packages3D
 # [DESCRIPTION]: 3D parts model collection for KiCad
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-filesystem
-#kicad-packages3d
+kicad-packages3D
