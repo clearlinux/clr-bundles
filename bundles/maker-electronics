@@ -5,10 +5,11 @@
 # [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
+include(Sphinx)
+include(libXpm-lib)
+include(maker-basic)
 include(python3-basic)
 include(qt-basic)
-include(Sphinx)
-include(maker-basic)
 
 # Design tools
 include(kicad)

@@ -5,4 +5,25 @@
 # [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
+include(aspell)
+include(curl)
+include(dbus-lib)
+include(gdk-pixbuf)
+include(gmp-lib)
+include(gstreamer)
+include(harfbuzz-lib)
+include(icu4c-lib)
+include(lib-imageformat)
+include(lib-opengl)
+include(libX11client)
+include(libglib)
+include(libpsl-lib)
+include(libstdcpp)
+include(libxml2)
+include(nettle-lib)
+include(python3-basic)
+include(sqlite)
+include(webkitgtk)
+include(xz)
+
 kicad
