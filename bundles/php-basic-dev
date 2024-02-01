@@ -300,6 +300,8 @@ include(devpkg-libpciaccess)
 include(devpkg-libpng)
 include(devpkg-libpng)
 include(devpkg-libproxy)
+include(devpkg-libpsl)
+include(devpkg-libpsl)
 include(devpkg-libpthread-stubs)
 include(devpkg-libpwquality)
 librsvg
