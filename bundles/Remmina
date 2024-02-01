@@ -18,4 +18,4 @@ include(lz4)
 # end of custom additions
 
 # main package
-#Remmina
+Remmina
