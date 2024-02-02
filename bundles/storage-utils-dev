@@ -209,8 +209,6 @@ include(devpkg-libnl)
 include(devpkg-libnsl)
 libnvme-dev
 include(devpkg-libproxy)
-include(devpkg-libpsl)
-include(devpkg-libpsl)
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
@@ -225,6 +223,7 @@ libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libusb)
+libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(libxml2)
@@ -427,7 +426,6 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
-pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-py-python3

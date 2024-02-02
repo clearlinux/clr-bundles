@@ -544,6 +544,7 @@ include(devpkg-libwacom)
 include(devpkg-libwebp)
 include(devpkg-libwnck3)
 libwpe-dev
+libxcrypt-dev
 libxcvt
 include(devpkg-libxcvt)
 include(devpkg-libxkbcommon)
@@ -911,7 +912,6 @@ pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
 pypi-pbr-python3
-pypi-pefile-python3
 pypi-pep8-python3
 pypi-pillow-python3
 pypi-pip

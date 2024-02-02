@@ -136,6 +136,7 @@ include(devpkg-libtirpc)
 libtool
 libtool-dev
 include(devpkg-libunwind)
+libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
@@ -184,7 +185,6 @@ pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-lz4-python3
-pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-py-python3

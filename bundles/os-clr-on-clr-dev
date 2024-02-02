@@ -644,6 +644,7 @@ include(devpkg-libvpx)
 include(devpkg-libwacom)
 include(devpkg-libwebp)
 libwpe-dev
+libxcrypt-dev
 libxcvt
 include(devpkg-libxcvt)
 include(devpkg-libxkbcommon)
@@ -1034,7 +1035,6 @@ pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
-pypi-pefile-python3
 pypi-pip
 pypi-pkgconfig-python3
 pypi-pluggy

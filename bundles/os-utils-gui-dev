@@ -10,6 +10,7 @@ include(os-utils-gui)
 include(perl-basic-dev)
 include(devpkg-CUnit)
 include(devpkg-CUnit)
+FreeRDP-dev
 include(devpkg-Imath)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
@@ -20,6 +21,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
+include(devpkg-SDL2_ttf)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
@@ -492,6 +494,7 @@ include(devpkg-libwebp)
 libwnck-dev
 include(devpkg-libwnck3)
 libwpe-dev
+libxcrypt-dev
 libxcvt
 include(devpkg-libxcvt)
 include(devpkg-libxfce4ui)
@@ -584,6 +587,7 @@ include(devpkg-openssl)
 optipng-bin
 include(devpkg-opus)
 include(devpkg-opus)
+opusfile-dev
 include(devpkg-orc)
 include(devpkg-orc)
 include(p11-kit)
@@ -730,6 +734,7 @@ perl-perl
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
+include(devpkg-pkcs11-helper)
 pkg-config
 include(devpkg-pkg-config)
 include(devpkg-polkit)
@@ -766,7 +771,6 @@ pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-pbr
-pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply

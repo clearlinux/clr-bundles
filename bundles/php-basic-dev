@@ -300,8 +300,6 @@ include(devpkg-libpciaccess)
 include(devpkg-libpng)
 include(devpkg-libpng)
 include(devpkg-libproxy)
-include(devpkg-libpsl)
-include(devpkg-libpsl)
 include(devpkg-libpthread-stubs)
 include(devpkg-libpwquality)
 librsvg
@@ -336,6 +334,7 @@ include(devpkg-libvorbis)
 include(devpkg-libvorbis)
 include(devpkg-libvpx)
 include(devpkg-libwebp)
+libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(libxml2)
@@ -437,7 +436,6 @@ pypi-jinja2-python3
 pypi-lxml
 pypi-lz4-python3
 pypi-mako
-pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply

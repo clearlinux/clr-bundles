@@ -207,8 +207,6 @@ include(devpkg-libnl)
 include(devpkg-libpcap)
 include(devpkg-libpng)
 include(devpkg-libproxy)
-include(devpkg-libpsl)
-include(devpkg-libpsl)
 include(devpkg-libpwquality)
 include(devpkg-librsvg)
 include(devpkg-libseccomp)
@@ -225,6 +223,7 @@ libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libuv)
 include(devpkg-libwebp)
+libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
@@ -417,7 +416,6 @@ pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-lz4-python3
-pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply-python3

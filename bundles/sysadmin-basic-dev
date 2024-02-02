@@ -198,6 +198,7 @@ libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
 include(devpkg-libusb)
+libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
@@ -379,7 +380,6 @@ include(devpkg-protobuf)
 include(pypi-cython)
 pypi-jinja2-python3
 pypi-lxml
-pypi-pefile-python3
 pypi-pyelftools
 pypi-sphinx
 python3

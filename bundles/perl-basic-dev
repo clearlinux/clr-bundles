@@ -141,6 +141,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
+libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
@@ -327,7 +328,6 @@ include(procps-ng)
 include(pypi-cython)
 pypi-jinja2-python3
 pypi-lxml
-pypi-pefile-python3
 pypi-pyelftools
 python3
 python3-core

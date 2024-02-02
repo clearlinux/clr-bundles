@@ -140,8 +140,6 @@ include(devpkg-libidn)
 include(devpkg-libidn)
 include(devpkg-libmicrohttpd)
 include(devpkg-libproxy)
-include(devpkg-libpsl)
-include(devpkg-libpsl)
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
@@ -152,6 +150,7 @@ include(devpkg-libtirpc)
 libtool
 libtool-dev
 include(devpkg-libunwind)
+libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
@@ -197,7 +196,6 @@ include(procps-ng)
 include(pypi-cython)
 pypi-jinja2-python3
 pypi-lxml
-pypi-pefile-python3
 pypi-pyelftools
 python3
 python3-core

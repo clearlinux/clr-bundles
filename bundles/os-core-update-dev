@@ -158,8 +158,6 @@ include(devpkg-libnftnl)
 include(devpkg-libnftnl)
 include(devpkg-libpcap)
 include(devpkg-libproxy)
-include(devpkg-libpsl)
-include(devpkg-libpsl)
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
@@ -171,6 +169,7 @@ include(devpkg-libtirpc)
 libtool
 libtool-dev
 include(devpkg-libunwind)
+libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
@@ -220,7 +219,6 @@ include(pypi-cython)
 pypi-docutils
 pypi-jinja2-python3
 pypi-lxml
-pypi-pefile-python3
 pypi-pyelftools
 python3
 python3-core

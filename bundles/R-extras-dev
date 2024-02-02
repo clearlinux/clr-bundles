@@ -1067,6 +1067,7 @@ include(devpkg-libvpx)
 include(devpkg-libwacom)
 include(devpkg-libwebp)
 libwpe-dev
+libxcrypt-dev
 libxcvt
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
@@ -1345,7 +1346,6 @@ pypi-markdown-python3
 pypi-msgpack-python3
 pypi-numpy-python3
 pypi-pbr
-pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply
