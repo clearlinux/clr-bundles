@@ -211,7 +211,6 @@ intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)
-include(joe)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)

@@ -280,7 +280,6 @@ include(devpkg-iso-codes)
 itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
-include(joe)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)

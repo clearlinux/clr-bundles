@@ -339,7 +339,6 @@ itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
 include(devpkg-jemalloc)
-include(joe)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -933,7 +932,6 @@ pypi-pybind11
 pypi-pybind11-dev
 pypi-pybind11-python3
 pypi-pycares-python3
-pypi-pyclipper-python3
 pypi-pycodestyle-python3
 pypi-pycparser-python3
 pypi-pydocstyle-python3
