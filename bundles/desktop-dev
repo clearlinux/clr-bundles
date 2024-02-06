@@ -878,7 +878,6 @@ pypi-hypothesis-python3
 pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
-pypi-jeepney-python3
 pypi-jinja2-python3
 pypi-jmespath-python3
 pypi-jsonschema-python3
@@ -957,6 +956,7 @@ pypi-referencing-python3
 pypi-reportlab-python3
 pypi-requests-python3
 pypi-requests_toolbelt-python3
+pypi-rfc3986-python3
 pypi-scikit_build-python3
 pypi-scikit_learn-python3
 pypi-setuptools
