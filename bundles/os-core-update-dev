@@ -76,6 +76,8 @@ gcc-dev
 gcc-dev
 gcc-libgcc32
 gcc-libstdc++32
+gcc7-dev
+gcc8-dev
 include(gdb)
 gdb-dev
 gettext
@@ -225,6 +227,7 @@ python3-core
 python3-dev
 pyudev
 include(devpkg-qttools)
+include(devpkg-readline)
 include(devpkg-readline)
 ruby
 sed
