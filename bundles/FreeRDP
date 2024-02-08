@@ -10,6 +10,10 @@ include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(not-ffmpeg-lib)
+include(libssh-lib)
+include(numactl)
+include(dav1d-lib)
 include(pulseaudio)
 
 # end of custom additions
