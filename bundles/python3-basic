@@ -19,8 +19,9 @@ pypi-setuptools
 swupd-search
 pypi-virtualenv
 include(sqlite)
-include(libX11client)
-include(libglib)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)
+
+# include(libX11client)
+# include(libglib)
+# include(harfbuzz-lib)
+# include(icu4c-lib)
+# include(lib-imageformat)
