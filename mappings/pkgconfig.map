@@ -354,6 +354,7 @@ pkgconfig(fontenc)	devpkg-libfontenc
 pkgconfig(fontsproto)	devpkg-xorgproto
 pkgconfig(fontutil)	devpkg-font-util
 pkgconfig(formw)	devpkg-ncurses
+pkgconfig(freerdp3)	devpkg-FreeRDP
 pkgconfig(freetype2)	devpkg-freetype
 pkgconfig(fribidi)	devpkg-fribidi
 pkgconfig(fuse)	devpkg-compat-fuse-soname2
@@ -973,6 +974,8 @@ pkgconfig(opencv4)	devpkg-opencv
 pkgconfig(opengl)	devpkg-libglvnd
 pkgconfig(openssl)	devpkg-openssl
 pkgconfig(opus)	devpkg-opus
+pkgconfig(opusfile)	devpkg-opusfile
+pkgconfig(opusurl)	devpkg-opusfile
 pkgconfig(orc-0.4)	devpkg-orc
 pkgconfig(orte)	devpkg-openmpi
 pkgconfig(ostree-1)	devpkg-ostree
@@ -1095,6 +1098,7 @@ pkgconfig(udisks2-lsm)	devpkg-udisks2
 pkgconfig(udisks2-lvm2)	devpkg-udisks2
 pkgconfig(upower-glib)	devpkg-upower
 pkgconfig(uuid)	devpkg-util-linux
+pkgconfig(uwac0)	devpkg-FreeRDP
 pkgconfig(valgrind)	devpkg-valgrind
 pkgconfig(vdpau)	devpkg-libvdpau
 pkgconfig(videoproto)	devpkg-xorgproto
@@ -1117,6 +1121,7 @@ pkgconfig(wayland-server)	devpkg-wayland
 pkgconfig(wbclient)	devpkg-samba
 pkgconfig(webkit2gtk-4.1)	devpkg-webkitgtk
 pkgconfig(weston)	devpkg-weston
+pkgconfig(winpr3)	devpkg-FreeRDP
 pkgconfig(wlroots)	devpkg-wlroots
 pkgconfig(x11)	devpkg-libX11
 pkgconfig(x11-xcb)	devpkg-libX11

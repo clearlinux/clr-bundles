@@ -10,7 +10,7 @@ include(os-utils-gui)
 include(perl-basic-dev)
 include(devpkg-CUnit)
 include(devpkg-CUnit)
-FreeRDP-dev
+include(devpkg-FreeRDP)
 include(devpkg-Imath)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
@@ -586,7 +586,7 @@ include(devpkg-openssl)
 optipng-bin
 include(devpkg-opus)
 include(devpkg-opus)
-opusfile-dev
+include(devpkg-opusfile)
 include(devpkg-orc)
 include(devpkg-orc)
 include(p11-kit)
