@@ -1,9 +1,9 @@
 # [TITLE]: murmur
 # [DESCRIPTION]: Mumble daemon (murmurd)
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 # To be replaced by mumble-server bundle, since the daemon has been renamed
-include(mumble-server)
+filesystem
