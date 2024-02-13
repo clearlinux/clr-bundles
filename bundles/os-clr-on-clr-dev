@@ -52,7 +52,6 @@ Vulkan-Tools
 WPEBackend-fdo-dev
 Z3-dev
 Z3-dev
-include(devpkg-accountsservice)
 acl-bin
 include(devpkg-acl)
 include(devpkg-acl)
@@ -126,7 +125,6 @@ include(devpkg-capstone)
 check
 include(devpkg-check)
 include(devpkg-check)
-chrpath
 clear-font
 clr-avx-tools
 clr-hardware-files
@@ -135,9 +133,7 @@ include(devpkg-clutter)
 cmake
 include(devpkg-cmocka)
 include(devpkg-cogl)
-colord
 include(devpkg-colord)
-include(devpkg-colord-gtk)
 include(devpkg-compat-babeltrace-one)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
@@ -237,7 +233,6 @@ fs-python3
 include(devpkg-fuse)
 gawk
 include(devpkg-gc)
-include(devpkg-gcab)
 gcc
 gcc-dev
 gcc-dev
@@ -259,8 +254,6 @@ gdbm-dev
 include(gdk-pixbuf)
 include(devpkg-gdk-pixbuf)
 include(devpkg-gdm)
-include(devpkg-geoclue)
-include(devpkg-geocode-glib)
 include(devpkg-geos)
 gettext
 gettext-bin
@@ -301,10 +294,8 @@ gmp-gmpxx
 gmp-lib32
 include(devpkg-gnome-autoar)
 include(devpkg-gnome-bluetooth)
-gnome-common-dev
 include(devpkg-gnome-control-center)
 include(devpkg-gnome-desktop)
-include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-settings-daemon)
 gnu-efi
 include(devpkg-gnu-efi)
@@ -328,7 +319,6 @@ include(graphviz)
 include(devpkg-graphviz)
 graphviz-extras
 grep
-include(devpkg-grilo)
 groff
 gsettings-desktop-schemas
 include(devpkg-gsettings-desktop-schemas)
@@ -472,15 +462,12 @@ libaom-dev
 include(devpkg-libarchive)
 include(devpkg-libass)
 include(devpkg-libassuan)
-include(devpkg-libatasmart)
 include(devpkg-libatomic_ops)
 include(devpkg-libatomic_ops)
 include(devpkg-libavif)
 include(devpkg-libavtp)
-include(devpkg-libblockdev)
 include(devpkg-libbpf)
 include(devpkg-libbsd)
-include(devpkg-libbytesize)
 libc6
 libc6-dev
 include(devpkg-libcacard)
@@ -492,15 +479,12 @@ include(devpkg-libcap-ng)
 include(devpkg-libcbor)
 include(devpkg-libcgroup)
 include(devpkg-libclc)
-include(devpkg-libconfig)
 include(devpkg-libcroco)
 include(devpkg-libdatrie)
 include(devpkg-libdatrie)
-include(devpkg-libdazzle)
 libdbusmenu-dev
 include(devpkg-libdbusmenu-qt)
 libdecor-dev
-libdex-dev
 libdisplay-info-dev
 include(devpkg-libdmx)
 include(devpkg-libdrm)
@@ -532,11 +516,9 @@ include(devpkg-libglvnd)
 include(devpkg-libgpg-error)
 include(devpkg-libgpg-error)
 libgpg-error-extras
-include(devpkg-libgtop)
 include(devpkg-libgudev)
 include(devpkg-libgusb)
 include(devpkg-libgweather)
-include(devpkg-libhandy)
 include(devpkg-libical)
 include(devpkg-libidn)
 include(devpkg-libidn)
@@ -570,7 +552,6 @@ include(devpkg-libnftnl)
 include(devpkg-libnftnl)
 include(devpkg-libnice)
 include(devpkg-libnl)
-include(devpkg-libnma)
 include(devpkg-libnotify)
 include(devpkg-libnsl)
 libnvme-dev
@@ -578,7 +559,6 @@ include(devpkg-liboauth)
 include(devpkg-libogg)
 include(devpkg-libogg)
 libopenmpt-dev
-libpanel-dev
 include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 include(devpkg-libpciaccess)
@@ -616,7 +596,6 @@ include(devpkg-libsrtp)
 include(devpkg-libssh)
 include(devpkg-libssh2)
 libstdc++
-include(devpkg-libstoragemgmt)
 include(devpkg-libtasn1)
 include(devpkg-libtasn1)
 include(devpkg-libtheora)
@@ -1040,7 +1019,6 @@ pypi-pluggy
 pypi-ply
 pypi-ply-python3
 pypi-poetry_core-python3
-pypi-polib
 pypi-psutil
 pypi-psycopg2-python3
 pypi-py
@@ -1065,7 +1043,6 @@ pypi-python_dbusmock
 pypi-python_multilib-python3
 pypi-pythran
 pypi-pythran-python3
-pypi-pywbem-python3
 pypi-requests-python3
 pypi-requests_gssapi-python3
 pypi-requests_mock-python3
@@ -1094,7 +1071,6 @@ pypi-virtualenv-python3
 pypi-wheel-python3
 pypi-xmlschema-python3
 pypi-zopfli-python3
-python-pocketlint
 python3
 python3-core
 python3-dev
@@ -1149,7 +1125,6 @@ sbsigntools
 scipy-python3
 sed
 include(devpkg-serf)
-setxkbmap
 sg3_utils-dev
 shadow
 include(devpkg-shapelib)
@@ -1198,7 +1173,6 @@ include(devpkg-tcl)
 tcl-staticdev
 include(devpkg-tdb)
 tdb-python3
-tecla-dev
 include(devpkg-telepathy-glib)
 include(devpkg-tevent)
 tevent-python3
@@ -1216,8 +1190,6 @@ include(devpkg-tokyocabinet)
 include(devpkg-tpm2-tss)
 tracker-dev
 include(tzdata)
-include(devpkg-udisks2)
-include(devpkg-uhttpmock)
 umockdev-dev
 unifdef
 include(unzip)
@@ -1242,7 +1214,6 @@ include(devpkg-valgrind)
 vid.stab-dev
 vim
 include(devpkg-virglrenderer)
-volume_key-dev
 include(devpkg-vte)
 include(devpkg-wavpack)
 wayland
@@ -1251,7 +1222,6 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 include(devpkg-webkitgtk)
-webkitgtk60-dev
 weston
 include(devpkg-weston)
 include(wget)
@@ -1266,7 +1236,6 @@ include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xdg-dbus-proxy
 xdg-utils
-include(devpkg-xf86-input-wacom)
 xfsprogs-dev
 xkbcomp-bin
 include(devpkg-xkbcomp)
