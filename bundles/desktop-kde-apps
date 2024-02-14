@@ -61,7 +61,7 @@ kdegraphics-thumbnailers
 kdenetwork-filesharing
 kdepim-runtime
 kdeplasma-addons
-kdesdk-kio
+#kdesdk-kio
 kdesdk-thumbnailers
 also-add(kdf)
 also-add(kdiagram)
