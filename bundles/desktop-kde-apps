@@ -140,7 +140,7 @@ also-add(spectacle)
 svgpart
 also-add(syndication)
 also-add(yakuake)
-zeroconf-ioslave
+kio-zeroconf
 include(kde-frameworks5)
 include(LibRaw-lib)
 include(kmime)
