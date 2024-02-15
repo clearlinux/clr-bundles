@@ -11,3 +11,4 @@ include(devpkg-libqb)
 corosync-dev
 include(lz4)
 include(libnl)
+include(lib-openssl)
