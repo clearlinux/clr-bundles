@@ -122,13 +122,11 @@ perl-Compress-Bzip2
 perl-Compress-Raw-Lzma
 perl-Config-Any
 perl-Config-AutoConf
-perl-Config-General
 perl-Config-Grammar
 perl-Config-INI
 perl-Config-INI-Reader-Ordered
 perl-Config-IniFiles
 perl-Config-Std
-perl-Config-Tiny
 perl-Const-Fast
 perl-Context-Preserve
 perl-Contextual-Return
@@ -144,14 +142,12 @@ perl-Crypt-Eksblowfish
 perl-Crypt-GeneratePassword
 perl-Crypt-Random-Seed
 perl-Crypt-Rijndael
-perl-Crypt-SSLeay
 perl-Crypt-URandom
 perl-Curses
 perl-DBD-MariaDB
 perl-DBD-Pg
 perl-DBD-SQLite
 perl-DBD-SQLite2
-perl-DBI
 perl-DBICx-TestDatabase
 perl-DBIx-Class
 perl-DBIx-Class-DeploymentHandler
@@ -197,7 +193,6 @@ perl-DateTime-Format-Strptime
 perl-DateTime-Format-W3CDTF
 perl-DateTime-HiRes
 perl-DateTime-Locale
-perl-DateTime-TimeZone
 perl-Debug-ShowStuff
 perl-Devel-ArgNames
 perl-Devel-CallChecker
@@ -242,8 +237,6 @@ perl-Email-MessageID
 perl-Email-Simple
 perl-Encode-HanExtra
 perl-Encode-JIS2K
-perl-Encode-Locale
-perl-Error
 perl-Eval-Closure
 perl-Event
 perl-Event-Lib
@@ -274,7 +267,6 @@ perl-File-Grep
 perl-File-HomeDir
 perl-File-KeePass
 perl-File-LibMagic
-perl-File-Listing
 perl-File-MMagic
 perl-File-Modified
 perl-File-NCopy
@@ -322,23 +314,17 @@ perl-HTML-Encoding
 perl-HTML-Form
 perl-HTML-HTML5-Entities
 perl-HTML-Lint
-perl-HTML-Parser
 perl-HTML-Strip
 perl-HTML-StripScripts
 perl-HTML-TableExtract
-perl-HTML-Tagset
 perl-HTML-Tiny
 perl-HTML-TreeBuilder
 perl-HTTP-Body
 perl-HTTP-CookieJar
-perl-HTTP-Cookies
 perl-HTTP-Daemon
-perl-HTTP-Date
 perl-HTTP-Entity-Parser
 perl-HTTP-Headers-Fast
-perl-HTTP-Message
 perl-HTTP-MultiPartParser
-perl-HTTP-Negotiate
 perl-HTTP-Parser-XS
 perl-HTTP-Request-AsCGI
 perl-HTTP-Server-Simple
@@ -356,7 +342,6 @@ perl-IO-Async
 perl-IO-Capture
 perl-IO-CaptureOutput
 perl-IO-FDPass
-perl-IO-HTML
 perl-IO-Interactive
 perl-IO-Interactive-Tiny
 perl-IO-Interface
@@ -394,8 +379,6 @@ perl-JSON-MaybeXS
 perl-JSON-RPC
 perl-JSON-XS
 perl-JavaScript-Minifier-XS
-perl-LWP-MediaTypes
-perl-LWP-Protocol-https
 perl-LWP-Protocol-socks
 perl-LWP-UserAgent-Determined
 perl-Lchown
@@ -552,7 +535,6 @@ perl-Parallel-ForkManager
 perl-Parallel-Iterator
 perl-Params-Classify
 perl-Params-Util
-perl-Params-Validate
 perl-Params-ValidationCompiler
 perl-Parse-EDID
 perl-Parse-ExuberantCTags
@@ -681,6 +663,7 @@ perl-Test-Deep
 perl-Test-DiagINC
 perl-Test-Differences
 perl-Test-Exception
+perl-Test-ExpectAndCheck
 perl-Test-FailWarnings
 perl-Test-Fatal
 perl-Test-File
@@ -688,6 +671,7 @@ perl-Test-File-ShareDir-Dist
 perl-Test-Fork
 perl-Test-Future-IO-Impl
 perl-Test-Identity
+perl-Test-InDistDir
 perl-Test-Inter
 perl-Test-LWP-UserAgent
 perl-Test-LeakTrace
@@ -714,7 +698,6 @@ perl-Test-Reporter
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-SharedFork
-perl-Test-Simple
 perl-Test-Strict
 perl-Test-SubCalls
 perl-Test-Synopsis
@@ -755,6 +738,8 @@ perl-Text-Trim
 perl-Text-Unidecode
 perl-Text-WrapI18N
 perl-Text-Wrapper
+perl-Throwable
+perl-Throwable-SugarFactory
 perl-Tie-Cycle
 perl-Tie-IxHash
 perl-Tie-Simple
@@ -765,14 +750,12 @@ perl-Time-Period
 perl-TimeDate
 perl-Tk
 perl-Tk-DoubleClick
-perl-Try-Tiny
 perl-Type-Tiny
 perl-Type-Tiny-XS
 perl-Types-Path-Tiny
 perl-Types-Serialiser
 perl-UNIVERSAL-can
 perl-UNIVERSAL-require
-perl-URI
 perl-URI-Encode
 perl-URI-Escape-XS
 perl-URI-Fetch
@@ -795,8 +778,6 @@ perl-XML-Filter-BufferText
 perl-XML-Handler-Trees
 perl-XML-LibXML
 perl-XML-LibXML-Simple
-perl-XML-NamespaceSupport
-perl-XML-Parser
 perl-XML-Parser-Lite
 perl-XML-RSS
 perl-XML-RSS-LibXML
@@ -831,7 +812,6 @@ perl-curry
 perl-inc-latest
 perl-indirect
 perl-latest
-perl-libwww-perl
 perl-libxml-perl
 perl-local-lib
 perl-match-simple
