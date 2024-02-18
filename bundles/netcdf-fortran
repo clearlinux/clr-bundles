@@ -1,0 +1,14 @@
+# [TITLE]: netcdf-fortran
+# [DESCRIPTION]: NetCDF Client Library for Fortran
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+netcdf-fortran-dev
+# end of custom additions
+
+# main package
+netcdf-fortran
