@@ -353,7 +353,6 @@ include(devpkg-lua)
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
-m4
 include(make)
 include(devpkg-mariadb)
 include(devpkg-mediasdk)
