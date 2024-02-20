@@ -1,0 +1,14 @@
+# [TITLE]: git-lfs
+# [DESCRIPTION]: Packages for git-lfs for Enterprise Linux repository configuration
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+git-lfs
