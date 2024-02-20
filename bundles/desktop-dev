@@ -838,13 +838,11 @@ pypi-bracex-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
 pypi-build-python3
-pypi-cachetools-python3
 pypi-calver-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
-pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cibuildwheel-python3
 pypi-colorama-python3
@@ -855,8 +853,6 @@ pypi-cu2qu-python3
 include(pypi-cython)
 pypi-cython-python3
 pypi-dask-python3
-pypi-devpi_process-python3
-pypi-distlib-python3
 pypi-dnspython
 pypi-docutils
 pypi-docutils-python3
@@ -939,9 +935,7 @@ pypi-pyelftools
 pypi-pyflakes-python3
 pypi-pygments
 pypi-pyparsing-python3
-pypi-pyproject_api-python3
 pypi-pyproject_hooks-python3
-pypi-pyproject_metadata-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3

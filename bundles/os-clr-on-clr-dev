@@ -19,6 +19,7 @@ include(sysadmin-basic-dev)
 include(devpkg-Botan)
 include(devpkg-CUnit)
 include(devpkg-CUnit)
+ImageMagick
 include(devpkg-Imath)
 include(devpkg-Judy)
 LVM2
@@ -957,12 +958,10 @@ pypi-blinker-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
-pypi-cachetools-python3
 pypi-calver-python3
 pypi-cattrs-python3
 pypi-cffi-python3
 pypi-cffsubr-python3
-pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cheetah3-python3
 pypi-colorama-python3
@@ -973,11 +972,8 @@ pypi-cryptography-python3
 pypi-cu2qu-python3
 include(pypi-cython)
 pypi-cython-python3
-pypi-devpi_process-python3
-pypi-distlib-python3
 pypi-dnspython
 pypi-docutils
-pypi-filelock-python3
 pypi-flake8-python3
 pypi-flask-python3
 pypi-flit_core-python3
@@ -1004,6 +1000,7 @@ pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
 pypi-meson_python
+pypi-meson_python-python3
 pypi-mock-python3
 pypi-mpmath-python3
 pypi-msgpack-python3
@@ -1031,9 +1028,7 @@ pypi-pygments
 pypi-pygments-python3
 pypi-pylint-python3
 pypi-pyparsing-python3
-pypi-pyproject_api-python3
 pypi-pyproject_hooks-python3
-pypi-pyproject_metadata-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
@@ -1066,7 +1061,6 @@ pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-vine-python3
 pypi-virtualenv
-pypi-virtualenv-python3
 pypi-wheel-python3
 pypi-xmlschema-python3
 pypi-zopfli-python3

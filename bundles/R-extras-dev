@@ -9,6 +9,7 @@ include(dev-utils)
 include(os-core-dev)
 include(devpkg-CUnit)
 include(devpkg-CUnit)
+ImageMagick
 include(devpkg-ImageMagick)
 include(devpkg-Imath)
 include(devpkg-JAGS)

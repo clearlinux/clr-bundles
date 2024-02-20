@@ -661,7 +661,6 @@ pkgconfig(libgdata)	devpkg-libgdata
 pkgconfig(libgeoclue-2.0)	devpkg-geoclue
 pkgconfig(libgfchangelog)	devpkg-glusterfs
 pkgconfig(libgit2)	devpkg-libgit2
-pkgconfig(libglog)	devpkg-glog
 pkgconfig(libglvnd)	devpkg-libglvnd
 pkgconfig(libgnome-menu-3.0)	devpkg-gnome-menus
 pkgconfig(libgnome-panel)	devpkg-gnome-panel
