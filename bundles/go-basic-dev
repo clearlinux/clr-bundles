@@ -26,6 +26,7 @@ acl-staticdev
 include(devpkg-alsa-lib)
 armadillo-data
 asciidoc
+asciidoctor
 include(devpkg-attr)
 include(devpkg-attr)
 attr-staticdev

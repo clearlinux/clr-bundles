@@ -16,6 +16,7 @@ include(devpkg-acl)
 include(devpkg-acl)
 acl-staticdev
 asciidoc
+asciidoctor
 include(devpkg-attr)
 include(devpkg-attr)
 attr-staticdev

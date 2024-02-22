@@ -15,7 +15,7 @@ hub
 include(p11-kit)
 man-db
 include(libstdcpp)
-git-lfs
+include(git-lfs)
 # end of custom additions
 
 # main package

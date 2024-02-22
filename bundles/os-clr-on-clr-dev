@@ -67,6 +67,7 @@ include(devpkg-apr-util)
 include(devpkg-argon2)
 armadillo-data
 asciidoc
+asciidoctor
 include(aspell)
 aspell-dev
 include(devpkg-assimp)

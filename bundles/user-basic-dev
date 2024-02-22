@@ -54,6 +54,7 @@ include(devpkg-appstream)
 appstream-glib
 armadillo-data
 asciidoc
+asciidoctor
 include(aspell)
 aspell-dev
 include(devpkg-assimp)
