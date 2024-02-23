@@ -12,6 +12,5 @@ include(devpkg-wayland)
 
 FreeRDP-dev
 include(libX11client)
-include(lib-imageformat)
 include(libstdcpp)
 include(FreeRDP)
