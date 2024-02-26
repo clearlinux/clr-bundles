@@ -391,6 +391,7 @@ include(make)
 man-db
 include(devpkg-mediasdk)
 mercurial
+mesa-bin
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson

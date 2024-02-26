@@ -666,6 +666,7 @@ media-player-info
 include(devpkg-mediasdk)
 memkind-dev
 mercurial
+mesa-bin
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson

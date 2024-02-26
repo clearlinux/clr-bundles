@@ -581,6 +581,7 @@ mccabe-python3
 include(devpkg-md4c)
 include(devpkg-mediasdk)
 mercurial
+mesa-bin
 include(devpkg-mesa)
 include(devpkg-mesa)
 meson

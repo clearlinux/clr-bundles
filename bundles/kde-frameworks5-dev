@@ -511,6 +511,7 @@ include(devpkg-md4c)
 media-player-info
 include(devpkg-mediasdk)
 mercurial
+mesa-bin
 include(devpkg-mesa)
 include(devpkg-mesa)
 mingw-gcc
