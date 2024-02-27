@@ -4,13 +4,17 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(dbus-lib)
+include(kbd)
+include(ncurses-lib)
+include(systemd)
 include(xz)
 clr-power-tweaks
 clr-systemd-config
 cnf
-glibc-lib-avx2
 dbus-autostart
 dbus-bin
+glibc-lib-avx2
 iproute2-bin
 kmod-bin
 nano-bin
@@ -18,11 +22,5 @@ nano-data
 netbase
 nss-altfiles
 procps-ng-bin
-systemd-bootchart
-systemd
-systemd-lib
 shadow
-systemd-man
-include(systemd)
-include(ncurses-lib)
-include(dbus-lib)
+systemd-bootchart
