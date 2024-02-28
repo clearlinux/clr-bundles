@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 libavif-dev
+include(lib-imageformat)
