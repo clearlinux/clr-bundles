@@ -938,7 +938,6 @@ include(unzip)
 include(devpkg-upower)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
-usrbinpython
 utfcpp-dev
 util-linux
 util-linux-bin
