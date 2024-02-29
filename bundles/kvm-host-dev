@@ -22,6 +22,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
+SPIRV-Headers-dev
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
