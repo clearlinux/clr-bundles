@@ -384,6 +384,7 @@ kauth
 kauth-dev
 kbookmarks-dev
 kcodecs-dev
+kcolorscheme-dev
 kcompletion-dev
 kconfig
 kconfig-dev
@@ -928,7 +929,6 @@ include(plzip)
 include(devpkg-pmdk)
 pmix-dev
 include(devpkg-polkit)
-include(devpkg-polkit-qt)
 include(poppler)
 include(devpkg-poppler)
 poppler-extras
@@ -1030,7 +1030,6 @@ pypi-pygments
 pypi-pygments-python3
 pypi-pylint-python3
 pypi-pyparsing-python3
-pypi-pyproject_hooks-python3
 pypi-pyspnego-python3
 pypi-pytest
 pypi-pytest-python3
@@ -1072,11 +1071,15 @@ python3-dev
 python3-staticdev
 pyudev
 include(devpkg-qatlib)
-qca-qt5-dev
+qca-dev
 qemu
 qemu-setuid
 include(devpkg-qrencode)
+qt5compat-dev
 include(devpkg-qt6base)
+qt6declarative-dev
+include(devpkg-qt6tools)
+qt6wayland-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev

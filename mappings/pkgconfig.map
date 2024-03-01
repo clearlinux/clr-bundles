@@ -562,7 +562,6 @@ pkgconfig(ldb)	devpkg-ldb
 pkgconfig(lensfun)	devpkg-lensfun
 pkgconfig(lept)	devpkg-leptonica
 pkgconfig(libKActivities)	devpkg-kactivities
-pkgconfig(libKF5Attica)	devpkg-attica
 pkgconfig(libR)	devpkg-R
 pkgconfig(libabigail)	devpkg-libabigail
 pkgconfig(libacl)	devpkg-acl

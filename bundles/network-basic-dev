@@ -421,7 +421,6 @@ pypi-ply-python3
 pypi-py-python3
 pypi-pycparser-python3
 pypi-pyelftools
-pypi-pyproject_hooks-python3
 pypi-pytest
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
