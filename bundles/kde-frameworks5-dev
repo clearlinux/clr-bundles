@@ -292,7 +292,6 @@ kauth
 kauth-dev
 kbookmarks-dev
 kcodecs-dev
-kcolorscheme-dev
 kcompletion-dev
 kconfig
 kconfig-dev
