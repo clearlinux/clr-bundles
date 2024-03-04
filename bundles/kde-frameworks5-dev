@@ -715,6 +715,7 @@ pkg-config
 include(devpkg-pkg-config)
 plasma-wayland-protocols-dev
 include(devpkg-polkit)
+include(devpkg-polkit-qt)
 include(devpkg-poppler)
 poppler-extras
 include(devpkg-popt)
@@ -778,14 +779,10 @@ python3
 python3-core
 python3-dev
 pyudev
-qca-dev
+qca-qt5-dev
 qemu
 include(devpkg-qrencode)
-qt5compat-dev
 include(devpkg-qt6base)
-qt6declarative-dev
-include(devpkg-qt6tools)
-qt6wayland-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -800,8 +797,10 @@ include(devpkg-qtsensors)
 include(devpkg-qtserialport)
 include(devpkg-qtsvg)
 include(devpkg-qttools)
+include(devpkg-qtwayland)
 include(devpkg-qtwebchannel)
 include(devpkg-qtwebsockets)
+include(devpkg-qtx11extras)
 include(devpkg-qtxmlpatterns)
 include(devpkg-re2)
 include(devpkg-readline)

@@ -19,6 +19,7 @@ include(sysadmin-basic-dev)
 include(devpkg-Botan)
 include(devpkg-CUnit)
 include(devpkg-CUnit)
+include(devpkg-GConf)
 ImageMagick
 include(devpkg-Imath)
 include(devpkg-Judy)
@@ -395,10 +396,8 @@ kdeclarative-dev
 kded-dev
 kdegraphics-mobipocket-dev
 kdelibs4support-dev
-kdesignerplugin-dev
 kdesu-dev
 kdoctools-dev
-kemoticons-dev
 include(devpkg-keyutils)
 kfilemetadata-dev
 kglobalaccel
@@ -418,11 +417,9 @@ include(devpkg-kmod)
 knotifications-dev
 kpackage-dev
 kparts-dev
-kplotting-dev
 include(devpkg-krb5)
 kservice-dev
 ktextwidgets-dev
-kunitconversion-dev
 kwallet-dev
 include(devpkg-kwayland)
 kwidgetsaddons-dev
@@ -533,7 +530,6 @@ include(devpkg-libjpeg-turbo)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libkcapi)
 libkexiv2-dev
-libkipi-dev
 include(devpkg-libksba)
 include(devpkg-libmaxminddb)
 include(devpkg-libmbim)
@@ -928,6 +924,7 @@ include(plzip)
 include(devpkg-pmdk)
 pmix-dev
 include(devpkg-polkit)
+include(devpkg-polkit-qt)
 include(poppler)
 include(devpkg-poppler)
 poppler-extras
@@ -1070,15 +1067,16 @@ python3-dev
 python3-staticdev
 pyudev
 include(devpkg-qatlib)
-qca-dev
+qca-qt5-dev
 qemu
 qemu-setuid
 include(devpkg-qrencode)
-qt5compat-dev
 include(devpkg-qt6base)
 qt6declarative-dev
-include(devpkg-qt6tools)
-qt6wayland-dev
+qt6multimedia-dev
+qt6quick3d-dev
+qt6quicktimeline-dev
+qt6shadertools-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -1152,7 +1150,6 @@ include(subversion)
 swig
 sympy-python3
 syndication-dev
-syntax-highlighting-dev
 sysprof-dev
 sysprof-staticdev
 systemd
