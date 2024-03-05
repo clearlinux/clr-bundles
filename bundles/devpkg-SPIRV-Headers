@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-libavif
-# [DESCRIPTION]: All content for pkgconfig file libavif.pc.
+# [TITLE]: devpkg-SPIRV-Headers
+# [DESCRIPTION]: All content for pkgconfig file SPIRV-Headers.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,5 +7,4 @@
 
 include(devpkg-base)
 
-libavif-dev
-include(lib-imageformat)
+SPIRV-Headers-dev

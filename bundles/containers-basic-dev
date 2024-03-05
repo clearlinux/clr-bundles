@@ -8,7 +8,6 @@ include(containers-basic)
 include(dev-utils)
 include(os-core-dev)
 include(devpkg-CUnit)
-include(devpkg-CUnit)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
@@ -32,6 +31,7 @@ include(binutils)
 include(bison)
 bison-dev
 include(devpkg-boost)
+include(devpkg-brotli)
 include(devpkg-btrfs-progs)
 buildreq-cmake
 buildreq-configure

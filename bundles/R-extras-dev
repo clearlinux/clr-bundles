@@ -8,7 +8,6 @@ include(R-extras)
 include(dev-utils)
 include(os-core-dev)
 include(devpkg-CUnit)
-include(devpkg-CUnit)
 ImageMagick
 include(devpkg-ImageMagick)
 include(devpkg-Imath)
@@ -636,7 +635,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
-SPIRV-Headers-dev
+include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(Sphinx)

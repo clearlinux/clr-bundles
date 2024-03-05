@@ -9,7 +9,6 @@ include(kvm-host)
 include(os-core-dev)
 include(perl-basic-dev)
 include(devpkg-CUnit)
-include(devpkg-CUnit)
 include(devpkg-Imath)
 LVM2
 include(devpkg-LVM2)
@@ -22,7 +21,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
-SPIRV-Headers-dev
+include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
@@ -164,7 +163,6 @@ include(flex)
 flex-dev
 fltk-dev
 include(devpkg-fmt)
-include(devpkg-font-util)
 include(devpkg-font-util)
 fontconfig-data
 include(devpkg-fontconfig)

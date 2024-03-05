@@ -8,7 +8,6 @@ include(dev-utils)
 include(os-core-dev)
 include(storage-utils)
 include(devpkg-CUnit)
-include(devpkg-CUnit)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
@@ -36,6 +35,7 @@ include(binutils)
 include(bison)
 bison-dev
 include(devpkg-boost)
+include(devpkg-brotli)
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -506,3 +506,4 @@ include(desktop-kde-libs)
 include(aspell)
 include(gnome-base-libs)
 include(libpcap-lib)
+include(protobuf-lib)

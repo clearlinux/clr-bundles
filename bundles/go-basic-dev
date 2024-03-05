@@ -8,7 +8,6 @@ include(dev-utils)
 include(go-basic)
 include(os-core-dev)
 include(devpkg-CUnit)
-include(devpkg-CUnit)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
@@ -44,6 +43,7 @@ binutils-dev
 include(bison)
 bison-dev
 include(devpkg-boost)
+include(devpkg-brotli)
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
