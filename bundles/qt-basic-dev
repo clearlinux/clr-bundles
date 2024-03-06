@@ -19,6 +19,8 @@ include(devpkg-SDL2_image)
 include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
+include(devpkg-SVT-AV1)
+SVT-HEVC-dev
 include(Sphinx)
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
@@ -346,11 +348,14 @@ include(devpkg-libwebp)
 libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
+include(devpkg-libxkbfile)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
+include(devpkg-libxslt)
 linux-libc-headers
+include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -389,6 +394,7 @@ include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
 ninja
+nodejs-dev
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-numactl)
@@ -475,6 +481,8 @@ pyudev
 qemu
 include(devpkg-qrencode)
 include(devpkg-qt3d)
+include(devpkg-qt6base)
+qt6shadertools-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -563,9 +571,11 @@ include(which)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xdg-utils
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
+xmlstarlet
 xmlto
 xorg-fonts
 include(devpkg-xorg-server)

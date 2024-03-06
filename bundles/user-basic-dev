@@ -34,6 +34,7 @@ include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
+SVT-HEVC-dev
 include(Sphinx)
 UCD
 include(devpkg-Vulkan-Headers)
@@ -526,6 +527,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
+include(devpkg-lksctp-tools)
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
@@ -583,6 +585,7 @@ include(devpkg-nghttp2)
 nghttp3-dev
 ninja
 nmap-extras
+nodejs-dev
 include(devpkg-not-ffmpeg)
 include(devpkg-nspr)
 include(devpkg-nspr)
@@ -847,6 +850,8 @@ include(devpkg-qatlib)
 qemu
 qemu-setuid
 include(devpkg-qrencode)
+include(devpkg-qt6base)
+qt6shadertools-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -969,6 +974,7 @@ include(devpkg-xapian-core)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xdg-dbus-proxy
 xdg-utils
 xfsprogs-dev
@@ -976,6 +982,7 @@ include(devpkg-xkbcomp)
 xkeyboard-config
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlb)
+xmlstarlet
 xmlto
 xorg-fonts
 xorg-server

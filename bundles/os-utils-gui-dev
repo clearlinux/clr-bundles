@@ -25,6 +25,7 @@ include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
+SVT-HEVC-dev
 include(Sphinx)
 include(devpkg-Thunar)
 UCD
@@ -800,6 +801,8 @@ pyudev
 include(devpkg-qatlib)
 qemu
 include(devpkg-qrencode)
+include(devpkg-qt6base)
+qt6shadertools-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
