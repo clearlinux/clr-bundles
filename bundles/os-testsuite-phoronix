@@ -138,6 +138,7 @@ Vulkan-Headers
 Vulkan-Loader
 Vulkan-Tools
 include(devpkg-cfitsio)
+libevent-dev
 
 # work around infra
 also-add(hwloc)

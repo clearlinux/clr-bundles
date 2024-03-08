@@ -125,5 +125,6 @@ also-add(devpkg-zlib)
 Vulkan-Headers
 Vulkan-Loader
 Vulkan-Tools
+libevent-dev
 include(openblas)
 include(pypi-numpy)
