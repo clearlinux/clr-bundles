@@ -487,4 +487,5 @@ kalgebra # No detailed summary available
 netcdf-fortran # NetCDF Client Library for Fortran
 git-lfs # Packages for git-lfs for Enterprise Linux repository configuration
 input-remapper # No detailed summary available
-howdy # Windows Hello™ style authentication for Linux 
+howdy # Windows Hello™ style authentication for Linux
+UxPlay # AirPlay-Mirror and AirPlay-Audio server 
