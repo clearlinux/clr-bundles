@@ -103,6 +103,6 @@ also-add(devpkg-zlib)
 also-add(devpkg-util-linux)
 also-add(python-extras)
 also-add(python-data-science)
-libevent-dev
+include(devpkg-libevent)
 include(openblas)
 include(pypi-numpy)
