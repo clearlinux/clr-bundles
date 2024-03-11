@@ -25,7 +25,6 @@ include(os-core-legacy)
 include(lib-samba)
 include(wine)
 wine-lib32
-wine-staticdev
 # end of custom additions
 # main package
 wine-dev
