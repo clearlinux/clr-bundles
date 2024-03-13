@@ -1,4 +1,3 @@
-pkgconfig(Baloo)	devpkg-baloo
 pkgconfig(DirectX-Headers)	devpkg-directx-headers
 pkgconfig(INIReader)	devpkg-inih
 pkgconfig(ImageMagick)	devpkg-ImageMagick
@@ -113,6 +112,7 @@ pkgconfig(SPIRV-Headers)	devpkg-SPIRV-Headers
 pkgconfig(SPIRV-Tools)	devpkg-SPIRV-Tools
 pkgconfig(SvtAv1Dec)	devpkg-SVT-AV1
 pkgconfig(SvtAv1Enc)	devpkg-SVT-AV1
+pkgconfig(SvtHevcEnc)	devpkg-SVT-HEVC
 pkgconfig(absl_algorithm)	devpkg-abseil-cpp
 pkgconfig(absl_algorithm_container)	devpkg-abseil-cpp
 pkgconfig(absl_any_invocable)	devpkg-abseil-cpp
@@ -563,7 +563,6 @@ pkgconfig(ldb)	devpkg-ldb
 pkgconfig(lensfun)	devpkg-lensfun
 pkgconfig(lept)	devpkg-leptonica
 pkgconfig(libKActivities)	devpkg-kactivities
-pkgconfig(libKF5Attica)	devpkg-attica
 pkgconfig(libR)	devpkg-R
 pkgconfig(libabigail)	devpkg-libabigail
 pkgconfig(libacl)	devpkg-acl
@@ -620,6 +619,7 @@ pkgconfig(libcurl)	devpkg-curl
 pkgconfig(libdaemon)	devpkg-libdaemon
 pkgconfig(libdaxctl)	devpkg-ndctl
 pkgconfig(libdazzle-1.0)	devpkg-libdazzle
+pkgconfig(libdisplay-info)	devpkg-libdisplay-info
 pkgconfig(libdmmp)	devpkg-multipath-tools
 pkgconfig(libdpdk)	devpkg-dpdk
 pkgconfig(libdpdk-libs)	devpkg-dpdk
@@ -700,6 +700,7 @@ pkgconfig(libkeyutils)	devpkg-keyutils
 pkgconfig(libkmod)	devpkg-kmod
 pkgconfig(libknet)	devpkg-kronosnet
 pkgconfig(liblab_gamut)	devpkg-graphviz
+pkgconfig(libliftoff)	devpkg-libliftoff
 pkgconfig(liblur)	devpkg-libratbag
 pkgconfig(liblz4)	devpkg-lz4
 pkgconfig(liblzma)	devpkg-xz

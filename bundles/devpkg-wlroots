@@ -7,9 +7,11 @@
 
 include(devpkg-base)
 include(devpkg-libX11)
+include(devpkg-libdisplay-info)
 include(devpkg-libdrm)
 include(devpkg-libglvnd)
 include(devpkg-libinput)
+include(devpkg-libliftoff)
 include(devpkg-libxkbcommon)
 include(devpkg-mesa)
 include(devpkg-pixman)

@@ -1,11 +1,11 @@
-# [TITLE]: devpkg-libavif
-# [DESCRIPTION]: All content for pkgconfig file libavif.pc.
+# [TITLE]: devpkg-libliftoff
+# [DESCRIPTION]: All content for pkgconfig file libliftoff.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-libdrm)
 
-libavif-dev
-include(lib-imageformat)
+libliftoff-dev

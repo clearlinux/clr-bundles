@@ -21,7 +21,7 @@ include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
-SVT-HEVC-dev
+include(devpkg-SVT-HEVC)
 include(Sphinx)
 include(devpkg-Vulkan-Headers)
 include(devpkg-Vulkan-Loader)
@@ -657,6 +657,8 @@ include(devpkg-sbc)
 include(devpkg-sbc)
 include(devpkg-scdoc)
 sed
+shaderc
+shaderc-dev
 shadow
 shared-mime-info
 include(devpkg-slang)

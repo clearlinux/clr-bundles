@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-libavif
-# [DESCRIPTION]: All content for pkgconfig file libavif.pc.
+# [TITLE]: devpkg-libdisplay-info
+# [DESCRIPTION]: All content for pkgconfig file libdisplay-info.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,5 +7,4 @@
 
 include(devpkg-base)
 
-libavif-dev
-include(lib-imageformat)
+libdisplay-info-dev

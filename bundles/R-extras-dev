@@ -639,7 +639,7 @@ include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
-SVT-HEVC-dev
+include(devpkg-SVT-HEVC)
 include(Sphinx)
 SuiteSparse-dev
 include(devpkg-Vulkan-Headers)
@@ -1285,6 +1285,8 @@ include(sassc)
 include(devpkg-sbc)
 include(devpkg-sbc)
 sed
+shaderc
+shaderc-dev
 shadow
 include(devpkg-shapelib)
 shared-mime-info

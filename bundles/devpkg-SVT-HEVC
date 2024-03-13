@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-libavif
-# [DESCRIPTION]: All content for pkgconfig file libavif.pc.
+# [TITLE]: devpkg-SVT-HEVC
+# [DESCRIPTION]: All content for pkgconfig file SVT-HEVC.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,5 +7,5 @@
 
 include(devpkg-base)
 
-libavif-dev
-include(lib-imageformat)
+SVT-HEVC-dev
+include(SVT-HEVC)

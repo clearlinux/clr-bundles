@@ -25,7 +25,7 @@ include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
-SVT-HEVC-dev
+include(devpkg-SVT-HEVC)
 include(Sphinx)
 UCD
 include(devpkg-Vulkan-Headers)
@@ -291,6 +291,7 @@ kauth
 kauth-dev
 kbookmarks-dev
 kcodecs-dev
+kcolorscheme-dev
 kcompletion-dev
 kconfig
 kconfig-dev
@@ -299,7 +300,6 @@ kcoreaddons-dev
 kcrash-dev
 kdbusaddons-dev
 kded-dev
-kdegraphics-mobipocket-dev
 kdoctools-dev
 include(devpkg-keyutils)
 kfilemetadata-dev
@@ -309,7 +309,6 @@ kguiaddons-dev
 ki18n-dev
 kiconthemes-dev
 kio-dev
-kirigami2-dev
 kitemmodels-dev
 kitemviews-dev
 kjobwidgets-dev
@@ -320,7 +319,6 @@ include(devpkg-kmod)
 knewstuff-dev
 knotifications-dev
 knotifyconfig-dev
-kpackage-dev
 kparts-dev
 kplotting-dev
 kpty-dev
@@ -380,7 +378,7 @@ include(devpkg-libdatrie)
 libdbusmenu-dev
 include(devpkg-libdbusmenu-qt)
 libdecor-dev
-libdisplay-info-dev
+include(devpkg-libdisplay-info)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
 include(devpkg-libeconf)
@@ -706,7 +704,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-include(devpkg-phonon)
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
@@ -714,7 +711,6 @@ pkg-config
 include(devpkg-pkg-config)
 plasma-wayland-protocols-dev
 include(devpkg-polkit)
-include(devpkg-polkit-qt)
 include(devpkg-poppler)
 poppler-extras
 include(devpkg-popt)
@@ -778,11 +774,15 @@ python3
 python3-core
 python3-dev
 pyudev
-qca-qt5-dev
+qca-dev
 qemu
 include(devpkg-qrencode)
+qt5compat-dev
 include(devpkg-qt6base)
+qt6declarative-dev
 qt6shadertools-dev
+include(devpkg-qt6tools)
+qt6wayland-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -797,10 +797,8 @@ include(devpkg-qtsensors)
 include(devpkg-qtserialport)
 include(devpkg-qtsvg)
 include(devpkg-qttools)
-include(devpkg-qtwayland)
 include(devpkg-qtwebchannel)
 include(devpkg-qtwebsockets)
-include(devpkg-qtx11extras)
 include(devpkg-qtxmlpatterns)
 include(devpkg-re2)
 include(devpkg-readline)
@@ -814,6 +812,8 @@ include(sassc)
 include(devpkg-sbc)
 include(devpkg-sbc)
 sed
+shaderc
+shaderc-dev
 shadow
 shared-mime-info
 include(devpkg-snappy)
@@ -828,7 +828,6 @@ srt-dev
 include(devpkg-startup-notification)
 include(strace)
 swig
-syndication-dev
 sysprof-dev
 sysprof-staticdev
 systemd-bin

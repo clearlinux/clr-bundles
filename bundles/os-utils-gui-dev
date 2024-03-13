@@ -25,7 +25,7 @@ include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
-SVT-HEVC-dev
+include(devpkg-SVT-HEVC)
 include(Sphinx)
 include(devpkg-Thunar)
 UCD
@@ -380,7 +380,7 @@ include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
 libdecor-dev
-libdisplay-info-dev
+include(devpkg-libdisplay-info)
 include(devpkg-libdmx)
 include(devpkg-libdrm)
 include(devpkg-libdrm)
@@ -830,6 +830,8 @@ include(sassc)
 include(devpkg-sbc)
 include(devpkg-sbc)
 sed
+shaderc
+shaderc-dev
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
