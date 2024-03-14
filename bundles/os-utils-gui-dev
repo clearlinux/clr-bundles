@@ -803,6 +803,7 @@ qemu
 include(devpkg-qrencode)
 include(devpkg-qt6base)
 qt6shadertools-dev
+include(devpkg-qt6tools)
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev

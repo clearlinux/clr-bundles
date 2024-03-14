@@ -285,7 +285,6 @@ include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
 include(devpkg-jsoncpp)
-include(devpkg-kactivities)
 karchive-dev
 kauth
 kauth-dev

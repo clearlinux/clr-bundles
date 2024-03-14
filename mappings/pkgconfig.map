@@ -2,7 +2,6 @@ pkgconfig(DirectX-Headers)	devpkg-directx-headers
 pkgconfig(INIReader)	devpkg-inih
 pkgconfig(ImageMagick)	devpkg-ImageMagick
 pkgconfig(Imath)	devpkg-Imath
-pkgconfig(KF5WaylandClient)	devpkg-kwayland
 pkgconfig(LLVMSPIRVLib)	devpkg-llvm
 pkgconfig(Magick++)	devpkg-ImageMagick
 pkgconfig(MagickCore)	devpkg-ImageMagick
@@ -562,7 +561,6 @@ pkgconfig(lcms2)	devpkg-lcms2
 pkgconfig(ldb)	devpkg-ldb
 pkgconfig(lensfun)	devpkg-lensfun
 pkgconfig(lept)	devpkg-leptonica
-pkgconfig(libKActivities)	devpkg-kactivities
 pkgconfig(libR)	devpkg-R
 pkgconfig(libabigail)	devpkg-libabigail
 pkgconfig(libacl)	devpkg-acl
@@ -987,7 +985,6 @@ pkgconfig(pangoft2)	devpkg-pango
 pkgconfig(pangomm-1.4)	devpkg-compat-pangomm-soname14
 pkgconfig(path_utils)	devpkg-ding-libs
 pkgconfig(pciaccess)	devpkg-libpciaccess
-pkgconfig(phonon4qt5)	devpkg-phonon
 pkgconfig(pixman-1)	devpkg-pixman
 pkgconfig(polkit-agent-1)	devpkg-polkit
 pkgconfig(polkit-gobject-1)	devpkg-polkit

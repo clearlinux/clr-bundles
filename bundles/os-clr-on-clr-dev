@@ -377,7 +377,6 @@ include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
 include(devpkg-jsoncpp)
-include(devpkg-kactivities)
 karchive-dev
 kauth
 kauth-dev
@@ -392,10 +391,7 @@ kcontacts-dev
 kcoreaddons-dev
 kcrash-dev
 kdbusaddons-dev
-kdeclarative-dev
 kded-dev
-kdelibs4support-dev
-kdesu-dev
 kdoctools-dev
 include(devpkg-keyutils)
 kfilemetadata-dev
@@ -415,12 +411,10 @@ kmod-bin
 include(devpkg-kmod)
 include(devpkg-kmod)
 knotifications-dev
-kparts-dev
 include(devpkg-krb5)
 kservice-dev
 ktextwidgets-dev
 kwallet-dev
-include(devpkg-kwayland)
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
@@ -1089,10 +1083,8 @@ include(devpkg-qtsensors)
 include(devpkg-qtserialport)
 include(devpkg-qtsvg)
 include(devpkg-qttools)
-include(devpkg-qtwayland)
 include(devpkg-qtwebchannel)
 include(devpkg-qtwebsockets)
-include(devpkg-qtx11extras)
 include(devpkg-qtxmlpatterns)
 rdfind
 include(devpkg-rdma-core)
@@ -1213,8 +1205,6 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 include(devpkg-webkitgtk)
-weston
-include(devpkg-weston)
 include(wget)
 include(which)
 include(devpkg-woff2)
