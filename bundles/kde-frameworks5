@@ -9,7 +9,6 @@ include(lib-qt5webengine)
 include(lib-poppler)
 
 # Libraries
-kactivities
 karchive
 kbookmarks
 kcodecs

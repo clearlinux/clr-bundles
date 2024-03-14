@@ -806,8 +806,6 @@ json-glib
 json-glib-1
 jsonrpc-glib
 jsonrpc-glib-1
-kactivities
-kactivities-stats
 kadm-client
 kadm-server
 kbproto
