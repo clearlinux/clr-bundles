@@ -42,7 +42,6 @@ kapptemplate
 also-add(kleopatra)
 # also-add(kate)
 also-add(kbackup)
-also-add(kblog)
 also-add(kcachegrind)
 also-add(kcalc)
 kcalutils
