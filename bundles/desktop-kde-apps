@@ -94,7 +94,6 @@ also-add(konversation)
 kpimtextedit
 kpkpass
 kqtquickcharts
-krdc
 kscreen
 ksmtp
 also-add(ksystemlog)
@@ -115,7 +114,6 @@ libkleo
 libkomparediff2
 libkscreen
 libksieve
-lokalize
 mailcommon
 mailimporter
 messagelib

@@ -89,7 +89,6 @@ kfilemetadata
 kgamma
 kglobalaccel
 kguiaddons
-khotkeys
 ki18n
 kiconthemes
 kinfocenter
@@ -110,7 +109,6 @@ kscreen
 kscreenlocker
 kservice
 ksshaskpass
-also-add(ksysguard)
 ktextwidgets
 ktp-desktop-applets
 

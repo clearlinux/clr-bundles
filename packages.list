@@ -147,7 +147,6 @@ konqueror # KDE File Manager & Web Browser
 konsole # No detailed summary available
 konversation # No detailed summary available
 krita # Edit and paint images
-ksysguard # Track and control the processes running in your system
 latte-dock # A dock based on Plasma Frameworks
 less # the less page
 lftp # File transfer client for http, ftp, sftp and more
@@ -292,7 +291,6 @@ znc # IRC network bouncer
 zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
 zstd # realtime data compression/decompression tool
 rsync # A fast, versatile, remote (and local) file-copying tool
-okteta # KDE hex editor for viewing and editing the raw data of files
 qt-creator # Cross-platform IDE for Qt
 pandoc # The universal markup converter
 hardinfo # No detailed summary available
