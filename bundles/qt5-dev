@@ -1,36 +1,7 @@
 # [TITLE]: qt5-dev
 # [DESCRIPTION]: Development files for Qt 5
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-include(qt-basic)
-include(lib-qt5webengine)
-include(devpkg-mesa)
-
-include(devpkg-qt3d)
-include(devpkg-qtbase)
-include(devpkg-qtcharts)
-include(devpkg-qtconnectivity)
-include(devpkg-qtdatavis3d)
-include(devpkg-qtdeclarative)
-include(devpkg-qtgamepad)
-include(devpkg-qtlocation)
-qtmqtt-dev
-include(devpkg-qtmultimedia)
-include(devpkg-qtnetworkauth)
-include(devpkg-qtquickcontrols2)
-include(devpkg-qtremoteobjects)
-include(devpkg-qtscript)
-include(devpkg-qtscxml)
-include(devpkg-qtsensors)
-include(devpkg-qtserialbus)
-include(devpkg-qtserialport)
-include(devpkg-qtspeech)
-include(devpkg-qtsvg)
-include(devpkg-qttools)
-include(devpkg-qtvirtualkeyboard)
-include(devpkg-qtwebchannel)
-include(devpkg-qtwebengine)
-include(devpkg-qtwebsockets)
-include(devpkg-qtxmlpatterns)
+filesystem

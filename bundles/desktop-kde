@@ -84,17 +84,15 @@ kde-cli-tools
 kdecoration
 kde-gtk-config
 kdeplasma-addons
-also-add(kdiff3)
 kdoctools
 kfilemetadata
-kgamma5
+kgamma
 kglobalaccel
 kguiaddons
 khotkeys
 ki18n
 kiconthemes
 kinfocenter
-kinit
 kio
 kio-extras
 kio-admin
@@ -161,7 +159,6 @@ systemd-extras
 systemsettings
 udisks2
 upower
-user-manager
 include(xdg-desktop-portal)
 xdg-desktop-portal-gtk
 xdg-desktop-portal-kde

@@ -14,7 +14,6 @@ fritzing-app
 kbruch
 include(kalgebra)
 include(kgeography)
-kig
 include(kmplot)
 kstars
 ktuberling

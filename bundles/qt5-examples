@@ -1,35 +1,7 @@
 # [TITLE]: qt5-examples
 # [DESCRIPTION]: Examples programs for Qt
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-include(qt5-dev)
-
-qt3d-examples
-qtbase-examples
-qtcanvas3d-examples
-qtcharts-examples
-qtconnectivity-examples
-qtdatavis3d-examples
-qtdeclarative-examples
-qtgamepad-examples
-qtlocation-examples
-qtmqtt-examples
-qtmultimedia-examples
-qtnetworkauth-examples
-qtquickcontrols2-examples
-qtquickcontrols-examples
-qtremoteobjects-examples
-qtscript-examples
-qtscxml-examples
-qtsensors-examples
-qtserialbus-examples
-qtserialport-examples
-qtspeech-examples
-qtsvg-examples
-qttools-examples
-qtvirtualkeyboard-examples
-qtwebchannel-examples
-qtwebsockets-examples
-qtxmlpatterns-examples
+filesystem

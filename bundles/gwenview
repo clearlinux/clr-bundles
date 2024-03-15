@@ -1,21 +1,7 @@
 # [TITLE]: gwenview
 # [DESCRIPTION]: An image viewer with simple adjustments--ideal for browsing collections.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Multimedia and Graphics, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(desktop-kde-libs)
-include(qt-core)
-include(qt-basic)
-include(libX11client)
-include(lib-imageformat)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(LibRaw-lib)
-
-# end of custom additions
-
-# main package
-gwenview
+filesystem

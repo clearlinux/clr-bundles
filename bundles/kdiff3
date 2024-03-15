@@ -1,8 +1,7 @@
 # [TITLE]: kdiff3
 # [DESCRIPTION]: Feature-rich code comparison utility.
-# [STATUS]: WIP
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-include(kde-frameworks5)
-kdiff3
+filesystem

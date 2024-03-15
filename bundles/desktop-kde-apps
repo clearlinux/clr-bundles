@@ -21,7 +21,6 @@ akonadiconsole
 akregator
 also-add(analitza)
 also-add(ark)
-also-add(artikulate)
 bluez-qt
 calendarsupport
 cantata
@@ -34,7 +33,6 @@ also-add(filelight)
 frameworkintegration
 grantlee
 grantleetheme
-also-add(gwenview)
 kalarm
 also-add(kamera)
 also-add(kapidox)
@@ -67,7 +65,6 @@ also-add(kdiagram)
 kdialog
 also-add(keditbookmarks)
 also-add(kfind)
-also-add(kfloppy)
 also-add(kgeography)
 kget
 khelpcenter
@@ -98,7 +95,6 @@ kpimtextedit
 kpkpass
 kqtquickcharts
 krdc
-also-add(krusader)
 kscreen
 ksmtp
 also-add(ksystemlog)
@@ -115,7 +111,6 @@ libkdepim
 libkeduvocdocument
 libkexiv2
 libkgapi
-libkipi
 libkleo
 libkomparediff2
 libkscreen

@@ -1,12 +1,7 @@
 # [TITLE]: lib-qt5webengine
 # [DESCRIPTION]: Run programs that use the Qt Web Engine module.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-include(qt-basic)
-
-include(dav1d-lib)
-include(libevent-lib)
-include(not-ffmpeg-lib)
-include(lib-openssl)
+filesystem

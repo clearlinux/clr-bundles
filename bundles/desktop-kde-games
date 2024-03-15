@@ -27,7 +27,6 @@ kfourinline
 include(kgeography)
 kgoldrunner
 khangman
-kig
 kigo
 killbots
 kjumpingcube
@@ -43,7 +42,6 @@ kollision
 konquest
 kontactinterface
 kreversi
-kross
 kruler
 kshisen
 ksirk

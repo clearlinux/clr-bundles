@@ -106,7 +106,6 @@ gstreamer # Streaming media framework
 gtk-vnc # A GTK2 widget for VNC clients
 gtkwave # A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
 gvim # Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
-gwenview # A fast and easy to use image viewer
 gzip # lossless data compression/decompression utility
 haproxy # Reliable, high performance TCP/HTTP load balancer.
 hexchat # Header and path for HexChat plugins
@@ -358,9 +357,7 @@ eid-mw # The middleware, viewer and Firefox extension for the Belgian electronic
 kgeography # Geography Trainer
 kcachegrind # Frontend visualization tool for Valgrind's cachegrind & callggrind.
 keditbookmarks # Bookmark Organizer and Editor
-kfloppy # Floppy Formatter
 analitza # A library to add mathematical features to your program
-artikulate # Improve your pronunciation by listening to native speakers
 dragon # A multimedia player where the focus is on simplicity, instead of features
 eventviews # Library for creating events
 filelight # View disk usage information
@@ -401,7 +398,6 @@ socat # Multipurpose relay
 salt # Portable, distributed, remote execution and configuration management system
 pcmanfm # a file manager replacement for Nautilus, Konqueror and Thunar
 protobuf # Protocol Buffers - Google's data interchange format
-krusader # Advanced twin panel (commander style) file manager
 spyder-ide # Integrated development environment for scientific programming
 tracker-miners # Collection of data extractors for Tracker/Nepomuk
 dino # Modern XMPP ("Jabber") Chat Client using GTK+/Vala
