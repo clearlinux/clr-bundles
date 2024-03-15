@@ -29,7 +29,7 @@ kquickcharts-lib
 libassuan-lib
 libxslt-lib
 phonon-lib
-qtwebengine
+qt6webengine
 tdb-lib
 kpeople-lib
 purpose-lib
