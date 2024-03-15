@@ -8,8 +8,5 @@ include(lib-qt5webengine)
 
 include(devpkg-base)
 include(devpkg-qt6base)
-include(devpkg-qt6declarative)
-include(devpkg-qt6location)
-include(devpkg-qt6webchannel)
 
 qt6webengine-dev
