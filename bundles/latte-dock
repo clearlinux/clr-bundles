@@ -16,4 +16,4 @@ include(libstdcpp)
 # end of custom additions
 
 # main package
-latte-dock
+filesystem

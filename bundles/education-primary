@@ -17,7 +17,6 @@ include(kgeography)
 khangman
 klettres
 include(kmplot)
-kstars
 ktuberling
 kturtle
 kwordquiz
