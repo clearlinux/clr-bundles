@@ -16,4 +16,5 @@ include(lib-imageformat)
 # end of custom additions
 
 # main package
-kmediaplayer
+#kmediaplayer
+filesystem
