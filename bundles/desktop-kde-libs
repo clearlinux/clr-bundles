@@ -33,7 +33,6 @@ qt6webengine
 tdb-lib
 kpeople-lib
 purpose-lib
-kxmlrpcclient-lib
 kidletime-lib
 prison-lib
 kdoctools-lib
