@@ -15,6 +15,5 @@ fritzing-app
 include(kalgebra)
 include(kmplot)
 kturtle
-marble
 include(kde-frameworks5)
 include(protobuf-lib)
