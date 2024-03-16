@@ -99,7 +99,6 @@ ksmtp
 also-add(ksystemlog)
 ktimer
 ktnef
-ktp-desktop-applets
 kwalletmanager
 libgravatar
 libkcddb
