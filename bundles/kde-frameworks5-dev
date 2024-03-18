@@ -14,7 +14,6 @@ include(devpkg-Imath)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
-MarkupSafe-python3
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 include(devpkg-SDL)
@@ -75,7 +74,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
-buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -284,7 +282,6 @@ include(devpkg-jemalloc)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
-include(devpkg-jsoncpp)
 karchive-dev
 kauth
 kauth-dev
@@ -558,7 +555,6 @@ openssh
 include(openssl)
 include(devpkg-openssl)
 include(devpkg-openssl)
-openssl-lib32
 include(devpkg-opus)
 include(devpkg-opus)
 include(devpkg-orc)
@@ -743,7 +739,6 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
-pypi-mock-python3
 pypi-pbr
 pypi-pip
 pypi-pluggy
@@ -754,7 +749,6 @@ pypi-pybind11-python3
 pypi-pycparser-python3
 pypi-pyelftools
 pypi-pygments
-pypi-pylint-python3
 pypi-pytest
 pypi-pytest-python3
 pypi-python_dbusmock
@@ -762,11 +756,8 @@ pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
 pypi-six
-pypi-six-python3
 pypi-sphinx
-pypi-sphinx-python3
 pypi-tox
-pypi-tox-python3
 pypi-virtualenv
 pypi-wheel-python3
 python3
@@ -779,6 +770,7 @@ include(devpkg-qrencode)
 qt5compat-dev
 include(devpkg-qt6base)
 qt6declarative-dev
+qt6multimedia-dev
 qt6shadertools-dev
 include(devpkg-qt6tools)
 qt6wayland-dev
@@ -789,17 +781,14 @@ include(devpkg-qtcharts)
 include(devpkg-qtconnectivity)
 include(devpkg-qtdeclarative)
 qtdeclarative-staticdev
-include(devpkg-qtlocation)
 include(devpkg-qtmultimedia)
-include(devpkg-qtquickcontrols2)
 include(devpkg-qtsensors)
 include(devpkg-qtserialport)
 include(devpkg-qtsvg)
 include(devpkg-qttools)
-include(devpkg-qtwebchannel)
+include(devpkg-qtwayland)
 include(devpkg-qtwebsockets)
 include(devpkg-qtxmlpatterns)
-include(devpkg-re2)
 include(devpkg-readline)
 include(devpkg-readline)
 include(devpkg-rest)
@@ -875,6 +864,7 @@ include(valgrind)
 include(devpkg-valgrind)
 vid.stab-dev
 include(devpkg-wavpack)
+wayland
 include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)

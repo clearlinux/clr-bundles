@@ -16,6 +16,5 @@ include(devpkg-polkit)
 include(devpkg-xmlb)
 
 gnome-software-dev
-include(libX11client)
 include(libglib)
 include(gnome-base-libs)

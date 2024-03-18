@@ -39,6 +39,7 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
+SPIRV-Cross
 include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -55,6 +56,7 @@ Vulkan-Tools
 WPEBackend-fdo-dev
 Z3-dev
 Z3-dev
+include(devpkg-abseil-cpp)
 acl-bin
 include(devpkg-acl)
 include(devpkg-acl)
@@ -309,6 +311,7 @@ go
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
 gobject-introspection-lib
+googletest
 include(devpkg-googletest)
 gperf
 include(gpgme)
@@ -392,6 +395,7 @@ kcoreaddons-dev
 kcrash-dev
 kdbusaddons-dev
 kded-dev
+kdnssd-dev
 kdoctools-dev
 include(devpkg-keyutils)
 kfilemetadata-dev
@@ -413,8 +417,11 @@ include(devpkg-kmod)
 knotifications-dev
 include(devpkg-krb5)
 kservice-dev
+kstatusnotifieritem-dev
+ksvg-dev
 ktextwidgets-dev
 kwallet-dev
+include(devpkg-kwayland)
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
@@ -701,6 +708,7 @@ ninja
 nmap-extras
 nodejs
 nodejs-dev
+not-ffmpeg
 include(devpkg-not-ffmpeg)
 npth-dev
 include(devpkg-nspr)
@@ -910,6 +918,7 @@ include(devpkg-pixman)
 include(devpkg-pkcs11-helper)
 pkg-config
 include(devpkg-pkg-config)
+plasma-activities-dev
 plasma-wayland-protocols-dev
 include(plzip)
 include(devpkg-pmdk)
@@ -974,6 +983,7 @@ pypi-hatch_fancy_pypi_readme-python3
 pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
+pypi-html5lib-python3
 pypi-hypothesis-python3
 pypi-idna
 pypi-ipython-python3
@@ -993,6 +1003,7 @@ pypi-mock-python3
 pypi-mpmath-python3
 pypi-msgpack-python3
 pypi-munkres-python3
+pypi-numpy
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
@@ -1013,7 +1024,6 @@ pypi-pycparser-python3
 pypi-pyelftools
 pypi-pyelftools-python3
 pypi-pygments
-pypi-pylint-python3
 pypi-pyparsing-python3
 pypi-pyspnego-python3
 pypi-pytest
@@ -1069,6 +1079,8 @@ qt6quicktimeline-dev
 qt6shadertools-dev
 include(devpkg-qt6tools)
 qt6wayland-dev
+qt6webchannel-dev
+qt6websockets-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -1076,14 +1088,14 @@ include(devpkg-qtcharts)
 include(devpkg-qtconnectivity)
 include(devpkg-qtdeclarative)
 qtdeclarative-staticdev
-include(devpkg-qtlocation)
+qtkeychain-dev
 include(devpkg-qtmultimedia)
 include(devpkg-qtquickcontrols2)
 include(devpkg-qtsensors)
 include(devpkg-qtserialport)
 include(devpkg-qtsvg)
 include(devpkg-qttools)
-include(devpkg-qtwebchannel)
+include(devpkg-qtwayland)
 include(devpkg-qtwebsockets)
 include(devpkg-qtxmlpatterns)
 rdfind
@@ -1141,6 +1153,7 @@ include(devpkg-subunit)
 include(subversion)
 swig
 sympy-python3
+syntax-highlighting-dev
 sysprof-dev
 sysprof-staticdev
 systemd

@@ -5,3 +5,5 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 filesystem
+include(lib-openssl)
+include(not-ffmpeg-lib)

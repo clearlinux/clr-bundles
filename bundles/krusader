@@ -5,3 +5,4 @@
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 filesystem
+include(kde-frameworks5)

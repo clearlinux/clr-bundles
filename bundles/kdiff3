@@ -5,3 +5,4 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 filesystem
+include(kde-frameworks5)
