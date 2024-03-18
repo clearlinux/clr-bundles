@@ -136,3 +136,4 @@ include(LibRaw-lib)
 include(kmime)
 include(libssh-lib)
 include(mpfr-lib)
+krdc
