@@ -184,6 +184,7 @@ plasma5support
 polkit-qt6
 pulseaudio-qt
 qcoro6
+qt5compat
 qt6declarative
 kactivitymanagerd
 plasma-disks
