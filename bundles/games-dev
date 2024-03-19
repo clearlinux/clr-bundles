@@ -152,7 +152,9 @@ include(devpkg-expat)
 include(devpkg-expat)
 expect
 extra-cmake-modules
+extra-cmake-modules-data
 include(devpkg-fftw)
+include(file)
 file-bin
 include(devpkg-file)
 include(devpkg-flac)
@@ -284,10 +286,12 @@ include(devpkg-json-c)
 include(devpkg-json-glib)
 kdoctools-dev
 include(devpkg-keyutils)
+kguiaddons-dev
 kmod
 include(devpkg-kmod)
 include(devpkg-kmod)
 include(devpkg-krb5)
+kwindowsystem-dev
 ladspa_sdk-dev
 include(devpkg-lcms2)
 include(devpkg-ldb)
@@ -669,6 +673,7 @@ include(devpkg-pipewire)
 include(devpkg-pixman)
 pkg-config
 include(devpkg-pkg-config)
+plasma-wayland-protocols-dev
 include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
@@ -733,6 +738,7 @@ include(devpkg-qrencode)
 include(devpkg-qt6base)
 qt6shadertools-dev
 include(devpkg-qt6tools)
+qt6wayland-dev
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev
@@ -745,6 +751,7 @@ include(devpkg-qtsensors)
 include(devpkg-qtserialport)
 include(devpkg-qtsvg)
 include(devpkg-qttools)
+include(devpkg-qtwayland)
 include(devpkg-qtwebsockets)
 include(devpkg-qtxmlpatterns)
 rdfind
@@ -822,6 +829,7 @@ include(valgrind)
 include(devpkg-valgrind)
 vid.stab-dev
 include(devpkg-wavpack)
+wayland
 include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
