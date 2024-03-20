@@ -72,6 +72,7 @@ emacs
 include(devpkg-expat)
 include(devpkg-expat)
 expect
+include(file)
 include(devpkg-file)
 include(flex)
 flex-dev
@@ -356,6 +357,7 @@ procmail
 include(procps-ng)
 procps-ng-bin
 include(pypi-cython)
+pypi-docutils
 pypi-idna
 pypi-jinja2-python3
 pypi-lxml

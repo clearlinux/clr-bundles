@@ -51,6 +51,7 @@ e2fsprogs
 include(devpkg-elfutils)
 include(devpkg-expat)
 expect
+include(file)
 include(flex)
 flex-dev
 gawk

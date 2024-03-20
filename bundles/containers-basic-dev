@@ -104,6 +104,7 @@ include(devpkg-expat)
 expect
 extra-cmake-modules
 extra-cmake-modules-data
+include(file)
 include(devpkg-file)
 include(flex)
 flex-dev

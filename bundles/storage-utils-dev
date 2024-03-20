@@ -89,6 +89,7 @@ include(devpkg-expat)
 include(devpkg-expat)
 expect
 f2fs-tools-dev
+include(file)
 include(devpkg-file)
 include(flex)
 flex-dev

@@ -60,6 +60,7 @@ autoconf213
 autogen
 automake
 automake-dev
+include(devpkg-avahi)
 include(devpkg-bash-completion)
 bats
 bdftopcf
@@ -432,6 +433,7 @@ include(devpkg-libjpeg-turbo)
 include(devpkg-libksba)
 include(devpkg-libmbim)
 include(devpkg-libmicrohttpd)
+libmsgraph-dev
 include(devpkg-libmtp)
 include(devpkg-libndp)
 include(devpkg-libnice)

@@ -84,6 +84,7 @@ emacs
 include(devpkg-expat)
 include(devpkg-expat)
 expect
+include(file)
 include(devpkg-file)
 include(flex)
 flex-dev

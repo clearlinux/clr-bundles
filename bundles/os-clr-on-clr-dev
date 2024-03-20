@@ -87,6 +87,7 @@ autoconf213
 autogen
 automake
 automake-dev
+include(devpkg-avahi)
 include(devpkg-babeltrace)
 include(devpkg-baloo)
 bash

@@ -63,6 +63,7 @@ autoconf213
 autogen
 automake
 automake-dev
+include(devpkg-avahi)
 include(devpkg-babl)
 include(devpkg-bash-completion)
 bats
@@ -468,6 +469,7 @@ include(devpkg-libmbim)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 include(devpkg-libmnl)
+libmsgraph-dev
 include(devpkg-libmtp)
 include(devpkg-libmypaint)
 include(devpkg-libndp)
