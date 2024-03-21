@@ -788,7 +788,6 @@ pkgconfig(libpng16)	devpkg-libpng
 pkgconfig(libportal)	devpkg-libportal
 pkgconfig(libportal-gtk3)	devpkg-libportal
 pkgconfig(libportal-gtk4)	devpkg-libportal
-pkgconfig(libportal-qt5)	devpkg-libportal
 pkgconfig(libpostproc)	devpkg-not-ffmpeg
 pkgconfig(libpq)	devpkg-postgresql
 pkgconfig(libprofiler)	devpkg-gperftools

@@ -381,6 +381,7 @@ include(devpkg-libcgroup)
 include(devpkg-libclc)
 include(devpkg-libconfig)
 include(devpkg-libcroco)
+include(devpkg-libdaemon)
 include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
@@ -590,6 +591,7 @@ openssh
 include(openssl)
 include(devpkg-openssl)
 include(devpkg-openssl)
+openssl-lib32
 optipng-bin
 include(devpkg-opus)
 include(devpkg-opus)

@@ -390,6 +390,7 @@ include(devpkg-libcbor)
 include(devpkg-libcgroup)
 include(devpkg-libclc)
 include(devpkg-libcroco)
+include(devpkg-libdaemon)
 include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
