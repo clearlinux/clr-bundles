@@ -14,6 +14,7 @@ also-add(ghostscript)
 cups
 cups-bjnp
 cups-filters
+dymo-cups-drivers
 epson-inkjet-printer-escpr
 gutenprint
 hplip
