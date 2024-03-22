@@ -186,6 +186,7 @@ pulseaudio-qt
 qcoro6
 qt5compat
 qt6declarative
+qt6declarative-libexec
 kactivitymanagerd
 plasma-disks
 plasma-firewall
