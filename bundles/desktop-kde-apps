@@ -118,7 +118,7 @@ messagelib
 modemmanager-qt
 also-add(okular)
 oxygen
-oxygen-icons5
+oxygen-icons
 pim-data-exporter
 pim-sieve-editor
 pimcommon
