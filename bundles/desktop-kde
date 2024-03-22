@@ -190,3 +190,5 @@ kactivitymanagerd
 plasma-disks
 plasma-firewall
 plasma-welcome
+networkmanager-qt
+modemmanager-qt
