@@ -193,7 +193,7 @@ plasma-firewall
 plasma-welcome
 networkmanager-qt
 modemmanager-qt
-Remmina
+include(Remmina)
 oxygen-icons
 kpipewire
 kquickcharts

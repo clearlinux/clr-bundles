@@ -743,6 +743,7 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-markdown-python3
+pypi-packaging-python3
 pypi-pbr
 pypi-pip
 pypi-pluggy

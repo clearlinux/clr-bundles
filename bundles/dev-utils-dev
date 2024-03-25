@@ -618,6 +618,7 @@ pypi-lxml
 pypi-lz4-python3
 pypi-mako
 pypi-msgpack-python3
+pypi-packaging-python3
 pypi-pip
 pypi-pluggy
 pypi-ply

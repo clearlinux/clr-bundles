@@ -411,7 +411,6 @@ R-pkgload
 R-pkgmaker
 R-plm
 R-plogr
-R-plot3D
 R-plotly
 R-plotmo
 R-plotrix
@@ -1250,6 +1249,7 @@ pypi-lz4-python3
 pypi-mako
 pypi-msgpack-python3
 pypi-numpy-python3
+pypi-packaging-python3
 pypi-pip
 pypi-pluggy
 pypi-ply
