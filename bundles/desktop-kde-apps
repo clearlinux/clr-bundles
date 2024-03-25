@@ -137,3 +137,4 @@ include(kmime)
 include(libssh-lib)
 include(mpfr-lib)
 krdc
+also-add(kompare)
