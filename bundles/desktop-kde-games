@@ -68,3 +68,4 @@ sweeper
 include(kde-frameworks5)
 include(kmime)
 include(protobuf-lib)
+include(qt6-basic)

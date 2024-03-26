@@ -17,3 +17,4 @@ khangman
 klettres
 ktuberling
 include(kde-frameworks5)
+include(qt6-basic)
