@@ -197,3 +197,4 @@ include(Remmina)
 oxygen-icons
 kpipewire
 kquickcharts
+include(vte-lib)

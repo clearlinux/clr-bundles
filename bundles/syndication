@@ -9,6 +9,12 @@ include(qt-core)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(harfbuzz-lib)
+include(nettle-lib)
+include(lib-imageformat)
+include(lib-opengl)
+include(libX11client)
+include(gdk-pixbuf)
 
 # end of custom additions
 

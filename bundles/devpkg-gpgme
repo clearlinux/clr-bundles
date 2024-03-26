@@ -14,3 +14,8 @@ include(devpkg-libgpg-error)
 gpgme-dev
 include(libstdcpp)
 include(gpgme)
+include(gdk-pixbuf)
+include(libX11client)
+include(lib-opengl)
+include(lib-imageformat)
+include(harfbuzz-lib)
