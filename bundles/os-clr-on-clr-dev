@@ -1079,6 +1079,7 @@ qt6multimedia-dev
 qt6quick3d-dev
 qt6quicktimeline-dev
 qt6shadertools-dev
+include(devpkg-qt6svg)
 include(devpkg-qt6tools)
 qt6wayland-dev
 qt6webchannel-dev
