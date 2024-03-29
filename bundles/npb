@@ -10,7 +10,6 @@
 also-add(modules)
 include(libstdcpp)
 include(perl-basic)
-include(xz)
 include(openmpi)
 # end of custom additions
 

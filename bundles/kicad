@@ -24,6 +24,5 @@ include(nettle-lib)
 include(python3-basic)
 include(sqlite)
 include(webkitgtk)
-include(xz)
 
 kicad

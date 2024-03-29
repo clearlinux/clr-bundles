@@ -13,7 +13,6 @@ include(libstdcpp)
 include(systemd)
 include(icu4c-lib)
 include(lib-openssl)
-include(xz)
 # end of custom additions
 
 # main package

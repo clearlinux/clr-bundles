@@ -8,7 +8,6 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(libxml2)
-include(xz)
 include(libevent-lib)
 include(dbus-lib)
 include(curl)

@@ -10,6 +10,5 @@ include(devpkg-base)
 gdal-dev
 include(curl)
 include(lib-imageformat)
-include(xz)
 include(libstdcpp)
 include(gdal)

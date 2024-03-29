@@ -10,7 +10,6 @@ include(kvm-host)
 include(network-basic)
 include(openssl)
 include(python3-basic)
-include(xz)
 include(btrfs-progs)
 include(sudo)
 awscli

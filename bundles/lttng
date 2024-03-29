@@ -11,7 +11,6 @@ include(popt-lib)
 include(numactl)
 include(libxml2)
 lttng-ust
-include(xz)
 # end of custom additions
 
 # main package

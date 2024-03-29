@@ -9,7 +9,6 @@
 # start of custom additions (edits outside this area will be removed automatically)
 include(libxml2)
 include(systemd)
-include(xz)
 
 # end of custom additions
 

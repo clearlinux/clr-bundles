@@ -9,7 +9,6 @@ include(lib-openssl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(xz)
 include(icu4c-lib)
 
 # end of custom additions

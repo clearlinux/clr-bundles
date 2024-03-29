@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 Botan-dev
-include(xz)
 include(libstdcpp)

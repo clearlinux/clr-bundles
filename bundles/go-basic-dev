@@ -487,7 +487,6 @@ include(wget)
 include(which)
 xauth
 xmlto
-include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
 include(devpkg-zlib)

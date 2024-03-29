@@ -8,7 +8,6 @@ include(dbus-lib)
 include(kbd)
 include(ncurses-lib)
 include(systemd)
-include(xz)
 clr-power-tweaks
 clr-systemd-config
 cnf

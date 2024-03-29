@@ -18,7 +18,6 @@ flatpak-builder
 include(git)
 include(libstdcpp)
 librsvg
-include(xz)
 include(gnupg)
 # end of custom additions
 

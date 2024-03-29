@@ -7,7 +7,6 @@
 # perl-basic and python3-basic included to avoid duplication
 include(os-core-webproxy)
 include(perl-basic)
-include(xz)
 
 also-add(clr-network-troubleshooter)
 also-add(curl)

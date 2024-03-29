@@ -8,5 +8,3 @@
 include(devpkg-base)
 
 xz-dev
-include(xz)
-include(xz)

@@ -8,7 +8,6 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(sqlite)
-include(xz)
 include(lib-imageformat)
 include(libstdcpp)
 include(libX11client)
