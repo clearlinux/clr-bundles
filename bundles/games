@@ -94,6 +94,7 @@ openal-soft-lib
 openssl-lib
 p11-kit-lib
 pulseaudio-lib
+puzzles
 s2tc-lib
 s2tc-lib
 systemd-lib
