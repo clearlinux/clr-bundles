@@ -203,6 +203,7 @@ include(valgrind)
 include(devpkg-valgrind)
 include(which)
 xauth
+include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
 include(devpkg-zlib)

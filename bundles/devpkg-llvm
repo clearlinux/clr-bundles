@@ -8,5 +8,6 @@
 include(devpkg-base)
 
 llvm-dev
+include(xz)
 include(libstdcpp)
 include(llvm)

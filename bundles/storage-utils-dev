@@ -494,6 +494,7 @@ include(which)
 xauth
 xdg-utils
 xmlto
+include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
 include(yasm)

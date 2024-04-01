@@ -55,6 +55,7 @@ e2fsprogs
 include(devpkg-elfutils)
 include(devpkg-expat)
 expect
+include(file)
 include(flex)
 flex-dev
 gawk
@@ -236,6 +237,7 @@ include(devpkg-valgrind)
 include(which)
 xauth
 xmlto
+include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
 yaml-dev

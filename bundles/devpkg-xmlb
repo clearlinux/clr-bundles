@@ -13,3 +13,4 @@ include(devpkg-zstd)
 
 xmlb-dev
 include(libglib)
+include(xz)

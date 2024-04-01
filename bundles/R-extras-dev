@@ -1359,6 +1359,7 @@ include(devpkg-xorgproto)
 include(devpkg-xorgproto)
 include(devpkg-xtrans)
 include(devpkg-xtrans)
+include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
 yaml-dev

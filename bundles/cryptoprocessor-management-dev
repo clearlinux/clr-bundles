@@ -235,6 +235,7 @@ include(devpkg-valgrind)
 include(which)
 xauth
 xmlto
+include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
 include(devpkg-zlib)
