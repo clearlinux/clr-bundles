@@ -8,7 +8,6 @@
 include(devpkg-base)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libwebp)
-include(devpkg-xz)
 include(devpkg-zlib)
 include(devpkg-zstd)
 
