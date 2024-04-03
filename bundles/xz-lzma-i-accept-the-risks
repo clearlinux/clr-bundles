@@ -1,0 +1,10 @@
+# [TITLE]: xz-lzma-i-accept-the-risks
+# [DESCRIPTION]: liblzma support for temporary use
+# [STATUS]: Active
+# [CAPABILITIES]: 
+# [TAGS]: Other
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(python3-basic)
+
+python3-xz-lzma
