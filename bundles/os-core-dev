@@ -51,6 +51,7 @@ e2fsprogs
 include(devpkg-e2fsprogs)
 include(devpkg-elfutils)
 expect
+include(file)
 include(devpkg-file)
 include(flex)
 flex-dev
@@ -183,6 +184,8 @@ ruby
 sed
 shadow
 shadow-dev
+include(devpkg-sqlite-autoconf)
+include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin
 include(devpkg-systemd)

@@ -211,6 +211,7 @@ shadow
 include(devpkg-slang)
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
+include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin
 include(devpkg-systemd)

@@ -455,6 +455,7 @@ shadow
 shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
+include(devpkg-sqlite-autoconf)
 sssd-dev
 include(strace)
 swig

@@ -453,6 +453,7 @@ shadow
 shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
+include(devpkg-sqlite-autoconf)
 include(strace)
 include(devpkg-subunit)
 include(subversion)

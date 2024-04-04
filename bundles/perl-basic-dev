@@ -338,6 +338,8 @@ include(devpkg-readline)
 ruby
 sed
 shadow
+include(devpkg-sqlite-autoconf)
+include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin
 include(devpkg-systemd)
