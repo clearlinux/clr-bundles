@@ -28,7 +28,7 @@ include(gnupg)
 pypi-pycurl
 pypi-toml
 pypi-urllib3
-
+python3-xz-lzma
 # koji command line utility
 koji
 include(pypi-six)
