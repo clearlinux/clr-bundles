@@ -6,18 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-libX11)
-include(devpkg-libdisplay-info)
-include(devpkg-libdrm)
-include(devpkg-libglvnd)
-include(devpkg-libinput)
-include(devpkg-libliftoff)
-include(devpkg-libxkbcommon)
-include(devpkg-mesa)
-include(devpkg-pixman)
-include(devpkg-seatd)
-include(devpkg-systemd)
-include(devpkg-wayland)
 
 wlroots-dev
 include(libX11client)

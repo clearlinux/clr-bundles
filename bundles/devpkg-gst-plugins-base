@@ -6,17 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-gstreamer)
-include(devpkg-libX11)
-include(devpkg-libdrm)
-include(devpkg-libglvnd)
-include(devpkg-libgudev)
-include(devpkg-mesa)
-include(devpkg-orc)
-include(devpkg-wayland)
-include(devpkg-zlib)
 
 gst-plugins-base-dev
 include(libX11client)

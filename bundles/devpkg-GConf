@@ -6,9 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-dbus)
-include(devpkg-glib)
-include(libglib)
 
 GConf-dev
 include(libglib)

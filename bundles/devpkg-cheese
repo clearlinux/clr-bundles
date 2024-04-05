@@ -6,18 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-clutter)
-include(devpkg-clutter-gst)
-include(devpkg-clutter-gtk)
-include(devpkg-gdk-pixbuf)
-include(libX11client)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-gst-plugins-bad)
-include(devpkg-gst-plugins-base)
-include(devpkg-gstreamer)
-include(devpkg-gtk3)
-include(devpkg-libX11)
 
 cheese-dev
 include(libX11client)

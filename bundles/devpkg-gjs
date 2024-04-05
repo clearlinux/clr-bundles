@@ -6,12 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-cairo)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-gobject-introspection)
-include(devpkg-libffi)
-include(devpkg-mozjs115)
 
 gjs-dev
 include(libX11client)

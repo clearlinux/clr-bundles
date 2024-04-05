@@ -6,11 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-gnutls)
-include(devpkg-json-glib)
-include(devpkg-nettle)
 
 libjcat-dev
 include(libglib)

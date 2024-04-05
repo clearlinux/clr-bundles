@@ -6,11 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-cairo)
-include(devpkg-gdk-pixbuf)
-include(libX11client)
-include(devpkg-gegl)
-include(devpkg-gtkplus)
 
 gimp-dev
 include(libX11client)

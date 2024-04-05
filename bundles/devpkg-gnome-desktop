@@ -6,18 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-gdk-pixbuf)
-include(libX11client)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-gsettings-desktop-schemas)
-include(devpkg-gtk3)
-include(devpkg-gtk4)
-include(devpkg-iso-codes)
-include(devpkg-libseccomp)
-include(devpkg-libxkbcommon)
-include(devpkg-systemd)
-include(devpkg-xkeyboard-config)
 
 gnome-desktop-dev
 include(libX11client)

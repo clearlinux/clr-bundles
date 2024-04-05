@@ -6,10 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-brotli)
-include(devpkg-expat)
-include(devpkg-inih)
-include(devpkg-zlib)
 
 exiv2-dev
 include(libstdcpp)

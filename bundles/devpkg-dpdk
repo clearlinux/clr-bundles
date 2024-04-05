@@ -6,14 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-elfutils)
-include(devpkg-isa-l)
-include(devpkg-jansson)
-include(devpkg-libbsd)
-include(devpkg-libpcap)
-include(devpkg-openssl)
-include(devpkg-rdma-core)
-include(devpkg-zlib)
 
 dpdk-dev
 include(libstdcpp)

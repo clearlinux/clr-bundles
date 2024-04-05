@@ -6,9 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-libX11)
-include(devpkg-libXv)
-include(devpkg-xorgproto)
 
 libXvMC-dev
 include(libX11client)

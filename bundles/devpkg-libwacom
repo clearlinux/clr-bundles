@@ -6,10 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-libevdev)
-include(devpkg-libgudev)
 
 libwacom-dev
 include(libglib)

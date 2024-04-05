@@ -6,10 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-fontconfig)
-include(devpkg-freetype)
-include(devpkg-libX11)
-include(devpkg-xorgproto)
 
 libXft-dev
 include(libX11client)

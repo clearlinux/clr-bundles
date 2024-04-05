@@ -6,13 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-brotli)
-include(devpkg-glib)
-include(libglib)
-include(devpkg-libpsl)
-include(devpkg-nghttp2)
-include(devpkg-sqlite-autoconf)
-include(devpkg-zlib)
 
 libsoup-dev
 include(libglib)
