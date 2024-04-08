@@ -10,6 +10,7 @@ include(os-core-dev)
 include(perl-basic-dev)
 include(devpkg-CUnit)
 include(devpkg-GConf)
+ImageMagick
 include(devpkg-Imath)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
