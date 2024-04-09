@@ -10,3 +10,8 @@ include(devpkg-base)
 qtwebchannel-dev
 include(qt-core)
 include(libstdcpp)
+include(lib-opengl)
+include(qt-basic)
+include(libX11client)
+include(harfbuzz-lib)
+include(lib-imageformat)
