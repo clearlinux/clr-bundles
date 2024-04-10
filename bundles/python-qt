@@ -5,7 +5,6 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Kevron Rees <kevron.m.rees@intel.com>
 include(qt-basic)
-include(lib-qt5webengine)
 
 pyotherside
 include(openblas)

@@ -5,8 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 
-include(java11-basic)
-
+include(java-basic)
 include(openssl)
 include(devpkg-openssl)
 cyrus-sasl

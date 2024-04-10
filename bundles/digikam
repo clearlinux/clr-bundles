@@ -8,7 +8,6 @@
 include(desktop-kde-libs)
 include(qt-core)
 include(qt-basic)
-include(lib-qt5webengine)
 include(libX11client)
 include(lib-imageformat)
 include(libstdcpp)

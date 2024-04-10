@@ -5,7 +5,6 @@
 # [TAGS]: Other
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(qt-basic)
-include(lib-qt5webengine)
 include(lib-poppler)
 
 # Libraries

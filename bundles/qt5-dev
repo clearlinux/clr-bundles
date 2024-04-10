@@ -5,7 +5,6 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(qt-basic)
-include(lib-qt5webengine)
 include(devpkg-mesa)
 
 include(devpkg-qt3d)
@@ -31,6 +30,5 @@ include(devpkg-qtsvg)
 include(devpkg-qttools)
 include(devpkg-qtvirtualkeyboard)
 include(devpkg-qtwebchannel)
-include(devpkg-qtwebengine)
 include(devpkg-qtwebsockets)
 include(devpkg-qtxmlpatterns)
