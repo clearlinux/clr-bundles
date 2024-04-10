@@ -1,8 +1,0 @@
-# [TITLE]: obs-studio
-# [DESCRIPTION]: OBS Studio Library
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-filesystem
-include(not-ffmpeg-lib)

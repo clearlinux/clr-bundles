@@ -1,7 +1,0 @@
-# [TITLE]: kernel-oracle
-# [DESCRIPTION]: Run the Oracle Cloud specific kernel.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools, Kernel
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-filesystem

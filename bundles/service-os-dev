@@ -1,7 +1,0 @@
-# [TITLE]: service-os-dev
-# [DESCRIPTION]: All packages required to build the service-os bundle.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-filesystem

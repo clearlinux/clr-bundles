@@ -1,7 +1,0 @@
-# [TITLE]: kernel-mainline-vanilla
-# [DESCRIPTION]: Run the mainline current vanilla kernel.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools, Kernel
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-filesystem

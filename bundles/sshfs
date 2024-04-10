@@ -1,7 +1,0 @@
-# [TITLE]: sshfs
-# [DESCRIPTION]: FUSE client based on the SSH File Transfer Protocol
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-filesystem

@@ -1,8 +1,0 @@
-# [TITLE]: qt-creator
-# [DESCRIPTION]: Cross-platform IDE for Qt
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools, Editor
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-filesystem
-sed-bin

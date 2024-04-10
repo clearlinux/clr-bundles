@@ -1,7 +1,0 @@
-# [TITLE]: desktop-enlightenment
-# [DESCRIPTION]: Run the enlightenment desktop environment.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]: Run enlightenment as gdm session
-# [TAGS]: Other
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-filesystem

@@ -1,7 +1,0 @@
-# [TITLE]: desktop-i3
-# [DESCRIPTION]: Run the i3 desktop environment.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]: Run i3 as gdm session or xinit WM
-# [TAGS]: Other
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-filesystem

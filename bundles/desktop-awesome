@@ -1,7 +1,0 @@
-# [TITLE]: desktop-awesome
-# [DESCRIPTION]: Run a minimal desktop environment with awesome WM.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]: Run awesome as gdm session or xinit WM
-# [TAGS]: Other
-# [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
-filesystem

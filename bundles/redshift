@@ -1,8 +1,0 @@
-# [TITLE]: redshift
-# [DESCRIPTION]: Adjust the color temperature of your monitor in the evenings to reduce eye strain
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Tools and Utilities
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-filesystem
-include(gobject-introspection)
