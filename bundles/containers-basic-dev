@@ -180,6 +180,7 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
+include(gnupg)
 include(devpkg-gnutls)
 go
 include(gobject-introspection)
@@ -437,7 +438,6 @@ include(devpkg-pcre2)
 include(devpkg-pcsc-lite)
 perl
 perl-Error
-perl-Getopt-Long-perl
 perl-IPC-Run-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
@@ -494,6 +494,7 @@ qemu
 include(devpkg-qrencode)
 include(devpkg-qt6base)
 qt6shadertools-dev
+include(devpkg-qt6tools)
 qt6wayland-dev
 include(devpkg-qtbase)
 qtbase-extras

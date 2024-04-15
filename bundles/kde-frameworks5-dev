@@ -46,7 +46,6 @@ include(aspell)
 aspell-dev
 include(devpkg-assimp)
 include(devpkg-at-spi2-core)
-include(devpkg-attica)
 include(devpkg-attr)
 include(devpkg-attr)
 attr-staticdev
@@ -703,6 +702,7 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
+include(devpkg-phonon)
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)

@@ -9,10 +9,3 @@ include(devpkg-base)
 
 qt6tools-dev
 include(libstdcpp)
-include(gdk-pixbuf)
-include(lib-opengl)
-include(qt-core)
-include(libX11client)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)

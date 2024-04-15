@@ -9,12 +9,3 @@ include(devpkg-base)
 
 libgdata-dev
 include(libglib)
-include(gdk-pixbuf)
-include(lib-opengl)
-include(gnome-base-libs)
-include(libX11client)
-include(gstreamer)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)
-include(libpsl-lib)

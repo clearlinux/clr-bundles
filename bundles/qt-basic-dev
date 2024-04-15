@@ -423,7 +423,6 @@ include(devpkg-pcre)
 include(devpkg-pcre2)
 include(devpkg-pcre2)
 perl
-perl-Getopt-Long-perl
 perl-IPC-Run-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
@@ -485,6 +484,7 @@ include(devpkg-qrencode)
 include(devpkg-qt3d)
 include(devpkg-qt6base)
 qt6shadertools-dev
+include(devpkg-qt6tools)
 include(devpkg-qtbase)
 qtbase-extras
 qtbase-staticdev

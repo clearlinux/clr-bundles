@@ -9,11 +9,3 @@ include(devpkg-base)
 
 avahi-dev
 include(libglib)
-include(lib-opengl)
-include(qt-core)
-include(qt-basic)
-include(libX11client)
-include(libevent-lib)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)
