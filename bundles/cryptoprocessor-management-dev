@@ -94,6 +94,7 @@ include(devpkg-gmp)
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
+include(gnupg)
 gperf
 include(graphviz)
 grep
