@@ -148,7 +148,6 @@ intltool-dev
 include(iproute2)
 iproute2-dev
 include(devpkg-ipset)
-include(iptables)
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-jansson)
