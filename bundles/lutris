@@ -19,6 +19,7 @@ include(curl)
 include(gdk-pixbuf)
 include(lib-opengl)
 include(libglib)
+include(xz-lzma-i-accept-the-risks)
 # end of custom additions
 
 # main package
