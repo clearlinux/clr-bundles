@@ -10,6 +10,4 @@ include(devpkg-base)
 oiio-dev
 include(lib-imageformat)
 include(libstdcpp)
-include(qt-core)
-include(qt-basic)
 include(opencv-python)
