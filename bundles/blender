@@ -1,0 +1,17 @@
+# [TITLE]: blender
+# [DESCRIPTION]: A 3D Modelling And Rendering Package
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libX11client)
+include(lib-imageformat)
+include(libstdcpp)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+blender
