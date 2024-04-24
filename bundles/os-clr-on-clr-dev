@@ -947,6 +947,7 @@ include(devpkg-pulseaudio)
 include(devpkg-pycairo)
 include(pygobject)
 include(devpkg-pygobject)
+pygobject-python3
 pypi-amqp-python3
 pypi-appdirs-python3
 pypi-async_timeout-python3
@@ -957,6 +958,7 @@ pypi-blinker-python3
 pypi-booleanoperations-python3
 pypi-brotli-python3
 pypi-brotlicffi-python3
+pypi-build-python3
 pypi-calver-python3
 pypi-cattrs-python3
 pypi-cffi-python3

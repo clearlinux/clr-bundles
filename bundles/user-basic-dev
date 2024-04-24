@@ -799,9 +799,11 @@ include(devpkg-pulseaudio)
 include(devpkg-pycairo)
 include(pygobject)
 include(devpkg-pygobject)
+pygobject-python3
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-booleanoperations-python3
+pypi-build-python3
 pypi-cffsubr-python3
 pypi-commonmark
 pypi-cu2qu-python3

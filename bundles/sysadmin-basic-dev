@@ -377,12 +377,16 @@ include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
 include(devpkg-protobuf)
+pygobject-python3
+pypi-build-python3
 include(pypi-cython)
 pypi-docutils
 pypi-jinja2-python3
 pypi-lxml
 pypi-pyelftools
+pypi-setuptools-python3
 pypi-sphinx
+pypi-wheel-python3
 python3
 python3-core
 python3-dev
