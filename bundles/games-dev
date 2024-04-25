@@ -765,6 +765,7 @@ include(devpkg-rest)
 include(rsync)
 include(devpkg-rtmpdump)
 ruby
+rust-bindgen
 rustc
 include(sassc)
 include(devpkg-sbc)

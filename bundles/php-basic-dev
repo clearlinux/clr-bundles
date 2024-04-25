@@ -483,6 +483,7 @@ include(devpkg-readline)
 include(devpkg-readline)
 include(rsync)
 ruby
+rust-bindgen
 rustc
 include(sassc)
 include(devpkg-sbc)
