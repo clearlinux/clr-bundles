@@ -5,6 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(binutils)
+include(clamav)
 include(curl)
 include(diffutils)
 include(file)
