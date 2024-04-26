@@ -156,6 +156,7 @@ R-config
 R-conflicted
 R-contfrac
 R-corpcor
+R-covr
 R-cpp11
 R-crayon
 R-credentials
@@ -221,6 +222,7 @@ R-findpython
 R-fit.models
 R-flashClust
 R-flexmix
+R-flexsurvcure
 R-flextable
 R-fontBitstreamVera
 R-fontLiberation
@@ -563,6 +565,7 @@ R-strucchange
 R-styler
 R-subplex
 R-survey
+R-survminer
 R-svglite
 R-sys
 R-systemfit
