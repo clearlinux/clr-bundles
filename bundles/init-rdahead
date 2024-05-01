@@ -7,7 +7,7 @@ k# [TITLE]: init-rdahead
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-ini-rdahead-extras
+init[A-rdahead-extras
 # end of custom additions
 
 # main package
