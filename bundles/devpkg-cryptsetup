@@ -9,4 +9,3 @@ include(devpkg-base)
 
 cryptsetup-dev
 include(popt-lib)
-include(gobject-introspection)
