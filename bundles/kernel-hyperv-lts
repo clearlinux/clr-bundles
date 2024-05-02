@@ -6,6 +6,6 @@
 # [MAINTAINER]: Miguel Bernal Marin <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
 console-autostart
-init-rdahead
+include(init-rdahead)
 linux-hyperv-lts
 include(systemd)

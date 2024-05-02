@@ -10,5 +10,5 @@ include(python3-basic)
 include(kernel-aws)
 
 clr-ignore-mod-sig
-dkms
+include(dkms)
 linux-aws-dev

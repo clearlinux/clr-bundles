@@ -6,6 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
 console-autostart
-init-rdahead
+include(init-rdahead)
 include(kernel-native)
 linux
