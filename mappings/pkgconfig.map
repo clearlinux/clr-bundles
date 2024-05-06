@@ -782,7 +782,6 @@ pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mm-common-libstdc++)	devpkg-mm-common
 pkgconfig(mm-common-util)	devpkg-mm-common
 pkgconfig(mm-glib)	devpkg-ModemManager
-pkgconfig(mobile-broadband-provider-info)	devpkg-mobile-broadband-provider-info
 pkgconfig(mount)	devpkg-util-linux
 pkgconfig(mozjs-102)	devpkg-mozjs102
 pkgconfig(mozjs-91)	devpkg-mozjs91
