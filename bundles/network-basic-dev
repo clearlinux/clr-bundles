@@ -417,7 +417,6 @@ pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml
-pypi-lz4-python3
 pypi-pip
 pypi-pluggy
 pypi-ply-python3

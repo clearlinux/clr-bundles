@@ -723,7 +723,6 @@ db
 dbus-broker
 include(devpkg-dbus)
 include(devpkg-dbus)
-include(devpkg-dbus-glib)
 dbus-python
 include(devpkg-dbus-python)
 dejagnu
@@ -1249,7 +1248,6 @@ pypi-hatchling-python3
 pypi-iso8601-python3
 pypi-jinja2-python3
 pypi-lxml
-pypi-lz4-python3
 pypi-mako
 pypi-msgpack-python3
 pypi-numpy-python3
