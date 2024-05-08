@@ -890,7 +890,6 @@ pypi-jsonschema-python3
 pypi-kiwisolver-python3
 pypi-lazy_loader-python3
 pypi-libevdev
-pypi-locket-python3
 pypi-lxml
 pypi-lxml-python3
 pypi-mako
@@ -969,7 +968,6 @@ pypi-sphinx-python3
 pypi-sphinxcontrib.jquery-python3
 pypi-tap.py-python3
 pypi-tomli-python3
-pypi-toolz-python3
 pypi-tornado-python3
 pypi-tox
 pypi-tox-python3
