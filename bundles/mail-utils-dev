@@ -361,6 +361,7 @@ pypi-docutils
 pypi-idna
 pypi-jinja2-python3
 pypi-lxml
+pypi-pefile-python3
 pypi-pip
 pypi-pyelftools
 pypi-setuptools-python3

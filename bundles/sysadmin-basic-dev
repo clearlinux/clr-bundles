@@ -383,6 +383,7 @@ include(pypi-cython)
 pypi-docutils
 pypi-jinja2-python3
 pypi-lxml
+pypi-pefile-python3
 pypi-pyelftools
 pypi-setuptools-python3
 pypi-sphinx

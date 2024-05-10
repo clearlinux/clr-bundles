@@ -469,6 +469,7 @@ pypi-lxml
 pypi-mako
 pypi-markdown-python3
 pypi-packaging-python3
+pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply

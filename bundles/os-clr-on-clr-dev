@@ -1011,6 +1011,7 @@ pypi-numpy-python3
 pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
+pypi-pefile-python3
 pypi-pip
 pypi-pkgconfig-python3
 pypi-pluggy
