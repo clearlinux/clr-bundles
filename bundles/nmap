@@ -8,6 +8,13 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libxml2)
+include(nettle-lib)
+include(lib-imageformat)
+include(icu4c-lib)
+include(harfbuzz-lib)
+include(libX11client)
+include(gdk-pixbuf)
 include(libglib)
 include(gobject-introspection)
 include(sqlite)
