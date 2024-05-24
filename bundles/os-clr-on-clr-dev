@@ -942,6 +942,7 @@ proj
 include(devpkg-proj)
 include(devpkg-protobuf-c)
 include(devpkg-protobuf)
+protobuf-staticdev
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 include(devpkg-pycairo)

@@ -11,6 +11,7 @@ include(devpkg-CUnit)
 include(devpkg-LVM2)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
+include(devpkg-abseil-cpp)
 include(devpkg-acl)
 include(devpkg-acl)
 acl-staticdev
@@ -47,6 +48,7 @@ include(devpkg-check)
 include(devpkg-check)
 clr-hardware-files
 clr-rpm-config
+cmake
 include(devpkg-cmocka)
 coreutils
 cppcheck
@@ -120,6 +122,7 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg)
 include(devpkg-gnutls)
+include(devpkg-googletest)
 gperf
 gpm-dev
 include(graphviz)
