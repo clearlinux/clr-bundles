@@ -64,7 +64,7 @@ pypi-pillow
 pypi-posix_ipc
 include(devpkg-protobuf-c)
 include(devpkg-protobuf)
-protobuf-python
+pypi-protobuf
 pypi-pydot
 pydotplus
 pypi-pydot_ng
