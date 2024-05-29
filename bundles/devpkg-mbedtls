@@ -1,0 +1,11 @@
+# [TITLE]: devpkg-mbedtls
+# [DESCRIPTION]: All content for pkgconfig file mbedtls.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(devpkg-base)
+
+mbedtls
+mbedtls-dev

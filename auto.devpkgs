@@ -1554,6 +1554,7 @@ MagickCore
 MagickCore-7
 MagickWand
 MagickWand-7
+mbedtls
 mbim-glib
 md4c
 md4c-html
