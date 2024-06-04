@@ -28,6 +28,7 @@ bluez
 bolt
 clutter
 colord
+colord-config
 dbus-extras
 desktop-file-utils
 include(fontconfig)
