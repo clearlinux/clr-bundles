@@ -773,6 +773,7 @@ pkgconfig(lttng-ust-ctl)	devpkg-lttng-ust
 pkgconfig(lua)	devpkg-lua
 pkgconfig(luajit)	devpkg-LuaJIT
 pkgconfig(lzo2)	devpkg-lzo
+pkgconfig(mbedtls)	devpkg-mbedtls
 pkgconfig(mbim-glib)	devpkg-libmbim
 pkgconfig(md4c)	devpkg-md4c
 pkgconfig(md4c-html)	devpkg-md4c

@@ -10,3 +10,4 @@ include(devpkg-base)
 libgd-dev
 include(lib-imageformat)
 include(perl-basic)
+include(libXpm-lib)

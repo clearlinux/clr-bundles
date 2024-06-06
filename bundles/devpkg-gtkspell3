@@ -10,3 +10,4 @@ include(devpkg-base)
 gtkspell3-dev
 include(libglib)
 include(libX11client)
+include(aspell)
