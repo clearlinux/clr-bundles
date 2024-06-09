@@ -1,0 +1,14 @@
+# [TITLE]: dracut
+# [DESCRIPTION]: dracut is an event driven initramfs infrastructure.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Daan De Meyer <daan.j.demeyer@gmail.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(binutils)
+# end of custom additions
+
+# main package
+dracut
