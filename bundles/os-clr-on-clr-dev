@@ -103,6 +103,8 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+breeze-icons
+breeze-icons-dev
 bridge-utils
 include(devpkg-brotli)
 include(devpkg-bsdiff)
