@@ -5,6 +5,10 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-lts2018-dev
+
+# Prepare to migrate to ltsprev
+include(linux-ltsprev-dev)
+
 include(perl-basic)
 include(python3-basic)
 include(systemd)

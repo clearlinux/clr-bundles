@@ -5,5 +5,9 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 linux-lts2020-dev
+
+# Prepare to migrate to ltsprev
+include(linux-ltsprev-dev)
+
 include(perl-basic)
 include(systemd)
