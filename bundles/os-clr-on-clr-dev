@@ -647,6 +647,7 @@ include(llvm)
 include(devpkg-llvm)
 include(devpkg-llvm)
 llvm-staticdev
+llvm-staticdev
 lm-sensors-dev
 include(devpkg-lmdb)
 include(devpkg-lua)

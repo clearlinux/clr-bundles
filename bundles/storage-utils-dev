@@ -699,6 +699,7 @@ xcb-proto
 include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xdg-utils
+xfsprogs-dev
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
 xmlstarlet
