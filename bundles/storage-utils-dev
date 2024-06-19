@@ -68,6 +68,7 @@ include(devpkg-c-ares)
 include(devpkg-cJSON)
 ca-certs
 include(devpkg-cairo)
+cbindgen
 include(devpkg-check)
 include(devpkg-check)
 cifs-utils-dev
@@ -630,6 +631,7 @@ include(rsync)
 ruby
 rust-bindgen
 rustc
+rustc-extras-lib32
 include(devpkg-samba)
 include(sassc)
 include(devpkg-sbc)
@@ -725,3 +727,5 @@ include(gnome-base-libs)
 include(libpcap-lib)
 include(qt6-basic)
 include(libX11client)
+include(vte-lib)
+include(clr-hardware-files)

@@ -68,6 +68,7 @@ include(devpkg-bzip2)
 include(devpkg-c-ares)
 ca-certs
 include(devpkg-cairo)
+cbindgen
 include(devpkg-check)
 include(devpkg-check)
 clear-font
@@ -485,6 +486,7 @@ include(rsync)
 ruby
 rust-bindgen
 rustc
+rustc-extras-lib32
 include(sassc)
 include(devpkg-sbc)
 include(devpkg-sbc)

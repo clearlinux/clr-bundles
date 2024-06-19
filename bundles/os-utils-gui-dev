@@ -89,6 +89,7 @@ include(devpkg-cJSON)
 ca-certs
 include(devpkg-cairo)
 include(devpkg-cairomm)
+cbindgen
 include(devpkg-check)
 include(devpkg-check)
 chrpath
@@ -839,6 +840,7 @@ include(devpkg-rtmpdump)
 ruby
 rust-bindgen
 rustc
+rustc-extras-lib32
 include(devpkg-samba)
 include(sassc)
 include(devpkg-sbc)

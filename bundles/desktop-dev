@@ -94,6 +94,7 @@ include(devpkg-cJSON)
 ca-certs
 include(devpkg-cairo)
 include(devpkg-cairomm)
+cbindgen
 check
 include(devpkg-check)
 include(devpkg-check)
@@ -1035,6 +1036,7 @@ ruby
 ruby-dev
 rust-bindgen
 rustc
+rustc-extras-lib32
 include(devpkg-samba)
 include(devpkg-sane-backends)
 include(sassc)
