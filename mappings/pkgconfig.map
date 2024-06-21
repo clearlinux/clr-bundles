@@ -407,6 +407,7 @@ pkgconfig(kj-gzip)	devpkg-capnproto
 pkgconfig(kj-http)	devpkg-capnproto
 pkgconfig(kj-test)	devpkg-capnproto
 pkgconfig(kj-tls)	devpkg-capnproto
+pkgconfig(kmod)	devpkg-kmod
 pkgconfig(kpathsea)	devpkg-texlive
 pkgconfig(krb5)	devpkg-krb5
 pkgconfig(krb5-gssapi)	devpkg-krb5

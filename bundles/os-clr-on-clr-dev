@@ -535,6 +535,7 @@ include(devpkg-libjpeg-turbo)
 include(devpkg-libkcapi)
 libkexiv2-dev
 include(devpkg-libksba)
+libksysguard-dev
 include(devpkg-libmaxminddb)
 include(devpkg-libmbim)
 include(devpkg-libmicrohttpd)
