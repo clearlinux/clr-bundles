@@ -1,10 +1,7 @@
 # [TITLE]: kernel-lts2019-dkms
 # [DESCRIPTION]: Support for module building/loading via Dynamic Kernel Module System (DKMS) in LTS2019 kernel.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include(c-basic)
-include(linux-lts2019-dev)
-clr-ignore-mod-sig
-include(dkms)
+include(kernel-ltsprev-dkms)

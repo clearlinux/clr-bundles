@@ -1,10 +1,9 @@
 # [TITLE]: linux-lts2019-dev
 # [DESCRIPTION]: Files for building modules against LTS2019 kernel.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-linux-lts2019-dev
 
 # Prepare to migrate to ltsprev
 include(linux-ltsprev-dev)

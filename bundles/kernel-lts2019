@@ -1,6 +1,6 @@
 # [TITLE]: kernel-lts2019
 # [DESCRIPTION]: Run the long-term support 5.4 native kernel.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
@@ -18,6 +18,5 @@ vbox-integration
 include(kernel-ltsprev)
 
 # kernel package
-linux-lts2019
 include(libnl)
 include(numactl)

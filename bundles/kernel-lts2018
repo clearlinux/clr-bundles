@@ -1,6 +1,6 @@
 # [TITLE]: kernel-lts2018
 # [DESCRIPTION]: Run the long-term support 4.19 native kernel.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
@@ -18,6 +18,5 @@ vbox-integration
 include(kernel-ltsprev)
 
 # kernel package
-linux-lts2018
 include(libnl)
 include(numactl)
