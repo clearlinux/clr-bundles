@@ -6,18 +6,20 @@
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(p11-kit)
 include(libstdcpp)
+include(sqlite)
 
 buildreq-distutils3
-pypi-cffi
+
 glibc-lib-avx2
+pypi-cffi
+pypi-isort
 pypi-pip
 pypi-pycodestyle
+pypi-setuptools
+pypi-virtualenv
 python3-core
 python3-dev
-pypi-setuptools
 swupd-search
-pypi-virtualenv
-include(sqlite)
 
 # include(libX11client)
 # include(libglib)
