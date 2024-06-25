@@ -717,6 +717,7 @@ pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply
+pypi-poetry_core-python3
 pypi-psutil
 pypi-py-python3
 pypi-pybind11-python3

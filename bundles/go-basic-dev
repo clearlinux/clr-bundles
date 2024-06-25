@@ -429,6 +429,7 @@ pypi-msgpack-python3
 pypi-pefile-python3
 pypi-pip
 pypi-pluggy
+pypi-poetry_core-python3
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3

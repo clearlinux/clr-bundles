@@ -599,6 +599,7 @@ pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply
+pypi-poetry_core-python3
 pypi-py-python3
 pypi-pybind11-python3
 pypi-pycparser-python3
@@ -727,5 +728,3 @@ include(gnome-base-libs)
 include(libpcap-lib)
 include(qt6-basic)
 include(libX11client)
-include(vte-lib)
-include(clr-hardware-files)

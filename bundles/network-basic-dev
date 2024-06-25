@@ -421,6 +421,7 @@ pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply-python3
+pypi-poetry_core-python3
 pypi-py-python3
 pypi-pycparser-python3
 pypi-pyelftools

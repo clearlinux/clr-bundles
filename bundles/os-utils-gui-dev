@@ -785,6 +785,7 @@ pypi-pefile-python3
 pypi-pip
 pypi-pluggy
 pypi-ply
+pypi-poetry_core-python3
 pypi-polib
 pypi-psutil
 pypi-py-python3
