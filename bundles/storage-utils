@@ -25,7 +25,6 @@ exfatprogs
 f2fs-tools
 fsarchiver
 gptfdisk
-ipmctl
 lsscsi
 mdadm
 mmc-utils

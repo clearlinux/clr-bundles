@@ -222,7 +222,6 @@ include(devpkg-inih)
 include(devpkg-intel-gmmlib)
 include(intltool)
 intltool-dev
-include(devpkg-ipmctl)
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)
