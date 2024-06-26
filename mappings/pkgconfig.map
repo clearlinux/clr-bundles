@@ -106,7 +106,6 @@ pkgconfig(SDL_net)	devpkg-SDL_net
 pkgconfig(SDL_ttf)	devpkg-SDL_ttf
 pkgconfig(SPIRV-Headers)	devpkg-SPIRV-Headers
 pkgconfig(SPIRV-Tools)	devpkg-SPIRV-Tools
-pkgconfig(SvtAv1Dec)	devpkg-SVT-AV1
 pkgconfig(SvtAv1Enc)	devpkg-SVT-AV1
 pkgconfig(SvtHevcEnc)	devpkg-SVT-HEVC
 pkgconfig(accountsservice)	devpkg-accountsservice

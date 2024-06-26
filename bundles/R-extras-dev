@@ -41,7 +41,6 @@ R-GeneralizedHyperbolic
 R-GlobalOptions
 R-Hmisc
 R-ICS
-R-IRdisplay
 R-ISwR
 R-Iso
 R-MCMCpack
@@ -397,7 +396,6 @@ R-partykit
 R-patchwork
 R-patrick
 R-pbapply
-R-pbdZMQ
 R-pbivnorm
 R-pbkrtest
 R-pcaPP
@@ -701,7 +699,6 @@ include(devpkg-check)
 include(devpkg-check)
 chrpath
 clear-font
-clr-R-helpers
 clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
