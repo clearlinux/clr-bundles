@@ -12,6 +12,7 @@ LVM2
 LVM2-extras
 autofs
 include(btrfs-progs)
+bcachefs-tools
 cifs-utils
 cryptsetup-bin
 cryptsetup-config
