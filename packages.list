@@ -486,4 +486,5 @@ UxPlay # AirPlay-Mirror and AirPlay-Audio server
 kompare # No detailed summary available
 dkms # No detailed summary available
 init-rdahead # No detailed summary available
-ripgrep # No detailed summary available 
+ripgrep # No detailed summary available
+mold # @PROJECT_DESCRIPTION@ 
