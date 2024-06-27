@@ -404,6 +404,7 @@ include(make)
 man-db
 include(devpkg-mariadb)
 include(devpkg-md4c)
+include(devpkg-mediasdk)
 mercurial
 mesa-bin
 include(devpkg-mesa)
@@ -433,6 +434,7 @@ nodejs-dev
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-numactl)
+oneVPL-dev
 include(devpkg-onig)
 include(devpkg-openal-soft)
 include(openblas)

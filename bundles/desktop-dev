@@ -587,6 +587,7 @@ mandoc
 include(devpkg-mariadb)
 mccabe-python3
 include(devpkg-md4c)
+include(devpkg-mediasdk)
 mercurial
 mesa-bin
 include(devpkg-mesa)
@@ -641,6 +642,7 @@ nss-altfiles
 include(devpkg-nss)
 include(devpkg-ntfs-3g)
 include(devpkg-numactl)
+oneVPL-dev
 include(devpkg-onig)
 include(devpkg-openal-soft)
 include(openblas)

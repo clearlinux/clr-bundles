@@ -489,6 +489,7 @@ m4
 include(make)
 include(devpkg-mariadb)
 include(devpkg-md4c)
+include(devpkg-mediasdk)
 mercurial
 mesa-bin
 include(devpkg-mesa)
@@ -534,6 +535,7 @@ nss-altfiles
 include(devpkg-nss)
 include(numactl)
 include(devpkg-numactl)
+oneVPL-dev
 open-iscsi
 include(devpkg-openal-soft)
 include(devpkg-openexr)
