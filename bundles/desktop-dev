@@ -907,6 +907,7 @@ pypi-mpmath-python3
 pypi-munkres-python3
 pypi-mypy_extensions-python3
 pypi-networkx-python3
+pypi-numpy
 pypi-numpy-python3
 pypi-numpydoc-python3
 pypi-packaging
