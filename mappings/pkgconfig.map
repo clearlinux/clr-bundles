@@ -558,6 +558,8 @@ pkgconfig(libmaxminddb)	devpkg-libmaxminddb
 pkgconfig(libmd)	devpkg-metrics-discovery
 pkgconfig(libmediaart-2.0)	devpkg-libmediaart
 pkgconfig(libmetacity)	devpkg-metacity
+pkgconfig(libmfx)	devpkg-mediasdk
+pkgconfig(libmfxhw64)	devpkg-mediasdk
 pkgconfig(libmicrohttpd)	devpkg-libmicrohttpd
 pkgconfig(libmlx4)	devpkg-rdma-core
 pkgconfig(libmlx5)	devpkg-rdma-core
@@ -941,6 +943,7 @@ pkgconfig(virglrenderer)	devpkg-virglrenderer
 pkgconfig(vorbis)	devpkg-libvorbis
 pkgconfig(vorbisenc)	devpkg-libvorbis
 pkgconfig(vorbisfile)	devpkg-libvorbis
+pkgconfig(vpl)	devpkg-oneVPL
 pkgconfig(vpx)	devpkg-libvpx
 pkgconfig(vte-2.91)	devpkg-vte
 pkgconfig(vulkan)	devpkg-Vulkan-Loader

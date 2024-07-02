@@ -156,6 +156,7 @@ R-conflicted
 R-contfrac
 R-corpcor
 R-covr
+R-cowplot
 R-cpp11
 R-crayon
 R-credentials
@@ -353,6 +354,7 @@ R-measures
 R-memisc
 R-memoise
 R-mi
+R-microbenchmark
 R-mime
 R-miniUI
 R-minpack.lm
@@ -1060,7 +1062,7 @@ nss-altfiles
 include(devpkg-nss)
 include(devpkg-numactl)
 octave-dev
-oneVPL-dev
+include(devpkg-oneVPL)
 include(devpkg-onig)
 include(devpkg-openal-soft)
 include(openblas)

@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-qtnetworkauth
-# [DESCRIPTION]: All content for pkgconfig file qtnetworkauth.pc.
+# [TITLE]: devpkg-oneVPL
+# [DESCRIPTION]: All content for pkgconfig file oneVPL.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,6 +7,5 @@
 
 include(devpkg-base)
 
-qtnetworkauth-dev
-include(qt-core)
+oneVPL-dev
 include(libstdcpp)

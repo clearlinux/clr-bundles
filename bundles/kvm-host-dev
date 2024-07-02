@@ -535,7 +535,7 @@ nss-altfiles
 include(devpkg-nss)
 include(numactl)
 include(devpkg-numactl)
-oneVPL-dev
+include(devpkg-oneVPL)
 open-iscsi
 include(devpkg-openal-soft)
 include(devpkg-openexr)

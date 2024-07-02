@@ -434,7 +434,7 @@ nodejs-dev
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-numactl)
-oneVPL-dev
+include(devpkg-oneVPL)
 include(devpkg-onig)
 include(devpkg-openal-soft)
 include(openblas)

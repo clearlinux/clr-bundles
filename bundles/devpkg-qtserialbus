@@ -10,8 +10,3 @@ include(devpkg-base)
 qtserialbus-dev
 include(qt-core)
 include(libstdcpp)
-include(libX11client)
-include(lib-opengl)
-include(qt-basic)
-include(harfbuzz-lib)
-include(lib-imageformat)
