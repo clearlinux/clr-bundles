@@ -107,6 +107,8 @@ include(devpkg-kmod)
 include(devpkg-kmod)
 libaio-dev
 include(devpkg-libbpf)
+include(devpkg-libbsd)
+include(devpkg-libbsd)
 libc6-dev
 include(devpkg-libcap)
 include(devpkg-libcap)

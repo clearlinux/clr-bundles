@@ -367,6 +367,7 @@ include(devpkg-libavtp)
 include(devpkg-libblockdev)
 include(devpkg-libbpf)
 include(devpkg-libbsd)
+include(devpkg-libbsd)
 include(devpkg-libburn)
 include(devpkg-libbytesize)
 libc6

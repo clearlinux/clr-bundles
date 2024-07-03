@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 freeglut-dev
-include(lib-opengl)
 include(libX11client)

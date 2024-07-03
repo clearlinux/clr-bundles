@@ -905,6 +905,8 @@ include(devpkg-libatomic_ops)
 include(devpkg-libatomic_ops)
 include(devpkg-libavtp)
 include(devpkg-libbpf)
+include(devpkg-libbsd)
+include(devpkg-libbsd)
 libc6
 libc6-dev
 include(devpkg-libcap)

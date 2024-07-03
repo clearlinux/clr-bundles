@@ -399,6 +399,7 @@ include(devpkg-libavtp)
 include(devpkg-libblockdev)
 include(devpkg-libbpf)
 include(devpkg-libbsd)
+include(devpkg-libbsd)
 include(devpkg-libbytesize)
 libc6
 libc6-dev

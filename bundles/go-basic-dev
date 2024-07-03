@@ -179,6 +179,8 @@ libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libatomic_ops)
 include(devpkg-libbpf)
+include(devpkg-libbsd)
+include(devpkg-libbsd)
 libc6
 libc6-dev
 include(devpkg-libcap)
