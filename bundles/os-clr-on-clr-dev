@@ -835,7 +835,6 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
-perl-IO-stringy-perl
 perl-IPC-Run-perl
 perl-IPC-Run3-perl
 perl-Importer-perl
@@ -1226,6 +1225,7 @@ include(unzip)
 include(devpkg-upower)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
+include(devpkg-utf8proc)
 utfcpp-dev
 util-linux
 util-linux-bin

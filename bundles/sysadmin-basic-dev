@@ -254,7 +254,6 @@ perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CPAN-Meta-Check-perl
-perl-Capture-Tiny-perl
 perl-Carp-Assert-perl
 perl-Class-Data-Inheritable-perl
 perl-Class-Inspector-perl
@@ -306,7 +305,6 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
-perl-IO-stringy-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
@@ -422,6 +420,8 @@ thin-provisioning-tools
 include(devpkg-tpm2-tss)
 include(tzdata)
 include(unzip)
+usbutils-dev
+include(devpkg-utf8proc)
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

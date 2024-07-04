@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 garcon-dev
-include(libX11client)
 include(libglib)
+include(libX11client)

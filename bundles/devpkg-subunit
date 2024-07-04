@@ -9,4 +9,3 @@ include(devpkg-base)
 
 subunit-dev
 include(libstdcpp)
-include(perl-basic)

@@ -648,7 +648,6 @@ perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CPAN-Meta-Check-perl
-perl-Capture-Tiny-perl
 perl-Carp-Assert-perl
 perl-Class-Data-Inheritable-perl
 perl-Class-Inspector-perl
@@ -703,7 +702,6 @@ perl-HTTP-Negotiate-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
-perl-IO-stringy-perl
 perl-IPC-Run-perl
 perl-IPC-Run3-perl
 perl-Importer-perl
@@ -963,6 +961,7 @@ include(unzip)
 include(devpkg-upower)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
+include(devpkg-utf8proc)
 utfcpp-dev
 util-linux
 util-linux-bin

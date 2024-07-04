@@ -747,9 +747,6 @@ pkgconfig(libwacom)	devpkg-libwacom
 pkgconfig(libwebp)	devpkg-libwebp
 pkgconfig(libwebpdemux)	devpkg-libwebp
 pkgconfig(libwebpmux)	devpkg-libwebp
-pkgconfig(libweston-6)	devpkg-weston
-pkgconfig(libweston-6-protocols)	devpkg-weston
-pkgconfig(libweston-desktop-6)	devpkg-weston
 pkgconfig(libwnck-3.0)	devpkg-libwnck3
 pkgconfig(libwoff2common)	devpkg-woff2
 pkgconfig(libwoff2dec)	devpkg-woff2
