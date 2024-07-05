@@ -629,8 +629,6 @@ pkgconfig(libpkcs11-helper-1)	devpkg-pkcs11-helper
 pkgconfig(libpkgconf)	devpkg-pkg-config
 pkgconfig(libpmem)	devpkg-pmdk
 pkgconfig(libpmem2)	devpkg-pmdk
-pkgconfig(libpmemblk)	devpkg-pmdk
-pkgconfig(libpmemlog)	devpkg-pmdk
 pkgconfig(libpmemobj)	devpkg-pmdk
 pkgconfig(libpmempool)	devpkg-pmdk
 pkgconfig(libpng16)	devpkg-libpng

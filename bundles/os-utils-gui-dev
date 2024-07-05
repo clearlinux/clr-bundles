@@ -745,7 +745,6 @@ perl-perl
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
-include(devpkg-pkcs11-helper)
 pkg-config
 include(devpkg-pkg-config)
 plasma-wayland-protocols-dev
