@@ -1071,6 +1071,7 @@ pypi-smmap-python3
 pypi-sortedcontainers-python3
 pypi-sphinx
 pypi-sphinx-python3
+pypi-sphinx_rtd_theme
 pypi-sphinx_rtd_theme-python3
 pypi-tomli-python3
 pypi-tox

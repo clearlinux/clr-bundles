@@ -850,6 +850,7 @@ pypi-setuptools_scm-python3
 pypi-six
 pypi-six-python3
 pypi-sphinx
+pypi-sphinx_rtd_theme
 pypi-sphinx_rtd_theme-python3
 pypi-tox
 pypi-virtualenv
