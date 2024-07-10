@@ -18,4 +18,5 @@ include(python3-basic)
 # end of custom additions
 
 # main package
-neovim
+#neovim
+filesystem
