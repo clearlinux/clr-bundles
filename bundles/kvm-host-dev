@@ -457,6 +457,7 @@ include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvdpau)
 include(devpkg-libvirt)
+libvirt-glib-dev
 include(devpkg-libvorbis)
 include(devpkg-libvorbis)
 include(devpkg-libvpx)

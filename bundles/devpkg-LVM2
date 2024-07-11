@@ -9,8 +9,3 @@ include(devpkg-base)
 
 LVM2-dev
 include(gobject-introspection)
-include(gdk-pixbuf)
-include(libX11client)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)
