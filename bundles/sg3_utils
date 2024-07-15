@@ -1,0 +1,14 @@
+# [TITLE]: sg3_utils
+# [DESCRIPTION]: Utilities for devices that use SCSI command sets
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+sg3_utils
