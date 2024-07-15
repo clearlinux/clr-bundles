@@ -212,7 +212,6 @@ include(patch)
 include(patchelf)
 include(devpkg-pcre2)
 include(devpkg-pcre2)
-perl-Getopt-Long-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 pigz

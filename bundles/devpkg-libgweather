@@ -9,5 +9,3 @@ include(devpkg-base)
 
 libgweather-dev
 include(libglib)
-include(icu4c-lib)
-include(libpsl-lib)

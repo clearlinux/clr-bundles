@@ -9,8 +9,3 @@ include(devpkg-base)
 
 libmediaart-dev
 include(libglib)
-include(gdk-pixbuf)
-include(libX11client)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(lib-imageformat)

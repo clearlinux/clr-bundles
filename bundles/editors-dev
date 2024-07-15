@@ -56,6 +56,7 @@ include(devpkg-elfutils)
 include(devpkg-expat)
 expect
 include(file)
+include(devpkg-file)
 include(flex)
 flex-dev
 gawk
@@ -172,7 +173,6 @@ passwdqc-dev
 include(patch)
 include(patchelf)
 include(devpkg-pcre2)
-perl-Getopt-Long-perl
 perl-Test-Simple-perl
 pigz
 pkg-config
