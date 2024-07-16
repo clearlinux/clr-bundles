@@ -490,4 +490,5 @@ ripgrep # No detailed summary available
 mold # @PROJECT_DESCRIPTION@
 fastfetch # No detailed summary available
 PyQt6 # Python bindings for the Qt cross platform application toolkit
-sg3_utils # Utilities for devices that use SCSI command sets 
+sg3_utils # Utilities for devices that use SCSI command sets
+snapshot # Gnome camera app
