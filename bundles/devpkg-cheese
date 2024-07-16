@@ -1,7 +1,14 @@
 # [TITLE]: devpkg-cheese
 # [DESCRIPTION]: All content for pkgconfig file cheese.pc.
-# [STATUS]: Pending-Delete
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-filesystem
+
+include(devpkg-base)
+
+cheese-dev
+include(libX11client)
+include(libglib)
+include(gstreamer)
+include(cheese)

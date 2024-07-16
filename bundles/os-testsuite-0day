@@ -27,4 +27,4 @@ include(memcached)
 include(moreutils)
 include(pandoc)
 ruby
-sg3_utils
+include(sg3_utils)
