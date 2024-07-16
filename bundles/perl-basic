@@ -13,6 +13,7 @@ perl-Config-Tiny
 perl-Crypt-SSLeay
 perl-DBI
 perl-DateTime-TimeZone
+perl-Digest-MD5
 perl-Encode-Locale
 perl-Error
 perl-File-Listing
