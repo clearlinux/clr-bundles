@@ -252,6 +252,7 @@ perl-Devel-OverloadInfo-perl
 perl-Devel-OverrideGlobalRequire-perl
 perl-Devel-StackTrace-perl
 perl-Digest-HMAC-perl
+perl-Digest-MD5-perl
 perl-Dist-CheckConflicts-perl
 perl-Encode-Locale-perl
 perl-Eval-Closure-perl

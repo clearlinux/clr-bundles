@@ -330,6 +330,7 @@ ladspa_sdk-dev
 include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
+ledmon-dev
 less-bin
 libX11
 include(devpkg-libX11)
@@ -610,6 +611,7 @@ include(devpkg-parted)
 passwdqc-dev
 include(patch)
 include(patchelf)
+include(devpkg-pciutils)
 include(devpkg-pcre)
 include(devpkg-pcre2)
 include(devpkg-pcre2)
@@ -640,6 +642,7 @@ perl-Devel-OverloadInfo-perl
 perl-Devel-OverrideGlobalRequire-perl
 perl-Devel-StackTrace-perl
 perl-Digest-HMAC-perl
+perl-Digest-MD5-perl
 perl-Dist-CheckConflicts-perl
 perl-Encode-Locale-perl
 perl-Eval-Closure-perl
@@ -848,6 +851,7 @@ include(sassc)
 include(devpkg-sbc)
 include(devpkg-sbc)
 sed
+sg3_utils-dev
 shaderc
 shaderc-dev
 shadow

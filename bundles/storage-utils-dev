@@ -468,6 +468,7 @@ perl-Devel-OverrideGlobalRequire-perl
 perl-Devel-StackTrace-perl
 perl-Digest-CRC-perl
 perl-Digest-HMAC-perl
+perl-Digest-MD5-perl
 perl-Dist-CheckConflicts-perl
 perl-Encode-Locale-perl
 perl-Eval-Closure-perl
@@ -730,3 +731,5 @@ include(gnome-base-libs)
 include(libpcap-lib)
 include(qt6-basic)
 include(libX11client)
+include(vte-lib)
+include(clr-hardware-files)

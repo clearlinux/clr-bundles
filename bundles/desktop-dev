@@ -359,6 +359,7 @@ ladspa_sdk-dev
 include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
+ledmon-dev
 include(devpkg-lensfun)
 include(devpkg-leptonica)
 include(less)
@@ -708,6 +709,7 @@ perl-Devel-OverrideGlobalRequire-perl
 perl-Devel-StackTrace-perl
 perl-Digest-CRC-perl
 perl-Digest-HMAC-perl
+perl-Digest-MD5-perl
 perl-Dist-CheckConflicts-perl
 perl-Encode-Locale-perl
 perl-Eval-Closure-perl
