@@ -16,7 +16,6 @@ include(devpkg-LVM2)
 include(devpkg-LibRaw)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
-R-AER
 R-BBmisc
 R-BH
 R-BMA
