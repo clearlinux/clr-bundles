@@ -414,6 +414,7 @@ pkgconfig(ksba)	devpkg-libksba
 pkgconfig(kyotocabinet)	devpkg-kyotocabinet
 pkgconfig(lcms2)	devpkg-lcms2
 pkgconfig(ldb)	devpkg-ldb
+pkgconfig(ledmon)	devpkg-ledmon
 pkgconfig(lensfun)	devpkg-lensfun
 pkgconfig(libR)	devpkg-R
 pkgconfig(libabigail)	devpkg-libabigail

@@ -359,7 +359,7 @@ ladspa_sdk-dev
 include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
-ledmon-dev
+include(devpkg-ledmon)
 include(devpkg-lensfun)
 include(devpkg-leptonica)
 include(less)

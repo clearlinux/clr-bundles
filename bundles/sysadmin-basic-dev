@@ -146,7 +146,7 @@ kmod
 include(devpkg-kmod)
 include(devpkg-kmod)
 include(devpkg-krb5)
-ledmon-dev
+include(devpkg-ledmon)
 include(less)
 less-bin
 include(devpkg-libX11)

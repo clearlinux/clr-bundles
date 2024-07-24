@@ -9,5 +9,3 @@ include(devpkg-base)
 
 oneVPL-dev
 include(libstdcpp)
-include(libX11client)
-include(lib-opengl)

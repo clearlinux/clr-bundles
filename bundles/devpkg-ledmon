@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-libical
-# [DESCRIPTION]: All content for pkgconfig file libical.pc.
+# [TITLE]: devpkg-ledmon
+# [DESCRIPTION]: All content for pkgconfig file ledmon.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,6 +7,4 @@
 
 include(devpkg-base)
 
-libical-dev
-include(libglib)
-include(libstdcpp)
+ledmon-dev
