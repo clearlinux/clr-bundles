@@ -25,6 +25,7 @@ abireport
 include(binutils)
 pypi-chardet
 include(gnupg)
+pypi-jinja2
 pypi-pycurl
 pypi-toml
 pypi-urllib3
