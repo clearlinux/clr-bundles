@@ -14,7 +14,6 @@ include(perl-basic)
 LVM2-bin
 LVM2-config
 cloud-native-setup
-cni
 cni-plugins
 containerd
 cri-o
