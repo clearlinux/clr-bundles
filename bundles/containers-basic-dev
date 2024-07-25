@@ -441,6 +441,7 @@ include(devpkg-pcre2)
 include(devpkg-pcre2)
 include(devpkg-pcsc-lite)
 perl
+perl-Digest-MD5-perl
 perl-Error
 perl-IPC-Run-perl
 perl-Test-Simple-perl

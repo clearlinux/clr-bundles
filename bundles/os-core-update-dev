@@ -212,6 +212,7 @@ include(patch)
 include(patchelf)
 include(devpkg-pcre2)
 include(devpkg-pcre2)
+perl-Digest-MD5-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 pigz

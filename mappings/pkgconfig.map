@@ -816,7 +816,6 @@ pkgconfig(openssl)	devpkg-openssl
 pkgconfig(opus)	devpkg-opus
 pkgconfig(opusfile)	devpkg-opusfile
 pkgconfig(opusurl)	devpkg-opusfile
-pkgconfig(orte)	devpkg-openmpi
 pkgconfig(ostree-1)	devpkg-ostree
 pkgconfig(p11-kit-1)	devpkg-p11-kit
 pkgconfig(pango)	devpkg-pango
