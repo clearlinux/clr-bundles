@@ -493,5 +493,4 @@ PyQt6 # Python bindings for the Qt cross platform application toolkit
 sg3_utils # Utilities for devices that use SCSI command sets
 snapshot # Gnome camera app
 fd # find alternative
-ddcutil # Control display settings
-zed # No detailed summary available 
+ddcutil # Control display settings 
