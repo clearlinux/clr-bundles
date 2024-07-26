@@ -219,7 +219,6 @@ perl-Devel-Symdump
 perl-Digest-CRC
 perl-Digest-HMAC
 perl-Digest-JHash
-perl-Digest-MD5
 perl-Digest-SHA1
 perl-Digest-SHA3
 perl-Dist-CheckConflicts
@@ -556,6 +555,7 @@ perl-Plack
 perl-Pod-Constants
 perl-Pod-Coverage
 perl-Pod-LaTeX
+perl-Pod-Markdown
 perl-Pod-POM
 perl-Pod-Parser
 perl-Pod-Plainer
