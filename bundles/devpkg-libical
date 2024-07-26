@@ -10,3 +10,4 @@ include(devpkg-base)
 libical-dev
 include(libglib)
 include(libstdcpp)
+include(icu4c-lib)
