@@ -187,7 +187,6 @@ R-dotCall64
 R-downlit
 R-dplyr
 R-dtplyr
-R-duckdb
 R-dygraphs
 R-dynlm
 R-e1071
@@ -375,7 +374,6 @@ R-munsell
 R-mvnormtest
 R-mvtnorm
 R-nanoarrow
-R-nanoparquet
 R-natserv
 R-ncbit
 R-network
