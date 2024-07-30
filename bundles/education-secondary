@@ -10,7 +10,6 @@ include(desktop-kde-libs)
 include(libX11client)
 include(qt-basic)
 
-fritzing-app
 kbruch
 include(kalgebra)
 include(kgeography)

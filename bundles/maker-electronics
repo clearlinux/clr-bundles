@@ -13,5 +13,4 @@ include(qt-basic)
 
 # Design tools
 include(kicad)
-fritzing-app
 ngspice
