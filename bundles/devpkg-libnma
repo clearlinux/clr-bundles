@@ -11,4 +11,3 @@ libnma-dev
 include(libX11client)
 include(libglib)
 include(lib-openssl)
-include(libpsl-lib)

@@ -1255,6 +1255,7 @@ pypi-jinja2-python3
 pypi-lxml
 pypi-mako
 pypi-msgpack-python3
+pypi-numpy
 pypi-numpy-python3
 pypi-packaging-python3
 pypi-pefile-python3
