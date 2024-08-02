@@ -496,4 +496,4 @@ fd # find alternative
 ddcutil # Control display settings
 qmapshack # No detailed summary available
 valkey # Minimalistic C client library for Redis.
-openvino # Extends sphinx-sitemap plugin with additional sitemap metadata 
+openvino # OpenVINO runtime libraries and plugins
