@@ -712,7 +712,6 @@ perl-Test-Without-Module
 perl-Test-YAML
 perl-Test-utf8
 perl-Test2-Plugin-NoWarnings
-perl-Test2-Suite
 perl-Text-Autoformat
 perl-Text-Brew
 perl-Text-CSV
