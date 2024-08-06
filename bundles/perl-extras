@@ -652,7 +652,6 @@ perl-Term-ReadPassword
 perl-Term-Shell
 perl-Term-ShellUI
 perl-Term-Size-Perl
-perl-Term-Table
 perl-Term-UI
 perl-Test-Assertions
 perl-Test-Base

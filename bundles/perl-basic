@@ -28,6 +28,7 @@ perl-IO-HTML
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-Params-Validate
+perl-Term-Table
 perl-Test-Simple
 perl-Try-Tiny
 perl-URI
