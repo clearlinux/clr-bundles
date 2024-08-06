@@ -371,6 +371,7 @@ perl-Sub-Info-perl
 perl-Sub-Install-perl
 perl-Sub-Quote-perl
 perl-Sub-Uplevel-perl
+perl-Term-Table-perl
 perl-Test-Base-perl
 perl-Test-Deep-perl
 perl-Test-Exception-perl

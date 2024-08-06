@@ -5,3 +5,4 @@
 # [TAGS]: Productivity, Editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(gnome-text-editor)
+include(gobject-introspection)
