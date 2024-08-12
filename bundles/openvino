@@ -9,6 +9,8 @@ include(python3-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libxml2)
+include(protobuf-lib)
 include(pypi-numpy)
 
 # end of custom additions
