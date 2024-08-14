@@ -166,6 +166,7 @@ include(devpkg-expat)
 expect
 extra-cmake-modules
 extra-cmake-modules-data
+fdk-aac-dev
 include(devpkg-fftw)
 include(file)
 file-bin
