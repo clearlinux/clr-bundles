@@ -17,7 +17,7 @@ include(libssh-lib)
 include(numactl)
 include(libevent-lib)
 include(dav1d-lib)
-include(lib-qt5webengine)
+# include(lib-qt5webengine)
 
 # end of custom additions
 
