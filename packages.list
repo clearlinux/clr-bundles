@@ -497,4 +497,5 @@ ddcutil # Control display settings
 qmapshack # No detailed summary available
 valkey # Minimalistic C client library for Redis.
 openvino # OpenVINO runtime libraries and plugins
-libgbinder # Binder client library 
+libgbinder # Binder client library
+waydroid # No detailed summary available 
