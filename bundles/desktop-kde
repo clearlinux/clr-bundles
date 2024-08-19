@@ -199,3 +199,4 @@ kpipewire
 kquickcharts
 include(vte-lib)
 include(qt6-basic)
+plasma-systemmonitor
