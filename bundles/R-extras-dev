@@ -220,7 +220,6 @@ R-findpython
 R-fit.models
 R-flashClust
 R-flexmix
-R-flexsurvcure
 R-flextable
 R-fontBitstreamVera
 R-fontLiberation
@@ -564,7 +563,6 @@ R-strucchange
 R-styler
 R-subplex
 R-survey
-R-survminer
 R-svglite
 R-sys
 R-systemfit
