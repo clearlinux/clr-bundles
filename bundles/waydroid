@@ -7,6 +7,8 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(dbus-lib)
+include(python3-basic)
 lxc
 pypi-pyclip
 include(dhcp-server)
