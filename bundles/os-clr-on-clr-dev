@@ -1032,6 +1032,7 @@ pypi-pathspec
 pypi-pbr
 pypi-pefile-python3
 pypi-pip
+pypi-pkgconfig-python3
 pypi-platformdirs-python3
 pypi-pluggy
 pypi-pluggy-python3
