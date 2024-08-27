@@ -364,6 +364,7 @@ perl-IPC-ShareLite
 perl-IPC-Shareable
 perl-IPC-System-Simple
 perl-Image-Base
+perl-Image-ExifTool
 perl-Image-Info
 perl-Image-Size
 perl-Image-Xbm
