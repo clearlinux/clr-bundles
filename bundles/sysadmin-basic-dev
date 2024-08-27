@@ -251,6 +251,7 @@ include(devpkg-pciutils)
 include(devpkg-pcre)
 include(devpkg-pcre2)
 include(devpkg-pcre2)
+perl
 perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
