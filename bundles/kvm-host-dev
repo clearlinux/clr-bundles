@@ -873,6 +873,7 @@ vala-bin
 include(devpkg-vala)
 include(valgrind)
 include(devpkg-valgrind)
+vapoursynth-dev
 vid.stab-dev
 include(devpkg-virglrenderer)
 include(devpkg-vte)
