@@ -152,8 +152,6 @@ pkgconfig(capnp-rpc)	devpkg-capnproto
 pkgconfig(capstone)	devpkg-capstone
 pkgconfig(cfitsio)	devpkg-cfitsio
 pkgconfig(check)	devpkg-check
-pkgconfig(cheese)	devpkg-cheese
-pkgconfig(cheese-gtk)	devpkg-cheese
 pkgconfig(cloudproviders)	devpkg-libcloudproviders
 pkgconfig(clutter-1.0)	devpkg-clutter
 pkgconfig(clutter-gst-3.0)	devpkg-clutter-gst
