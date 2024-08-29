@@ -499,4 +499,5 @@ valkey # Minimalistic C client library for Redis.
 openvino # OpenVINO runtime libraries and plugins
 libgbinder # Binder client library
 waydroid # No detailed summary available
-MangoHud # A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. 
+MangoHud # A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+winegui # No detailed summary available 

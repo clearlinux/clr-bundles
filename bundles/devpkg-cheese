@@ -7,8 +7,6 @@
 
 include(devpkg-base)
 
-cheese-dev
 include(libX11client)
 include(libglib)
 include(gstreamer)
-include(cheese)
