@@ -8,3 +8,7 @@
 include(devpkg-base)
 
 libass-dev
+include(libX11client)
+include(harfbuzz-lib)
+include(icu4c-lib)
+include(lib-imageformat)

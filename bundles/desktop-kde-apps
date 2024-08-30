@@ -139,3 +139,6 @@ include(mpfr-lib)
 krdc
 also-add(kompare)
 include(qt6-basic)
+include(libXpm-lib)
+include(libarchive)
+include(protobuf-lib)
