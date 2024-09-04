@@ -18,6 +18,9 @@ include(dbus-lib)
 include(libX11client)
 include(gdk-pixbuf)
 include(cabextract)
+include(unzip)
+include(wget)
+p7zip
 # end of custom additions
 
 # main package
