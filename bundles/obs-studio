@@ -16,6 +16,7 @@ include(numactl)
 include(dav1d-lib)
 include(gnome-base-libs)
 include(qt6-basic)
+wlrobs
 
 # end of custom additions
 
