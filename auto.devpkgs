@@ -739,7 +739,6 @@ hogweed
 htslib
 hunspell
 hwloc
-hyperscan
 i3
 i915-perf
 ias
@@ -2125,6 +2124,7 @@ vapigen-0
 varnishapi
 varnish-cache
 vdpau
+vectorscan
 videoproto
 virglrenderer
 vkd3d
