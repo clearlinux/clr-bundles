@@ -43,6 +43,7 @@ SPIRV-Cross
 include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
+include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
 include(devpkg-SVT-HEVC)
 include(Sphinx)
@@ -1101,6 +1102,7 @@ include(devpkg-qatlib)
 qca-dev
 qemu
 qemu-setuid
+qpl-dev
 include(devpkg-qrencode)
 qt5compat-dev
 include(devpkg-qt6base)

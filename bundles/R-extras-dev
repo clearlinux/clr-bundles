@@ -16,6 +16,7 @@ include(devpkg-LVM2)
 include(devpkg-LibRaw)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
+PyYAML
 R-BBmisc
 R-BH
 R-BMA
@@ -636,6 +637,7 @@ include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 include(devpkg-SPIRV-Headers)
 SPIRV-Tools
+include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
 include(devpkg-SVT-HEVC)

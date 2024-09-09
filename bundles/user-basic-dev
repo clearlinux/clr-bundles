@@ -26,12 +26,14 @@ include(devpkg-Linux-PAM)
 include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 OpenSP
+PyYAML
 include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
 include(devpkg-SPIRV-Headers)
 SPIRV-Tools
+include(devpkg-SPIRV-Tools)
 include(devpkg-SPIRV-Tools)
 include(devpkg-SVT-AV1)
 include(devpkg-SVT-HEVC)
@@ -866,6 +868,7 @@ pyudev
 include(devpkg-qatlib)
 qemu
 qemu-setuid
+qpl-dev
 include(devpkg-qrencode)
 include(devpkg-qt6base)
 qt6shadertools-dev
