@@ -1,0 +1,21 @@
+# [TITLE]: hardinfo2
+# [DESCRIPTION]: System Information and Benchmark for Linux Systems
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(libglib)
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(iperf)
+udisks2
+dmidecode
+lsscsi
+include(lm-sensors)
+xdg-utils
+also-add(firmware-update)
+# end of custom additions
+
+# main package
+hardinfo2
