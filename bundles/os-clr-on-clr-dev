@@ -687,7 +687,7 @@ mkfontscale-bin
 mobile-broadband-provider-info
 include(devpkg-mobile-broadband-provider-info)
 include(modules)
-include(devpkg-mozjs115)
+mozjs128-dev
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mpg123)

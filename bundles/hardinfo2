@@ -8,6 +8,11 @@
 include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(lib-openssl)
+include(libpsl-lib)
+include(curl)
+include(qt-basic)
+include(qt-core)
 include(iperf)
 udisks2
 dmidecode
