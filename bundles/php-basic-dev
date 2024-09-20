@@ -455,7 +455,6 @@ pypi-hatchling-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-mako
-pypi-packaging-python3
 pypi-pefile-python3
 pypi-pip
 pypi-pluggy
