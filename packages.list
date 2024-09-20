@@ -502,4 +502,5 @@ waydroid # No detailed summary available
 MangoHud # A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 winegui # No detailed summary available
 xboxdrv # No detailed summary available
-hardinfo2 # System Information and Benchmark for Linux Systems 
+hardinfo2 # System Information and Benchmark for Linux Systems
+mesa-demos # No detailed summary available 

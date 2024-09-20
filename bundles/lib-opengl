@@ -16,7 +16,7 @@ include(libxml2)
 include(ncurses-lib)
 include(harfbuzz-lib)
 include(libstdcpp)
-mesa-demos
+also-add(mesa-demos)
 include(libglib)
 harfbuzz-lib
 libX11-lib
