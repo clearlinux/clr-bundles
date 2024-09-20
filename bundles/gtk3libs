@@ -1,0 +1,15 @@
+# [TITLE]: gtk4libs
+# [DESCRIPTION]: GTK4 libraries
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities, Python
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(libX11client)
+include(libglib)
+
+# start of custom additions (edits outside this area will be removed automatically)
+# end of custom additions
+
+# main package
+gtk3-lib
