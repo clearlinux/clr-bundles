@@ -37,8 +37,8 @@ Vulkan-Loader
 pciutils-lib
 
 # almost all GUI stuff pulls in GTK
-gtk3-lib
-gtk4-lib
+also-add(gtk3libs)
+also-add(gtk4libs)
 
 # and a lot of it pulls in SDL
 SDL2-lib
