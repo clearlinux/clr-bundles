@@ -41,7 +41,7 @@ include(findutils)
 gawk
 gawk-extras
 glibc-bin
-include(glibc-locale)
+also-add(glibc-locale)
 gpm
 grep
 include(gzip)
