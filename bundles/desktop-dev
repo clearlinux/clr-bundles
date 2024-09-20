@@ -316,7 +316,6 @@ include(devpkg-gtkmm3)
 include(devpkg-gtksourceview)
 include(guile)
 include(devpkg-gutenprint)
-gvfs-dev
 include(gzip)
 include(devpkg-harfbuzz)
 help2man
