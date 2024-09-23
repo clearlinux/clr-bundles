@@ -206,7 +206,6 @@ include(devpkg-gi-docgen)
 include(git)
 include(gjs)
 include(devpkg-gjs)
-include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 include(devpkg-glib)
@@ -352,7 +351,6 @@ include(devpkg-libdaemon)
 include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 libdbusmenu-dev
-libdecor-dev
 include(devpkg-libdisplay-info)
 include(devpkg-libdrm)
 include(devpkg-libdrm)

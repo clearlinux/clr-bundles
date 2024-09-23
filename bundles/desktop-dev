@@ -239,7 +239,6 @@ include(devpkg-gimp)
 include(git)
 include(gjs)
 include(devpkg-gjs)
-include(devpkg-glew)
 glib
 glib-bin
 include(devpkg-glib)
@@ -316,6 +315,7 @@ include(devpkg-gtkmm3)
 include(devpkg-gtksourceview)
 include(guile)
 include(devpkg-gutenprint)
+gvfs-dev
 include(gzip)
 include(devpkg-harfbuzz)
 help2man
@@ -423,7 +423,6 @@ include(devpkg-libdatrie)
 include(devpkg-libdatrie)
 include(devpkg-libdazzle)
 libdbusmenu-dev
-libdecor-dev
 include(devpkg-libdisplay-info)
 include(devpkg-libdmx)
 include(devpkg-libdrm)

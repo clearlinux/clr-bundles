@@ -59,7 +59,7 @@ libva
 libva-intel-driver
 include(linux-firmware-extras)
 include(linux-firmware-wifi)
-mesa-demos
+include(mesa-demos)
 mkfontdir
 mkfontscale
 openconnect
