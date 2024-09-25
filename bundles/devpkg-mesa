@@ -11,3 +11,4 @@ mesa-dev
 include(libX11client)
 include(libstdcpp)
 include(libglib)
+include(lib-opengl)

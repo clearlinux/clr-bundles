@@ -10,3 +10,5 @@ include(devpkg-base)
 gnome-desktop-dev
 include(libX11client)
 include(libglib)
+include(lib-opengl)
+include(gstreamer)

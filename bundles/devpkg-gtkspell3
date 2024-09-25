@@ -11,3 +11,4 @@ gtkspell3-dev
 include(libglib)
 include(libX11client)
 include(aspell)
+include(lib-opengl)

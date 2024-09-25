@@ -9,6 +9,7 @@ include(libX11client)
 include(libstdcpp)
 
 # start of custom additions
+include(lib-opengl)
 include(minetestserver)
 
 # end of custom additions

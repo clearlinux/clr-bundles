@@ -8,3 +8,4 @@ mesa
 wayland
 xwayland
 xkbcomp
+include(lib-opengl)

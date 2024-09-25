@@ -9,3 +9,4 @@ include(devpkg-base)
 
 freeglut-dev
 include(libX11client)
+include(lib-opengl)

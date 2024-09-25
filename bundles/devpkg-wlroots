@@ -9,3 +9,4 @@ include(devpkg-base)
 
 wlroots-dev
 include(libX11client)
+include(lib-opengl)

@@ -11,3 +11,4 @@ libpeas-dev
 include(libglib)
 include(libX11client)
 include(gobject-introspection)
+include(lib-opengl)
