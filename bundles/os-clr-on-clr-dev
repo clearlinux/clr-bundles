@@ -39,7 +39,6 @@ include(devpkg-SDL)
 include(devpkg-SDL2)
 include(devpkg-SDL2)
 include(devpkg-SDL2_image)
-SPIRV-Cross
 include(devpkg-SPIRV-Headers)
 SPIRV-Tools
 include(devpkg-SPIRV-Tools)
@@ -315,7 +314,6 @@ go
 include(gobject-introspection)
 include(devpkg-gobject-introspection)
 gobject-introspection-lib
-googletest
 include(devpkg-googletest)
 gperf
 include(gpgme)
