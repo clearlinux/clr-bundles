@@ -358,7 +358,6 @@ mercurial
 mesa-bin
 include(devpkg-mesa)
 include(devpkg-mesa)
-meson
 include(devpkg-metrics-discovery)
 mingw-gcc
 mpc-dev

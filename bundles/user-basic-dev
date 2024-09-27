@@ -467,7 +467,6 @@ mercurial
 mesa-bin
 include(devpkg-mesa)
 include(devpkg-mesa)
-meson
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)

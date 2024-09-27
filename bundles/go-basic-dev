@@ -246,7 +246,6 @@ m4
 include(make)
 mercurial
 include(devpkg-mesa)
-meson
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
