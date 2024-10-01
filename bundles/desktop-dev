@@ -1140,6 +1140,7 @@ tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
 tracker-dev
+include(tracker-miners)
 include(tzdata)
 include(devpkg-udisks2)
 include(devpkg-uhttpmock)
