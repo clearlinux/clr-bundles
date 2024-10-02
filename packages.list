@@ -504,4 +504,5 @@ winegui # No detailed summary available
 xboxdrv # No detailed summary available
 hardinfo2 # System Information and Benchmark for Linux Systems
 mesa-demos # No detailed summary available
-p7zip # 7-zip file compression program 
+p7zip # 7-zip file compression program
+nextcloud-desktop # Nextcloud desktop client
