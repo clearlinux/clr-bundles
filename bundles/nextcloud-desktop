@@ -9,6 +9,18 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
+include(libxml2)
+include(lib-openssl)
+include(nettle-lib)
+include(lib-imageformat)
+include(icu4c-lib)
+include(harfbuzz-lib)
+include(libevent-lib)
+include(curl)
+include(qt6-basic)
+include(lib-opengl)
+include(libX11client)
+include(gdk-pixbuf)
 
 # end of custom additions
 

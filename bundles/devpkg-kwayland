@@ -12,3 +12,4 @@ kwayland-dev
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)
+include(lib-openssl)

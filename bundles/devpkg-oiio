@@ -11,3 +11,4 @@ oiio-dev
 include(lib-imageformat)
 include(libstdcpp)
 include(opencv-python)
+include(icu4c-lib)
