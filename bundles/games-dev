@@ -520,6 +520,7 @@ nspr-lib32
 nss-altfiles
 include(devpkg-nss)
 include(devpkg-numactl)
+include(devpkg-ocl-icd)
 include(devpkg-oneVPL)
 include(devpkg-openal-soft)
 include(devpkg-openconnect)

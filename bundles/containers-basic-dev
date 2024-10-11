@@ -373,6 +373,7 @@ nodejs-dev
 npth-dev
 nss-altfiles
 include(devpkg-numactl)
+include(devpkg-ocl-icd)
 openjdk
 openjdk-dev
 openldap-dev

@@ -335,6 +335,7 @@ include(devpkg-nghttp2)
 nghttp3-dev
 ninja
 nss-altfiles
+include(devpkg-ocl-icd)
 include(devpkg-onig)
 openjdk
 openjdk-dev

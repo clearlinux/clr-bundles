@@ -401,6 +401,7 @@ nss-altfiles
 include(devpkg-nss)
 include(numactl)
 include(devpkg-numactl)
+include(devpkg-ocl-icd)
 open-iscsi
 openjdk
 openjdk-dev

@@ -498,6 +498,7 @@ nss-altfiles
 include(devpkg-nss)
 include(numactl)
 include(devpkg-numactl)
+include(devpkg-ocl-icd)
 include(devpkg-onig)
 open-iscsi
 include(devpkg-open-isns)

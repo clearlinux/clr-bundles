@@ -647,6 +647,7 @@ nss-altfiles
 include(devpkg-nss)
 include(devpkg-ntfs-3g)
 include(devpkg-numactl)
+include(devpkg-ocl-icd)
 include(devpkg-oneVPL)
 include(devpkg-onig)
 include(devpkg-openal-soft)

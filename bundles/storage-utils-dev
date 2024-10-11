@@ -354,6 +354,7 @@ nghttp3-dev
 ninja
 nss-altfiles
 include(devpkg-ntfs-3g)
+include(devpkg-ocl-icd)
 include(devpkg-open-iscsi)
 include(devpkg-open-isns)
 openjdk
