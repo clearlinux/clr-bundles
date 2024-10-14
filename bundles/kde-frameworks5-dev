@@ -709,7 +709,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-include(devpkg-phonon)
 pigz
 include(devpkg-pipewire)
 include(devpkg-pixman)
