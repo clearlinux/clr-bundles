@@ -22,7 +22,7 @@ harfbuzz-lib
 libX11-lib
 fontconfig-lib
 freetype-lib
-
+libclc
 # end of custom additions
 
 # main packages
