@@ -4,19 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-console-autostart
-include(bootloader)
-include(libglib)
-include(linux-firmware)
-include(linux-firmware-extras)
-init-rdahead-extras
-irqbalance
-mcelog
-vbox-integration
-
-# Prepare to migrate to ltsprev
-include(kernel-ltsprev)
-
-# kernel package
-include(libnl)
-include(numactl)
+filesystem

@@ -4,4 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-include(kernel-ltsprev-dkms)
+filesystem

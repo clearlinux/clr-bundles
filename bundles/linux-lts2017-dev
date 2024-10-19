@@ -6,7 +6,4 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 # Prepare to migrate to ltsprev
-include(linux-ltsprev-dev)
-
-include(perl-basic)
-include(systemd)
+filesystem
