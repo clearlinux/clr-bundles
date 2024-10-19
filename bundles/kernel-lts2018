@@ -1,6 +1,6 @@
 # [TITLE]: kernel-lts2018
 # [DESCRIPTION]: Run the long-term support 4.19 native kernel.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>

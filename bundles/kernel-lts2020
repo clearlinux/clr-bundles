@@ -1,6 +1,6 @@
 # [TITLE]: kernel-lts2020
 # [DESCRIPTION]: Run the long-term support 5.10 native kernel.
-# [STATUS]: Deprecated
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
