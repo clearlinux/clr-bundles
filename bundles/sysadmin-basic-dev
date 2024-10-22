@@ -425,7 +425,6 @@ thin-provisioning-tools
 include(devpkg-tpm2-tss)
 include(tzdata)
 include(unzip)
-usbutils-dev
 include(devpkg-utf8proc)
 util-linux
 util-linux-bin
