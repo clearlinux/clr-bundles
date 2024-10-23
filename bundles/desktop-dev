@@ -94,6 +94,8 @@ bzip2
 include(devpkg-bzip2)
 include(devpkg-bzip2)
 include(devpkg-c-ares)
+c-blosc-dev
+c-blosc2-dev
 include(devpkg-cJSON)
 ca-certs
 include(devpkg-cairo)
@@ -318,6 +320,7 @@ include(devpkg-gutenprint)
 gvfs-dev
 include(gzip)
 include(devpkg-harfbuzz)
+hdf5-dev
 help2man
 hostname
 httpd-dev
@@ -346,6 +349,7 @@ itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
 include(devpkg-jemalloc)
+include(jq)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
@@ -607,6 +611,7 @@ mkfontscale-bin
 include(devpkg-mm-common)
 mobile-broadband-provider-info
 include(devpkg-mobile-broadband-provider-info)
+include(modules)
 mozjs128-dev
 mpc-dev
 include(devpkg-mpfr)
@@ -636,6 +641,7 @@ include(devpkg-nghttp2)
 include(devpkg-nghttp2)
 nghttp3-dev
 ninja
+ninja-python3
 include(nmap)
 nmap-extras
 nodejs-dev
@@ -852,6 +858,7 @@ pypi-billiard-python3
 pypi-black-python3
 pypi-blinker-python3
 pypi-blockdiag-python3
+pypi-blosc2-python3
 pypi-booleanoperations-python3
 pypi-bracex-python3
 pypi-brotli-python3
@@ -924,9 +931,12 @@ pypi-meson_python
 pypi-meson_python-python3
 pypi-mock-python3
 pypi-mpmath-python3
+pypi-msgpack-python3
 pypi-munkres-python3
 pypi-mypy_extensions-python3
+pypi-ndindex-python3
 pypi-networkx-python3
+pypi-numexpr-python3
 pypi-numpy
 pypi-numpy-python3
 pypi-numpydoc-python3
@@ -954,6 +964,7 @@ pypi-psutil
 pypi-ptyprocess-python3
 pypi-py
 pypi-py-python3
+pypi-py_cpuinfo-python3
 pypi-pyaml
 pypi-pyasn1-python3
 pypi-pybind11

@@ -140,6 +140,7 @@ intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-jemalloc)
+include(jq)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-keyutils)
@@ -405,6 +406,7 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 include(devpkg-readline)
 ruby
+rustc
 sed
 sg3_utils-dev
 shadow

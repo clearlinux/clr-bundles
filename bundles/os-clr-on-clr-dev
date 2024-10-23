@@ -378,6 +378,7 @@ itstool
 include(devpkg-jack2)
 include(devpkg-jansson)
 include(devpkg-jemalloc)
+include(jq)
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-json-glib)
