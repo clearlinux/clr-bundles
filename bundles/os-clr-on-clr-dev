@@ -1079,7 +1079,6 @@ pypi-tomli-python3
 pypi-tox
 pypi-tox-python3
 pypi-trove_classifiers-python3
-pypi-typed_ast-python3
 pypi-types_psutil-python3
 pypi-types_setuptools-python3
 pypi-typing_extensions-python3
