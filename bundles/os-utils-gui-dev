@@ -733,7 +733,6 @@ perl-Test-Taint-perl
 perl-Test-Warn-perl
 perl-Test-Warnings-perl
 perl-Test-Without-Module-perl
-perl-Test2-Plugin-NoWarnings-perl
 perl-TimeDate-perl
 perl-Try-Tiny-perl
 perl-URI
@@ -775,6 +774,7 @@ pypi-cu2qu-python3
 include(pypi-cython)
 pypi-dnspython
 pypi-docutils
+pypi-docutils-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-hatch_vcs

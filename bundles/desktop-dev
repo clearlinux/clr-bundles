@@ -807,7 +807,6 @@ perl-Test-Taint-perl
 perl-Test-Warn-perl
 perl-Test-Warnings-perl
 perl-Test-Without-Module-perl
-perl-Test2-Plugin-NoWarnings-perl
 perl-TimeDate-perl
 perl-Try-Tiny-perl
 perl-URI-perl
@@ -910,7 +909,6 @@ pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-jinja2-python3
-pypi-jmespath-python3
 pypi-jsonschema-python3
 pypi-jsonschema_specifications-python3
 pypi-jupyter_core-python3
@@ -947,6 +945,7 @@ pypi-pathspec-python3
 pypi-pbr
 pypi-pbr-python3
 pypi-pefile-python3
+pypi-pep517-python3
 pypi-pep8-python3
 pypi-pillow-python3
 pypi-pip

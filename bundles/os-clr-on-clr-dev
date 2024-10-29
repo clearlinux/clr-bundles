@@ -903,7 +903,6 @@ perl-Test-Taint-perl
 perl-Test-Warn-perl
 perl-Test-Warnings-perl
 perl-Test-Without-Module-perl
-perl-Test2-Plugin-NoWarnings-perl
 perl-Text-Diff-perl
 perl-TimeDate-perl
 perl-Try-Tiny-perl
@@ -988,6 +987,7 @@ include(pypi-cython)
 pypi-cython-python3
 pypi-dnspython
 pypi-docutils
+pypi-docutils-python3
 pypi-exceptiongroup-python3
 pypi-execnet-python3
 pypi-filelock-python3

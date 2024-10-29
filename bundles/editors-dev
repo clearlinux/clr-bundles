@@ -182,6 +182,7 @@ include(procps-ng)
 procps-ng-bin
 include(pypi-cython)
 pypi-docutils
+pypi-docutils-python3
 pypi-jinja2-python3
 pypi-lxml
 pypi-pefile-python3
