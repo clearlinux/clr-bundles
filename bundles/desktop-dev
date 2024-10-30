@@ -909,6 +909,7 @@ pypi-iniconfig-python3
 pypi-ipython-python3
 pypi-iso8601
 pypi-jinja2-python3
+pypi-jmespath-python3
 pypi-jsonschema-python3
 pypi-jsonschema_specifications-python3
 pypi-jupyter_core-python3
@@ -1003,7 +1004,6 @@ pypi-scikit_build_core-python3
 pypi-scikit_learn-python3
 pypi-setuptools
 pypi-setuptools-python3
-pypi-setuptools_rust-python3
 pypi-setuptools_scm-python3
 pypi-six
 pypi-six-python3
@@ -1184,6 +1184,7 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 include(devpkg-webkitgtk)
+webkitgtk60-dev
 include(which)
 include(devpkg-woff2)
 x264-dev
