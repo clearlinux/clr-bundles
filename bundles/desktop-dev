@@ -939,6 +939,7 @@ pypi-numexpr-python3
 pypi-numpy
 pypi-numpy-python3
 pypi-numpydoc-python3
+pypi-orjson-python3
 pypi-packaging
 pypi-packaging-python3
 pypi-pathspec

@@ -1028,6 +1028,7 @@ pypi-munkres-python3
 pypi-mypy_extensions-python3
 pypi-numpy
 pypi-numpy-python3
+pypi-orjson-python3
 pypi-packaging-python3
 pypi-pathspec
 pypi-pbr
