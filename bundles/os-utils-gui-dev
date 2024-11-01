@@ -769,7 +769,6 @@ include(devpkg-pygobject)
 pypi-appdirs-python3
 pypi-attrs-python3
 pypi-booleanoperations-python3
-pypi-cffsubr-python3
 pypi-cu2qu-python3
 include(pypi-cython)
 pypi-dnspython
