@@ -986,7 +986,6 @@ include(pypi-cython)
 pypi-cython-python3
 pypi-dnspython
 pypi-docutils
-pypi-docutils-python3
 pypi-exceptiongroup-python3
 pypi-execnet-python3
 pypi-filelock-python3

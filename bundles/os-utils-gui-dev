@@ -773,7 +773,6 @@ pypi-cu2qu-python3
 include(pypi-cython)
 pypi-dnspython
 pypi-docutils
-pypi-docutils-python3
 pypi-flit_core-python3
 pypi-fontmath-python3
 pypi-hatch_vcs
