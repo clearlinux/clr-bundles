@@ -1285,6 +1285,7 @@ xvfb-run
 xvidcore-dev
 xwayland
 include(devpkg-xwayland)
+xxHash-dev
 include(xz)
 include(devpkg-xz)
 include(devpkg-xz)
