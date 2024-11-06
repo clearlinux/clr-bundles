@@ -10,7 +10,6 @@ include(qt-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(lib-qt5webengine)
 include(not-ffmpeg-lib)
 include(lib-openssl)
 include(libssh-lib)
