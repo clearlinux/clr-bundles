@@ -8,6 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions
+include(lib-qt5webengine)
 include(not-ffmpeg-lib)
 include(lib-openssl)
 include(libssh-lib)
