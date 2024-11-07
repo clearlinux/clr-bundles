@@ -1233,6 +1233,7 @@ python3-core
 python3-dev
 pyudev
 qemu
+include(devpkg-qt6base)
 include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-qttools)
@@ -1292,6 +1293,7 @@ include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
+include(devpkg-webkitgtk)
 include(wget)
 include(which)
 xauth

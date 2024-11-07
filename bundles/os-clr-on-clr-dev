@@ -986,6 +986,7 @@ include(pypi-cython)
 pypi-cython-python3
 pypi-dnspython
 pypi-docutils
+pypi-docutils-python3
 pypi-exceptiongroup-python3
 pypi-execnet-python3
 pypi-filelock-python3
@@ -1039,6 +1040,7 @@ pypi-pluggy-python3
 pypi-ply
 pypi-ply-python3
 pypi-poetry_core-python3
+pypi-pre_commit-python3
 pypi-psutil
 pypi-psycopg2-python3
 pypi-py
@@ -1078,6 +1080,7 @@ pypi-tomli-python3
 pypi-tox
 pypi-tox-python3
 pypi-trove_classifiers-python3
+pypi-twine-python3
 pypi-types_psutil-python3
 pypi-types_setuptools-python3
 pypi-typing_extensions-python3

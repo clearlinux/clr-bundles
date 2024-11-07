@@ -316,6 +316,7 @@ include(devpkg-gtk4)
 include(devpkg-gtkmm3)
 include(devpkg-gtksourceview)
 include(guile)
+include(devpkg-guile)
 include(devpkg-gutenprint)
 gvfs-dev
 include(gzip)
@@ -960,6 +961,7 @@ pypi-ply
 pypi-ply-python3
 pypi-poetry_core-python3
 pypi-polib
+pypi-pre_commit-python3
 pypi-psutil
 pypi-ptyprocess-python3
 pypi-py
