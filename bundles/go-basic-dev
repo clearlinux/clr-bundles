@@ -214,10 +214,12 @@ include(devpkg-libmicrohttpd)
 include(devpkg-libpipeline)
 include(devpkg-libpng)
 include(devpkg-libproxy)
+include(devpkg-libpsl)
 include(devpkg-libpwquality)
 include(devpkg-libseccomp)
 include(devpkg-libseccomp)
 include(devpkg-libssh)
+include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
 include(devpkg-libtasn1)
@@ -227,6 +229,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev
 include(devpkg-libunwind)
+include(devpkg-libuv)
 libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
@@ -244,6 +247,7 @@ include(devpkg-lz4)
 include(devpkg-lzo)
 m4
 include(make)
+include(devpkg-mbedtls)
 mercurial
 include(devpkg-mesa)
 mingw-gcc

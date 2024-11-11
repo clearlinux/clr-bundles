@@ -399,6 +399,7 @@ include(devpkg-libpipeline)
 include(devpkg-libpng)
 include(devpkg-libpng)
 include(devpkg-libproxy)
+include(devpkg-libpsl)
 include(devpkg-libpthread-stubs)
 include(devpkg-libpwquality)
 librsvg
@@ -464,6 +465,7 @@ include(make)
 man-db
 mandoc
 include(devpkg-mariadb)
+include(devpkg-mbedtls)
 include(devpkg-md4c)
 mercurial
 mesa-bin

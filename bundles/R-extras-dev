@@ -933,6 +933,7 @@ include(devpkg-libpciaccess)
 include(devpkg-libpng)
 include(devpkg-libpng)
 include(devpkg-libproxy)
+include(devpkg-libpsl)
 include(devpkg-libpthread-stubs)
 include(devpkg-libpwquality)
 librsvg
@@ -958,6 +959,7 @@ include(devpkg-libunwind)
 include(devpkg-liburing)
 include(devpkg-libusb)
 include(devpkg-libusb)
+include(devpkg-libuv)
 include(devpkg-libva)
 include(devpkg-libvdpau)
 include(devpkg-libwebp)
@@ -986,6 +988,7 @@ include(devpkg-lzo)
 m4
 include(make)
 include(devpkg-mariadb)
+include(devpkg-mbedtls)
 include(devpkg-md4c)
 mercurial
 mesa-bin

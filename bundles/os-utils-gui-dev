@@ -288,6 +288,7 @@ include(devpkg-gtkmm3)
 include(devpkg-gtksourceview)
 include(devpkg-gtkspell3)
 include(guile)
+include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)
 help2man

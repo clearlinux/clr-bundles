@@ -305,6 +305,7 @@ include(devpkg-libpipeline)
 include(devpkg-libpng)
 include(devpkg-libpng)
 include(devpkg-libproxy)
+include(devpkg-libpsl)
 include(devpkg-libpthread-stubs)
 include(devpkg-libpwquality)
 librsvg
@@ -314,6 +315,7 @@ include(devpkg-libseccomp)
 include(devpkg-libseccomp)
 include(devpkg-libspectre)
 include(devpkg-libssh)
+include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
 include(devpkg-libtasn1)
@@ -328,6 +330,7 @@ include(devpkg-libunwind)
 include(devpkg-libunwind)
 include(devpkg-libusb)
 include(devpkg-libusb)
+include(devpkg-libuv)
 include(devpkg-libva)
 include(devpkg-libvdpau)
 include(devpkg-libwebp)
@@ -354,6 +357,7 @@ include(devpkg-lzo)
 m4
 include(make)
 man-db
+include(devpkg-mbedtls)
 mercurial
 mesa-bin
 include(devpkg-mesa)

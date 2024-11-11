@@ -665,6 +665,7 @@ include(make)
 man-db
 mandoc
 include(devpkg-mariadb)
+include(devpkg-mbedtls)
 include(devpkg-md4c)
 media-player-info
 include(devpkg-mediasdk)
