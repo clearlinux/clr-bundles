@@ -1,0 +1,18 @@
+# [TITLE]: luanti
+# [DESCRIPTION]: A Voxel multi-player game inspired by minecraft.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Games
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libX11client)
+include(libstdcpp)
+
+# start of custom additions
+include(lib-opengl)
+include(luantiserver)
+
+# end of custom additions
+
+# main package
+minetest

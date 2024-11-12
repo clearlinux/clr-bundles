@@ -1,0 +1,20 @@
+# [TITLE]: luantiserver
+# [DESCRIPTION]: A headless game server for luanti/minetest.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Games
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libstdcpp)
+
+# start of custom additions
+include(gmp-lib)
+include(curl)
+include(lib-openssl)
+include(python3-basic)
+include(postgresql)
+# end of custom additions
+
+# main package
+minetest_game
+minetest-extras

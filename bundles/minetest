@@ -3,16 +3,6 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Games
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(libX11client)
-include(libstdcpp)
-
-# start of custom additions
-include(lib-opengl)
-include(minetestserver)
-
-# end of custom additions
-
-# main package
-minetest
+include(luanti)
