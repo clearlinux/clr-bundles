@@ -869,6 +869,7 @@ pypi-calver-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
+pypi-cfgv-python3
 pypi-chardet-python3
 pypi-charset_normalizer-python3
 pypi-cibuildwheel-python3
@@ -903,6 +904,7 @@ pypi-hatch_vcs
 pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-hypothesis-python3
+pypi-identify-python3
 pypi-idna-python3
 pypi-imagesize-python3
 pypi-iniconfig-python3
@@ -935,6 +937,7 @@ pypi-munkres-python3
 pypi-mypy_extensions-python3
 pypi-ndindex-python3
 pypi-networkx-python3
+pypi-nodeenv-python3
 pypi-numexpr-python3
 pypi-numpy
 pypi-numpy-python3
@@ -946,6 +949,7 @@ pypi-pathspec
 pypi-pathspec-python3
 pypi-pbr
 pypi-pbr-python3
+pypi-pdm_backend-python3
 pypi-pefile-python3
 pypi-pep517-python3
 pypi-pep8-python3

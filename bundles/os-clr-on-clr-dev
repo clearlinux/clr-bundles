@@ -34,6 +34,7 @@ include(devpkg-ModemManager)
 include(devpkg-NetworkManager)
 OpenSP
 PyYAML
+PyYAML-python3
 R
 include(devpkg-SDL)
 include(devpkg-SDL2)
@@ -974,6 +975,7 @@ pypi-calver-python3
 pypi-cattrs-python3
 pypi-certifi-python3
 pypi-cffi-python3
+pypi-cfgv-python3
 pypi-charset_normalizer-python3
 pypi-cheetah3-python3
 pypi-cibuildwheel-python3
@@ -1005,6 +1007,7 @@ pypi-hatch_vcs-python3
 pypi-hatchling-python3
 pypi-html5lib-python3
 pypi-hypothesis-python3
+pypi-identify-python3
 pypi-idna
 pypi-iniconfig-python3
 pypi-ipython-python3
@@ -1026,6 +1029,7 @@ pypi-mpmath-python3
 pypi-msgpack-python3
 pypi-munkres-python3
 pypi-mypy_extensions-python3
+pypi-nodeenv-python3
 pypi-numpy
 pypi-numpy-python3
 pypi-orjson-python3
@@ -1065,6 +1069,7 @@ pypi-requests-python3
 pypi-requests_gssapi-python3
 pypi-requests_mock-python3
 pypi-requests_toolbelt-python3
+pypi-rfc3986-python3
 pypi-setuptools
 pypi-setuptools-python3
 pypi-setuptools_scm-python3
@@ -1090,6 +1095,7 @@ pypi-ufolib2-python3
 pypi-uharfbuzz-python3
 pypi-vine-python3
 pypi-virtualenv
+pypi-virtualenv-python3
 pypi-wheel-python3
 pypi-xmlschema-python3
 pypi-zopfli-python3
