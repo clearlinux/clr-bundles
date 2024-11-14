@@ -7,3 +7,6 @@
 
 include(luanti)
 include(lib-opengl)
+
+# The actual game data
+minetest_game
