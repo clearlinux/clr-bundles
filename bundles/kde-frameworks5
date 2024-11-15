@@ -46,3 +46,4 @@ breeze-icons
 include(gnome-base-libs)
 include(lib-imageformat)
 include(pcre-lib)
+include(not-ffmpeg-lib)

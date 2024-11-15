@@ -17,6 +17,7 @@ include(devpkg-LibRaw)
 include(devpkg-Linux-PAM)
 include(devpkg-Linux-PAM)
 PyYAML
+R
 R-BBmisc
 R-BH
 R-BMA
@@ -44,6 +45,7 @@ R-ICS
 R-ISwR
 R-Iso
 R-MCMCpack
+R-MatchIt-dev
 R-MatrixModels
 R-ModelMetrics
 R-NADA
@@ -67,6 +69,7 @@ R-RSQLite
 R-RUnit
 R-RandomFieldsUtils
 R-Rcpp
+R-Rcpp-dev
 R-RcppArmadillo
 R-RcppEigen
 R-RcppParallel
@@ -166,6 +169,7 @@ R-cvTools
 R-cvar
 R-cyclocomp
 R-data.table
+R-data.table-dev
 R-dbplyr
 R-dcurver
 R-deSolve
@@ -184,6 +188,7 @@ R-distributional
 R-doBy
 R-doParallel
 R-dotCall64
+R-dotCall64-dev
 R-downlit
 R-dplyr
 R-dtplyr
@@ -244,6 +249,7 @@ R-gbutils
 R-gclus
 R-gdata
 R-gdtools
+R-gdtools-dev
 R-generics
 R-geometry
 R-gert
@@ -371,6 +377,7 @@ R-multicool
 R-munsell
 R-mvnormtest
 R-mvtnorm
+R-mvtnorm-dev
 R-nanoarrow
 R-natserv
 R-ncbit
@@ -457,6 +464,7 @@ R-rainbow
 R-randomNames
 R-randtoolbox
 R-ranger
+R-ranger-dev
 R-rappdirs
 R-raster
 R-ratelimitr
@@ -479,7 +487,6 @@ R-reprex
 R-reshape2
 R-reticulate
 R-rex
-R-rgenoud
 R-rgl
 R-rhandsontable
 R-ritis
@@ -625,6 +632,7 @@ R-xmlparsedata
 R-xopen
 R-xtable
 R-xts
+R-xts-dev
 R-yaml
 R-zCompositions
 R-zeallot
@@ -1329,3 +1337,4 @@ include(desktop-kde-libs)
 include(vte-lib)
 include(clr-hardware-files)
 include(qt6-basic)
+include(libpcap-lib)
