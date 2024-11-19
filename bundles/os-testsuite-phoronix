@@ -120,7 +120,6 @@ include(devpkg-pkg-config)
 also-add(devpkg-popt)
 pth-dev
 python3-dev
-also-add(redis-native)
 also-add(scons)
 pypi-selenium
 include(devpkg-snappy)

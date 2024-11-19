@@ -1,8 +1,0 @@
-# [TITLE]: gedit
-# [DESCRIPTION]: GNOME text editor with full support for UTF-8 and syntax highlighting.
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Productivity, Editor
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-filesystem
-include(gobject-introspection)
