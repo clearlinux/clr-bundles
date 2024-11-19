@@ -1,0 +1,16 @@
+# [TITLE]: xscorch
+# [DESCRIPTION]: No detailed summary available
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libglib)
+include(libX11client)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+xscorch
