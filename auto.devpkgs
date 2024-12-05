@@ -1428,6 +1428,7 @@ libva-tpi
 libva-wayland
 libva-x11
 libvdpau
+libversion
 libvirt
 libvirt-admin
 libvirt-gconfig-1

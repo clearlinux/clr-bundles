@@ -507,4 +507,5 @@ mesa-demos # No detailed summary available
 p7zip # 7-zip file compression program
 nextcloud-desktop # Nextcloud desktop client
 cyme # No detailed summary available
-xscorch # No detailed summary available 
+xscorch # No detailed summary available
+libversion # Version comparison library 

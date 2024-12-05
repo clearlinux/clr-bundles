@@ -1,0 +1,15 @@
+# [TITLE]: libversion
+# [DESCRIPTION]: Version comparison library
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libstdcpp)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+libversion
