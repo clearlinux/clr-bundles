@@ -59,6 +59,7 @@ include(openblas)
 include(devpkg-opencv)
 opencv-python
 openjdk-dev
+include(java-basic)
 pandas
 pypi-pillow
 pypi-posix_ipc
