@@ -19,6 +19,7 @@ epson-inkjet-printer-escpr
 epsonscan2
 gutenprint
 hplip
+ipp-usb
 sane-airscan
 sane-backends
 include(dav1d-lib)
