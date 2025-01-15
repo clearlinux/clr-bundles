@@ -917,7 +917,6 @@ pypi-jsonschema_specifications-python3
 pypi-jupyter_core-python3
 pypi-jupyterlab-python3
 pypi-jupyterlite_pyodide_kernel-python3
-pypi-jupyterlite_sphinx-python3
 pypi-kiwisolver-python3
 pypi-lazy_loader-python3
 pypi-libevdev
