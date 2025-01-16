@@ -1629,6 +1629,7 @@ nftables
 nghttp2
 ngspice
 nice
+nlohmann_json
 nlopt
 not-ffmpeg
 nspr
