@@ -11,7 +11,6 @@ include(gstreamer)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(gnome-base-libs)
-pidgin-sipe
 appstream
 include(FreeRDP)
 include(Remmina)
