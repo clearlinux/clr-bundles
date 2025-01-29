@@ -11,6 +11,7 @@ include(perl-basic)
 include(poppler)
 also-add(ghostscript)
 
+avahi-bin
 cups
 cups-bjnp
 cups-filters
