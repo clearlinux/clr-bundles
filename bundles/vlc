@@ -24,4 +24,4 @@ include(lib-samba)
 # end of custom additions
 
 # main package
-vlc
+filesystem

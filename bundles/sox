@@ -14,4 +14,4 @@ include(pulseaudio)
 # end of custom additions
 
 # main package
-sox
+filesystem
