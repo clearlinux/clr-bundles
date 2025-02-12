@@ -16,3 +16,4 @@ openpace
 pcsc-lite
 pcsc-tools
 perl-Chipcard-PCSC
+pypi-yubikey_manager
