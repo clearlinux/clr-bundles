@@ -130,7 +130,7 @@ NetworkManager-openconnect
 oxygen
 oxygen-sounds
 phonon
-phonon-vlc
+#phonon-vlc
 plasma-browser-integration
 plasma-desktop
 plasma-discover
