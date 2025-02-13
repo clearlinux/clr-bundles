@@ -12,6 +12,7 @@ include(maker-basic)
 
 dmap2gcode
 F-Engrave
+linuxcnc
 
 # dependencies
 
