@@ -23,6 +23,7 @@ hplip
 ipp-usb
 sane-airscan
 sane-backends
+xsane
 include(dav1d-lib)
 include(icu4c-lib)
 include(libnl)
