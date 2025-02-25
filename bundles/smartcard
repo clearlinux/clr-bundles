@@ -13,6 +13,7 @@ OpenSC
 ccid
 openct
 openpace
+pam_u2f
 pcsc-lite
 pcsc-tools
 perl-Chipcard-PCSC
