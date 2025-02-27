@@ -509,4 +509,6 @@ nextcloud-desktop # Nextcloud desktop client
 cyme # No detailed summary available
 xscorch # No detailed summary available
 libversion # Version comparison library
-uhubctl # No detailed summary available 
+uhubctl # No detailed summary available
+redumper # No detailed summary available
+nushell # No detailed summary available 
