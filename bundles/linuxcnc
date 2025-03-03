@@ -1,8 +1,23 @@
 # [TITLE]: linuxcnc
-# [DESCRIPTION]: No detailed summary available
+# [DESCRIPTION]: Separate bundle for linuxcnc
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+include(python-extras)
 
-include(maker-cnc)
+# main CNC tool
+
+linuxcnc
+
+# dependencies
+
+gtk3
+potrace
+pycairo
+include(pygobject)
+pypi-pyopengl
+PyYAML
+pypi-svg.path
+tcl
+tk
