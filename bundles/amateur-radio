@@ -15,6 +15,7 @@ include(qt-basic)
 # Optional OpenBLAS support for xnec2c
 also-add(openblas)
 
+ardopcf
 chirp
 codec2
 direwolf
