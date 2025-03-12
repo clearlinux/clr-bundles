@@ -1,9 +1,18 @@
 # [TITLE]: fprintd
 # [DESCRIPTION]: No detailed summary available
-# [STATUS]: Deprecated
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-# Replaced by libfprint
+include(libglib)
+
+# start of custom additions (edits outside this area will be removed automatically)
+include(lib-openssl)
 include(libfprint)
+include(sqlite)
+
+# end of custom additions
+
+# main package
+fprintd

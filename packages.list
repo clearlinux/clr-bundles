@@ -511,4 +511,5 @@ libversion # Version comparison library
 uhubctl # No detailed summary available
 redumper # No detailed summary available
 nushell # No detailed summary available
-libfprint # No detailed summary available 
+libfprint # No detailed summary available
+fprintd # No detailed summary available
