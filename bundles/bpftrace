@@ -16,4 +16,4 @@ include(python3-basic)
 # end of custom additions
 
 # main package
-bpftrace
+filesystem
