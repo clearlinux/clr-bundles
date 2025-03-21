@@ -11,7 +11,7 @@ include(libglib)
 include(python-basic)
 
 micro-config-drive
-e2fsprogs-bin
+e2fsprogs
 glib-lib
 json-glib-lib
 parted-lib

@@ -13,7 +13,7 @@ WALinuxAgent
 at
 azure-configs
 dyskctl
-e2fsprogs-bin
+e2fsprogs
 e2fsprogs-extras
 kexec-tools
 linux-tools-hyperv
