@@ -9,7 +9,7 @@ include(bootloader)
 include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
-
+include(os-core-plus)
 console-autostart
 irqbalance
 mcelog

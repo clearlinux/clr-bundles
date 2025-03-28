@@ -12,7 +12,7 @@ include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
 include(qemu-guest-additions)
-
+include(os-core-plus)
 init-rdahead-extras
 irqbalance
 mcelog

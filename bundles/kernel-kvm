@@ -6,6 +6,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
 include(qemu-guest-additions)
+include(os-core-plus)
 console-autostart
 include(kernel-native)
 linux

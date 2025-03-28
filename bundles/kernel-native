@@ -11,6 +11,7 @@ include(bootloader)
 include(linux-firmware)
 also-add(linux-firmware-extras)
 also-add(qemu-guest-additions)
+include(os-core-plus)
 
 init-rdahead-extras
 irqbalance

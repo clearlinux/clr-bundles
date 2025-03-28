@@ -7,3 +7,4 @@
 
 # This is a meta-bundle which include the latest longterm native kernel
 include(kernel-ltscurrent)
+include(os-core-plus)
