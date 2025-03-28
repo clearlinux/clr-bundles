@@ -23,3 +23,7 @@ nss-altfiles
 procps-ng-bin
 shadow
 systemd-bootchart
+util-linux-bin
+e2fsprogs-bin
+shadow-bin
+shadow-data
