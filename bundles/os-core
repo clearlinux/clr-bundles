@@ -8,7 +8,6 @@ bash-bin
 ca-certs-static
 coreutils-bin
 dist-pam-configs
-e2fsprogs-bin
 filesystem
 gawk-bin
 glibc-utils
@@ -18,4 +17,3 @@ sed-bin
 shadow-bin
 shadow-data
 tzdata-minimal
-util-linux-bin
