@@ -24,6 +24,7 @@ include(gpgme)
 abireport
 include(binutils)
 pypi-chardet
+pypi-clr_artifact
 include(gnupg)
 pypi-jinja2
 pypi-pycurl
