@@ -22,7 +22,6 @@ include(lib-opengl)
 include(perl-basic)
 include(os-core-legacy)
 include(lib-samba)
-wine-lib32
 # end of custom additions
 # main package
 wine
