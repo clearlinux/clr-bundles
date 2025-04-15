@@ -23,7 +23,6 @@ include(perl-basic)
 include(os-core-legacy)
 include(lib-samba)
 include(wine)
-wine-lib32
 # end of custom additions
 # main package
 wine-dev
