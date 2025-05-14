@@ -10,6 +10,6 @@ linux-aws
 rng-tools
 rng-tools-autostart
 include(init-rdahead)
-include(systemd)
+systemd
 include(curl)
 include(os-core-plus)

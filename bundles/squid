@@ -9,7 +9,7 @@ include(openldap)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(systemd)
+systemd
 include(libxml2)
 include(perl-basic)
 # end of custom additions

@@ -15,7 +15,7 @@ include(gmp-lib)
 include(libglib)
 include(dbus-lib)
 include(curl)
-include(systemd)
+systemd
 include(perl-basic)
 # end of custom additions
 

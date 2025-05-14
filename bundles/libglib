@@ -11,6 +11,6 @@ glib-lib
 glib-bin
 #icu4c-lib
 dbus-lib
-include(systemd)
+systemd
 include(yaml)
 include(dbus-lib)

@@ -12,7 +12,7 @@ include(icu4c-lib)
 include(curl)
 include(qt-core)
 include(libglib)
-include(systemd)
+systemd
 include(libstdcpp)
 # end of custom additions
 

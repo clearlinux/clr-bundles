@@ -12,7 +12,7 @@ include(pcre-lib)
 include(libpcap-lib)
 include(libnl)
 include(lz4)
-include(systemd)
+systemd
 include(libstdcpp)
 include(Sphinx)
 # end of custom additions

@@ -8,4 +8,4 @@ include(bootloader)
 console-autostart
 include(init-rdahead)
 linux-hyperv-lts
-include(systemd)
+systemd

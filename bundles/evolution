@@ -15,7 +15,7 @@ include(webkitgtk)
 include(libarchive)
 evolution-ews
 evolution-data-server
-include(systemd)
+systemd
 # end of custom additions
 
 # main package

@@ -9,7 +9,7 @@ include(nginx)
 dnsmasq
 ipxe
 wol
-include(systemd)
+systemd
 include(gmp-lib)
 include(nettle-lib)
 include(dbus-lib)

@@ -40,4 +40,4 @@ clr-check-perl-modules
 
 include(gmp-lib)
 include(nettle-lib)
-include(systemd)
+systemd

@@ -12,7 +12,7 @@ include(icu4c-lib)
 include(harfbuzz-lib)
 include(libglib)
 include(libX11client)
-include(systemd)
+systemd
 
 # end of custom additions
 

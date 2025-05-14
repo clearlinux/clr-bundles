@@ -6,4 +6,4 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 linux-ltsprev-dev
 include(perl-basic)
-include(systemd)
+systemd

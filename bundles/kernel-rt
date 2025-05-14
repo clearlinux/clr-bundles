@@ -13,7 +13,7 @@ include(linux-firmware-extras)
 include(os-core-plus)
 also-add(kernel-preempt-rt)
 mcelog
-include(systemd)
+systemd
 include(libglib)
 include(libnl)
 include(numactl)
