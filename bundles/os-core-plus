@@ -14,8 +14,10 @@ cnf
 dbus-autostart
 dbus-bin
 glibc-lib-avx2
+gzip-bin
 iproute2-bin
 kmod-bin
+lz4-bin
 nano-bin
 nano-data
 netbase
@@ -27,3 +29,6 @@ util-linux-bin
 e2fsprogs-bin
 shadow-bin
 shadow-data
+tar-bin
+xz-bin
+zstd-bin
