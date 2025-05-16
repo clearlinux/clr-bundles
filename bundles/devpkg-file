@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 file-dev
-include(xz)
+xz
 include(file)

@@ -1221,7 +1221,7 @@ xvfb-run
 xvidcore-dev
 xwayland
 include(devpkg-xwayland)
-include(xz)
+xz
 include(devpkg-xz)
 include(devpkg-xz)
 include(devpkg-yajl)

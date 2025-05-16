@@ -211,7 +211,7 @@ include(valgrind)
 include(devpkg-valgrind)
 include(which)
 xauth
-include(xz)
+xz
 include(devpkg-xz)
 include(devpkg-xz)
 include(devpkg-zlib)

@@ -1296,7 +1296,7 @@ xvidcore-dev
 xwayland
 include(devpkg-xwayland)
 xxHash-dev
-include(xz)
+xz
 include(devpkg-xz)
 include(devpkg-xz)
 include(devpkg-yajl)

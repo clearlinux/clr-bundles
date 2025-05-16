@@ -415,7 +415,7 @@ include(which)
 include(devpkg-xapian-core)
 xauth
 xmlto
-include(xz)
+xz
 include(devpkg-xz)
 include(devpkg-xz)
 include(yasm)

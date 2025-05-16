@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 libarchive-dev
-include(xz)
+xz
 include(libarchive)
