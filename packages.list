@@ -514,4 +514,6 @@ nushell # No detailed summary available
 libfprint # No detailed summary available
 fprintd # No detailed summary available
 FreeCAD # A general purpose 3D CAD modeler
-rasdaemon # No detailed summary available 
+rasdaemon # No detailed summary available
+gccmakedep # No detailed summary available
+makedepend # No detailed summary available 
