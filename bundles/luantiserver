@@ -16,4 +16,4 @@ include(postgresql)
 # end of custom additions
 
 # main package
-minetest-extras
+luanti-extras

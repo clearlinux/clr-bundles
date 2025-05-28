@@ -6,4 +6,4 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(luantiserver)
-include(minetest)
+include(luanti)

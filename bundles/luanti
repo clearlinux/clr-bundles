@@ -15,4 +15,4 @@ include(luantiserver)
 # end of custom additions
 
 # main package
-minetest
+luanti
