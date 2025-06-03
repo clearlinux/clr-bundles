@@ -15,7 +15,6 @@ include(devpkg-qtdatavis3d)
 include(devpkg-qtdeclarative)
 include(devpkg-qtgamepad)
 include(devpkg-qtlocation)
-qtmqtt-dev
 include(devpkg-qtmultimedia)
 include(devpkg-qtnetworkauth)
 include(devpkg-qtquickcontrols2)
