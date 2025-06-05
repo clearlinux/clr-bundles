@@ -13,6 +13,7 @@ lxc
 pypi-pyclip
 include(dhcp-server)
 include(libgbinder)
+wl-clipboard
 # end of custom additions
 
 # main package
