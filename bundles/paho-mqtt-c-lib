@@ -1,8 +1,0 @@
-# [TITLE]: paho-mqtt-c-lib
-# [DESCRIPTION]: paho MQTT library (C bindings)
-# [STATUS]: Active
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-paho.mqtt.c-lib

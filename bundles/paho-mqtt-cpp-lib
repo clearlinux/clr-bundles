@@ -1,9 +1,0 @@
-# [TITLE]: paho-mqtt-cpp-lib
-# [DESCRIPTION]: paho MQTT library (C++ bindings)
-# [STATUS]: Active
-# [CAPABILITIES]:
-# [TAGS]:
-# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include(libstdcpp)
-
-paho.mqtt.cpp-lib
