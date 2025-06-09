@@ -9,5 +9,5 @@ include(devpkg-base)
 
 evolution-dev
 include(libX11client)
-include(webkitgtk)
+webkitgtk
 include(evolution)

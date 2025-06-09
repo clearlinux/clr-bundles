@@ -26,4 +26,4 @@ usb-modeswitch-data
 xl2tpd
 include(libevent-lib)
 include(lz4)
-include(webkitgtk)
+webkitgtk

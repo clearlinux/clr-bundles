@@ -50,7 +50,7 @@ xinit
 xrdb
 include(gdk-pixbuf)
 include(libstdcpp)
-include(webkitgtk)
+webkitgtk
 include(pulseaudio)
 include(libarchive)
 include(vte-lib)

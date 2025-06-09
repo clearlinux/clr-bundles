@@ -9,7 +9,7 @@ include(perl-basic)
 include(lib-samba)
 include(lib-imageformat)
 include(lib-opengl)
-include(webkitgtk)
+webkitgtk
 include(curl)
 accountsservice-lib
 gtk3-lib

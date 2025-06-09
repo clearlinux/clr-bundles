@@ -12,6 +12,6 @@ include(libX11client)
 include(libXpm-lib)
 include(popt-lib)
 include(libpsl-lib)
-include(webkitgtk)
+webkitgtk
 include(gphoto)
 include(lib-openssl)

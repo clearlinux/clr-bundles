@@ -7,7 +7,7 @@
 include(perl-basic)
 include(libX11client)
 include(wayland-server)
-include(webkitgtk)
+webkitgtk
 include(x11-tools)
 
 perl-Cairo

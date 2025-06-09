@@ -17,4 +17,4 @@ include(openldap)
 include(lib-imageformat)
 include(aspell)
 include(libpsl-lib)
-include(webkitgtk)
+webkitgtk
