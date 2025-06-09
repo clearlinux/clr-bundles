@@ -35,5 +35,5 @@ python3-xz-lzma
 # koji command line utility
 koji
 include(pypi-six)
-include(pypi-requests)
+pypi-requests
 include(openldap)

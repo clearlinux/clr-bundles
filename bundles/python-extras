@@ -59,7 +59,6 @@ pypi-natsort
 include(python3-tcl)
 python-zeep
 python-zstandard
-pypi-requests
 requests-ntlm
 pypi-scikit_image
 pypi-scikit_learn
@@ -80,7 +79,7 @@ pypi-urllib3
 pypi-ldap3
 pypi-neat_python
 include(pypi-numpy)
-include(pypi-requests)
+pypi-requests
 include(pypi-cython)
 include(pandas)
 include(libunwind-lib)

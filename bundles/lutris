@@ -18,7 +18,7 @@ include(lib-opengl)
 include(libX11client)
 include(openldap)
 include(p7zip)
-include(pypi-requests)
+pypi-requests
 include(xz-lzma-i-accept-the-risks)
 # end of custom additions
 

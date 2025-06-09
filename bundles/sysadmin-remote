@@ -19,7 +19,7 @@ sos
 udisks2
 include(pypi-pynacl)
 include(libxml2)
-include(pypi-requests)
+pypi-requests
 include(mpfr-lib)
 include(qt-core)
 include(icu4c-lib)

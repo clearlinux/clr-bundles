@@ -10,7 +10,7 @@ pyotherside
 include(openblas)
 include(pypi-numpy)
 include(pypi-six)
-include(pypi-requests)
+pypi-requests
 include(pypi-cython)
 include(pandas)
 include(qt6-basic)

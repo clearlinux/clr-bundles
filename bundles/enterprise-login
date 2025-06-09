@@ -17,4 +17,4 @@ pypi-requests_kerberos
 sssd
 include(libnl)
 include(pypi-six)
-include(pypi-requests)
+pypi-requests

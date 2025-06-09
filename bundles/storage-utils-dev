@@ -636,7 +636,7 @@ include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(pypi-requests)
+pypi-requests
 include(desktop-kde-libs)
 include(aspell)
 include(libpcap-lib)

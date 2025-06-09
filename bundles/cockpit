@@ -10,7 +10,7 @@
 include(libpcap-lib)
 include(numactl)
 include(libnl)
-include(pypi-requests)
+pypi-requests
 include(libssh-lib)
 include(PyYAML)
 include(libxml2)

@@ -15,5 +15,5 @@ pypi-ouimeaux
 pyecobee
 python-openzwave
 pypi-spyrk
-include(pypi-requests)
+pypi-requests
 include(pypi-cython)

@@ -80,5 +80,5 @@ include(devpkg-xcb-proto)
 include(devpkg-xorgproto)
 xmlstarlet
 xorriso
-include(pypi-requests)
+pypi-requests
 pypi-clr_artifact
