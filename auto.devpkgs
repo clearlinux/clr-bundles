@@ -2160,12 +2160,6 @@ wayland-scanner
 wayland-server
 wbclient
 wcslib
-webkit2gtk-4
-webkit2gtk-web-extension-4
-webkitgtk
-webkitgtk-6
-webkitgtk60
-webkitgtk-web-process-extension-6
 weechat
 weston
 wget
@@ -2236,7 +2230,6 @@ xcmiscproto
 xcomposite
 xcursor
 xdamage
-xdg-desktop-portal
 xdmcp
 xdotool
 xerces-c
@@ -2308,7 +2301,6 @@ xpresent
 xproto
 xproxymngproto
 xrandr
-xrdp
 xrender
 xres
 xscrnsaver
