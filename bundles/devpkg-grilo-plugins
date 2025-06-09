@@ -11,5 +11,4 @@ grilo-plugins-dev
 include(gstreamer)
 include(libpsl-lib)
 include(webkitgtk)
-include(gnome-base-libs)
 include(libevent-lib)

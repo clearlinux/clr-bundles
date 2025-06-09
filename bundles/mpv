@@ -9,7 +9,6 @@ include(libX11client)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(gnome-base-libs)
 include(libarchive)
 include(libunwind-lib)
 include(not-ffmpeg-lib)

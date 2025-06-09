@@ -88,5 +88,4 @@ xrestop
 also-add(xscreensaver)
 xsel
 xwd
-include(gnome-base-libs)
 include(lz4)

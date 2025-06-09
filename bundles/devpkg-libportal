@@ -9,4 +9,3 @@ include(devpkg-base)
 
 libportal-dev
 include(libX11client)
-include(gnome-base-libs)

@@ -9,6 +9,5 @@ include(devpkg-base)
 
 nautilus-dev
 include(gstreamer)
-include(gnome-base-libs)
 include(libX11client)
 include(nautilus)

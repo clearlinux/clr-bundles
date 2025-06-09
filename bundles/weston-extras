@@ -10,7 +10,6 @@ include(lib-imageformat)
 
 # start of custom additions
 include(not-ffmpeg-lib)
-include(gnome-base-libs)
 weston
 # end of custom additions
 

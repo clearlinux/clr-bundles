@@ -44,7 +44,6 @@ kstatusnotifieritem
 # Misc
 breeze-icons
 # include(desktop-kde-libs)
-include(gnome-base-libs)
 include(lib-imageformat)
 include(pcre-lib)
 include(not-ffmpeg-lib)

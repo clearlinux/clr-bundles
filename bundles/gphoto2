@@ -9,7 +9,6 @@
 # start of custom additions (edits outside this area will be removed automatically)
 include(gphoto)
 include(libXpm-lib)
-include(gnome-base-libs)
 include(lib-imageformat)
 # end of custom additions
 

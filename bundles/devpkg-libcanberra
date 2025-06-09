@@ -10,4 +10,3 @@ include(devpkg-base)
 libcanberra-dev
 include(libX11client)
 include(libstdcpp)
-include(gnome-base-libs)

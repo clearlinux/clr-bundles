@@ -13,7 +13,6 @@ include(gegl)
 include(LibRaw-lib)
 include(NetworkManager-extras)
 include(gstreamer)
-include(gnome-base-libs)
 # end of custom additions
 
 # main package

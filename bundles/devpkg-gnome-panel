@@ -9,6 +9,5 @@ include(devpkg-base)
 
 gnome-panel-dev
 include(libX11client)
-include(gnome-base-libs)
 include(libpsl-lib)
 include(webkitgtk)

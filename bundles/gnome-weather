@@ -9,7 +9,6 @@
 # start of custom additions (edits outside this area will be removed automatically)
 include(libstdcpp)
 include(libX11client)
-include(gnome-base-libs)
 # end of custom additions
 
 # main package

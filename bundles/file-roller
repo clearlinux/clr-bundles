@@ -8,7 +8,6 @@
 include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(gnome-base-libs)
 include(libarchive)
 include(lib-imageformat)
 include(gstreamer)
