@@ -14,7 +14,6 @@ include(icu4c-lib)
 include(harfbuzz-lib)
 include(libX11client)
 include(gdk-pixbuf)
-include(gobject-introspection)
 
 # end of custom additions
 

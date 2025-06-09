@@ -52,7 +52,6 @@ include(dav1d-lib)
 libxml2-lib
 include(aspell)
 include(not-ffmpeg-lib)
-include(gobject-introspection)
 include(lib-openssl)
 include(libevent-lib)
 include(gtk4libs)

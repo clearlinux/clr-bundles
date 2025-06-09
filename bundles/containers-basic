@@ -23,4 +23,3 @@ docker
 include(gnupg)
 tini
 include(icu4c-lib)
-include(gobject-introspection)

@@ -18,4 +18,3 @@ perl-Gtk3
 perl-Gtk3-WebKit
 perl-Test-NeedsDisplay
 perl-X11-IdleTime
-include(gobject-introspection)

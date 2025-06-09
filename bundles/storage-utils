@@ -53,7 +53,6 @@ xfsprogs
 include(lz4)
 include(libnl)
 include(libxml2)
-include(gobject-introspection)
 include(gdk-pixbuf)
 include(libX11client)
 include(harfbuzz-lib)

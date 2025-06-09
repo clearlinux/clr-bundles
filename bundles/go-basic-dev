@@ -131,7 +131,6 @@ gnu-efi-staticdev
 include(gnupg)
 include(devpkg-gnutls)
 go
-include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
 gpm-dev

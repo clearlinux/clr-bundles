@@ -10,7 +10,6 @@ include(lib-openssl)
 include(curl)
 include(qt-core)
 include(mpfr-lib)
-include(gobject-introspection)
 include(gmp-lib)
 include(pypi-six)
 pypi-blivet

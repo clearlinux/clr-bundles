@@ -9,7 +9,6 @@ include(libX11client)
 include(gstreamer)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(gobject-introspection)
 include(libarchive)
 include(libpsl-lib)
 include(python3-basic)

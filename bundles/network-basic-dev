@@ -126,7 +126,6 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg)
 include(devpkg-gnutls)
-include(devpkg-gobject-introspection)
 gperf
 gpm-dev
 include(graphviz)

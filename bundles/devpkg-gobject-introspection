@@ -1,5 +1,3 @@
-# [TITLE]: devpkg-gobject-introspection
-# [DESCRIPTION]: All content for pkgconfig file gobject-introspection.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
@@ -7,5 +5,3 @@
 
 include(devpkg-base)
 
-gobject-introspection-dev
-include(gobject-introspection)

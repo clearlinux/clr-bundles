@@ -14,4 +14,3 @@ git-gui
 tk
 qgit
 include(aspell)
-include(gobject-introspection)
