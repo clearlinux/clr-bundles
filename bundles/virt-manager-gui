@@ -8,4 +8,4 @@ include(libX11client)
 include(virt-manager)
 include(gtk-vnc)
 include(spice-gtk)
-include(virt-viewer)
+virt-viewer
