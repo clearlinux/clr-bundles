@@ -11,6 +11,6 @@ include(qt-basic)
 include(network-monitor-node)
 
 include(nmap)
-include(wireshark)
+wireshark
 arp-scan
 ndpi
