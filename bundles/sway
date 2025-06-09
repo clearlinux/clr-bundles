@@ -15,7 +15,7 @@ swaylock
 xdg-utils
 also-add(vifm)
 also-add(mpv)
-include(xdg-desktop-portal)
+xdg-desktop-portal
 xdg-desktop-portal-wlr
 # end of custom additions
 

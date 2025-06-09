@@ -4,7 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-
-include(python3-basic)
-
 python3-xz-lzma

@@ -4,15 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-include(libX11client)
-include(perl-basic)
-
-
 clinfo
 evtest
 numlockx
 setxkbmap
-also-add(x11vnc)
 xauth
 xclip
 xdotool
@@ -30,11 +25,10 @@ xprop
 xrandr
 xrdb
 xrestop
-also-add(xscreensaver)
 xsel
 xset
 xsetroot
-include(xterm)
+xterm
 xwd
 xwininfo
 wmctrl

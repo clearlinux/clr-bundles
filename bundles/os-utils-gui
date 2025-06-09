@@ -73,7 +73,6 @@ thunar-volman
 also-add(tigervnc)
 vim-data
 also-add(virt-viewer)
-also-add(x11vnc)
 xclip
 xcursor-themes
 xdg-user-dirs
@@ -83,9 +82,7 @@ xf86-input-synaptics
 xfce4-screenshooter
 xfce4-terminal
 xorg-fonts
-also-add(xrdp)
 xrestop
-also-add(xscreensaver)
 xsel
 xwd
 include(lz4)

@@ -6,7 +6,8 @@
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 
 include(python3-basic)
-include(xfsprogs)
+xfsdump
+xfsprogs
 include(nfs-utils)
 
 LVM2-bin

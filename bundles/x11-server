@@ -4,7 +4,6 @@
 # [CAPABILITIES]: /usr/bin/X
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include(libX11client)
 include(wayland-server)
 xauth
 xf86-input-libinput

@@ -48,7 +48,8 @@ include(smartmontools)
 squashfs-tools
 tdb-lib
 thin-provisioning-tools
-include(xfsprogs)
+xfsdump
+xfsprogs
 include(lz4)
 include(libnl)
 include(libxml2)

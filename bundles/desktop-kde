@@ -155,7 +155,7 @@ systemd-extras
 systemsettings
 udisks2
 upower
-include(xdg-desktop-portal)
+xdg-desktop-portal
 xdg-desktop-portal-gtk
 xdg-desktop-portal-kde
 xdg-user-dirs
