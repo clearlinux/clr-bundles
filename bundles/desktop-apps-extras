@@ -27,7 +27,7 @@ also-add(tigervnc)
 also-add(vinagre)
 also-add(virt-manager-gui)
 also-add(virt-viewer)
-also-add(vlc)
+#also-add(vlc)
 also-add(FreeRDP)
 
 #

@@ -38,15 +38,6 @@ cups-pk-helper
 also-add(ghostscript)
 gutenprint
 
-#
-# things pulled in anyway so better to include
-#
-include(vlc)
-include(gimp)
-#
-# main bits
-#
-
 #  https://download.kde.org/stable/plasma/5.13.4/
 
 accountsservice
