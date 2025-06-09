@@ -81,5 +81,5 @@ pypi-neat_python
 include(pypi-numpy)
 pypi-requests
 include(pypi-cython)
-include(pandas)
+pandas
 include(libunwind-lib)

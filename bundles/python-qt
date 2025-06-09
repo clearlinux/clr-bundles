@@ -12,5 +12,5 @@ include(pypi-numpy)
 include(pypi-six)
 pypi-requests
 include(pypi-cython)
-include(pandas)
+pandas
 include(qt6-basic)
