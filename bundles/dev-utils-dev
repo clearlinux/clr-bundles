@@ -648,7 +648,7 @@ include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
-include(wget)
+wget
 include(which)
 xauth
 xcb-proto

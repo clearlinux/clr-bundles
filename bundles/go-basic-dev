@@ -491,7 +491,7 @@ include(devpkg-util-linux)
 util-linux-extras
 include(valgrind)
 include(devpkg-valgrind)
-include(wget)
+wget
 include(which)
 xauth
 xmlto

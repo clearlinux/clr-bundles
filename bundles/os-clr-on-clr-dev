@@ -1263,7 +1263,7 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 include(devpkg-webkitgtk)
-include(wget)
+wget
 include(which)
 include(devpkg-woff2)
 x264-dev
