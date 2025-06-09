@@ -9,7 +9,7 @@ include(NetworkManager)
 
 include(libX11client)
 include(openldap)
-include(wpa_supplicant)
+wpa_supplicant
 include(python3-basic)
 # for usbmodeswitcher
 include(tcl-basic)

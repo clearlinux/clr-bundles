@@ -13,7 +13,7 @@ include(libxml2)
 include(libpcap-lib)
 include(libpsl-lib)
 include(icu4c-lib)
-include(wpa_supplicant)
+wpa_supplicant
 also-add(NetworkManager-tui)
 # end of custom additions
 

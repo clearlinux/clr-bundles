@@ -18,7 +18,7 @@ include(perl-basic)
 include(python3-basic)
 also-add(thunderbird)
 also-add(thunderbird)
-include(wpa_supplicant)
+wpa_supplicant
 include(x11-server)
 also-add(emacs-x11)
 include(xfce4-desktop)
