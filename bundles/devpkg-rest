@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 rest-dev
-include(libglib)
 include(gnome-base-libs)

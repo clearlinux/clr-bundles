@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: Shirley, Zhao <shirley.zhao@intel.com>
-include(libglib)
 include(lib-openssl)
 include(curl)
 

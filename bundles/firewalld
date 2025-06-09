@@ -11,7 +11,6 @@ include(python3-basic)
 include(gmp-lib)
 include(pypi-six)
 nftables
-include(libglib)
 include(pygobject)
 # end of custom additions
 

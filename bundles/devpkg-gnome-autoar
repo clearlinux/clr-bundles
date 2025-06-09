@@ -8,6 +8,5 @@
 include(devpkg-base)
 
 gnome-autoar-dev
-include(libglib)
 include(libX11client)
 include(lib-opengl)

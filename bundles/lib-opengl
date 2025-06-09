@@ -17,7 +17,6 @@ include(ncurses-lib)
 include(harfbuzz-lib)
 include(libstdcpp)
 also-add(mesa-demos)
-include(libglib)
 harfbuzz-lib
 libX11-lib
 fontconfig-lib

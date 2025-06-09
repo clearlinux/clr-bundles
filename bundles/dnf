@@ -18,7 +18,6 @@ include(gpgme)
 include(curl)
 rpm
 gpgme-python3
-include(libglib)
 # end of custom additions
 
 # main package

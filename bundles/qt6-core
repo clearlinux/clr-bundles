@@ -5,7 +5,6 @@
 # [TAGS]: Programming Languages, Developer Tools
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(libstdcpp)
-include(libglib)
 
 # For QMimeDatabase class
 shared-mime-info

@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 gcab-dev
-include(libglib)

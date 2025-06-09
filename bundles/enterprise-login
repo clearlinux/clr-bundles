@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
-include(libglib)
 include(libstdcpp)
 include(openldap)
 include(python3-basic)

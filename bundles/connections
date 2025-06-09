@@ -5,7 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan.van.de.ven@intel.com>
 
-include(libglib)
 include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)

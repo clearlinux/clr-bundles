@@ -6,7 +6,6 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(libX11client)
-include(libglib)
 include(gstreamer)
 include(libstdcpp)
 

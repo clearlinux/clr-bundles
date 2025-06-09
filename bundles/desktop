@@ -37,7 +37,6 @@ include(gdk-pixbuf)
 geoclue
 geocode-glib
 include(gjs)
-include(libglib)
 glib
 glib-networking
 gsettings-desktop-schemas

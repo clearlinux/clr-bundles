@@ -9,4 +9,3 @@ include(devpkg-base)
 
 gdk-pixbuf-xlib-dev
 include(libX11client)
-include(libglib)

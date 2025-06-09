@@ -9,4 +9,3 @@ include(devpkg-base)
 
 libproxy-dev
 include(curl)
-include(libglib)

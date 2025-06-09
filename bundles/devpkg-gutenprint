@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 gutenprint-dev
-include(libglib)
 include(libX11client)
 include(gegl)
 include(dav1d-lib)

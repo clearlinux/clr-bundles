@@ -9,5 +9,4 @@ include(devpkg-base)
 
 compat-gcr-soname1-dev
 include(libX11client)
-include(libglib)
 include(lib-opengl)

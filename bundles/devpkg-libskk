@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 libskk-dev
-include(libglib)
 include(libX11client)

@@ -9,6 +9,5 @@ include(devpkg-base)
 
 gtksourceview-dev
 include(libX11client)
-include(libglib)
 include(lib-opengl)
 include(gstreamer)

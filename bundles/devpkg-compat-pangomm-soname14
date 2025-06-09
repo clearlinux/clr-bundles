@@ -11,5 +11,4 @@ include(devpkg-compat-glibmm-soname24)
 include(devpkg-pango)
 
 compat-pangomm-soname14-dev
-include(libglib)
 include(libstdcpp)

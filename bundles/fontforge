@@ -7,7 +7,6 @@
 
 include(python3-basic)
 include(libX11client)
-include(libglib)
 include(lib-imageformat)
 include(libstdcpp)
 

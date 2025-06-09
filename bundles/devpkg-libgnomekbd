@@ -9,5 +9,4 @@ include(devpkg-base)
 
 libgnomekbd-dev
 include(libX11client)
-include(libglib)
 include(lib-opengl)

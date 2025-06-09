@@ -6,7 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(cloud-api)
 include(python3-basic)
-include(libglib)
 include(qt-basic)
 
 pypi-astral

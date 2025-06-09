@@ -12,7 +12,6 @@ include(libstdcpp)
 include(pcre-lib)
 include(libnl)
 include(gmp-lib)
-include(libglib)
 include(dbus-lib)
 include(curl)
 systemd

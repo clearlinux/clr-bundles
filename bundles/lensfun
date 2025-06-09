@@ -6,7 +6,6 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(python3-basic)
-include(libglib)
 include(lib-imageformat)
 include(libstdcpp)
 

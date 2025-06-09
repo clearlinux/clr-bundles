@@ -8,6 +8,5 @@
 include(devpkg-base)
 
 enchant-dev
-include(libglib)
 include(libstdcpp)
 include(aspell)

@@ -7,9 +7,7 @@
 
 include(devpkg-base)
 include(devpkg-glib)
-include(libglib)
 
 geocode-glib-dev
-include(libglib)
 include(icu4c-lib)
 include(libpsl-lib)

@@ -7,7 +7,6 @@
 include(ethtool)
 include(openssh-server)
 include(sudo)
-include(libglib)
 include(python-basic)
 
 micro-config-drive

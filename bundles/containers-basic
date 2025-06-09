@@ -8,7 +8,6 @@ include(git)
 include(iproute2)
 include(p11-kit)
 include(libstdcpp)
-include(libglib)
 include(python3-basic)
 include(btrfs-progs)
 

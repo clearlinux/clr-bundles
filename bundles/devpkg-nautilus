@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 nautilus-dev
-include(libglib)
 include(gstreamer)
 include(gnome-base-libs)
 include(libX11client)

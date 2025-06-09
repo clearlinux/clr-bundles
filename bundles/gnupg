@@ -19,7 +19,6 @@ include(gdk-pixbuf)
 include(sqlite)
 include(nettle-lib)
 include(gmp-lib)
-include(libglib)
 # end of custom additions
 
 # main package

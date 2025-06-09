@@ -5,7 +5,6 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(os-core)
-include(libglib)
 include(p11-kit)
 
 pacrunner

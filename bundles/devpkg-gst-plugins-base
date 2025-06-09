@@ -9,6 +9,5 @@ include(devpkg-base)
 
 gst-plugins-base-dev
 include(libX11client)
-include(libglib)
 include(gstreamer)
 include(lib-imageformat)

@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 accountsservice-dev
-include(libglib)

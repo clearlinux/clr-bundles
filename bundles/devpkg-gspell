@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 gspell-dev
-include(libglib)
 include(libX11client)
 include(aspell)
 include(lib-opengl)

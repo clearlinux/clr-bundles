@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 gexiv2-dev
-include(libglib)
 include(libstdcpp)

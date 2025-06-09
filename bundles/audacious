@@ -8,7 +8,6 @@
 include(qt-core)
 include(qt-basic)
 include(libX11client)
-include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)

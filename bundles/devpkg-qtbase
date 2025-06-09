@@ -11,7 +11,6 @@ qtbase-dev
 include(lib-opengl)
 include(qt-core)
 include(libX11client)
-include(libglib)
 include(lib-imageformat)
 include(libstdcpp)
 include(qt-basic)

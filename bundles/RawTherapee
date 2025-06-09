@@ -6,7 +6,6 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(gnome-base-libs)
-include(libglib)
 include(libX11client)
 include(lib-imageformat)
 include(libstdcpp)

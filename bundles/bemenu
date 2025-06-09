@@ -12,7 +12,6 @@ include(libstdcpp)
 include(lib-imageformat)
 include(icu4c-lib)
 include(harfbuzz-lib)
-include(libglib)
 include(libX11client)
 
 # end of custom additions

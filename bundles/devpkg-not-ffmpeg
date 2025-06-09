@@ -9,7 +9,6 @@ include(devpkg-base)
 
 not-ffmpeg-dev
 include(libX11client)
-include(libglib)
 include(libstdcpp)
 include(lib-imageformat)
 include(dav1d-lib)

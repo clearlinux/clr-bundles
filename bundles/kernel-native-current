@@ -8,7 +8,6 @@ include(hardware-uefi)
 
 console-autostart
 include(bootloader)
-include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
 include(qemu-guest-additions)

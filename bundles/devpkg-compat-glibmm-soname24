@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 compat-glibmm-soname24-dev
-include(libglib)
 include(libstdcpp)

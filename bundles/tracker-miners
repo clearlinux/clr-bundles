@@ -5,7 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
-include(libglib)
 include(gstreamer)
 
 # start of custom additions (edits outside this area will be removed automatically)

@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 babeltrace-dev
-include(libglib)

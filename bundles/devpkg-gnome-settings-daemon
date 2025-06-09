@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 gnome-settings-daemon-dev
-include(libglib)
 include(libX11client)
 include(gnome-base-libs)
 include(libstdcpp)

@@ -6,7 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(sudo)
 include(which)
-include(libglib)
 include(lib-openssl)
 
 e2fsprogs-extras

@@ -5,7 +5,6 @@
 # [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(libglib)
 include(libX11client)
 include(openldap)
 

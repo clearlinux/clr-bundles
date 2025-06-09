@@ -6,7 +6,6 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 #
 include(bootloader)
-include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
 include(os-core-plus)

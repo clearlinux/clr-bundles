@@ -5,7 +5,6 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Simental Magana, Marcos <marcos.simental.magana@intel.com>
 
-include(libglib)
 include(libX11client)
 include(webkitgtk)
 

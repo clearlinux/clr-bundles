@@ -9,7 +9,6 @@ include(devpkg-base)
 
 appstream-dev
 include(curl)
-include(libglib)
 include(libstdcpp)
 include(gdk-pixbuf)
 include(libX11client)

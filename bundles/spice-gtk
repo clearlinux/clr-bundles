@@ -7,7 +7,6 @@
 
 include(libX11client)
 include(lib-openssl)
-include(libglib)
 include(gstreamer)
 include(lib-imageformat)
 

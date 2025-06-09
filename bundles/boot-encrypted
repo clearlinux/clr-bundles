@@ -11,7 +11,6 @@ LVM2-extras
 cryptsetup-bin
 cryptsetup-config
 cryptsetup-lib
-include(libglib)
 include(popt-lib)
 include(gobject-introspection)
 include(gdk-pixbuf)

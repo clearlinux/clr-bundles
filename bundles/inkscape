@@ -6,7 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
-include(libglib)
 include(lib-imageformat)
 include(libstdcpp)
 

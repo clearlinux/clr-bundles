@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 polkit-dev
-include(libglib)
 include(polkit)

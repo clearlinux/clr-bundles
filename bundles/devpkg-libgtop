@@ -9,4 +9,3 @@ include(devpkg-base)
 
 libgtop-dev
 include(libX11client)
-include(libglib)

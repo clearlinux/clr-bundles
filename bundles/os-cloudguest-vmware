@@ -6,6 +6,5 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
 include(lib-openssl)
-include(libglib)
 
 open-vm-tools

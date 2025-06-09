@@ -8,6 +8,5 @@
 include(devpkg-base)
 
 libportal-dev
-include(libglib)
 include(libX11client)
 include(gnome-base-libs)

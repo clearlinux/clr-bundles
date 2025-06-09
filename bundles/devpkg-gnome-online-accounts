@@ -9,4 +9,3 @@ include(devpkg-base)
 
 gnome-online-accounts-dev
 include(gnome-base-libs)
-include(libglib)

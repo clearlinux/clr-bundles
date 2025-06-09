@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 gtkmm3-dev
-include(libglib)
 include(libX11client)
 include(libstdcpp)
 include(lib-opengl)

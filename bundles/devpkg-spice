@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 spice-dev
-include(libglib)
 include(lib-imageformat)
 include(lz4)
 include(lib-openssl)

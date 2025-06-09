@@ -9,5 +9,4 @@ include(devpkg-base)
 
 libhandy-dev
 include(libX11client)
-include(libglib)
 include(lib-opengl)

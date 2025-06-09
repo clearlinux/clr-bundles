@@ -5,7 +5,6 @@
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
-include(libglib)
 
 efibootmgr-bin
 console-autostart

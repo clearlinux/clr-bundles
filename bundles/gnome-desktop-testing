@@ -5,7 +5,6 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Ross Burton <ross.burton@intel.com>
 
-include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(gnome-base-libs)

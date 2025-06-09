@@ -5,7 +5,6 @@
 # [TAGS]: Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(sudo)
-include(libglib)
 
 e2fsprogs-extras
 micro-config-drive-equinix

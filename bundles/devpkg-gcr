@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 gcr-dev
-include(libglib)
 include(gdk-pixbuf)
 include(libX11client)
 include(lib-opengl)

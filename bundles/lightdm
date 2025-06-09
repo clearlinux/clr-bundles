@@ -6,7 +6,6 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libX11client)
-include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(gdk-pixbuf)

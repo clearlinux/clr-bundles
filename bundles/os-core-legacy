@@ -12,4 +12,3 @@ acl-lib32
 glib-lib32
 libcap-lib32
 include(libstdcpp)
-include(libglib)

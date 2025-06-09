@@ -5,7 +5,6 @@
 # [TAGS]: Tools and Utilities, Documentation
 # [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
 
-include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)

@@ -6,7 +6,6 @@
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
 
 include(curl)
-include(libglib)
 include(libX11client)
 include(python3-basic)
 include(perl-basic)

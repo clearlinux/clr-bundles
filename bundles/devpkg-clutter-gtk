@@ -11,4 +11,3 @@ include(devpkg-gtk3)
 
 clutter-gtk-dev
 include(libX11client)
-include(libglib)

@@ -9,5 +9,4 @@ include(devpkg-base)
 
 exo-dev
 include(libX11client)
-include(libglib)
 include(lib-opengl)

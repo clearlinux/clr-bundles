@@ -7,7 +7,6 @@
 
 
 # start of custom additions
-include(libglib)
 include(curl)
 include(qt-core)
 include(popt-lib)

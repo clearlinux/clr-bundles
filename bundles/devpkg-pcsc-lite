@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 pcsc-lite-dev
-include(libglib)

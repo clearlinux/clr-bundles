@@ -7,7 +7,6 @@
 
 include(libX11client)
 include(curl)
-include(libglib)
 include(gstreamer)
 include(lib-imageformat)
 include(openldap)

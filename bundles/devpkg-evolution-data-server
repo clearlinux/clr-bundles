@@ -9,7 +9,6 @@ include(devpkg-base)
 
 evolution-data-server-dev
 include(libX11client)
-include(libglib)
 include(libstdcpp)
 include(webkitgtk)
 include(perl-basic)

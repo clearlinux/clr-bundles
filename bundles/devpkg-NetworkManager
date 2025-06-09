@@ -8,6 +8,5 @@
 include(devpkg-base)
 
 NetworkManager-dev
-include(libglib)
 include(curl)
 include(NetworkManager)

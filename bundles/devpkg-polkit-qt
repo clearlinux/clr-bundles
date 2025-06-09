@@ -10,5 +10,4 @@ include(devpkg-base)
 polkit-qt-dev
 include(qt-core)
 include(qt-basic)
-include(libglib)
 include(libstdcpp)

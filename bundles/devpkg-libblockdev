@@ -8,7 +8,6 @@
 include(devpkg-base)
 
 libblockdev-dev
-include(libglib)
 include(qt-core)
 include(icu4c-lib)
 include(lib-openssl)

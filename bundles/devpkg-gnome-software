@@ -8,5 +8,4 @@
 include(devpkg-base)
 
 gnome-software-dev
-include(libglib)
 include(gnome-base-libs)

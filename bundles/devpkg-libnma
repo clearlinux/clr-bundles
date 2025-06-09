@@ -9,7 +9,6 @@ include(devpkg-base)
 
 libnma-dev
 include(libX11client)
-include(libglib)
 include(lib-openssl)
 include(libpsl-lib)
 include(lib-opengl)

@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 ModemManager-dev
-include(libglib)

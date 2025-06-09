@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 telepathy-glib-dev
-include(libglib)

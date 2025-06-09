@@ -10,7 +10,6 @@
 include(lib-imageformat)
 include(icu4c-lib)
 include(harfbuzz-lib)
-include(libglib)
 include(libX11client)
 systemd
 

@@ -14,7 +14,6 @@ include(libnl)
 include(lib-imageformat)
 include(perl-basic)
 include(binutils)
-include(libglib)
 include(python3-basic)
 # end of custom additions
 

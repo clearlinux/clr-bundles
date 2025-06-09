@@ -11,7 +11,6 @@ include(p11-kit)
 include(sudo)
 include(which)
 include(acpica-unix2)
-include(libglib)
 
 include(accel-config)
 also-add(aspell)

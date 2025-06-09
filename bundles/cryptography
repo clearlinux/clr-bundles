@@ -5,7 +5,6 @@
 # [TAGS]: Security, Tools and Utilities
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(openssl)
-include(libglib)
 include(openssh-client)
 
 ca-certs

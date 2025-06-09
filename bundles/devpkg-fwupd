@@ -9,6 +9,5 @@ include(devpkg-base)
 
 fwupd-dev
 include(curl)
-include(libglib)
 include(pypi-six)
 include(lib-openssl)

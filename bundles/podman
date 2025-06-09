@@ -11,7 +11,6 @@ include(sqlite)
 include(icu4c-lib)
 include(curl)
 include(qt-core)
-include(libglib)
 systemd
 include(libstdcpp)
 # end of custom additions

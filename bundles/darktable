@@ -8,7 +8,6 @@
 include(libX11client)
 include(curl)
 include(lib-imageformat)
-include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
