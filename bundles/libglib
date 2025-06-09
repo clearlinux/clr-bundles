@@ -4,8 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(libstdcpp)
-
 yaml-lib
 glib-lib
 glib-bin
