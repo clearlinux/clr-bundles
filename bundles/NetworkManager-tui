@@ -15,4 +15,4 @@ include(NetworkManager)
 # end of custom additions
 
 # main package
-NetworkManager-extras
+include(NetworkManager-extras)
