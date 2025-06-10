@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(libX11client)
 expect
 tcl
 tk
