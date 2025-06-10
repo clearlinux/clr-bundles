@@ -7,7 +7,6 @@
 
 include(NetworkManager)
 
-include(libX11client)
 include(openldap)
 wpa_supplicant
 include(python3-basic)
