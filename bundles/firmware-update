@@ -12,7 +12,7 @@ clr-fwupd-hooks
 fwupd
 libsoup
 include(polkit)
-include(libpsl-lib)
+libpsl-lib
 include(pypi-six)
-include(libarchive)
-include(mpfr-lib)
+libarchive
+mpfr-lib

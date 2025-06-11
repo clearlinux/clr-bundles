@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 lz4-dev
-include(lz4)
+lz4

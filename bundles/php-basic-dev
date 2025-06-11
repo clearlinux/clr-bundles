@@ -293,7 +293,7 @@ include(devpkg-libwebp)
 libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
-include(libxml2)
+libxml2
 include(devpkg-libxml2)
 include(devpkg-libxml2)
 include(libxslt)
@@ -479,8 +479,8 @@ include(devpkg-zstd)
 include(devpkg-zstd)
 include(pypi-numpy)
 include(desktop-kde-libs)
-include(libpcap-lib)
-include(vte-lib)
+libpcap-lib
+vte-lib
 include(libX11client)
 include(clr-hardware-files)
 include(qt6-basic)

@@ -11,7 +11,7 @@ include(gdk-pixbuf)
 include(libstdcpp)
 # include(lib-opengl)
 # include(lib-poppler)
-include(LibRaw-lib)
+LibRaw-lib
 # end of custom additions
 
 # main packages

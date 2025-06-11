@@ -598,6 +598,6 @@ include(devpkg-zstd)
 include(devpkg-zstd)
 include(libX11client)
 include(desktop-kde-libs)
-include(vte-lib)
+vte-lib
 include(clr-hardware-files)
 include(qt6-basic)

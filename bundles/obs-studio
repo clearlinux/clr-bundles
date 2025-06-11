@@ -10,10 +10,10 @@ include(curl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(not-ffmpeg-lib)
-include(libssh-lib)
+not-ffmpeg-lib
+libssh-lib
 include(numactl)
-include(dav1d-lib)
+dav1d-lib
 include(qt6-basic)
 wlrobs
 

@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 libsoup-dev
-include(icu4c-lib)
-include(libpsl-lib)
+icu4c-lib
+libpsl-lib

@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 ldb-dev
-include(popt-lib)
+popt-lib

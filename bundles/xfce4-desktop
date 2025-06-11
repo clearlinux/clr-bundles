@@ -52,9 +52,9 @@ include(gdk-pixbuf)
 include(libstdcpp)
 webkitgtk
 include(pulseaudio)
-include(libarchive)
-include(vte-lib)
-include(libXpm-lib)
+libarchive
+vte-lib
+libXpm-lib
 include(gphoto)
-include(mpfr-lib)
+mpfr-lib
 include(lib-openssl)

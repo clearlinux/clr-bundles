@@ -7,5 +7,5 @@
 
 include(libstdcpp)
 nmap-extras
-include(libnl)
-include(libpcap-lib)
+libnl
+libpcap-lib

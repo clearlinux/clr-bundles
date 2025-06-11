@@ -8,10 +8,10 @@
 include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
+libxml2
 include(pypi-six)
-include(popt-lib)
-include(libarchive)
+popt-lib
+libarchive
 include(file)
 include(perl-basic)
 include(gpgme)

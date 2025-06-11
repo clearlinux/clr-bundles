@@ -6,7 +6,7 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(Sphinx)
-include(libXpm-lib)
+libXpm-lib
 include(maker-basic)
 include(python3-basic)
 include(qt-basic)

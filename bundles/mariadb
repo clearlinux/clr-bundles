@@ -12,9 +12,9 @@ include(libstdcpp)
 # start of custom additions (edits outside this area will be removed automatically)
 systemd
 include(numactl)
-include(libxml2)
-include(lz4)
-include(ncurses-lib)
+libxml2
+lz4
+ncurses-lib
 mariadb-doc
 jemalloc-lib
 include(perl-basic)

@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 rabbitmq-c-dev
-include(popt-lib)
+popt-lib

@@ -7,11 +7,11 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
+libxml2
 include(libstdcpp)
 include(lib-imageformat)
-include(icu4c-lib)
-include(harfbuzz-lib)
+icu4c-lib
+harfbuzz-lib
 include(libX11client)
 
 # end of custom additions

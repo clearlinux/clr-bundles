@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 bluez-dev
-include(icu4c-lib)
+icu4c-lib

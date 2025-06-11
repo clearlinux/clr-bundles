@@ -13,5 +13,5 @@ irqbalance
 
 include(linux-firmware)
 include(linux-firmware-extras)
-include(libnl)
+libnl
 include(numactl)

@@ -10,9 +10,9 @@ webkitgtk
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(lib-openssl)
-include(libssh-lib)
-include(vte-lib)
-include(lz4)
+libssh-lib
+vte-lib
+lz4
 
 # end of custom additions
 

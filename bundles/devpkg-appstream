@@ -13,6 +13,6 @@ include(libstdcpp)
 include(gdk-pixbuf)
 include(libX11client)
 include(lib-opengl)
-include(icu4c-lib)
+icu4c-lib
 include(lib-imageformat)
-include(harfbuzz-lib)
+harfbuzz-lib

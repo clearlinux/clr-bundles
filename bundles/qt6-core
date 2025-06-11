@@ -10,14 +10,14 @@ include(libstdcpp)
 shared-mime-info
 
 qt6base
-include(icu4c-lib)
+icu4c-lib
 include(openldap)
 include(gdk-pixbuf)
 include(libX11client)
 include(lib-opengl)
 include(qt-core)
-include(gmp-lib)
-include(harfbuzz-lib)
+gmp-lib
+harfbuzz-lib
 include(lib-imageformat)
-include(ncurses-lib)
-include(libxml2)
+ncurses-lib
+libxml2

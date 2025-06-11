@@ -10,6 +10,6 @@ include(devpkg-base)
 vte-dev
 include(libX11client)
 include(libstdcpp)
-include(vte-lib)
+vte-lib
 include(lib-opengl)
 include(gstreamer)

@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 compat-babeltrace-one-dev
-include(popt-lib)
+popt-lib

@@ -8,8 +8,8 @@
 # include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(harfbuzz-lib)
+libxml2
+harfbuzz-lib
 # include(libX11client)
 
 # end of custom additions

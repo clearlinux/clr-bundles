@@ -85,4 +85,4 @@ include(devpkg-tbb)
 
 pypi-tqdm
 pypi-wheel
-include(pcre-lib)
+pcre-lib

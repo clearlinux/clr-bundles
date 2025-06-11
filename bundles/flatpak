@@ -9,9 +9,9 @@ include(libX11client)
 include(qt-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libarchive)
-include(libpsl-lib)
-include(lz4)
+libarchive
+libpsl-lib
+lz4
 include(audio-pipewire)
 flatpak-builder
 include(git)

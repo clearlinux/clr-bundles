@@ -7,9 +7,9 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(libevent-lib)
-include(dbus-lib)
+libxml2
+libevent-lib
+dbus-lib
 include(curl)
 include(libstdcpp)
 netcdf-fortran-dev

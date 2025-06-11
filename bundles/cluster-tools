@@ -17,5 +17,5 @@ pmix
 pdsh
 slurm
 
-include(lz4)
+lz4
 include(numactl)

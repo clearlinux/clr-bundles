@@ -10,5 +10,5 @@ include(libstdcpp)
 include(devpkg-gmp)
 ruby
 ruby-dev
-include(ncurses-lib)
-include(gmp-lib)
+ncurses-lib
+gmp-lib

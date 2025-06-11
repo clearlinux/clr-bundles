@@ -9,4 +9,4 @@ include(devpkg-base)
 
 libical-dev
 include(libstdcpp)
-include(icu4c-lib)
+icu4c-lib

@@ -8,6 +8,6 @@
 include(devpkg-base)
 
 libosinfo-dev
-include(icu4c-lib)
-include(libpsl-lib)
+icu4c-lib
+libpsl-lib
 include(clr-hardware-files)

@@ -82,4 +82,4 @@ include(pypi-numpy)
 pypi-requests
 include(pypi-cython)
 pandas
-include(libunwind-lib)
+libunwind-lib

@@ -14,4 +14,4 @@ include(gdk-pixbuf)
 include(libX11client)
 include(lib-opengl)
 include(lib-imageformat)
-include(harfbuzz-lib)
+harfbuzz-lib

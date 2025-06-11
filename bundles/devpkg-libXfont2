@@ -9,6 +9,6 @@ include(devpkg-base)
 
 libXfont2-dev
 include(libX11client)
-include(harfbuzz-lib)
-include(icu4c-lib)
+harfbuzz-lib
+icu4c-lib
 include(lib-imageformat)

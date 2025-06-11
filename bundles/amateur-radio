@@ -40,9 +40,9 @@ wsjtx
 xastir
 xlog
 xnec2c
-include(libevent-lib)
-include(pcre-lib)
-include(libXpm-lib)
+libevent-lib
+pcre-lib
+libXpm-lib
 pypi-requests
 include(pypi-six)
 include(python-graphics)

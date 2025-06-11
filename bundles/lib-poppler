@@ -8,13 +8,13 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(icu4c-lib)
+icu4c-lib
 include(lib-openssl)
 # include(libX11client)
 include(gdk-pixbuf)
-include(nettle-lib)
+nettle-lib
 include(openldap)
-include(gmp-lib)
+gmp-lib
 # include(qt-basic)
 # include(qt-core)
 #include(lib-imageformat)

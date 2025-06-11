@@ -9,7 +9,7 @@ include(iproute2)
 include(perl-basic)
 include(python3-basic)
 
-include(bcc)
+bcc
 include(bpftrace)
 blktrace
 clr-debug-info
@@ -47,4 +47,4 @@ time
 tiptop
 util-linux
 include(pypi-six)
-include(libpcap-lib)
+libpcap-lib

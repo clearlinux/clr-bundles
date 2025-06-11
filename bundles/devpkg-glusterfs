@@ -10,4 +10,4 @@ include(devpkg-base)
 glusterfs-dev
 include(curl)
 include(python3-basic)
-include(libnl)
+libnl

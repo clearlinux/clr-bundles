@@ -10,7 +10,7 @@ include(python3-basic)
 # start of custom additions (edits outside this area will be removed automatically)
 include(clr-hardware-files)
 pypi-requests
-include(libarchive)
+libarchive
 include(desktop-gnomelibs)
 include(kvm-host)
 include(libX11client)

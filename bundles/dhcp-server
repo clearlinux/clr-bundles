@@ -6,6 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 dnsmasq
 systemd
-include(gmp-lib)
-include(nettle-lib)
-include(dbus-lib)
+gmp-lib
+nettle-lib
+dbus-lib

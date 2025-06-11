@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 compat-libsoup-soname-24-dev
-include(icu4c-lib)
-include(libpsl-lib)
+icu4c-lib
+libpsl-lib

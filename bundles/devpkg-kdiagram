@@ -8,10 +8,10 @@
 include(devpkg-base)
 
 kdiagram-dev
-include(harfbuzz-lib)
+harfbuzz-lib
 include(qt-core)
 include(qt-basic)
-include(icu4c-lib)
+icu4c-lib
 include(lib-opengl)
 include(lib-imageformat)
 include(openldap)

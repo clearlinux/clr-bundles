@@ -38,6 +38,6 @@ gmic
 libssh
 thermal_monitor
 include(openblas)
-include(vte-lib)
+vte-lib
 include(opencv-python)
-include(libssh-lib)
+libssh-lib

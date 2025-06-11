@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 libpcap-dev
-include(libpcap-lib)
+libpcap-lib

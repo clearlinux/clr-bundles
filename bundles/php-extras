@@ -61,5 +61,5 @@ php-xxtea
 php-yaml
 php-zmq
 include(openldap)
-include(libunwind-lib)
-include(lz4)
+libunwind-lib
+lz4

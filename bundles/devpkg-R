@@ -14,4 +14,4 @@ include(lib-imageformat)
 xz
 include(openblas)
 include(libstdcpp)
-include(icu4c-lib)
+icu4c-lib

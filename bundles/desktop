@@ -157,8 +157,8 @@ ntfs-3g
 swupd-search
 also-add(thermal_daemon)
 include(gdk-pixbuf)
-include(vte-lib)
-include(LibRaw-lib)
+vte-lib
+LibRaw-lib
 include(gegl)
 include(gphoto)
-include(mpfr-lib)
+mpfr-lib

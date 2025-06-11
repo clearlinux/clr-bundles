@@ -109,11 +109,11 @@ util-linux-man
 # mkpasswd tool is part of whois
 whois-extras
 include(zstd)
-include(icu4c-lib)
+icu4c-lib
 # include(lib-imageformat)
-include(libpcap-lib)
-include(pcre-lib)
+libpcap-lib
+pcre-lib
 include(numactl)
-include(popt-lib)
+popt-lib
 include(clr-hardware-files)
-include(protobuf-lib)
+protobuf-lib

@@ -8,6 +8,6 @@
 include(devpkg-base)
 
 kronosnet-dev
-include(lz4)
-include(libnl)
+lz4
+libnl
 include(lib-openssl)

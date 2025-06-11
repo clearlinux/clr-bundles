@@ -8,7 +8,7 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 systemd
-include(ncurses-lib)
+ncurses-lib
 include(libstdcpp)
 # end of custom additions
 

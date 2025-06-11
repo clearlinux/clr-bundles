@@ -15,5 +15,5 @@ mcelog
 
 # kernel package
 linux-preempt-rt
-include(libnl)
+libnl
 include(numactl)

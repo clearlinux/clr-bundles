@@ -23,6 +23,6 @@ NetworkManager-vpnc
 usb-modeswitch
 usb-modeswitch-data
 xl2tpd
-include(libevent-lib)
-include(lz4)
+libevent-lib
+lz4
 webkitgtk

@@ -51,10 +51,10 @@ tcpdump
 traceroute
 whois
 include(curl)
-include(libevent-lib)
+libevent-lib
 include(openldap)
-include(ncurses-lib)
-include(lz4)
-include(libnl)
-include(libpcap-lib)
-include(libxml2)
+ncurses-lib
+lz4
+libnl
+libpcap-lib
+libxml2

@@ -9,8 +9,8 @@
 include(lib-openssl)
 include(curl)
 include(qt-core)
-include(mpfr-lib)
-include(gmp-lib)
+mpfr-lib
+gmp-lib
 include(pypi-six)
 pypi-blivet
 include(parted)

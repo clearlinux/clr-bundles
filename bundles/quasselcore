@@ -8,13 +8,13 @@
 include(libstdcpp)
 
 # start of custom additions
-include(not-ffmpeg-lib)
+not-ffmpeg-lib
 include(lib-openssl)
-include(libssh-lib)
+libssh-lib
 include(numactl)
 include(aspell)
-include(libevent-lib)
-include(dav1d-lib)
+libevent-lib
+dav1d-lib
 include(qt-core)
 include(qt-basic)
 # end of custom additions

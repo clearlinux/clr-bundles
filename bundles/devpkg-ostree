@@ -11,4 +11,4 @@ ostree-dev
 include(curl)
 xz
 include(qt-core)
-include(icu4c-lib)
+icu4c-lib

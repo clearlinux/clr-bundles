@@ -7,12 +7,12 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(not-ffmpeg-lib)
-include(nettle-lib)
-include(gmp-lib)
+not-ffmpeg-lib
+nettle-lib
+gmp-lib
 include(pulseaudio)
 include(lib-imageformat)
-include(dav1d-lib)
+dav1d-lib
 alsa-firmware
 include(libstdcpp)
 include(lib-opengl)

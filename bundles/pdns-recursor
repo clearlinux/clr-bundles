@@ -11,7 +11,7 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 systemd
-include(icu4c-lib)
+icu4c-lib
 include(lib-openssl)
 # end of custom additions
 

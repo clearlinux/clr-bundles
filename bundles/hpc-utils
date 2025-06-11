@@ -17,6 +17,6 @@ opa-psm2
 opensm
 perftest
 rdma-core
-include(libnl)
-include(libxml2)
+libnl
+libxml2
 include(numactl)

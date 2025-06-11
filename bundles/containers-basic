@@ -22,4 +22,4 @@ cri-tools
 docker
 include(gnupg)
 tini
-include(icu4c-lib)
+icu4c-lib

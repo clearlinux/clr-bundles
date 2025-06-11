@@ -11,7 +11,7 @@ include(qt-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libnl)
+libnl
 include(perl-basic)
 
 # end of custom additions

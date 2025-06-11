@@ -9,4 +9,4 @@ include(devpkg-base)
 
 libarchive-dev
 xz
-include(libarchive)
+libarchive

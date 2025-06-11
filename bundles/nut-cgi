@@ -8,7 +8,7 @@
 include(nut)
 nut-extras-cgi
 include(libX11client)
-include(libXpm-lib)
-include(harfbuzz-lib)
-include(icu4c-lib)
+libXpm-lib
+harfbuzz-lib
+icu4c-lib
 include(lib-imageformat)

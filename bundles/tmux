@@ -7,8 +7,8 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libevent-lib)
-include(ncurses-lib)
+libevent-lib
+ncurses-lib
 include(lib-openssl)
 # end of custom additions
 

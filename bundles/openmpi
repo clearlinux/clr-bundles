@@ -8,8 +8,8 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(libevent-lib)
+libxml2
+libevent-lib
 include(perl-basic)
 # end of custom additions
 

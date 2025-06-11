@@ -7,8 +7,8 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(popt-lib)
-include(libnl)
+popt-lib
+libnl
 
 # end of custom additions
 

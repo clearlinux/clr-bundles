@@ -672,7 +672,7 @@ include(devpkg-zstd)
 include(libX11client)
 include(pypi-numpy)
 include(desktop-kde-libs)
-include(vte-lib)
+vte-lib
 include(clr-hardware-files)
 include(qt6-basic)
-include(libpcap-lib)
+libpcap-lib

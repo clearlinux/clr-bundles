@@ -44,6 +44,6 @@ syslinux-data
 tzdata-minimal
 xfsprogs-bin
 xorriso-bin
-include(icu4c-lib)
+icu4c-lib
 include(numactl)
-include(libssh-lib)
+libssh-lib

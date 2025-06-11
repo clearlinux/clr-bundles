@@ -7,8 +7,8 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(popt-lib)
-include(pcre-lib)
+popt-lib
+pcre-lib
 include(lib-imageformat)
 include(tmux)
 newt

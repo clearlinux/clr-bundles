@@ -4,9 +4,9 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(dbus-lib)
+dbus-lib
 include(kbd)
-include(ncurses-lib)
+ncurses-lib
 systemd
 clr-power-tweaks
 clr-systemd-config

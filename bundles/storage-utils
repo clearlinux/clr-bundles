@@ -50,10 +50,10 @@ tdb-lib
 thin-provisioning-tools
 xfsdump
 xfsprogs
-include(lz4)
-include(libnl)
-include(libxml2)
+lz4
+libnl
+libxml2
 include(gdk-pixbuf)
 include(libX11client)
-include(harfbuzz-lib)
+harfbuzz-lib
 include(lib-imageformat)

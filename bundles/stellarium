@@ -10,9 +10,9 @@ include(qt-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libnl)
-include(libevent-lib)
-include(dav1d-lib)
+libnl
+libevent-lib
+dav1d-lib
 
 # end of custom additions
 

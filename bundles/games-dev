@@ -453,7 +453,7 @@ libxcvt
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbfile)
-include(libxml2)
+libxml2
 include(devpkg-libxml2)
 include(devpkg-libxml2)
 libxml2-python
@@ -884,6 +884,6 @@ include(devpkg-zstd)
 include(devpkg-zstd)
 include(libX11client)
 include(desktop-kde-libs)
-include(vte-lib)
+vte-lib
 include(clr-hardware-files)
 include(qt6-basic)

@@ -9,5 +9,5 @@ include(devpkg-base)
 
 libblockdev-dev
 include(qt-core)
-include(icu4c-lib)
+icu4c-lib
 include(lib-openssl)

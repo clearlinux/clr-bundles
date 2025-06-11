@@ -9,12 +9,12 @@ include(libX11client)
 include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libXpm-lib)
+libXpm-lib
 include(gegl)
-include(LibRaw-lib)
-include(libunwind-lib)
-include(not-ffmpeg-lib)
-include(dav1d-lib)
+LibRaw-lib
+libunwind-lib
+not-ffmpeg-lib
+dav1d-lib
 include(curl)
 include(lib-poppler)
 # end of custom additions

@@ -10,5 +10,5 @@ include(devpkg-base)
 udisks2-dev
 include(pypi-six)
 include(qt-core)
-include(icu4c-lib)
+icu4c-lib
 include(lib-openssl)

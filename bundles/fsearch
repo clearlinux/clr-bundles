@@ -8,8 +8,8 @@
 include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(pcre-lib)
-include(icu4c-lib)
+pcre-lib
+icu4c-lib
 
 # end of custom additions
 

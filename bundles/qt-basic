@@ -41,6 +41,6 @@ qtx11extras
 qtxmlpatterns
 include(libstdcpp)
 include(pulseaudio)
-include(icu4c-lib)
+icu4c-lib
 include(lib-imageformat)
 include(gstreamer)

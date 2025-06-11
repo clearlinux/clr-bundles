@@ -13,7 +13,7 @@ pypi-gitpython
 rpm
 rpm-extras
 include(curl)
-include(libxml2)
-include(libarchive)
+libxml2
+libarchive
 pypi-requests
-include(popt-lib)
+popt-lib

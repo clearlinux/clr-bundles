@@ -85,4 +85,4 @@ xorg-fonts
 xrestop
 xsel
 xwd
-include(lz4)
+lz4

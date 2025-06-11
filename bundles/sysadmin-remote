@@ -18,9 +18,9 @@ nrpe
 sos
 udisks2
 include(pypi-pynacl)
-include(libxml2)
+libxml2
 pypi-requests
-include(mpfr-lib)
+mpfr-lib
 include(qt-core)
-include(icu4c-lib)
+icu4c-lib
 include(lib-openssl)

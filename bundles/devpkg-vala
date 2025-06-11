@@ -10,8 +10,8 @@ include(devpkg-base)
 vala-dev
 include(gdk-pixbuf)
 include(libX11client)
-include(harfbuzz-lib)
-include(icu4c-lib)
+harfbuzz-lib
+icu4c-lib
 include(lib-imageformat)
 include(qt-core)
 include(qt-basic)

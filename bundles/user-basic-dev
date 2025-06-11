@@ -438,7 +438,7 @@ include(devpkg-libwebp)
 libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
-include(libxml2)
+libxml2
 libxml2-bin
 include(devpkg-libxml2)
 include(devpkg-libxml2)

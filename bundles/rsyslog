@@ -8,8 +8,8 @@
 include(curl)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(nettle-lib)
-include(gmp-lib)
+nettle-lib
+gmp-lib
 include(lib-openssl)
 # end of custom additions
 

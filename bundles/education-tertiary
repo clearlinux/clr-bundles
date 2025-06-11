@@ -15,4 +15,4 @@ include(kalgebra)
 include(kmplot)
 kturtle
 include(kde-frameworks5)
-include(protobuf-lib)
+protobuf-lib

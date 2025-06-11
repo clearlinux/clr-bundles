@@ -9,8 +9,8 @@ include(python3-basic)
 include(openldap)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libarchive)
-include(ncurses-lib)
+libarchive
+ncurses-lib
 include(libstdcpp)
 include(openldap)
 include(lib-samba)

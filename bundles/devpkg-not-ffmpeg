@@ -11,7 +11,7 @@ not-ffmpeg-dev
 include(libX11client)
 include(libstdcpp)
 include(lib-imageformat)
-include(dav1d-lib)
-include(harfbuzz-lib)
-include(icu4c-lib)
-include(not-ffmpeg-lib)
+dav1d-lib
+harfbuzz-lib
+icu4c-lib
+not-ffmpeg-lib

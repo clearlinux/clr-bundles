@@ -10,4 +10,4 @@ include(devpkg-base)
 tiff-dev
 include(lib-imageformat)
 include(libstdcpp)
-include(lz4)
+lz4

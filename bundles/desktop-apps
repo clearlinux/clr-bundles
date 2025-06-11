@@ -58,6 +58,6 @@ requests-ntlm
 also-add(emacs-x11)
 also-add(firefox)
 also-add(gvim)
-include(libnl)
-include(pcre-lib)
-include(libXpm-lib)
+libnl
+pcre-lib
+libXpm-lib

@@ -9,6 +9,6 @@ include(devpkg-base)
 
 geoclue-dev
 include(gdk-pixbuf)
-include(icu4c-lib)
+icu4c-lib
 include(lib-imageformat)
-include(libpsl-lib)
+libpsl-lib

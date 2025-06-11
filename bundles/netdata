@@ -9,13 +9,13 @@ include(lib-openssl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(dbus-lib)
+dbus-lib
 include(curl)
 include(yaml)
-include(protobuf-lib)
-include(nettle-lib)
-include(gmp-lib)
-include(lz4)
+protobuf-lib
+nettle-lib
+gmp-lib
+lz4
 include(openldap)
 
 # end of custom additions

@@ -9,4 +9,4 @@ compat-fuse-soname2
 compat-readline-soname5
 libbsd-lib
 libudev0-shim
-include(ncurses-lib)
+ncurses-lib

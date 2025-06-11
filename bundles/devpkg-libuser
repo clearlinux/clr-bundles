@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 libuser-dev
-include(popt-lib)
+popt-lib

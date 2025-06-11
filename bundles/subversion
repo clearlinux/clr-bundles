@@ -8,7 +8,7 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(sqlite)
-include(lz4)
+lz4
 include(openldap)
 include(perl-basic)
 # end of custom additions

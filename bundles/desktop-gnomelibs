@@ -48,11 +48,11 @@ pinentry-extras
 libsoup-lib
 libproxy
 include(audio-pipewire)
-include(dav1d-lib)
+dav1d-lib
 libxml2-lib
 include(aspell)
-include(not-ffmpeg-lib)
+not-ffmpeg-lib
 include(lib-openssl)
-include(libevent-lib)
+libevent-lib
 include(gtk4libs)
 include(gtk3libs)

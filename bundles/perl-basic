@@ -38,6 +38,6 @@ perl-libwww-perl
 
 clr-check-perl-modules
 
-include(gmp-lib)
-include(nettle-lib)
+gmp-lib
+nettle-lib
 systemd

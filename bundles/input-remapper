@@ -8,11 +8,11 @@
 include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(nettle-lib)
+libxml2
+nettle-lib
 include(lib-imageformat)
-include(icu4c-lib)
-include(harfbuzz-lib)
+icu4c-lib
+harfbuzz-lib
 include(libX11client)
 include(gdk-pixbuf)
 

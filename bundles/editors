@@ -11,5 +11,5 @@ also-add(vim)
 ctags
 ed
 nano
-include(libxml2)
+libxml2
 include(yaml)

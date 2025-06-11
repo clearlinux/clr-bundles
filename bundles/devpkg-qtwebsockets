@@ -13,5 +13,5 @@ include(libstdcpp)
 include(libX11client)
 include(lib-opengl)
 include(qt-basic)
-include(harfbuzz-lib)
+harfbuzz-lib
 include(lib-imageformat)

@@ -7,14 +7,14 @@
 
 
 # start of custom additions
-include(nettle-lib)
+nettle-lib
 include(lib-imageformat)
 # include(libX11client)
-include(gmp-lib)
+gmp-lib
 include(gdk-pixbuf)
-include(libxml2)
-include(ncurses-lib)
-include(harfbuzz-lib)
+libxml2
+ncurses-lib
+harfbuzz-lib
 include(libstdcpp)
 also-add(mesa-demos)
 harfbuzz-lib

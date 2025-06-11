@@ -16,5 +16,5 @@ vbox-integration
 
 # kernel package
 linux-ltscurrent
-include(libnl)
+libnl
 include(numactl)

@@ -9,4 +9,4 @@ include(devpkg-base)
 
 grpc-dev
 include(libstdcpp)
-include(protobuf-lib)
+protobuf-lib

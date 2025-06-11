@@ -16,9 +16,9 @@ include(libstdcpp)
 include(lib-openssl)
 include(qt-basic)
 include(qt-core)
-include(mpfr-lib)
-include(pcre-lib)
-include(icu4c-lib)
+mpfr-lib
+pcre-lib
+icu4c-lib
 include(postgresql)
 # end of custom additions
 

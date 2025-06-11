@@ -11,4 +11,4 @@ weston-dev
 include(libX11client)
 include(gstreamer)
 include(lib-imageformat)
-include(not-ffmpeg-lib)
+not-ffmpeg-lib

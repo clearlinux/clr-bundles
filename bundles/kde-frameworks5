@@ -45,5 +45,5 @@ kstatusnotifieritem
 breeze-icons
 # include(desktop-kde-libs)
 include(lib-imageformat)
-include(pcre-lib)
-include(not-ffmpeg-lib)
+pcre-lib
+not-ffmpeg-lib

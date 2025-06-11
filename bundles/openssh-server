@@ -9,4 +9,4 @@ include(openssh-client)
 include(iptables)
 openssh-extras-server
 tallow
-include(pcre-lib)
+pcre-lib

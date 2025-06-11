@@ -11,11 +11,11 @@ LVM2-extras
 cryptsetup-bin
 cryptsetup-config
 cryptsetup-lib
-include(popt-lib)
+popt-lib
 include(gdk-pixbuf)
 include(libX11client)
-include(harfbuzz-lib)
-include(icu4c-lib)
+harfbuzz-lib
+icu4c-lib
 include(lib-imageformat)
-include(nettle-lib)
-include(libxml2)
+nettle-lib
+libxml2

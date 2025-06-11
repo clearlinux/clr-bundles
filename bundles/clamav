@@ -10,8 +10,8 @@ include(curl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libxml2)
-include(ncurses-lib)
+libxml2
+ncurses-lib
 systemd
 include(curl)
 # end of custom additions

@@ -14,5 +14,5 @@ include(os-core-plus)
 also-add(kernel-preempt-rt)
 mcelog
 systemd
-include(libnl)
+libnl
 include(numactl)

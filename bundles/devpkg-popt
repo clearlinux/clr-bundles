@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 popt-dev
-include(popt-lib)
+popt-lib

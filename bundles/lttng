@@ -7,9 +7,9 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(popt-lib)
+popt-lib
 include(numactl)
-include(libxml2)
+libxml2
 lttng-ust
 # end of custom additions
 

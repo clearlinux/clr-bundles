@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 libunwind-dev
-include(libunwind-lib)
+libunwind-lib

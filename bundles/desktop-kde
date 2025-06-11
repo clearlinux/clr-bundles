@@ -155,8 +155,8 @@ xdg-utils
 include(gdk-pixbuf)
 include(kde-frameworks5)
 include(pypi-six)
-include(libssh-lib)
-include(mpfr-lib)
+libssh-lib
+mpfr-lib
 flatpack-kcm
 kcolorscheme
 kdsoap-ws-discovery-client
@@ -188,7 +188,7 @@ include(Remmina)
 oxygen-icons
 kpipewire
 kquickcharts
-include(vte-lib)
+vte-lib
 include(qt6-basic)
 plasma-systemmonitor
 ksystemstats

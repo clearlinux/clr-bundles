@@ -10,9 +10,9 @@ include(curl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(libunwind-lib)
-include(libpcap-lib)
-include(libnl)
+libunwind-lib
+libpcap-lib
+libnl
 include(python3-basic)
 include(perl-basic)
 include(lib-opengl)

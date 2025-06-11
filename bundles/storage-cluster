@@ -17,6 +17,6 @@ glusterfs
 include(parted)
 systemd
 include(curl)
-include(dbus-lib)
-include(libnl)
-include(libxml2)
+dbus-lib
+libnl
+libxml2

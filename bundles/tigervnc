@@ -10,11 +10,11 @@ include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(not-ffmpeg-lib)
-include(libssh-lib)
+not-ffmpeg-lib
+libssh-lib
 include(numactl)
-include(dav1d-lib)
-include(libunwind-lib)
+dav1d-lib
+libunwind-lib
 include(libX11client)
 include(perl-basic)
 # end of custom additions

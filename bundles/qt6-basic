@@ -30,5 +30,5 @@ qt6serialport
 qt6shadertools
 qt6svg
 qt6tools
-include(protobuf-lib)
+protobuf-lib
 include(libstdcpp)

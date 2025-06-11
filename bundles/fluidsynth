@@ -9,7 +9,7 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(pulseaudio)
-include(ncurses-lib)
+ncurses-lib
 include(libX11client)
 
 # end of custom additions

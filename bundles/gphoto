@@ -9,11 +9,11 @@
 
 libgphoto2-lib
 include(libX11client)
-include(libXpm-lib)
+libXpm-lib
 include(curl)
-include(dbus-lib)
-include(harfbuzz-lib)
-include(icu4c-lib)
+dbus-lib
+harfbuzz-lib
+icu4c-lib
 include(lib-imageformat)
 include(libstdcpp)
-include(libxml2)
+libxml2

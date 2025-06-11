@@ -8,7 +8,7 @@
 include(curl)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(pcre-lib)
+pcre-lib
 include(lib-imageformat)
 wpa_supplicant
 include(NetworkManager)

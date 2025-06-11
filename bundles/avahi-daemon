@@ -8,4 +8,4 @@
 include(qt-basic)
 
 avahi-extras
-include(libevent-lib)
+libevent-lib

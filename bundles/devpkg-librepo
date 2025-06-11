@@ -10,4 +10,4 @@ include(devpkg-base)
 librepo-dev
 include(curl)
 include(qt-core)
-include(icu4c-lib)
+icu4c-lib

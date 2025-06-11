@@ -8,7 +8,7 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 systemd
-include(libevent-lib)
+libevent-lib
 libevent
 # end of custom additions
 

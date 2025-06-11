@@ -10,5 +10,5 @@ include(devpkg-base)
 libgphoto2-dev
 include(curl)
 include(lib-imageformat)
-include(libXpm-lib)
+libXpm-lib
 include(gphoto)

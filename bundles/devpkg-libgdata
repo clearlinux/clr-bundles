@@ -12,7 +12,7 @@ include(gdk-pixbuf)
 include(libX11client)
 include(lib-opengl)
 include(gstreamer)
-include(harfbuzz-lib)
-include(icu4c-lib)
+harfbuzz-lib
+icu4c-lib
 include(lib-imageformat)
-include(libpsl-lib)
+libpsl-lib

@@ -141,4 +141,4 @@ include(devpkg-libevent)
 
 # work around infra
 also-add(hwloc)
-include(libevent-lib)
+libevent-lib

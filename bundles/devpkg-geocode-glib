@@ -9,5 +9,5 @@ include(devpkg-base)
 include(devpkg-glib)
 
 geocode-glib-dev
-include(icu4c-lib)
-include(libpsl-lib)
+icu4c-lib
+libpsl-lib

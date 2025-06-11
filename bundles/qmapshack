@@ -11,12 +11,12 @@ include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(not-ffmpeg-lib)
+not-ffmpeg-lib
 include(lib-openssl)
-include(libssh-lib)
+libssh-lib
 include(numactl)
-include(libevent-lib)
-include(dav1d-lib)
+libevent-lib
+dav1d-lib
 # include(lib-qt5webengine)
 
 # end of custom additions

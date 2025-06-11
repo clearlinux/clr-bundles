@@ -810,8 +810,8 @@ R-zoo
 #
 eigen
 include(pandoc)
-include(lz4)
-include(libunwind-lib)
-include(LibRaw-lib)
+lz4
+libunwind-lib
+LibRaw-lib
 include(lib-imageformat)
-include(protobuf-lib)
+protobuf-lib

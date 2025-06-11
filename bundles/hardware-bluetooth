@@ -8,5 +8,5 @@ include(libstdcpp)
 
 bluez
 bluez-extras
-include(icu4c-lib)
-include(libxml2)
+icu4c-lib
+libxml2

@@ -9,10 +9,10 @@
 # start of custom additions
 include(curl)
 include(qt-core)
-include(popt-lib)
-include(dbus-lib)
+popt-lib
+dbus-lib
 include(openldap)
-include(icu4c-lib)
+icu4c-lib
 include(libstdcpp)
 include(lib-openssl)
 include(python3-basic)

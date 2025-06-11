@@ -58,4 +58,4 @@ tig
 trace-cmd
 unifdef
 include(valgrind)
-include(libXpm-lib)
+libXpm-lib

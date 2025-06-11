@@ -9,5 +9,5 @@ include(devpkg-base)
 
 spice-dev
 include(lib-imageformat)
-include(lz4)
+lz4
 include(lib-openssl)

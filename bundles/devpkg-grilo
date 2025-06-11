@@ -9,4 +9,4 @@ include(devpkg-base)
 
 grilo-dev
 include(libX11client)
-include(libpsl-lib)
+libpsl-lib

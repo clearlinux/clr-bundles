@@ -482,7 +482,7 @@ libxcvt
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbfile)
-include(libxml2)
+libxml2
 include(devpkg-libxml2)
 include(devpkg-libxml2)
 libxml2-python

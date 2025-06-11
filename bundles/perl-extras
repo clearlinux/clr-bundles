@@ -9,9 +9,9 @@ include(libstdcpp)
 include(python3-basic)
 include(postgresql)
 include(libX11client)
-include(libevent-lib)
-include(icu4c-lib)
-include(libXpm-lib)
+libevent-lib
+icu4c-lib
+libXpm-lib
 
 perl-Acme-Damn
 perl-Algorithm-C3

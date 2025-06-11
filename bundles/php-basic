@@ -10,11 +10,11 @@ include(python3-basic)
 include(postgresql-lib)
 
 php
-include(harfbuzz-lib)
+harfbuzz-lib
 include(curl)
-include(icu4c-lib)
+icu4c-lib
 include(lib-imageformat)
-include(ncurses-lib)
-include(gmp-lib)
-include(nettle-lib)
-include(libXpm-lib)
+ncurses-lib
+gmp-lib
+nettle-lib
+libXpm-lib
