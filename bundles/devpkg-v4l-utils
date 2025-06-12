@@ -10,4 +10,4 @@ include(devpkg-base)
 v4l-utils-dev
 include(lib-imageformat)
 include(libstdcpp)
-include(v4l-utils)
+v4l-utils
