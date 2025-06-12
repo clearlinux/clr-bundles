@@ -553,7 +553,7 @@ tk-staticdev
 include(devpkg-tpm2-tss)
 include(tzdata)
 umockdev-dev
-include(unzip)
+unzip
 utfcpp-dev
 util-linux
 util-linux-bin

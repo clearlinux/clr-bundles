@@ -819,7 +819,7 @@ tracker-dev
 include(tzdata)
 umockdev-dev
 unifdef
-include(unzip)
+unzip
 include(devpkg-upower)
 utfcpp-dev
 util-linux

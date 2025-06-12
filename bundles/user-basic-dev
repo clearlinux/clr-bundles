@@ -806,7 +806,7 @@ include(devpkg-tpm2-tss)
 tracker-dev
 include(tzdata)
 umockdev-dev
-include(unzip)
+unzip
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
 include(devpkg-utf8proc)

@@ -1157,7 +1157,7 @@ include(devpkg-udisks2)
 include(devpkg-uhttpmock)
 umockdev-dev
 unifdef
-include(unzip)
+unzip
 include(devpkg-upower)
 include(devpkg-utf8proc)
 utfcpp-dev

@@ -101,7 +101,7 @@ time
 include(tmux)
 include(tree)
 include(tzdata)
-include(unzip)
+unzip
 usbutils
 include(cyme)
 util-linux

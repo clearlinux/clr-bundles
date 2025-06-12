@@ -215,7 +215,7 @@ include(devpkg-tk)
 tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
-include(unzip)
+unzip
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

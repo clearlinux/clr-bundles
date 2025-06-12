@@ -594,7 +594,7 @@ include(devpkg-tpm2-tss)
 tracker-dev
 include(tzdata)
 umockdev-dev
-include(unzip)
+unzip
 include(devpkg-userspace-rcu)
 util-linux
 util-linux-bin

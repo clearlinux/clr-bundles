@@ -253,7 +253,7 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tpm2-tss)
 include(tzdata)
-include(unzip)
+unzip
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
