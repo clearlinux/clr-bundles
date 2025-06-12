@@ -14,7 +14,7 @@ asciidoc
 attr
 bash-completion
 bats
-include(bc)
+bc
 cgdb
 include(cloc)
 clr-debug-info

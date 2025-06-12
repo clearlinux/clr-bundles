@@ -94,7 +94,7 @@ bash
 bash-completion
 include(devpkg-bash-completion)
 bats
-include(bc)
+bc
 bdftopcf
 bind-utils
 include(binutils)

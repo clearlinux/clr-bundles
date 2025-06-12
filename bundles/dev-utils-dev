@@ -48,7 +48,7 @@ include(devpkg-babeltrace)
 bash
 include(devpkg-bash-completion)
 bats
-include(bc)
+bc
 include(binutils)
 binutils-dev
 binutils-staticdev

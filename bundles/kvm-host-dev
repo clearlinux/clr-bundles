@@ -47,7 +47,7 @@ automake
 automake-dev
 include(devpkg-bash-completion)
 bats
-include(bc)
+bc
 include(binutils)
 binutils-dev
 include(bison)
