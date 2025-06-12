@@ -9,7 +9,7 @@ include(python3-basic)
 include(httpd)
 include(mod_wsgi)
 include(nginx)
-include(uwsgi)
+uwsgi
 
 httpd-dev
 httpd-extras
