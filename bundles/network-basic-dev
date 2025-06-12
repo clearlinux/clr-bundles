@@ -30,7 +30,7 @@ include(devpkg-bash-completion)
 bats
 bind-utils-dev
 include(binutils)
-include(bison)
+bison
 bison-dev
 include(devpkg-boost)
 include(devpkg-brotli)

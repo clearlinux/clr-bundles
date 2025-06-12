@@ -12,7 +12,7 @@ automake-dev
 include(binutils)
 binutils-dev
 binutils-locales
-include(bison)
+bison
 check
 check-dev
 cmake

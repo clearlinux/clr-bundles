@@ -69,7 +69,7 @@ bc
 include(binutils)
 binutils-dev
 binutils-staticdev
-include(bison)
+bison
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)

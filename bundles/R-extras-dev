@@ -674,7 +674,7 @@ include(devpkg-bash-completion)
 bats
 include(binutils)
 binutils-dev
-include(bison)
+bison
 bison-dev
 include(devpkg-boost)
 include(devpkg-brotli)

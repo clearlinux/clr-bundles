@@ -68,7 +68,7 @@ bats
 bdftopcf
 include(binutils)
 binutils-dev
-include(bison)
+bison
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)

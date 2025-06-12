@@ -24,7 +24,7 @@ automake-dev
 include(devpkg-bash-completion)
 bats
 include(binutils)
-include(bison)
+bison
 bison-dev
 buildreq-cmake
 buildreq-configure
