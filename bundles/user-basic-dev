@@ -50,7 +50,7 @@ include(devpkg-alsa-lib)
 armadillo-data
 asciidoc
 asciidoctor
-include(aspell)
+aspell
 include(devpkg-at-spi2-core)
 include(devpkg-attr)
 include(devpkg-attr)

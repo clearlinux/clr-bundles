@@ -10,7 +10,7 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 vte-lib
-include(aspell)
+aspell
 libpsl-lib
 icu4c-lib
 geany-plugins

@@ -9,5 +9,5 @@ include(devpkg-base)
 
 gtkspell3-dev
 include(libX11client)
-include(aspell)
+aspell
 include(lib-opengl)

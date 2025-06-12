@@ -15,6 +15,6 @@ include(gstreamer)
 include(libX11client)
 include(openldap)
 include(lib-imageformat)
-include(aspell)
+aspell
 libpsl-lib
 webkitgtk

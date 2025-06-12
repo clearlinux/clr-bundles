@@ -14,7 +14,7 @@ not-ffmpeg-lib
 include(lib-openssl)
 libssh-lib
 include(numactl)
-include(aspell)
+aspell
 libevent-lib
 dav1d-lib
 quassel-extras

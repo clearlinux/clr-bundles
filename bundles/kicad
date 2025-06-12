@@ -5,7 +5,7 @@
 # [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(aspell)
+aspell
 include(curl)
 dbus-lib
 include(gdk-pixbuf)

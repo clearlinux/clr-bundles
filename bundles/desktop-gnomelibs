@@ -50,7 +50,7 @@ libproxy
 include(audio-pipewire)
 dav1d-lib
 libxml2-lib
-include(aspell)
+aspell
 not-ffmpeg-lib
 include(lib-openssl)
 libevent-lib

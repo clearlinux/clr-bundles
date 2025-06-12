@@ -73,7 +73,7 @@ include(devpkg-argon2)
 armadillo-data
 asciidoc
 asciidoctor
-include(aspell)
+aspell
 aspell-dev
 include(devpkg-assimp)
 include(devpkg-at-spi2-core)

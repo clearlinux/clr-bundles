@@ -636,7 +636,7 @@ include(devpkg-zstd)
 include(devpkg-zstd)
 pypi-requests
 include(desktop-kde-libs)
-include(aspell)
+aspell
 libpcap-lib
 include(qt6-basic)
 include(libX11client)

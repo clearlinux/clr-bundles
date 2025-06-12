@@ -16,7 +16,7 @@ icu4c-lib
 harfbuzz-lib
 dbus-lib
 include(curl)
-include(aspell)
+aspell
 include(lib-opengl)
 include(libX11client)
 include(gdk-pixbuf)

@@ -13,7 +13,7 @@ include(libstdcpp)
 libunwind-lib
 LibRaw-lib
 libarchive
-include(aspell)
+aspell
 libpsl-lib
 icu4c-lib
 include(curl)

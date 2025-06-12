@@ -9,4 +9,4 @@ include(devpkg-base)
 
 enchant-dev
 include(libstdcpp)
-include(aspell)
+aspell

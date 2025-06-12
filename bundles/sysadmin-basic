@@ -13,7 +13,6 @@ include(which)
 acpica-unix2
 
 accel-config
-also-add(aspell)
 aspell-en
 autossh
 bash

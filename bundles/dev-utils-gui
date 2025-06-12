@@ -13,4 +13,4 @@ include(ddd)
 git-gui
 tk
 qgit
-include(aspell)
+aspell

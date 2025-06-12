@@ -11,7 +11,7 @@ include(curl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(aspell)
+aspell
 webkitgtk
 # end of custom additions
 

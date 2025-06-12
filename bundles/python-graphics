@@ -13,7 +13,7 @@ include(libstdcpp)
 include(gdk-pixbuf)
 include(libX11client)
 include(lib-opengl)
-include(aspell)
+aspell
 include(curl)
 dbus-lib
 gmp-lib

@@ -9,4 +9,4 @@ include(devpkg-base)
 
 compat-enchant-soname1-dev
 include(libstdcpp)
-include(aspell)
+aspell

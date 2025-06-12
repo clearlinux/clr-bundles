@@ -53,7 +53,7 @@ include(devpkg-alsa-lib)
 include(devpkg-appstream)
 appstream-glib
 asciidoc
-include(aspell)
+aspell
 aspell-dev
 include(devpkg-assimp)
 include(devpkg-at-spi2-core)
