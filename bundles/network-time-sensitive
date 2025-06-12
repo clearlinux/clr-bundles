@@ -7,5 +7,5 @@
 include(network-basic)
 
 alsa-plugins
-include(alsa-utils)
+alsa-utils
 linuxptp

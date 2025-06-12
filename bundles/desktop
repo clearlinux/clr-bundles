@@ -74,7 +74,7 @@ at-spi2-core
 # Extra service level deps
 accountsservice
 alsa-plugins
-include(alsa-utils)
+alsa-utils
 bash-completion
 clr-desktop-defaults
 clr-fwupd-hooks

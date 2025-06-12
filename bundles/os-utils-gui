@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
-include(alsa-utils)
+alsa-utils
 include(cryptography)
 also-add(darktable)
 also-add(eog)

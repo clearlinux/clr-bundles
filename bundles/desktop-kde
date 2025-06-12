@@ -30,7 +30,7 @@ include(tzdata)
 
 # Extra service level deps
 alsa-plugins
-include(alsa-utils)
+alsa-utils
 bash-completion
 cups
 cups-filters
