@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 audit-dev
-include(audit)
+audit
