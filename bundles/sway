@@ -13,7 +13,6 @@ swaybg
 swayidle
 swaylock
 xdg-utils
-also-add(vifm)
 also-add(mpv)
 xdg-desktop-portal
 xdg-desktop-portal-wlr
