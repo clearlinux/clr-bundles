@@ -12,7 +12,7 @@ include(sudo)
 include(which)
 include(acpica-unix2)
 
-include(accel-config)
+accel-config
 also-add(aspell)
 aspell-en
 autossh
