@@ -10,7 +10,7 @@ include(kvm-host)
 include(network-basic)
 include(openssl)
 include(python3-basic)
-include(btrfs-progs)
+btrfs-progs
 include(sudo)
 awscli
 botocore

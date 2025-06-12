@@ -10,7 +10,7 @@ include(samba)
 LVM2
 LVM2-extras
 autofs
-include(btrfs-progs)
+btrfs-progs
 bcachefs-tools
 cifs-utils
 cryptsetup-bin

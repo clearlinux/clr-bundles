@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 btrfs-progs-dev
-include(btrfs-progs)
+btrfs-progs

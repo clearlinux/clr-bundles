@@ -9,10 +9,10 @@ include(c-basic)
 include(dev-utils)
 include(python3-basic)
 include(perl-basic)
-include(btrfs-progs)
+btrfs-progs
 
 acpica-unix2
-include(btrfs-progs)
+btrfs-progs
 docbook-xml
 f2fs-tools
 fakeroot
