@@ -31,7 +31,7 @@ include(sysadmin-basic-dev)
 include(unbundle)
 pypi-mako
 abireport
-include(cabextract)
+cabextract
 configobj
 also-add(diffoscope)
 also-add(dnf)
