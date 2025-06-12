@@ -16,7 +16,7 @@ bash-completion
 bats
 bc
 cgdb
-include(cloc)
+cloc
 clr-debug-info
 colordiff
 include(cpio)
