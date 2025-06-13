@@ -1,4 +1,4 @@
-# [TITLE]: lutris
+# [TITLE]: lutris-basic
 # [DESCRIPTION]: Install and play any video game easily
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -23,4 +23,3 @@ include(xz-lzma-i-accept-the-risks)
 
 # main package
 lutris
-include(lutris-basic)
