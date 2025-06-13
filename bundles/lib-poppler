@@ -13,7 +13,7 @@ include(lib-openssl)
 # include(libX11client)
 gdk-pixbuf
 nettle-lib
-include(openldap)
+openldap
 gmp-lib
 # include(qt-basic)
 # include(qt-core)

@@ -52,7 +52,7 @@ traceroute
 whois
 include(curl-basic)
 libevent-lib
-include(openldap)
+openldap
 ncurses-lib
 lz4
 libnl

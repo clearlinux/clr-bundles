@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(libstdcpp)
-include(openldap)
+openldap
 include(python3-basic)
 include(samba)
 

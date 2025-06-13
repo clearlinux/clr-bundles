@@ -9,7 +9,7 @@ include(devpkg-base)
 
 libvirt-dev
 include(curl-basic)
-include(openldap)
+openldap
 libnl
 include(numactl)
 libpcap-lib

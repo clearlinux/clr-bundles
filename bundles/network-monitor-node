@@ -7,5 +7,5 @@
 
 vectorscan
 include(suricata)
-include(openldap)
+openldap
 include(pypi-six)

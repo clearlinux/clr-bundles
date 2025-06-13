@@ -43,5 +43,5 @@ also-add(gtk4libs)
 SDL2-lib
 gdk-pixbuf
 include(curl-basic)
-include(openldap)
+openldap
 include(lib-imageformat)

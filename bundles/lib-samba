@@ -11,7 +11,7 @@ include(curl-basic)
 include(qt-core)
 popt-lib
 dbus-lib
-include(openldap)
+openldap
 icu4c-lib
 include(libstdcpp)
 include(lib-openssl)

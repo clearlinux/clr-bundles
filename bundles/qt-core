@@ -11,6 +11,6 @@ shared-mime-info
 
 qtbase-extras
 icu4c-lib
-include(openldap)
+openldap
 libxml2
 include(curl-basic)

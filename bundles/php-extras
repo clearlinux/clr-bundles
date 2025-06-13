@@ -60,6 +60,6 @@ php-xlswriter
 php-xxtea
 php-yaml
 php-zmq
-include(openldap)
+openldap
 libunwind-lib
 lz4

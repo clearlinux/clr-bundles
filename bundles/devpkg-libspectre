@@ -12,4 +12,4 @@ include(libX11client)
 harfbuzz-lib
 icu4c-lib
 include(lib-imageformat)
-include(openldap)
+openldap

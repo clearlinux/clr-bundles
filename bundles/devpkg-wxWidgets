@@ -13,7 +13,7 @@ icu4c-lib
 include(lib-opengl)
 include(gstreamer-basic)
 include(libX11client)
-include(openldap)
+openldap
 include(lib-imageformat)
 aspell
 libpsl-lib

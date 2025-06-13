@@ -17,7 +17,7 @@ libxml2
 libunwind-lib
 include(pypi-six)
 ncurses-lib
-include(openldap)
+openldap
 include(libstdcpp)
 include(lib-openssl)
 include(python3-basic)

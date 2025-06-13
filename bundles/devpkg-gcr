@@ -15,4 +15,4 @@ include(gstreamer-basic)
 harfbuzz-lib
 icu4c-lib
 include(lib-imageformat)
-include(openldap)
+openldap

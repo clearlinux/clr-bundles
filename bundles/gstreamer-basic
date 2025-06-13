@@ -12,7 +12,7 @@ include(curl-basic)
 include(lib-opengl)
 nettle-lib
 gmp-lib
-include(openldap)
+openldap
 include(pulseaudio)
 include(libstdcpp)
 gstreamer-vaapi

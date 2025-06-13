@@ -14,5 +14,5 @@ include(qt-basic)
 icu4c-lib
 include(lib-opengl)
 include(lib-imageformat)
-include(openldap)
+openldap
 include(qt6-basic)

@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 libssh-dev
-include(openldap)
+openldap
 libssh-lib

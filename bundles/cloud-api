@@ -14,7 +14,7 @@ botocore
 # testing use only:
 # hypothesis
 libevent-lib
-include(openldap)
+openldap
 include(pypi-six)
 include(yaml)
 include(PyYAML)

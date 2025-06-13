@@ -7,7 +7,7 @@
 
 include(NetworkManager-basic)
 
-include(openldap)
+openldap
 wpa_supplicant
 include(python3-basic)
 # for usbmodeswitcher
