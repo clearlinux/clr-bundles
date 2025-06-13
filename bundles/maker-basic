@@ -14,7 +14,7 @@ inkscape
 
 # common maker libraries for low level hw access
 i2c-tools
-include(minicom)
+minicom
 libftdi1
 libgpiod
 libmodbus

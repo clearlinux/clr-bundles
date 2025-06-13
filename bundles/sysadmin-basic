@@ -62,7 +62,7 @@ lzop
 man-db
 include(man-pages-basic)
 mc
-include(minicom)
+minicom
 mokutil
 also-add(moreutils)
 mosh
