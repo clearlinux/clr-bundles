@@ -6,6 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libX11client)
 include(virt-manager)
-include(gtk-vnc)
+gtk-vnc
 include(spice-gtk)
 virt-viewer
