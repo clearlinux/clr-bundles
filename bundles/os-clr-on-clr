@@ -38,7 +38,7 @@ also-add(dnf-basic)
 efitools
 include(devpkg-fribidi)
 include(devpkg-gdk-pixbuf)
-include(global)
+global
 include(devpkg-gtk3)
 pypi-gitpython
 libabigail
