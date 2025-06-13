@@ -1,4 +1,4 @@
-# [TITLE]: firefox
+# [TITLE]: firefox-basic
 # [DESCRIPTION]: Web browser with support for modern web applications from mozilla.org.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(gdk-pixbuf)
 firefox
 include(gdk-pixbuf)
 lz4
-include(firefox-basic)

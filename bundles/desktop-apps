@@ -56,7 +56,7 @@ requests-ntlm
 
 # also-add apps
 also-add(emacs-x11)
-also-add(firefox)
+also-add(firefox-basic)
 also-add(gvim)
 libnl
 pcre-lib

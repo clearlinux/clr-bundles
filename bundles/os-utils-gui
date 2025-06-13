@@ -8,7 +8,7 @@ alsa-utils
 include(cryptography)
 also-add(darktable-basic)
 also-add(eog-basic)
-also-add(firefox)
+also-add(firefox-basic)
 also-add(flatpak)
 include(fonts-basic)
 include(graphviz)
