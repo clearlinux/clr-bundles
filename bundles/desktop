@@ -33,7 +33,7 @@ dbus-extras
 desktop-file-utils
 fontconfig
 fuse
-include(gdk-pixbuf)
+gdk-pixbuf
 geoclue
 geocode-glib
 include(gjs)
@@ -156,7 +156,7 @@ ModemManager
 ntfs-3g
 swupd-search
 also-add(thermal_daemon)
-include(gdk-pixbuf)
+gdk-pixbuf
 vte-lib
 LibRaw-lib
 include(gegl)

@@ -9,7 +9,7 @@ include(devpkg-base)
 
 cryptsetup-dev
 popt-lib
-include(gdk-pixbuf)
+gdk-pixbuf
 include(libX11client)
 harfbuzz-lib
 icu4c-lib

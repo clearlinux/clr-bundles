@@ -8,13 +8,13 @@
 include(libX11client)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(gdk-pixbuf)
+gdk-pixbuf
 accountsservice
 adwaita-icon-theme
 at-spi2-core
 cantarell-fonts
 clear-font
-include(gdk-pixbuf)
+gdk-pixbuf
 hicolor-icon-theme
 include(fonts-basic)
 include(polkit)

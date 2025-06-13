@@ -11,7 +11,7 @@ nettle-lib
 include(lib-imageformat)
 # include(libX11client)
 gmp-lib
-include(gdk-pixbuf)
+gdk-pixbuf
 libxml2
 ncurses-lib
 harfbuzz-lib

@@ -15,7 +15,7 @@ harfbuzz-lib
 include(curl-basic)
 include(lib-opengl)
 include(libX11client)
-include(gdk-pixbuf)
+gdk-pixbuf
 include(sqlite)
 nettle-lib
 gmp-lib

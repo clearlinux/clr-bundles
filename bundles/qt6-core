@@ -12,7 +12,7 @@ shared-mime-info
 qt6base
 icu4c-lib
 include(openldap)
-include(gdk-pixbuf)
+gdk-pixbuf
 include(libX11client)
 include(lib-opengl)
 include(qt-core)

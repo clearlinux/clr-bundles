@@ -10,7 +10,7 @@ include(devpkg-base)
 appstream-dev
 include(curl-basic)
 include(libstdcpp)
-include(gdk-pixbuf)
+gdk-pixbuf
 include(libX11client)
 include(lib-opengl)
 icu4c-lib

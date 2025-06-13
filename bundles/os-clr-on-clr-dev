@@ -259,7 +259,7 @@ gdb-dev
 gdbm
 gdbm-dev
 gdbm-dev
-include(gdk-pixbuf)
+gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 include(devpkg-gdm)
 include(devpkg-geos)

@@ -7,7 +7,7 @@
 
 
 # start of custom additions
-include(gdk-pixbuf)
+gdk-pixbuf
 include(libstdcpp)
 # include(lib-opengl)
 # include(lib-poppler)

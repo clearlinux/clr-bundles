@@ -10,7 +10,7 @@ include(python3-basic)
 pypi-wxPython
 include(pypi-numpy)
 include(libstdcpp)
-include(gdk-pixbuf)
+gdk-pixbuf
 include(libX11client)
 include(lib-opengl)
 aspell

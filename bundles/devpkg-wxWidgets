@@ -8,7 +8,7 @@
 include(devpkg-base)
 
 wxWidgets-dev
-include(gdk-pixbuf)
+gdk-pixbuf
 icu4c-lib
 include(lib-opengl)
 include(gstreamer)

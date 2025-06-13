@@ -149,7 +149,7 @@ include(devpkg-gdal)
 gdb
 gdb-dev
 gdbm-dev
-include(gdk-pixbuf)
+gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gettext
 gettext-bin

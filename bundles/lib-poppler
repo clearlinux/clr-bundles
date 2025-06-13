@@ -11,7 +11,7 @@ include(libstdcpp)
 icu4c-lib
 include(lib-openssl)
 # include(libX11client)
-include(gdk-pixbuf)
+gdk-pixbuf
 nettle-lib
 include(openldap)
 gmp-lib

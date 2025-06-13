@@ -9,10 +9,10 @@ include(desktop-gnomelibs)
 include(python3-basic)
 
 # dependencies
-include(gdk-pixbuf)
+gdk-pixbuf
 
 
 # main application
 firefox
-include(gdk-pixbuf)
+gdk-pixbuf
 lz4

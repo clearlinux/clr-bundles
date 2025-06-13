@@ -8,7 +8,7 @@
 aspell
 include(curl-basic)
 dbus-lib
-include(gdk-pixbuf)
+gdk-pixbuf
 gmp-lib
 include(gstreamer)
 harfbuzz-lib

@@ -53,7 +53,7 @@ xfsprogs
 lz4
 libnl
 libxml2
-include(gdk-pixbuf)
+gdk-pixbuf
 include(libX11client)
 harfbuzz-lib
 include(lib-imageformat)

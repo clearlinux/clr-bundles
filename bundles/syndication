@@ -14,7 +14,7 @@ nettle-lib
 include(lib-imageformat)
 include(lib-opengl)
 include(libX11client)
-include(gdk-pixbuf)
+gdk-pixbuf
 
 # end of custom additions
 

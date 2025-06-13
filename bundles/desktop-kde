@@ -52,7 +52,7 @@ drkonqi
 also-add(dolphin-basic)
 dolphin-plugins
 exiv2
-include(gdk-pixbuf)
+gdk-pixbuf
 glib-bin
 include(gpgme)
 gsettings-desktop-schemas
@@ -152,7 +152,7 @@ xdg-desktop-portal-kde
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
-include(gdk-pixbuf)
+gdk-pixbuf
 include(kde-frameworks5)
 include(pypi-six)
 libssh-lib

@@ -9,4 +9,4 @@ include(devpkg-base)
 
 gdk-pixbuf-dev
 include(lib-imageformat)
-include(gdk-pixbuf)
+gdk-pixbuf

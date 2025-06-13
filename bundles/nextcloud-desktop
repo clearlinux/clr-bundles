@@ -19,7 +19,7 @@ include(curl-basic)
 include(qt6-basic)
 include(lib-opengl)
 include(libX11client)
-include(gdk-pixbuf)
+gdk-pixbuf
 
 # end of custom additions
 

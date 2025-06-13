@@ -19,7 +19,7 @@ include(curl-basic)
 aspell
 include(lib-opengl)
 include(libX11client)
-include(gdk-pixbuf)
+gdk-pixbuf
 
 # end of custom additions
 

@@ -13,7 +13,7 @@ include(lib-imageformat)
 icu4c-lib
 harfbuzz-lib
 include(libX11client)
-include(gdk-pixbuf)
+gdk-pixbuf
 
 # end of custom additions
 

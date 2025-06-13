@@ -7,7 +7,7 @@
 include(glmark2)
 
 clear-font
-include(gdk-pixbuf)
+gdk-pixbuf
 glib
 gnome-session
 libXcursor-lib
@@ -18,7 +18,7 @@ xkbcomp
 xkeyboard-config
 xorg-server
 xwdrun
-include(gdk-pixbuf)
+gdk-pixbuf
 include(audio-pipewire)
 libpsl-lib
 include(x11-server)

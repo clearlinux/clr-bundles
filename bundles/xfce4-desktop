@@ -13,7 +13,7 @@ clr-desktop-defaults
 elementary-xfce
 exo
 garcon
-include(gdk-pixbuf)
+gdk-pixbuf
 gnome-icon-theme
 gnome-themes-extra
 gtk+
@@ -48,7 +48,7 @@ xfdesktop
 xfwm4
 xinit
 xrdb
-include(gdk-pixbuf)
+gdk-pixbuf
 include(libstdcpp)
 webkitgtk
 include(pulseaudio)

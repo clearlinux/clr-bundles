@@ -10,7 +10,7 @@ include(devpkg-base)
 gpgme-dev
 include(libstdcpp)
 include(gpgme)
-include(gdk-pixbuf)
+gdk-pixbuf
 include(libX11client)
 include(lib-opengl)
 include(lib-imageformat)
