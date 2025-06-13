@@ -1,4 +1,4 @@
-# [TITLE]: clr-installer
+# [TITLE]: clr-installer-basic
 # [DESCRIPTION]: Image creation and installation for Clear Linux OS.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -47,4 +47,3 @@ xorriso-bin
 icu4c-lib
 include(numactl)
 libssh-lib
-include(clr-installer-basic)

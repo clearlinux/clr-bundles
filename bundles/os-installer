@@ -4,4 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
-include(clr-installer)
+include(clr-installer-basic)

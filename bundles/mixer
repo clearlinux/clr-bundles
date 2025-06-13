@@ -26,6 +26,6 @@ rpm
 bsdiff
 
 # Image Creation
-include(clr-installer)
+include(clr-installer-basic)
 
 mixer-tools

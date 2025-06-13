@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
-include(clr-installer)
+include(clr-installer-basic)
 include(desktop-gnomelibs)
 include(gparted)
 include(NetworkManager)
