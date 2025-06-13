@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Productivity
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(mutt)
+mutt
 imapfilter
 fetchmail
 msmtp
