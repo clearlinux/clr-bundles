@@ -12,7 +12,7 @@ include(qt-basic)
 # Apps that are also pundles
 #
 also-add(darktable-basic)
-also-add(geany)
+also-add(geany-basic)
 also-add(gimp)
 also-add(gphoto2)
 also-add(hexchat)

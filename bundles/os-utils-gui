@@ -38,7 +38,7 @@ exo
 fontconfig
 garcon
 gdk-pixbuf
-also-add(geany)
+also-add(geany-basic)
 geany-plugins
 glib-networking-lib
 gnome-icon-theme

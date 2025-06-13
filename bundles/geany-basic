@@ -1,4 +1,4 @@
-# [TITLE]: geany
+# [TITLE]: geany-basic
 # [DESCRIPTION]: A fast and lightweight IDE using GTK+.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ geany-plugins
 
 # main package
 geany
-include(geany-basic)
