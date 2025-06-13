@@ -86,7 +86,7 @@ also-add(knotes-basic)
 also-add(kolourpaint-basic)
 also-add(kontact)
 also-add(konqueror-basic)
-also-add(konsole)
+also-add(konsole-basic)
 kontactinterface
 also-add(konversation)
 kpimtextedit

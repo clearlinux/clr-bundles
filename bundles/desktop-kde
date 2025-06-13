@@ -95,7 +95,7 @@ knotifyconfig
 kpackage
 kparts
 kpty
-also-add(konsole)
+also-add(konsole-basic)
 kscreen
 kscreenlocker
 kservice

@@ -1,4 +1,4 @@
-# [TITLE]: konsole
+# [TITLE]: konsole-basic
 # [DESCRIPTION]: Terminal emulator for KDE.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 konsole
-include(konsole-basic)
