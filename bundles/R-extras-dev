@@ -1199,7 +1199,7 @@ include(devpkg-poppler)
 poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
-include(procps-ng)
+procps-ng
 procps-ng-bin
 proj
 include(devpkg-proj)

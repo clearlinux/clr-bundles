@@ -178,7 +178,7 @@ include(devpkg-pkg-config)
 plzip
 include(devpkg-polkit)
 include(devpkg-popt)
-include(procps-ng)
+procps-ng
 procps-ng-bin
 include(pypi-cython)
 pypi-docutils

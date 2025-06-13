@@ -220,7 +220,7 @@ pkg-config
 include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-popt)
-include(procps-ng)
+procps-ng
 include(pypi-cython)
 pypi-docutils
 pypi-jinja2-python3

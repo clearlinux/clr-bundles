@@ -685,7 +685,7 @@ include(devpkg-popt)
 portaudio-dev
 include(devpkg-postgresql)
 ppp-dev
-include(procps-ng)
+procps-ng
 procps-ng-bin
 include(devpkg-protobuf)
 include(devpkg-pulseaudio)

@@ -367,7 +367,7 @@ include(devpkg-polkit)
 include(devpkg-poppler)
 include(devpkg-popt)
 include(devpkg-postgresql)
-include(procps-ng)
+procps-ng
 procps-ng-bin
 include(devpkg-protobuf)
 include(devpkg-pulseaudio)

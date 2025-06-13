@@ -36,7 +36,7 @@ open-lldp
 pm-graph
 powertop
 powerstat
-include(procps-ng)
+procps-ng
 psstop
 siege
 include(strace)

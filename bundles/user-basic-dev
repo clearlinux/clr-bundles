@@ -680,7 +680,7 @@ include(devpkg-popt)
 include(devpkg-postgresql)
 processor-trace-dev
 procmail
-include(procps-ng)
+procps-ng
 procps-ng-bin
 include(devpkg-protobuf-c)
 include(devpkg-protobuf)

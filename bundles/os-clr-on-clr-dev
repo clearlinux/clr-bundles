@@ -941,7 +941,7 @@ potrace-dev
 ppp-dev
 processor-trace-dev
 procmail
-include(procps-ng)
+procps-ng
 procps-ng-bin
 proj
 include(devpkg-proj)

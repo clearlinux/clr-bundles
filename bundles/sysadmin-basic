@@ -77,7 +77,7 @@ include(patch-basic)
 pciutils
 pigz
 powertop
-include(procps-ng)
+procps-ng
 psmisc
 pv
 scowl
