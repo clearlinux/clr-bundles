@@ -1003,7 +1003,7 @@ include(devpkg-mesa)
 mingw-gcc
 mkfontdir-bin
 mkfontscale-bin
-include(modules)
+include(modules-basic)
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mtdev)

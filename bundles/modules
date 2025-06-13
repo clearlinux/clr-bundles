@@ -14,3 +14,4 @@ include(tcl-basic)
 
 # main package
 modules
+include(modules-basic)

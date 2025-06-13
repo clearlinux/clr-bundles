@@ -1,5 +1,5 @@
-# [TITLE]: npb
-# [DESCRIPTION]: NAS Parallel Benchmarks
+# [TITLE]: modules-basic
+# [DESCRIPTION]: Provides dynamic modification of a user's environment
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
@@ -7,11 +7,10 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-also-add(modules-basic)
-include(libstdcpp)
-include(perl-basic)
-include(openmpi)
+tcl
+include(python3-basic)
+include(tcl-basic)
 # end of custom additions
 
 # main package
-npb
+modules

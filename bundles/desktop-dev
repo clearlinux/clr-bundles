@@ -609,7 +609,7 @@ mkfontscale-bin
 include(devpkg-mm-common)
 mobile-broadband-provider-info
 include(devpkg-mobile-broadband-provider-info)
-include(modules)
+include(modules-basic)
 mozjs128-dev
 mpc-dev
 include(devpkg-mpfr)
