@@ -171,7 +171,7 @@ include(devpkg-fmt)
 include(devpkg-font-util)
 fontconfig-data
 include(devpkg-fontconfig)
-include(fontforge)
+fontforge
 include(fonttools)
 fonttools-python3
 include(devpkg-freeglut)
