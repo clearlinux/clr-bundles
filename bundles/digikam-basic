@@ -1,4 +1,4 @@
-# [TITLE]: digikam
+# [TITLE]: digikam-basic
 # [DESCRIPTION]: An advanced digital photo management application.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -27,4 +27,3 @@ include(perl-basic)
 
 # main package
 digikam
-include(digikam-basic)

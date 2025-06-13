@@ -23,7 +23,7 @@ bluez-qt
 calendarsupport
 cantata
 cyrus-sasl
-also-add(digikam)
+also-add(digikam-basic)
 also-add(dolphin)
 also-add(dragon)
 also-add(eventviews)
