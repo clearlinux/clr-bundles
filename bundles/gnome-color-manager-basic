@@ -1,4 +1,4 @@
-# [TITLE]: gnome-color-manager
+# [TITLE]: gnome-color-manager-basic
 # [DESCRIPTION]: Framework for GNOME to manage, install, and generate color profiles.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 gnome-color-manager
-include(gnome-color-manager-basic)
