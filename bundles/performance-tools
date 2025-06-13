@@ -16,7 +16,7 @@ collectl
 cpuloadgen
 glances
 gperf
-include(htop)
+htop
 ioping
 ioport
 include(iotop)

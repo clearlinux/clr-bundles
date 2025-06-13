@@ -45,7 +45,7 @@ grep
 gzip
 hdparm
 hostname
-include(htop)
+htop
 innoextract
 include(iperf)
 include(kbd)
