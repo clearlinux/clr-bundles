@@ -10,7 +10,7 @@ include(R-stan)
 include(python3-basic)
 include(c-basic)
 include(lib-poppler)
-include(openmpi)
+include(openmpi-basic)
 #
 # Popular R packages
 #

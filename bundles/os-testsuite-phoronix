@@ -95,7 +95,7 @@ mesa-demos
 meson
 include(devpkg-mpfr)
 neofetch
-also-add(openmpi)
+also-add(openmpi-basic)
 also-add(devpkg-openmpi)
 also-add(nasm)
 also-add(devpkg-ncurses)

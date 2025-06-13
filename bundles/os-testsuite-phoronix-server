@@ -61,7 +61,7 @@ also-add(devpkg-lua)
 also-add(machine-learning-basic)
 meson
 include(devpkg-mpfr)
-also-add(openmpi)
+also-add(openmpi-basic)
 also-add(devpkg-openmpi)
 also-add(nasm)
 also-add(devpkg-ncurses)

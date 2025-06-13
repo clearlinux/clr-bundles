@@ -9,8 +9,8 @@ include(curl-basic)
 include(libX11client)
 include(python3-basic)
 include(perl-basic)
-include(openmpi)
-also-add(openmpi)
+include(openmpi-basic)
+also-add(openmpi-basic)
 also-add(modules-basic)
 munge
 pmix
