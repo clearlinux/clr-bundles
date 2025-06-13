@@ -10,4 +10,4 @@ include(devpkg-base)
 rrdtool-dev
 include(libX11client)
 include(lib-imageformat)
-include(rrdtool)
+rrdtool
