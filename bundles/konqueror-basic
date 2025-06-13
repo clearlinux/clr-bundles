@@ -1,4 +1,4 @@
-# [TITLE]: konqueror
+# [TITLE]: konqueror-basic
 # [DESCRIPTION]: KDE file manager and Web browser.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 konqueror
-include(konqueror-basic)

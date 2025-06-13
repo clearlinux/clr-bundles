@@ -85,7 +85,7 @@ also-add(kmplot-basic)
 also-add(knotes-basic)
 also-add(kolourpaint-basic)
 also-add(kontact)
-also-add(konqueror)
+also-add(konqueror-basic)
 also-add(konsole)
 kontactinterface
 also-add(konversation)
