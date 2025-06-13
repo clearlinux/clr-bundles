@@ -1,4 +1,4 @@
-# [TITLE]: koji
+# [TITLE]: koji-basic
 # [DESCRIPTION]: Set up a koji build service based on NFS mounts.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -19,4 +19,3 @@ koji
 koji-extras
 include(pypi-six)
 pypi-requests
-include(koji-basic)
