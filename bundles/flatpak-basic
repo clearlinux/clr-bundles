@@ -1,4 +1,4 @@
-# [TITLE]: flatpak
+# [TITLE]: flatpak-basic
 # [DESCRIPTION]: Run sandboxed desktop application bundles, or build flatpak packages.
 # [STATUS]: Active
 # [CAPABILITIES]: Provide an alternative way to obtain and run software on Clear Linux OS
@@ -22,4 +22,3 @@ include(gnupg)
 
 # main package
 flatpak
-include(flatpak-basic)

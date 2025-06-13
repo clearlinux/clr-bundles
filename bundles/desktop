@@ -133,7 +133,7 @@ xdg-utils
 
 # Applications
 evolution-data-server
-also-add(flatpak)
+also-add(flatpak-basic)
 also-add(gimp)
 gnome-bluetooth
 gnome-calendar

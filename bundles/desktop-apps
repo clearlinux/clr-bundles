@@ -17,7 +17,7 @@ also-add(eog-basic)
 also-add(evince-basic)
 also-add(evolution-basic)
 file-roller
-also-add(flatpak)
+also-add(flatpak-basic)
 also-add(geary)
 also-add(gnome-calculator)
 also-add(gnome-characters)
