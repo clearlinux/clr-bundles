@@ -1,4 +1,4 @@
-# [TITLE]: pidgin
+# [TITLE]: pidgin-basic
 # [DESCRIPTION]: Multi-protocol instant messagging (IM) client.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -19,4 +19,3 @@ gst-plugins-good
 
 # main package
 pidgin
-include(pidgin-basic)
