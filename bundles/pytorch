@@ -13,7 +13,7 @@ include(libstdcpp)
 include(numactl)
 include(pypi-pynacl)
 include(python-data-science)
-include(pypi-onnx)
+pypi-onnx
 # end of custom additions
 
 # main package
