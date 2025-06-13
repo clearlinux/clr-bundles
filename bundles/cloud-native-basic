@@ -21,4 +21,4 @@ ebtables
 helm
 kubernetes
 runc
-include(socat)
+socat
