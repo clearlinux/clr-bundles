@@ -10,7 +10,7 @@ console-autostart
 include(bootloader)
 linux-firmware
 also-add(linux-firmware-extras-basic)
-also-add(qemu-guest-additions)
+also-add(qemu-guest-additions-basic)
 include(os-core-plus)
 
 init-rdahead-extras

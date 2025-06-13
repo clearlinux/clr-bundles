@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
-include(qemu-guest-additions)
+include(qemu-guest-additions-basic)
 include(os-core-plus)
 console-autostart
 include(kernel-native)

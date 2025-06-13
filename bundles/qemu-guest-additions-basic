@@ -1,4 +1,4 @@
-# [TITLE]: qemu-guest-additions
+# [TITLE]: qemu-guest-additions-basic
 # [DESCRIPTION]: A lightweight multi-platform, multi-architecture disassembly framework.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(numactl)
 
 # main package
 qemu-guest-additions
-include(qemu-guest-additions-basic)

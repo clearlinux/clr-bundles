@@ -5,4 +5,4 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(qemu-guest-additions)
+include(qemu-guest-additions-basic)
