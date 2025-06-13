@@ -97,7 +97,7 @@ systemd-doc
 systemd-locales
 thunderbolt-software-user-space
 time
-include(tmux)
+tmux
 include(tree)
 include(tzdata)
 unzip

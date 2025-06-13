@@ -10,7 +10,7 @@
 popt-lib
 pcre-lib
 include(lib-imageformat)
-include(tmux)
+tmux
 newt
 screen
 byobu-doc
