@@ -1,4 +1,4 @@
-# [TITLE]: mpv
+# [TITLE]: mpv-basic
 # [DESCRIPTION]: Multimedia player and streamer.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -19,4 +19,3 @@ dav1d-lib
 
 # main package
 mpv
-include(mpv-basic)

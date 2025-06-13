@@ -13,7 +13,7 @@ swaybg
 swayidle
 swaylock
 xdg-utils
-also-add(mpv)
+also-add(mpv-basic)
 xdg-desktop-portal
 xdg-desktop-portal-wlr
 # end of custom additions
