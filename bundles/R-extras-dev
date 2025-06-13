@@ -1274,7 +1274,7 @@ include(devpkg-tbb)
 tcl
 include(devpkg-tcl)
 tcl-staticdev
-include(texinfo)
+texinfo
 include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)

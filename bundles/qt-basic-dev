@@ -544,7 +544,7 @@ tar
 tcl
 include(devpkg-tcl)
 tcl-staticdev
-include(texinfo)
+texinfo
 thin-provisioning-tools
 include(devpkg-tiff)
 include(devpkg-tk)

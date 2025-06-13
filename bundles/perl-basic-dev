@@ -352,7 +352,7 @@ include(devpkg-systemd)
 systemd-lib
 tar
 tcl
-include(texinfo)
+texinfo
 thin-provisioning-tools
 include(devpkg-tpm2-tss)
 unzip

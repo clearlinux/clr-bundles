@@ -793,7 +793,7 @@ include(devpkg-tdb)
 tdb-python3
 include(devpkg-tevent)
 tevent-python3
-include(texinfo)
+texinfo
 include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)

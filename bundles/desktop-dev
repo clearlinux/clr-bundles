@@ -1143,7 +1143,7 @@ tecla-dev
 include(devpkg-telepathy-glib)
 include(devpkg-tevent)
 tevent-python3
-include(texinfo)
+texinfo
 thin-provisioning-tools
 include(devpkg-tiff)
 include(devpkg-tk)
