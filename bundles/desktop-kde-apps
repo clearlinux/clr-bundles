@@ -84,7 +84,7 @@ kmouth
 also-add(kmplot-basic)
 also-add(knotes-basic)
 also-add(kolourpaint-basic)
-also-add(kontact)
+also-add(kontact-basic)
 also-add(konqueror-basic)
 also-add(konsole-basic)
 kontactinterface
