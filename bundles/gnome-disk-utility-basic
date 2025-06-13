@@ -1,4 +1,4 @@
-# [TITLE]: gnome-disk-utility
+# [TITLE]: gnome-disk-utility-basic
 # [DESCRIPTION]: Applications for managing and configuring disk drives and media.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -14,4 +14,3 @@ include(desktop-gnomelibs)
 
 # main package
 gnome-disk-utility
-include(gnome-disk-utility-basic)
