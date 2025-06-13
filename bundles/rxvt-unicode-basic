@@ -1,4 +1,4 @@
-# [TITLE]: rxvt-unicode
+# [TITLE]: rxvt-unicode-basic
 # [DESCRIPTION]: A customizable terminal emulator forked from rxvt.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(libX11client)
 
 # main package
 rxvt-unicode
-include(rxvt-unicode-basic)
