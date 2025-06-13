@@ -7,5 +7,5 @@
 include(libX11client)
 include(virt-manager)
 gtk-vnc
-include(spice-gtk)
+include(spice-gtk-basic)
 virt-viewer
