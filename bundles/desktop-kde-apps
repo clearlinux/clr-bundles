@@ -133,7 +133,6 @@ kmime
 libssh-lib
 mpfr-lib
 krdc
-also-add(kompare)
 include(qt6-basic)
 libXpm-lib
 libarchive
