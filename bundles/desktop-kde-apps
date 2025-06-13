@@ -41,7 +41,7 @@ also-add(kbackup-basic)
 also-add(kcachegrind-basic)
 also-add(kcalc-basic)
 kcalutils
-also-add(kcharselect)
+also-add(kcharselect-basic)
 also-add(kcolorchooser)
 kcontacts
 also-add(kcron)

@@ -1,4 +1,4 @@
-# [TITLE]: kcharselect
+# [TITLE]: kcharselect-basic
 # [DESCRIPTION]: Character Selector
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(libstdcpp)
 
 # main package
 kcharselect
-include(kcharselect-basic)
