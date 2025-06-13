@@ -1,4 +1,4 @@
-# [TITLE]: kcachegrind
+# [TITLE]: kcachegrind-basic
 # [DESCRIPTION]: Frontend visualization tool for Valgrind's cachegrind & callggrind.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(perl-basic)
 
 # main package
 kcachegrind
-include(kcachegrind-basic)

@@ -38,7 +38,7 @@ kapptemplate
 also-add(kleopatra)
 # also-add(kate-basic)
 also-add(kbackup-basic)
-also-add(kcachegrind)
+also-add(kcachegrind-basic)
 also-add(kcalc)
 kcalutils
 also-add(kcharselect)
