@@ -1,4 +1,4 @@
-# [TITLE]: byobu
+# [TITLE]: byobu-basic
 # [DESCRIPTION]: Text based window manager and terminal multiplexer.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -20,4 +20,3 @@ include(perl-basic)
 
 # main package
 byobu
-include(byobu-basic)
