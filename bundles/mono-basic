@@ -1,4 +1,4 @@
-# [TITLE]: mono
+# [TITLE]: mono-basic
 # [DESCRIPTION]: Open source implementation of .NET platform, including runtime and compiler.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@
 # main package
 mono
 mono-dev
-include(mono-basic)
