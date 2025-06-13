@@ -12,7 +12,7 @@ include(qt-basic)
 #
 include(x11-tools)
 include(wayland-server)
-include(fuse)
+fuse
 include(lib-samba)
 include(hardware-bluetooth)
 include(desktop-kde-libs)
