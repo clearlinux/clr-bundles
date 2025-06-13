@@ -18,7 +18,7 @@ also-add(luanti-basic)
 also-add(supertuxkart)
 also-add(flare)
 also-add(lutris-basic)
-also-add(scummvm)
+also-add(scummvm-basic)
 
 # 32 bit client support for 32 bit games
 

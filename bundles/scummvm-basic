@@ -1,4 +1,4 @@
-# [TITLE]: scummvm
+# [TITLE]: scummvm-basic
 # [DESCRIPTION]: Allows you to run certain classic graphical point-and-click adventure games.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 scummvm
-include(scummvm-basic)
