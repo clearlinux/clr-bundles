@@ -1,4 +1,4 @@
-# [TITLE]: kdf
+# [TITLE]: kdf-basic
 # [DESCRIPTION]: View Disk Usage
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 kdf
-include(kdf-basic)

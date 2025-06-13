@@ -58,7 +58,7 @@ kdepim-runtime
 kdeplasma-addons
 kdesdk-kio
 kdesdk-thumbnailers
-also-add(kdf)
+also-add(kdf-basic)
 also-add(kdiagram)
 kdialog
 also-add(keditbookmarks)
