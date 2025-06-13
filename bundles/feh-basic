@@ -1,4 +1,4 @@
-# [TITLE]: feh
+# [TITLE]: feh-basic
 # [DESCRIPTION]: Fast X11 image viewer, managed via command-line.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(lib-imageformat)
 
 # main package
 feh
-include(feh-basic)
