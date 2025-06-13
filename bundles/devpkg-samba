@@ -9,4 +9,4 @@ include(devpkg-base)
 
 samba-dev
 include(python3-basic)
-include(samba)
+samba

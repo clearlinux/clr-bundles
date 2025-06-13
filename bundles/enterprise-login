@@ -7,7 +7,7 @@
 include(libstdcpp)
 openldap
 include(python3-basic)
-include(samba)
+samba
 
 authconfig
 pypi-kerberos
