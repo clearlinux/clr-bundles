@@ -1,4 +1,4 @@
-# [TITLE]: snapshot
+# [TITLE]: snapshot-basic
 # [DESCRIPTION]: Gnome camera app
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(gstreamer-basic)
 
 # main package
 snapshot
-include(snapshot-basic)

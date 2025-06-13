@@ -32,7 +32,7 @@ also-add(gnome-system-monitor-basic)
 also-add(gnome-text-editor-basic)
 also-add(gnome-todo)
 also-add(gnome-weather-basic)
-also-add(snapshot)
+also-add(snapshot-basic)
 # underlying infra needs
 graphviz
 include(libva-utils)
