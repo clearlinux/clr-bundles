@@ -24,7 +24,7 @@ llvm
 include(devpkg-mariadb)
 include(devpkg-libXaw)
 memcached
-include(moreutils)
+include(moreutils-basic)
 include(pandoc)
 ruby
 include(sg3_utils)

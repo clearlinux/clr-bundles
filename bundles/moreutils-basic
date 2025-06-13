@@ -1,4 +1,4 @@
-# [TITLE]: moreutils
+# [TITLE]: moreutils-basic
 # [DESCRIPTION]: Collection of tools that adhere to the Unix philosophy.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -12,4 +12,3 @@ include(perl-basic)
 
 # main package
 moreutils
-include(moreutils-basic)

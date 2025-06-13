@@ -64,7 +64,7 @@ include(man-pages-basic)
 mc
 minicom
 mokutil
-also-add(moreutils)
+also-add(moreutils-basic)
 mosh
 motd-update
 nano
