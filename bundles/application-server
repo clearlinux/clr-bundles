@@ -7,7 +7,7 @@
 include(c-basic)
 include(python3-basic)
 httpd
-include(mod_wsgi)
+mod_wsgi
 include(nginx)
 uwsgi
 

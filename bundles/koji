@@ -6,7 +6,7 @@
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(git-basic)
 httpd
-include(mod_wsgi)
+mod_wsgi
 include(nfs-utils)
 include(openssh-client)
 include(package-utils)
