@@ -1,4 +1,4 @@
-# [TITLE]: dovecot
+# [TITLE]: dovecot-basic
 # [DESCRIPTION]: Security-focused IMAP and POP3 email server.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ pigeonhole-doc
 
 # main package
 dovecot
-include(dovecot-basic)
