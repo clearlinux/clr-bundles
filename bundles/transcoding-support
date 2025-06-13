@@ -20,7 +20,7 @@ librsvg
 libsoup
 libunwind
 libusb
-include(openblas)
+include(openblas-basic)
 orc
 pango
 qtbase

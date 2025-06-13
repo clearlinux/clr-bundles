@@ -55,7 +55,7 @@ nose-parameterized
 pypi-numpy
 ocl-icd
 include(devpkg-ocl-icd)
-include(openblas)
+include(openblas-basic)
 include(devpkg-opencv)
 opencv-python
 openjdk-dev

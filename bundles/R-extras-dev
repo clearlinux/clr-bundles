@@ -1033,7 +1033,7 @@ include(devpkg-ocl-icd)
 octave-dev
 include(devpkg-onig)
 include(devpkg-openal-soft)
-include(openblas)
+include(openblas-basic)
 include(devpkg-openblas)
 openblas-staticdev
 include(devpkg-opencl-headers)

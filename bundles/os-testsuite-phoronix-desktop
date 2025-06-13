@@ -95,7 +95,7 @@ include(devpkg-numactl)
 pypi-numpy
 ocl-icd
 include(devpkg-ocl-icd)
-also-add(openblas)
+also-add(openblas-basic)
 include(devpkg-opencl-headers)
 also-add(devpkg-openssl)
 also-add(devpkg-opus)
@@ -126,5 +126,5 @@ Vulkan-Headers
 Vulkan-Loader
 Vulkan-Tools
 include(devpkg-libevent)
-include(openblas)
+include(openblas-basic)
 include(pypi-numpy)

@@ -37,7 +37,7 @@ geany-plugins
 gmic
 libssh
 thermal_monitor
-include(openblas)
+include(openblas-basic)
 vte-lib
 include(opencv-python)
 libssh-lib

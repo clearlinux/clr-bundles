@@ -13,7 +13,7 @@ include(python3-basic)
 include(qt-basic)
 
 # Optional OpenBLAS support for xnec2c
-also-add(openblas)
+also-add(openblas-basic)
 
 ardopcf
 chirp

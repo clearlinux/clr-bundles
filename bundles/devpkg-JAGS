@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 JAGS-dev
-include(openblas)
+include(openblas-basic)
 include(libstdcpp)

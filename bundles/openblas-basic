@@ -1,4 +1,4 @@
-# [TITLE]: openblas
+# [TITLE]: openblas-basic
 # [DESCRIPTION]: Optimized BLAS (linear algebra) library based on GotoBLAS2 1.13 BSD version.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ arpack-ng
 
 # main package
 openblas
-include(openblas-basic)

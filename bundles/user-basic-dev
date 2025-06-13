@@ -503,7 +503,7 @@ include(devpkg-onig)
 open-iscsi
 include(devpkg-open-isns)
 include(devpkg-openal-soft)
-include(openblas)
+include(openblas-basic)
 include(devpkg-opencl-headers)
 openjdk
 openjdk-dev

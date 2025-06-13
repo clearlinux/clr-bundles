@@ -7,7 +7,7 @@
 
 include(python3-basic)
 include(python3-tcl)
-include(openblas)
+include(openblas-basic)
 include(cloud-api)
 include(Sphinx)
 graphviz

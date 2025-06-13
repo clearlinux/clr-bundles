@@ -11,7 +11,7 @@ opencv-dev
 include(libX11client)
 include(gstreamer-basic)
 include(lib-imageformat)
-include(openblas)
+include(openblas-basic)
 include(libstdcpp)
 include(opencv-python)
 include(pypi-numpy)

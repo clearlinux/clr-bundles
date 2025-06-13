@@ -265,7 +265,7 @@ nghttp3-dev
 ninja
 nss-altfiles
 include(devpkg-openal-soft)
-include(openblas)
+include(openblas-basic)
 include(devpkg-opencl-headers)
 openjdk
 openjdk-dev

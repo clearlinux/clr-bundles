@@ -12,6 +12,6 @@ include(libX11client)
 include(curl-basic)
 include(lib-imageformat)
 xz
-include(openblas)
+include(openblas-basic)
 include(libstdcpp)
 icu4c-lib
