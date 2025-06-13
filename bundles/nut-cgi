@@ -5,7 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(nut)
+nut
 nut-extras-cgi
 include(libX11client)
 libXpm-lib
