@@ -1,4 +1,4 @@
-# [TITLE]: kapidox
+# [TITLE]: kapidox-basic
 # [DESCRIPTION]: Frameworks API Documentation Tools
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ pypi-requests
 
 # main package
 kapidox
-include(kapidox-basic)
