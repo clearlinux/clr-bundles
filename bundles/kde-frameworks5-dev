@@ -232,7 +232,7 @@ include(gnupg-basic)
 include(devpkg-gnutls)
 include(devpkg-googletest)
 gperf
-include(gpgme)
+include(gpgme-basic)
 include(devpkg-gpgme)
 gpgme-extras
 gpm-dev

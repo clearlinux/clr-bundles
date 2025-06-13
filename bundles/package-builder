@@ -19,7 +19,7 @@ include(make)
 include(plzip)
 pypi-six
 include(zstd)
-include(gpgme)
+include(gpgme-basic)
 # autospec requirements
 abireport
 include(binutils-basic)

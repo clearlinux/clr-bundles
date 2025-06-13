@@ -54,7 +54,7 @@ dolphin-plugins
 exiv2
 gdk-pixbuf
 glib-bin
-include(gpgme)
+include(gpgme-basic)
 gsettings-desktop-schemas
 kactivitymanagerd
 karchive

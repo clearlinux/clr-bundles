@@ -17,3 +17,4 @@ include(python3-basic)
 
 # main package
 gpgme
+include(gpgme-basic)

@@ -231,7 +231,7 @@ include(devpkg-gnutls)
 go
 include(devpkg-googletest)
 gperf
-include(gpgme)
+include(gpgme-basic)
 include(devpkg-gpgme)
 gpm-dev
 include(devpkg-graphite)

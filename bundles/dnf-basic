@@ -14,7 +14,7 @@ popt-lib
 libarchive
 file
 include(perl-basic)
-include(gpgme)
+include(gpgme-basic)
 include(curl-basic)
 rpm
 gpgme-python3

@@ -12,7 +12,7 @@ include(perl-basic)
 
 
 include(openldap)
-include(gpgme)
+include(gpgme-basic)
 
 # end of custom additions
 

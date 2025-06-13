@@ -12,7 +12,7 @@ include(openssh-client)
 include(package-utils)
 include(postgresql)
 include(sudo)
-include(gpgme)
+include(gpgme-basic)
 include(dnf-basic)
 
 koji
