@@ -1190,7 +1190,7 @@ include(devpkg-startup-notification)
 include(devpkg-stoken)
 strace
 include(devpkg-subunit)
-include(subversion)
+subversion
 swig
 sympy-python3
 syntax-highlighting-dev

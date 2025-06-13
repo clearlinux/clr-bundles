@@ -462,7 +462,7 @@ include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 strace
 include(devpkg-subunit)
-include(subversion)
+subversion
 swig
 systemd-bin
 include(devpkg-systemd)

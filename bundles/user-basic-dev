@@ -774,7 +774,7 @@ sssd-dev
 include(devpkg-stoken)
 strace
 include(devpkg-subunit)
-include(subversion)
+subversion
 swig
 sysprof-dev
 systemd
