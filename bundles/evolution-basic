@@ -1,4 +1,4 @@
-# [TITLE]: evolution
+# [TITLE]: evolution-basic
 # [DESCRIPTION]: Application for integrated email, calendar, and address book functionality.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ systemd
 
 # main package
 evolution
-include(evolution-basic)
