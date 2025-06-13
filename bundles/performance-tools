@@ -23,7 +23,7 @@ iotop
 iptraf-ng
 latencytop
 linux-extra
-include(linux-tools)
+linux-tools
 # ltp is not a performance tool. it's also 800Mb in size
 #ltp
 ltrace
