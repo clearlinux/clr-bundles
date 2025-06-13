@@ -135,7 +135,7 @@ gzip
 hostname
 include(devpkg-hwloc)
 include(devpkg-icu4c)
-include(intltool)
+intltool
 intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)

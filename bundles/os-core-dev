@@ -95,7 +95,7 @@ include(devpkg-gtk-doc)
 guile
 gzip
 hostname
-include(intltool)
+intltool
 intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)

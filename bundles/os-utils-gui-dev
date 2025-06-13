@@ -304,7 +304,7 @@ include(devpkg-inih)
 include(devpkg-intel-gmmlib)
 intel-ipsec-mb-dev
 include(devpkg-intel-media-driver)
-include(intltool)
+intltool
 intltool-dev
 include(devpkg-ipp-crypto)
 include(iptables)

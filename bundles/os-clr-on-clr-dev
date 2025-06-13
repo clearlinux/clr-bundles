@@ -361,7 +361,7 @@ include(devpkg-icu4c)
 include(devpkg-inih)
 include(devpkg-intel-gmmlib)
 intel-ipsec-mb-dev
-include(intltool)
+intltool
 intltool-dev
 include(devpkg-ipp-crypto)
 include(iproute2)

@@ -111,7 +111,7 @@ guile
 gzip
 hostname
 httpd-dev
-include(intltool)
+intltool
 intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)

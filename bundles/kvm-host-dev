@@ -212,7 +212,7 @@ ibus-libpinyin
 include(devpkg-icu4c)
 include(devpkg-icu4c)
 include(devpkg-inih)
-include(intltool)
+intltool
 intltool-dev
 include(iproute2)
 include(iptables)

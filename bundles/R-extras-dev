@@ -846,7 +846,7 @@ ibus-libpinyin
 include(devpkg-icu4c)
 include(devpkg-icu4c)
 include(devpkg-inih)
-include(intltool)
+intltool
 intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)

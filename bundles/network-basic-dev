@@ -142,7 +142,7 @@ hostname
 httpd-dev
 include(devpkg-icu4c)
 include(devpkg-icu4c)
-include(intltool)
+intltool
 intltool-dev
 include(iproute2)
 iproute2-dev

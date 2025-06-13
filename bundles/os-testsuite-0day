@@ -17,7 +17,7 @@ docbook-xml
 f2fs-tools
 fakeroot
 i2c-tools
-include(intltool)
+intltool
 graphite
 include(devpkg-hwloc)
 include(llvm)

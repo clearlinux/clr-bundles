@@ -270,7 +270,7 @@ include(devpkg-icu4c)
 include(devpkg-icu4c)
 include(devpkg-inih)
 include(devpkg-intel-gmmlib)
-include(intltool)
+intltool
 intltool-dev
 include(iptables)
 include(devpkg-iptables)
