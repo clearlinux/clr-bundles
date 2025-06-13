@@ -27,7 +27,7 @@ also-add(digikam-basic)
 also-add(dolphin-basic)
 also-add(dragon-basic)
 also-add(eventviews-basic)
-also-add(filelight)
+also-add(filelight-basic)
 frameworkintegration
 grantlee
 grantleetheme

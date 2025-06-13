@@ -1,4 +1,4 @@
-# [TITLE]: filelight
+# [TITLE]: filelight-basic
 # [DESCRIPTION]: View disk usage information
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(libstdcpp)
 
 # main package
 filelight
-include(filelight-basic)
