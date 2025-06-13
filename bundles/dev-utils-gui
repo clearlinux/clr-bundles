@@ -9,7 +9,7 @@ include(libX11client)
 include(tcl-basic)
 include(qt-basic)
 
-include(ddd)
+ddd
 git-gui
 tk
 qgit
