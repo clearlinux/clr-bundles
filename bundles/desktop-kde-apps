@@ -49,7 +49,7 @@ kdav
 kde-dev-scripts
 kde-dev-utils
 kde-gtk-config
-also-add(kdebugsettings)
+also-add(kdebugsettings-basic)
 kdeedu-data
 kdegraphics-mobipocket
 kdegraphics-thumbnailers

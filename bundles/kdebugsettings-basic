@@ -1,4 +1,4 @@
-# [TITLE]: kdebugsettings
+# [TITLE]: kdebugsettings-basic
 # [DESCRIPTION]: An application to enable/disable qCDebug
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(libstdcpp)
 
 # main package
 kdebugsettings
-include(kdebugsettings-basic)
