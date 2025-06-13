@@ -8,7 +8,7 @@ include(c-basic)
 include(python3-basic)
 httpd
 mod_wsgi
-include(nginx)
+nginx
 uwsgi
 
 httpd-dev

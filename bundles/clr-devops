@@ -8,7 +8,7 @@ httpd
 include(java-basic)
 include(koji-basic)
 include(mixer)
-include(nginx)
+nginx
 include(os-core-update)
 include(os-installer)
 include(rust-basic)
