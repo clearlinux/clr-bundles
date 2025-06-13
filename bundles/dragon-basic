@@ -1,4 +1,4 @@
-# [TITLE]: dragon
+# [TITLE]: dragon-basic
 # [DESCRIPTION]: A multimedia player where the focus is on simplicity, instead of features
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(libstdcpp)
 
 # main package
 dragon
-include(dragon-basic)
