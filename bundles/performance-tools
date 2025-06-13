@@ -19,7 +19,7 @@ gperf
 htop
 ioping
 ioport
-include(iotop)
+iotop
 iptraf-ng
 latencytop
 linux-extra
