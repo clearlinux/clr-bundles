@@ -60,7 +60,7 @@ lshw
 lsof
 lzop
 man-db
-include(man-pages)
+include(man-pages-basic)
 mc
 include(minicom)
 mokutil

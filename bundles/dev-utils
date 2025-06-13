@@ -40,7 +40,7 @@ linux-tools
 llvm
 include(devpkg-llvm)
 ltrace
-include(man-pages)
+include(man-pages-basic)
 meson
 metrics-discovery
 include(p7zip)

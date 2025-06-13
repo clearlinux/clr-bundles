@@ -1,4 +1,4 @@
-# [TITLE]: man-pages
+# [TITLE]: man-pages-basic
 # [DESCRIPTION]: Linux man-pages to document kernel and C library interfaces for user-space programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 man-pages
-include(man-pages-basic)
