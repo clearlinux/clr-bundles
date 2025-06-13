@@ -1,4 +1,4 @@
-# [TITLE]: joe
+# [TITLE]: joe-basic
 # [DESCRIPTION]: GNU terminal-based text editor.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -12,4 +12,3 @@
 
 # main package
 joe
-include(joe-basic)
