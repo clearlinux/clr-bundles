@@ -1,4 +1,4 @@
-# [TITLE]: blivet-gui
+# [TITLE]: blivet-gui-basic
 # [DESCRIPTION]: A graphical tool for storage configuration using blivet library
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -26,4 +26,3 @@ include(lib-opengl)
 
 # main package
 blivet-gui
-include(blivet-gui-basic)
