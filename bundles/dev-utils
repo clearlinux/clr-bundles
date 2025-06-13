@@ -29,7 +29,7 @@ dwarves
 elfutils
 gdb
 git-extras
-include(git-lfs)
+git-lfs
 hexedit
 hub
 include(icdiff)
