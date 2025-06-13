@@ -263,7 +263,7 @@ include(devpkg-openssl)
 include(devpkg-openssl)
 openssl-lib32
 openvpn-dev
-include(p11-kit)
+p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)

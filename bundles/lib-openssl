@@ -7,7 +7,7 @@
 
 
 # start of custom additions
-include(p11-kit)
+p11-kit
 # end of custom additions
 
 # main package

@@ -6,7 +6,7 @@
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(git-basic)
 include(iproute2-basic)
-include(p11-kit)
+p11-kit
 include(libstdcpp)
 include(python3-basic)
 btrfs-progs

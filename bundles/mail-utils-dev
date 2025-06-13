@@ -219,7 +219,7 @@ openldap-dev
 include(openssl-basic)
 include(devpkg-openssl)
 include(devpkg-openssl)
-include(p11-kit)
+p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)

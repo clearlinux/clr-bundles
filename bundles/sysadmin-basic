@@ -7,7 +7,7 @@
 # This bundle specificly contains all -doc bundles for os-core as well due
 # to size constraints for os-core.
 include(iproute2-basic)
-include(p11-kit)
+p11-kit
 include(sudo)
 include(which)
 acpica-unix2

@@ -12,7 +12,7 @@ include(curl-basic)
 systemd
 less
 hub
-include(p11-kit)
+p11-kit
 man-db
 include(libstdcpp)
 git-lfs

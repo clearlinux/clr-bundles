@@ -675,7 +675,7 @@ include(devpkg-opus)
 include(devpkg-orc)
 include(devpkg-orc)
 include(devpkg-ostree)
-include(p11-kit)
+p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 pandas-python3

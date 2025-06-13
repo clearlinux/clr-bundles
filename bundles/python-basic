@@ -4,5 +4,5 @@
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages, Developer Tools, Python
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(p11-kit)
+p11-kit
 include(python3-basic)

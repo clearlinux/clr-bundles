@@ -603,7 +603,7 @@ include(devpkg-opus)
 include(devpkg-opusfile)
 include(devpkg-orc)
 include(devpkg-orc)
-include(p11-kit)
+p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 include(pandoc)

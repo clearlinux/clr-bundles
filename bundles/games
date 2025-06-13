@@ -5,7 +5,7 @@
 # [TAGS]: Games
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
-include(p11-kit)
+p11-kit
 include(perl-basic)
 include(python3-basic)
 include(NetworkManager-extras-basic)
