@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(inkscape)
+inkscape
 include(python-extras)
 include(maker-basic)
 
