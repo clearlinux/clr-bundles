@@ -1,4 +1,4 @@
-# [TITLE]: evince
+# [TITLE]: evince-basic
 # [DESCRIPTION]: GNOME document viewer for multiple formats (PDF, Postscript, djvu, tiff, dvi, XPS, etc).
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(lib-poppler)
 
 # main package
 evince
-include(evince-basic)
