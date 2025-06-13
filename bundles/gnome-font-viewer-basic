@@ -1,4 +1,4 @@
-# [TITLE]: gnome-font-viewer
+# [TITLE]: gnome-font-viewer-basic
 # [DESCRIPTION]: Font viewer utility for GNOME.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(libX11client)
 
 # main package
 gnome-font-viewer
-include(gnome-font-viewer-basic)
