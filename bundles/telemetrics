@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
-include(findutils)
+findutils
 include(lib-openssl)
 
 clr-debug-info

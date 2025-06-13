@@ -35,7 +35,7 @@ dracut
 e2fsprogs
 efibootmgr
 file
-include(findutils)
+findutils
 gawk
 gawk-extras
 glibc-bin
