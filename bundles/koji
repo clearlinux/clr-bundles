@@ -7,7 +7,7 @@
 include(git-basic)
 httpd
 mod_wsgi
-include(nfs-utils)
+nfs-utils
 include(openssh-client)
 include(package-utils)
 include(postgresql)

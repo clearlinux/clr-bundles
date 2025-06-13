@@ -706,7 +706,7 @@ netbase
 include(devpkg-nettle)
 include(devpkg-nettle)
 include(devpkg-newt)
-include(nfs-utils)
+nfs-utils
 include(devpkg-nfs-utils)
 include(devpkg-nftables)
 include(devpkg-nghttp2)

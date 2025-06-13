@@ -31,7 +31,7 @@ mmc-utils
 mtools
 multipath-tools
 ndctl
-include(nfs-utils)
+nfs-utils
 ntfs-3g
 nvme-cli
 open-iscsi

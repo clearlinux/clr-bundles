@@ -9,4 +9,4 @@ include(devpkg-base)
 
 nfs-utils-dev
 include(python3-basic)
-include(nfs-utils)
+nfs-utils
