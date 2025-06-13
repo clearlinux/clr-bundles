@@ -5,7 +5,7 @@
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(curl-basic)
-include(iproute2)
+include(iproute2-basic)
 include(jq)
 include(kbd)
 include(libstdcpp)

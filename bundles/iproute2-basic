@@ -1,4 +1,4 @@
-# [TITLE]: iproute2
+# [TITLE]: iproute2-basic
 # [DESCRIPTION]: Utilities for controlling TCP/IP networking and traffic control.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -12,4 +12,3 @@
 
 # main package
 iproute2
-include(iproute2-basic)

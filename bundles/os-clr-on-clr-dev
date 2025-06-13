@@ -364,7 +364,7 @@ intel-ipsec-mb-dev
 intltool
 intltool-dev
 include(devpkg-ipp-crypto)
-include(iproute2)
+include(iproute2-basic)
 iproute2-dev
 ipset
 include(iptables)

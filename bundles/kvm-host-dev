@@ -214,7 +214,7 @@ include(devpkg-icu4c)
 include(devpkg-inih)
 intltool
 intltool-dev
-include(iproute2)
+include(iproute2-basic)
 include(iptables)
 include(devpkg-iptables)
 include(devpkg-iptables)

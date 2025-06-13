@@ -5,7 +5,7 @@
 # [TAGS]: Tools and Utilities, Python, Perl
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(ethtool-basic)
-include(iproute2)
+include(iproute2-basic)
 include(perl-basic)
 include(python3-basic)
 
