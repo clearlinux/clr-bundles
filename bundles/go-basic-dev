@@ -488,7 +488,7 @@ util-linux-bin
 include(devpkg-util-linux)
 include(devpkg-util-linux)
 util-linux-extras
-include(valgrind)
+valgrind
 include(devpkg-valgrind)
 wget
 include(which)

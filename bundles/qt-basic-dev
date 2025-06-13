@@ -565,7 +565,7 @@ include(devpkg-util-macros)
 include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
-include(valgrind)
+valgrind
 include(devpkg-valgrind)
 include(devpkg-wavpack)
 include(devpkg-wayland)

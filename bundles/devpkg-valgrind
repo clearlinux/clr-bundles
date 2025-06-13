@@ -9,4 +9,4 @@ include(devpkg-base)
 
 valgrind-dev
 include(perl-basic)
-include(valgrind)
+valgrind

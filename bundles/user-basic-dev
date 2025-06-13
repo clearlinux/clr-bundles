@@ -819,7 +819,7 @@ include(devpkg-util-macros)
 include(devpkg-util-macros)
 vala
 include(devpkg-vala)
-include(valgrind)
+valgrind
 include(devpkg-valgrind)
 vim
 include(devpkg-virglrenderer)

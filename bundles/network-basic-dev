@@ -461,7 +461,7 @@ include(devpkg-util-linux)
 include(devpkg-util-linux)
 util-linux-extras
 vala
-include(valgrind)
+valgrind
 include(devpkg-valgrind)
 include(which)
 xauth

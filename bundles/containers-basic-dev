@@ -498,7 +498,7 @@ include(devpkg-util-macros)
 include(devpkg-util-macros)
 vala
 include(devpkg-vala)
-include(valgrind)
+valgrind
 include(devpkg-valgrind)
 wayland
 include(devpkg-wayland)

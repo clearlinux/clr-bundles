@@ -56,5 +56,5 @@ swupd-search
 tig
 trace-cmd
 unifdef
-include(valgrind)
+valgrind
 libXpm-lib
