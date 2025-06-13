@@ -1,4 +1,4 @@
-# [TITLE]: hardinfo2
+# [TITLE]: hardinfo2-basic
 # [DESCRIPTION]: System Information and Benchmark for Linux Systems
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -24,4 +24,3 @@ also-add(firmware-update)
 
 # main package
 hardinfo2
-include(hardinfo2-basic)
