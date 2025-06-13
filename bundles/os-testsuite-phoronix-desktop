@@ -84,7 +84,7 @@ also-add(devpkg-libpng)
 libtool
 include(devpkg-libvorbis)
 also-add(devpkg-lua)
-include(mesa-demos)
+mesa-demos
 meson
 include(devpkg-mpfr)
 also-add(nasm)

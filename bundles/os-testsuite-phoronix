@@ -91,7 +91,7 @@ libtool
 include(devpkg-libvorbis)
 also-add(devpkg-lua)
 memtier_benchmark
-include(mesa-demos)
+mesa-demos
 meson
 include(devpkg-mpfr)
 neofetch

@@ -16,7 +16,6 @@ libxml2
 ncurses-lib
 harfbuzz-lib
 include(libstdcpp)
-also-add(mesa-demos)
 harfbuzz-lib
 libX11-lib
 fontconfig-lib
