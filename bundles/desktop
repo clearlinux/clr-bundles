@@ -93,7 +93,7 @@ NetworkManager-vpnc
 dconf
 #groupcheck
 polkit
-also-add(pulseaudio)
+also-add(audio-pipewire)
 openconnect
 systemd-extras
 udisks2
