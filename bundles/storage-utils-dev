@@ -568,7 +568,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 sssd-dev
-include(strace)
+strace
 swig
 systemd-bin
 include(devpkg-systemd)

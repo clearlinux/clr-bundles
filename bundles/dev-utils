@@ -51,7 +51,7 @@ include(rsync-basic)
 rt-tests
 scdoc
 source-highlight
-include(strace)
+strace
 include(stress-ng)
 swupd-search
 tig

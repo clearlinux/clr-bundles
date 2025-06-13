@@ -437,7 +437,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 include(devpkg-stoken)
-include(strace)
+strace
 systemd-bin
 include(devpkg-systemd)
 include(devpkg-systemd)

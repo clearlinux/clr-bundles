@@ -90,7 +90,7 @@ shadow-locales
 sharutils
 socat
 stow
-include(strace)
+strace
 systemd
 systemd-bootchart
 systemd-doc

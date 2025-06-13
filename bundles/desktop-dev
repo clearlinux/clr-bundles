@@ -1121,7 +1121,7 @@ include(devpkg-sqlite-autoconf)
 srt-dev
 include(devpkg-startup-notification)
 include(devpkg-stoken)
-include(strace)
+strace
 swig
 sympy-python3
 sysprof-dev

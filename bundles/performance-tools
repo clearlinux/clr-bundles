@@ -39,7 +39,7 @@ powerstat
 procps-ng
 psstop
 siege
-include(strace)
+strace
 include(sysstat)
 tcpdump
 time

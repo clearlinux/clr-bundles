@@ -1188,7 +1188,7 @@ srt-dev
 sssd-dev
 include(devpkg-startup-notification)
 include(devpkg-stoken)
-include(strace)
+strace
 include(devpkg-subunit)
 include(subversion)
 swig

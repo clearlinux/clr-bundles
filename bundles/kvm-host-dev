@@ -631,7 +631,7 @@ include(devpkg-spice-protocol)
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
-include(strace)
+strace
 swig
 sysprof-dev
 systemd

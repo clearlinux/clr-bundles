@@ -1261,7 +1261,7 @@ include(devpkg-snappy)
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
-include(strace)
+strace
 include(devpkg-subunit)
 include(subversion)
 swig

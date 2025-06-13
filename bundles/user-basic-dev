@@ -772,7 +772,7 @@ include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 sssd-dev
 include(devpkg-stoken)
-include(strace)
+strace
 include(devpkg-subunit)
 include(subversion)
 swig

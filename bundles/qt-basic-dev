@@ -533,7 +533,7 @@ include(devpkg-speexdsp)
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
-include(strace)
+strace
 swig
 systemd-bin
 include(devpkg-systemd)
