@@ -52,7 +52,7 @@ kbd
 include(kernel-install)
 kmod
 ledmon
-include(less)
+less
 libcap-bin
 LS_COLORS
 lsacpi

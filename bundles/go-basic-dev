@@ -161,7 +161,7 @@ include(devpkg-keyutils)
 kmod
 include(devpkg-kmod)
 include(devpkg-kmod)
-include(less)
+less
 less-bin
 include(devpkg-libX11)
 include(devpkg-libX11)

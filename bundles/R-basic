@@ -21,7 +21,7 @@ gcc-libs-math
 
 # runtime deps (plotting, help navigation, etc)
 clear-font
-include(less)
+less
 #
 # Not listed because these are part of the R core above
 #

@@ -293,7 +293,7 @@ include(devpkg-krb5)
 include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
-include(less)
+less
 less-bin
 include(devpkg-libX11)
 include(devpkg-libX11)

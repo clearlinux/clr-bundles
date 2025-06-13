@@ -432,7 +432,7 @@ include(devpkg-lcms2)
 include(devpkg-ldb)
 ldb-extras
 include(devpkg-leptonica)
-include(less)
+less
 less-bin
 libX11
 include(devpkg-libX11)

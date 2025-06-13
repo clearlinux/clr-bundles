@@ -214,7 +214,7 @@ include(devpkg-kmod)
 include(devpkg-krb5)
 kwindowsystem-dev
 include(devpkg-lcms2)
-include(less)
+less
 include(devpkg-libX11)
 include(devpkg-libX11)
 libX11-lib

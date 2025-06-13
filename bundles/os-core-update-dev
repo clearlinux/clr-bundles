@@ -121,7 +121,7 @@ include(devpkg-keyutils)
 kmod
 include(devpkg-kmod)
 include(devpkg-kmod)
-include(less)
+less
 include(devpkg-libX11)
 include(devpkg-libX11)
 libaio-dev

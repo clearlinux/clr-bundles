@@ -367,7 +367,7 @@ ldb-extras
 include(devpkg-ledmon)
 include(devpkg-lensfun)
 include(devpkg-leptonica)
-include(less)
+less
 less-bin
 libX11
 include(devpkg-libX11)
