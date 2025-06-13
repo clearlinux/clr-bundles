@@ -137,7 +137,7 @@ also-add(flatpak-basic)
 also-add(gimp-basic)
 gnome-bluetooth
 gnome-calendar
-also-add(gnome-characters)
+also-add(gnome-characters-basic)
 gnome-console
 gnome-control-center
 gnome-software

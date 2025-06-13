@@ -1,4 +1,4 @@
-# [TITLE]: gnome-characters
+# [TITLE]: gnome-characters-basic
 # [DESCRIPTION]: Utility application to find and insert unusual characters.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(desktop-gnomelibs)
 
 # main package
 gnome-characters
-include(gnome-characters-basic)
