@@ -1,4 +1,4 @@
-# [TITLE]: texlive
+# [TITLE]: texlive-basic
 # [DESCRIPTION]: Major TeX-related typesetting programs, macro packages, and fonts.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -21,4 +21,3 @@ include(perl-basic)
 
 # main package
 texlive
-include(texlive-basic)

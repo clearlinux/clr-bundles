@@ -619,7 +619,7 @@ tcl
 include(devpkg-tcl)
 tcl-staticdev
 texinfo
-include(texlive)
+include(texlive-basic)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk

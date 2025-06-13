@@ -11,4 +11,4 @@ texlive-dev
 include(libX11client)
 include(lib-imageformat)
 include(libstdcpp)
-include(texlive)
+include(texlive-basic)
