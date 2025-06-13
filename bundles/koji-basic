@@ -10,7 +10,7 @@ mod_wsgi
 nfs-utils
 include(openssh-client)
 include(package-utils)
-include(postgresql)
+include(postgresql-basic)
 include(sudo)
 include(gpgme-basic)
 include(dnf-basic)

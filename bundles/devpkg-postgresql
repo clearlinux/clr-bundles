@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 postgresql-dev
-include(postgresql)
+include(postgresql-basic)
