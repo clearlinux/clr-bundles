@@ -11,7 +11,7 @@ diffutils
 file
 include(git-basic)
 include(openssh-server)
-include(parallel)
+parallel
 include(sudo)
 
 bats

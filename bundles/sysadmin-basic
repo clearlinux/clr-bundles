@@ -72,7 +72,7 @@ ncurses
 neofetch
 nmap-extras
 include(numactl)
-include(parallel)
+parallel
 include(patch)
 pciutils
 pigz

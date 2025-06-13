@@ -681,7 +681,7 @@ include(devpkg-p11-kit)
 pandas-python3
 pandoc
 include(devpkg-pango)
-include(parallel)
+parallel
 include(devpkg-parted)
 passwdqc-dev
 include(patch)
