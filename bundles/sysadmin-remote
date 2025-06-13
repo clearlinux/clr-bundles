@@ -17,7 +17,7 @@ nagios-plugins
 nrpe
 sos
 udisks2
-include(pypi-pynacl)
+pypi-pynacl
 libxml2
 pypi-requests
 mpfr-lib

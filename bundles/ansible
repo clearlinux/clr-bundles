@@ -15,7 +15,7 @@ pypi-backports.ssl_match_hostname
 pypi-docker
 netaddr
 # End ansible deps
-include(pypi-pynacl)
+pypi-pynacl
 include(pypi-six)
 pypi-requests
 include(PyYAML)

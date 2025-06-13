@@ -701,7 +701,7 @@ include(devpkg-zstd)
 pypi-requests
 include(PyYAML)
 include(libX11client)
-include(pypi-pynacl)
+pypi-pynacl
 include(pypi-numpy)
 include(desktop-kde-libs)
 include(clr-hardware-files)
