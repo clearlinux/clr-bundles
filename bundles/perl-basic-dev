@@ -329,7 +329,7 @@ include(devpkg-pkg-config)
 include(devpkg-polkit)
 include(devpkg-popt)
 procps-ng
-include(pypi-cython)
+pypi-cython
 pypi-jinja2-python3
 pypi-lxml
 pypi-pefile-python3

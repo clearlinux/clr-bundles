@@ -11,6 +11,6 @@ include(openblas-basic)
 include(pypi-numpy)
 include(pypi-six)
 pypi-requests
-include(pypi-cython)
+pypi-cython
 pandas
 include(qt6-basic)

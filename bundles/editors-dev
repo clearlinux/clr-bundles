@@ -180,7 +180,7 @@ include(devpkg-polkit)
 include(devpkg-popt)
 procps-ng
 procps-ng-bin
-include(pypi-cython)
+pypi-cython
 pypi-docutils
 pypi-jinja2-python3
 pypi-lxml

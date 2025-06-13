@@ -420,7 +420,7 @@ include(devpkg-postgresql)
 procps-ng
 procps-ng-bin
 include(devpkg-protobuf)
-include(pypi-cython)
+pypi-cython
 pypi-docutils
 pypi-flit_core-python3
 pypi-hatch_vcs

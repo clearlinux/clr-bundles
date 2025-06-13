@@ -80,6 +80,6 @@ pypi-ldap3
 pypi-neat_python
 include(pypi-numpy)
 pypi-requests
-include(pypi-cython)
+pypi-cython
 pandas
 libunwind-lib

@@ -514,7 +514,7 @@ include(devpkg-protobuf)
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 include(devpkg-pycairo)
-include(pypi-cython)
+pypi-cython
 pypi-dnspython
 pypi-docutils
 pypi-flit_core-python3

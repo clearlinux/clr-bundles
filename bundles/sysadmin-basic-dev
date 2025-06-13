@@ -386,7 +386,7 @@ procps-ng
 include(devpkg-protobuf)
 pygobject-python3
 pypi-build-python3
-include(pypi-cython)
+pypi-cython
 pypi-docutils
 pypi-jinja2-python3
 pypi-lxml

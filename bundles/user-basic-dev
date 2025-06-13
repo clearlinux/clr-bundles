@@ -691,7 +691,7 @@ pygobject
 pygobject-python3
 pypi-build-python3
 pypi-commonmark
-include(pypi-cython)
+pypi-cython
 pypi-dnspython
 pypi-docutils
 pypi-flit_core-python3

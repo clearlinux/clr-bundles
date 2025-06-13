@@ -876,7 +876,7 @@ pypi-coverage-python3
 pypi-cppy-python3
 pypi-cryptography-python3
 pypi-cu2qu-python3
-include(pypi-cython)
+pypi-cython
 pypi-cython-python3
 pypi-dask-python3
 pypi-distlib-python3

@@ -413,7 +413,7 @@ include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 include(devpkg-pycairo)
 pygobject
-include(pypi-cython)
+pypi-cython
 pypi-docutils
 pypi-flit_core-python3
 pypi-hatch_vcs

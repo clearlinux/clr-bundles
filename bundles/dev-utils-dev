@@ -549,7 +549,7 @@ include(devpkg-protobuf)
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 pypi-commonmark
-include(pypi-cython)
+pypi-cython
 pypi-docutils
 pypi-flit_core-python3
 pypi-hatch_vcs

@@ -1206,7 +1206,7 @@ include(devpkg-proj)
 include(devpkg-protobuf)
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
-include(pypi-cython)
+pypi-cython
 pypi-docutils
 pypi-flit_core-python3
 pypi-hatch_vcs

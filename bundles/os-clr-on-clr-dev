@@ -982,7 +982,7 @@ pypi-coverage
 pypi-coverage-python3
 pypi-cryptography-python3
 pypi-cu2qu-python3
-include(pypi-cython)
+pypi-cython
 pypi-cython-python3
 pypi-dnspython
 pypi-docutils
