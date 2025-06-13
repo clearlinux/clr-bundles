@@ -18,7 +18,7 @@ cryptsetup-config
 cryptsetup-lib
 cryptsetup-locales
 cryptsetup-man
-include(dosfstools)
+dosfstools
 e2fsprogs
 e2fsprogs-extras
 exfatprogs

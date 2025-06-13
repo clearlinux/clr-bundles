@@ -187,7 +187,7 @@ include(dnf-basic)
 dnsmasq
 docbook-utils
 docbook-xml
-include(dosfstools)
+dosfstools
 double-conversion-dev
 include(doxygen)
 include(devpkg-dpdk)

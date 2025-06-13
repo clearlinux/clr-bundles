@@ -104,7 +104,7 @@ dmidecode
 dnsmasq
 docbook-utils
 docbook-xml
-include(dosfstools)
+dosfstools
 include(doxygen)
 include(devpkg-dtc)
 include(devpkg-duktape)
