@@ -10,7 +10,7 @@ include(perl-basic)
 include(qt-basic)
 
 
-also-add(akonadi)
+also-add(akonadi-basic)
 akonadi-calendar
 akonadi-calendar-tools
 akonadi-contacts

@@ -1,4 +1,4 @@
-# [TITLE]: akonadi
+# [TITLE]: akonadi-basic
 # [DESCRIPTION]: Asynchronous API to access PIM data.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -24,4 +24,3 @@ also-add(mariadb)
 
 # main package
 akonadi
-include(akonadi-basic)
