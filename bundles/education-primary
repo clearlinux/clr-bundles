@@ -21,6 +21,5 @@ ktuberling
 kturtle
 kwordquiz
 parley
-include(kde-frameworks5)
 LibRaw-lib
 protobuf-lib

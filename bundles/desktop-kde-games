@@ -65,7 +65,6 @@ poxml
 prison
 purpose
 sweeper
-include(kde-frameworks5)
 include(kmime)
 protobuf-lib
 include(qt6-basic)

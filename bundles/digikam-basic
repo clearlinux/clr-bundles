@@ -21,7 +21,6 @@ libXpm-lib
 include(opencv-python)
 libnl
 include(openblas)
-include(kde-frameworks5)
 include(perl-basic)
 # end of custom additions
 

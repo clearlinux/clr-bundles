@@ -14,5 +14,4 @@ include(R-basic)
 kalgebra
 include(kmplot)
 kturtle
-include(kde-frameworks5)
 protobuf-lib

@@ -129,7 +129,6 @@ svgpart
 also-add(syndication)
 also-add(yakuake)
 kio-zeroconf
-include(kde-frameworks5)
 LibRaw-lib
 include(kmime)
 libssh-lib

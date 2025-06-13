@@ -6,7 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(qt6-basic)
-include(kde-frameworks5)
 include(lib-imageformat)
 
 attica-lib
