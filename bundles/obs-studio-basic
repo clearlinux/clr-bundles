@@ -1,4 +1,4 @@
-# [TITLE]: obs-studio
+# [TITLE]: obs-studio-basic
 # [DESCRIPTION]: OBS Studio Library
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -21,4 +21,3 @@ wlrobs
 
 # main package
 obs-studio
-include(obs-studio-basic)
