@@ -5,5 +5,5 @@
 # [TAGS]: Productivity
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(libreoffice)
+libreoffice
 libreoffice-extras-lang-de
