@@ -1,4 +1,4 @@
-# [TITLE]: NetworkManager-extras
+# [TITLE]: NetworkManager-extras-basic
 # [DESCRIPTION]: NetworkManager plugins and desktop integration
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -26,4 +26,3 @@ xl2tpd
 libevent-lib
 lz4
 webkitgtk
-include(NetworkManager-extras-basic)

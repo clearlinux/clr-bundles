@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(NetworkManager-extras)
+include(NetworkManager-extras-basic)
 linux-firmware-wifi
 NetworkManager-bin
 NetworkManager-config

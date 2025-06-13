@@ -11,7 +11,7 @@ include(lib-imageformat)
 # start of custom additions (edits outside this area will be removed automatically)
 gegl
 LibRaw-lib
-include(NetworkManager-extras)
+include(NetworkManager-extras-basic)
 include(gstreamer-basic)
 # end of custom additions
 

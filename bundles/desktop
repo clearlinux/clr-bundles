@@ -86,7 +86,7 @@ also-add(ghostscript-basic)
 gutenprint
 gnome-online-accounts
 ModemManager
-include(NetworkManager-extras)
+include(NetworkManager-extras-basic)
 network-manager-applet
 NetworkManager-openconnect
 NetworkManager-vpnc

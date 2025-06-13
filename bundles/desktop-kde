@@ -116,7 +116,7 @@ libmtp
 include(libxslt)
 milou
 ModemManager
-include(NetworkManager-extras)
+include(NetworkManager-extras-basic)
 NetworkManager-openconnect
 oxygen
 oxygen-sounds
