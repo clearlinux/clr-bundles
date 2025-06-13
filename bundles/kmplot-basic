@@ -1,4 +1,4 @@
-# [TITLE]: kmplot
+# [TITLE]: kmplot-basic
 # [DESCRIPTION]: Mathematical Function Plotter
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(qt6-basic)
 
 # main package
 kmplot
-include(kmplot-basic)

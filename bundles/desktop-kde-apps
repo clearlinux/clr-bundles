@@ -81,7 +81,7 @@ kmbox
 also-add(kmediaplayer)
 also-add(kmousetool-basic)
 kmouth
-also-add(kmplot)
+also-add(kmplot-basic)
 also-add(knotes)
 also-add(kolourpaint)
 also-add(kontact)

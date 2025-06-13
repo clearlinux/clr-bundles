@@ -13,7 +13,7 @@ include(qt-basic)
 kbruch
 kalgebra
 include(kgeography-basic)
-include(kmplot)
+include(kmplot-basic)
 ktuberling
 kturtle
 kwordquiz

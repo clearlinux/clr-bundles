@@ -16,7 +16,7 @@ kbruch
 include(kgeography-basic)
 khangman
 klettres
-include(kmplot)
+include(kmplot-basic)
 ktuberling
 kturtle
 kwordquiz
