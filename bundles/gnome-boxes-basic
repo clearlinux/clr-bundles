@@ -1,4 +1,4 @@
-# [TITLE]: gnome-boxes
+# [TITLE]: gnome-boxes-basic
 # [DESCRIPTION]: Library for reading and writing virtual machine images in the Open Virtualization Format.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -17,4 +17,3 @@ include(desktop-gnomelibs)
 
 # main package
 gnome-boxes
-include(gnome-boxes-basic)
