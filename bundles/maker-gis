@@ -22,7 +22,7 @@ proj
 
 
 # higher layer pieces
-include(qmapshack)
+qmapshack
 
 # core dev compoments
 include(devpkg-gdal)
