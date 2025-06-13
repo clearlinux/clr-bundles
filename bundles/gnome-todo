@@ -14,4 +14,4 @@ include(gstreamer)
 # end of custom additions
 
 # main package
-include(Endeavour)
+Endeavour
