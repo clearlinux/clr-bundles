@@ -62,7 +62,7 @@ glibc-lib-avx2
 also-add(devpkg-glog)
 also-add(devpkg-glu)
 include(devpkg-gmp)
-include(gnupg)
+include(gnupg-basic)
 also-add(gnuplot)
 also-add(devpkg-hwloc)
 include(devpkg-jemalloc)

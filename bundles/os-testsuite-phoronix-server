@@ -40,7 +40,7 @@ glibc-staticdev
 glibc-lib-avx2
 also-add(devpkg-glog)
 include(devpkg-gmp)
-include(gnupg)
+include(gnupg-basic)
 also-add(devpkg-hwloc)
 also-add(java-basic)
 include(devpkg-jemalloc)

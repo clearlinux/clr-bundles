@@ -8,7 +8,7 @@ include(openssl)
 include(openssh-client)
 
 ca-certs
-include(gnupg)
+include(gnupg-basic)
 gnutls
 nss-bin
 pinentry

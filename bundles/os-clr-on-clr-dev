@@ -308,7 +308,7 @@ include(devpkg-gnome-settings-daemon)
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
-include(gnupg)
+include(gnupg-basic)
 include(devpkg-gnutls)
 include(devpkg-gnutls)
 go

@@ -20,6 +20,6 @@ containerd
 cri-o
 cri-tools
 docker
-include(gnupg)
+include(gnupg-basic)
 tini
 icu4c-lib

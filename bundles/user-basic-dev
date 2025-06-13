@@ -226,7 +226,7 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
-include(gnupg)
+include(gnupg-basic)
 include(devpkg-gnutls)
 go
 include(devpkg-googletest)

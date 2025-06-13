@@ -1,4 +1,4 @@
-# [TITLE]: gnupg
+# [TITLE]: gnupg-basic
 # [DESCRIPTION]: The GNU Privacy Guard suite of programs
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -23,4 +23,3 @@ gmp-lib
 
 # main package
 gnupg
-include(gnupg-basic)

@@ -17,7 +17,7 @@ flatpak-builder
 include(git-basic)
 include(libstdcpp)
 librsvg
-include(gnupg)
+include(gnupg-basic)
 # end of custom additions
 
 # main package

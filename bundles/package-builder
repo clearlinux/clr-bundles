@@ -25,7 +25,7 @@ abireport
 include(binutils-basic)
 pypi-chardet
 pypi-clr_artifact
-include(gnupg)
+include(gnupg-basic)
 pypi-jinja2
 pypi-pycurl
 pypi-toml
