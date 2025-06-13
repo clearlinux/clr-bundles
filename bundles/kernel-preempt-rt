@@ -6,7 +6,7 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 #
 include(bootloader)
-include(linux-firmware)
+linux-firmware
 include(linux-firmware-extras)
 include(os-core-plus)
 console-autostart

@@ -11,7 +11,7 @@ console-autostart
 include(bootloader)
 irqbalance
 
-include(linux-firmware)
+linux-firmware
 include(linux-firmware-extras)
 libnl
 include(numactl)
