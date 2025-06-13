@@ -55,6 +55,5 @@ pulseaudio
 libarchive
 vte-lib
 libXpm-lib
-include(gphoto)
 mpfr-lib
 include(lib-openssl)

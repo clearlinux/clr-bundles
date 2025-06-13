@@ -16,7 +16,6 @@ include(libstdcpp)
 include(qt6-basic)
 protobuf-lib
 lensfun
-include(gphoto)
 libXpm-lib
 include(opencv-python)
 libnl

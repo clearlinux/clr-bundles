@@ -13,5 +13,4 @@ libXpm-lib
 popt-lib
 libpsl-lib
 webkitgtk
-include(gphoto)
 include(lib-openssl)
