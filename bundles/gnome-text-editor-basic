@@ -1,4 +1,4 @@
-# [TITLE]: gnome-text-editor
+# [TITLE]: gnome-text-editor-basic
 # [DESCRIPTION]: GNOME text editor (gedit replacement).
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(libX11client)
 
 # main package
 gnome-text-editor
-include(gnome-text-editor-basic)
