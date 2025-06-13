@@ -11,4 +11,4 @@ gdal-dev
 include(curl-basic)
 include(lib-imageformat)
 include(libstdcpp)
-include(gdal)
+gdal
