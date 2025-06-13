@@ -93,7 +93,7 @@ groff
 gtk-doc
 include(devpkg-gtk-doc)
 guile
-include(gzip)
+gzip
 hostname
 include(intltool)
 intltool-dev

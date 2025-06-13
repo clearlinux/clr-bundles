@@ -108,7 +108,7 @@ groff
 gtk-doc
 include(devpkg-gtk-doc)
 guile
-include(gzip)
+gzip
 hostname
 httpd-dev
 include(intltool)

@@ -172,7 +172,7 @@ gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 guile
-include(gzip)
+gzip
 include(devpkg-harfbuzz)
 help2man
 hostname

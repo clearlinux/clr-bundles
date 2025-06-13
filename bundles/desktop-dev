@@ -316,7 +316,7 @@ guile
 include(devpkg-guile)
 include(devpkg-gutenprint)
 gvfs-dev
-include(gzip)
+gzip
 include(devpkg-harfbuzz)
 hdf5-dev
 help2man

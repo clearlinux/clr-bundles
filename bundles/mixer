@@ -15,7 +15,7 @@ include(git-basic)
 include(openssl)
 
 # Fullfiles compression
-include(gzip)
+gzip
 include(zstd)
 bzip2
 

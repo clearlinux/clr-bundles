@@ -833,7 +833,7 @@ include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 guile
 include(devpkg-guile)
-include(gzip)
+gzip
 include(devpkg-harfbuzz)
 hdf5-dev
 help2man

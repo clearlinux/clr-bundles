@@ -143,7 +143,7 @@ gtk-doc
 include(devpkg-gtk-doc)
 guile
 include(devpkg-guile)
-include(gzip)
+gzip
 hdf5-dev
 help2man
 hostname

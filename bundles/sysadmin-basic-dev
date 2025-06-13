@@ -131,7 +131,7 @@ groff
 gtk-doc
 include(devpkg-gtk-doc)
 guile
-include(gzip)
+gzip
 hostname
 include(devpkg-hwloc)
 include(devpkg-icu4c)

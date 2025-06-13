@@ -286,7 +286,7 @@ include(devpkg-gtksourceview)
 include(devpkg-gtkspell3)
 guile
 include(devpkg-guile)
-include(gzip)
+gzip
 include(devpkg-harfbuzz)
 help2man
 hostname

@@ -342,7 +342,7 @@ include(devpkg-gtk4)
 include(devpkg-gtksourceview)
 guile
 include(devpkg-guile)
-include(gzip)
+gzip
 include(devpkg-harfbuzz)
 hdf5-dev
 help2man

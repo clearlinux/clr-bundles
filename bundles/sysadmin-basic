@@ -42,7 +42,7 @@ glibc-bin
 also-add(glibc-locale)
 gpm
 grep
-include(gzip)
+gzip
 hdparm
 hostname
 include(htop)

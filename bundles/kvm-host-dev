@@ -201,7 +201,7 @@ include(devpkg-gtk-doc)
 gtk-vnc-dev
 include(devpkg-gtk3)
 guile
-include(gzip)
+gzip
 include(devpkg-harfbuzz)
 help2man
 hostname

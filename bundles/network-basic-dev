@@ -137,7 +137,7 @@ gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 guile
-include(gzip)
+gzip
 hostname
 httpd-dev
 include(devpkg-icu4c)
