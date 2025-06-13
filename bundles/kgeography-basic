@@ -1,4 +1,4 @@
-# [TITLE]: kgeography
+# [TITLE]: kgeography-basic
 # [DESCRIPTION]: Geography Trainer
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 kgeography
-include(kgeography-basic)

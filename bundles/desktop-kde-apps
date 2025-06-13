@@ -63,7 +63,7 @@ also-add(kdiagram-basic)
 kdialog
 also-add(keditbookmarks-basic)
 also-add(kfind-basic)
-also-add(kgeography)
+also-add(kgeography-basic)
 kget
 khelpcenter
 kidentitymanagement

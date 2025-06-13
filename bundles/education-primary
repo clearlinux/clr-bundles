@@ -13,7 +13,7 @@ include(qt-basic)
 gcompris-qt
 kanagram
 kbruch
-include(kgeography)
+include(kgeography-basic)
 khangman
 klettres
 include(kmplot)

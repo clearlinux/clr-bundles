@@ -24,7 +24,7 @@ kbreakout
 kbruch
 kdiamond
 kfourinline
-include(kgeography)
+include(kgeography-basic)
 kgoldrunner
 khangman
 kigo
