@@ -7,7 +7,7 @@
 include(curl-basic)
 include(iproute2-basic)
 jq
-include(kbd)
+kbd
 include(libstdcpp)
 include(linux-firmware-extras)
 include(linux-firmware-wifi)

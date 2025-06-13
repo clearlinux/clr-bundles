@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 dbus-lib
-include(kbd)
+kbd
 ncurses-lib
 systemd
 clr-power-tweaks

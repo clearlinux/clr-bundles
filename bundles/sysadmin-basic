@@ -48,7 +48,7 @@ hostname
 htop
 innoextract
 iperf
-include(kbd)
+kbd
 include(kernel-install)
 kmod
 ledmon
