@@ -7,6 +7,6 @@
 clr-boot-manager
 gptfdisk-bin
 shim
-include(syslinux)
+include(syslinux-basic)
 include(libstdcpp)
 popt-lib

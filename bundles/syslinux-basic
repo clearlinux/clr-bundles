@@ -1,4 +1,4 @@
-# [TITLE]: syslinux
+# [TITLE]: syslinux-basic
 # [DESCRIPTION]: Kernel loader which uses a FAT, ext2/3 or iso9660 filesystem or a PXE network
 # [STATUS]: Active
 # [CAPABILITIES]: Create bootable ISO images, Install extlinux
@@ -12,4 +12,3 @@ syslinux-extras
 
 # main package
 syslinux
-include(syslinux-basic)
