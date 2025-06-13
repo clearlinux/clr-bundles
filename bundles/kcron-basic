@@ -1,4 +1,4 @@
-# [TITLE]: kcron
+# [TITLE]: kcron-basic
 # [DESCRIPTION]: Configure and schedule tasks
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(desktop-kde-libs)
 
 # main package
 kcron
-include(kcron-basic)

@@ -44,7 +44,7 @@ kcalutils
 also-add(kcharselect-basic)
 also-add(kcolorchooser-basic)
 kcontacts
-also-add(kcron)
+also-add(kcron-basic)
 kdav
 kde-dev-scripts
 kde-dev-utils
