@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(git)
+include(git-basic)
 include(p11-kit)
 include(libstdcpp)
 include(binutils-basic)

@@ -272,7 +272,7 @@ ghostscript-dev
 gi-docgen
 include(devpkg-gi-docgen)
 giflib-dev
-include(git)
+include(git-basic)
 include(gjs)
 include(devpkg-gjs)
 include(devpkg-glew)

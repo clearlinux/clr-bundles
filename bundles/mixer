@@ -9,7 +9,7 @@
 createrepo_c
 
 # Git history support
-include(git)
+include(git-basic)
 
 # Builtin signature support
 include(openssl)

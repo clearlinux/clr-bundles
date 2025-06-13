@@ -109,7 +109,7 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
-include(git)
+include(git-basic)
 include(devpkg-glew)
 glib-bin
 include(devpkg-glib)

@@ -9,7 +9,7 @@ include(clamav-basic)
 include(curl-basic)
 diffutils
 file
-include(git)
+include(git-basic)
 include(openssh-server)
 include(parallel)
 include(sudo)

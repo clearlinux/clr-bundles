@@ -67,7 +67,7 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
-include(git)
+include(git-basic)
 glib-bin
 include(devpkg-glib)
 include(devpkg-glib)

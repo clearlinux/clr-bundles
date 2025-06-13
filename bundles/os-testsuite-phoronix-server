@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 also-add(c-basic)
-also-add(git)
+also-add(git-basic)
 also-add(go-basic)
 also-add(mariadb)
 also-add(nodejs-basic)

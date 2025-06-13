@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(git)
+include(git-basic)
 include(p11-kit)
 include(c-basic-static)
 go

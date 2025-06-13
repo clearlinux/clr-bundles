@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
-include(git)
+include(git-basic)
 include(nginx)
 include(openssh-server)
 include(perl-basic)

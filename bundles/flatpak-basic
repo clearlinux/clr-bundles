@@ -14,7 +14,7 @@ libpsl-lib
 lz4
 include(audio-pipewire)
 flatpak-builder
-include(git)
+include(git-basic)
 include(libstdcpp)
 librsvg
 include(gnupg)

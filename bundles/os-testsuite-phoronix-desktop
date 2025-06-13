@@ -9,7 +9,7 @@ include(lib-opengl)
 include(perl-basic)
 
 also-add(c-basic)
-also-add(git)
+also-add(git-basic)
 also-add(desktop-autostart)
 also-add(desktop-apps-extras)
 also-add(php-basic)

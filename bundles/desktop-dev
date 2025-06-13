@@ -238,7 +238,7 @@ ghostscript-dev
 gi-docgen
 include(devpkg-gi-docgen)
 include(devpkg-gimp)
-include(git)
+include(git-basic)
 include(gjs)
 include(devpkg-gjs)
 glib

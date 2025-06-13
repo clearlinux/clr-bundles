@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
-include(git)
+include(git-basic)
 include(iproute2)
 include(p11-kit)
 include(libstdcpp)

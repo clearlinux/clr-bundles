@@ -787,7 +787,7 @@ include(ghostscript-basic)
 ghostscript-dev
 gi-docgen
 giflib-dev
-include(git)
+include(git-basic)
 include(devpkg-glew)
 glib-bin
 include(devpkg-glib)

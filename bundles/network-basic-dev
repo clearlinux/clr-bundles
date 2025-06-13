@@ -106,7 +106,7 @@ gettext
 gettext-bin
 gettext-dev
 gi-docgen
-include(git)
+include(git-basic)
 glib-bin
 include(devpkg-glib)
 include(devpkg-glib)

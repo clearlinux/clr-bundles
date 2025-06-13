@@ -6,7 +6,7 @@
 # [MAINTAINER]: California Sullivan <california.l.sullivan@intel.com>
 include(curl-basic)
 diffutils
-include(git)
+include(git-basic)
 include(package-utils)
 include(sudo)
 include(Sphinx)

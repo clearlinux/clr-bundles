@@ -203,7 +203,7 @@ include(ghostscript-basic)
 ghostscript-dev
 gi-docgen
 include(devpkg-gi-docgen)
-include(git)
+include(git-basic)
 include(gjs)
 include(devpkg-gjs)
 glib-bin

@@ -145,7 +145,7 @@ include(devpkg-gflags)
 include(ghostscript-basic)
 ghostscript-dev
 gi-docgen
-include(git)
+include(git-basic)
 include(gjs)
 glib-bin
 include(devpkg-glib)
