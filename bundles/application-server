@@ -6,7 +6,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(c-basic)
 include(python3-basic)
-include(httpd)
+httpd
 include(mod_wsgi)
 include(nginx)
 uwsgi

@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
-include(httpd)
+httpd
 include(java-basic)
 include(koji)
 include(mixer)
