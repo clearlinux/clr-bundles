@@ -47,7 +47,7 @@ gsettings-desktop-schemas
 gtk+
 gtk-xfce-engine
 gtk3
-also-add(hexchat)
+also-add(hexchat-basic)
 hicolor-icon-theme
 iceauth
 intel-gmmlib

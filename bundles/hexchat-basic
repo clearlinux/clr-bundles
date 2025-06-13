@@ -1,4 +1,4 @@
-# [TITLE]: hexchat
+# [TITLE]: hexchat-basic
 # [DESCRIPTION]: A graphical IRC chat client; header and path for HexChat plugins.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(os-core-webproxy)
 
 # main package
 hexchat
-include(hexchat-basic)
