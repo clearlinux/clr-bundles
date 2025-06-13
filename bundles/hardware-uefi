@@ -12,6 +12,6 @@ include(bootloader)
 irqbalance
 
 linux-firmware
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 libnl
 include(numactl)

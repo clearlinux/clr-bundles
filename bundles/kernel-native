@@ -9,7 +9,7 @@ include(hardware-uefi)
 console-autostart
 include(bootloader)
 linux-firmware
-also-add(linux-firmware-extras)
+also-add(linux-firmware-extras-basic)
 also-add(qemu-guest-additions)
 include(os-core-plus)
 

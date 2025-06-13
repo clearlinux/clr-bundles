@@ -9,7 +9,7 @@ include(libstdcpp)
 include(lib-opengl)
 
 # gpu firmware
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 
 # Too ancient LLVM required; not suitable for general use
 

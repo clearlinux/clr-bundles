@@ -9,7 +9,7 @@ include(iproute2-basic)
 jq
 kbd
 include(libstdcpp)
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 include(linux-firmware-wifi)
 include(openssh-server)
 include(storage-utils)

@@ -57,7 +57,7 @@ libnotify-bin
 librsvg
 libva
 libva-intel-driver
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 include(linux-firmware-wifi)
 include(mesa-demos)
 mkfontdir

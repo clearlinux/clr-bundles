@@ -1,4 +1,4 @@
-# [TITLE]: linux-firmware-extras
+# [TITLE]: linux-firmware-extras-basic
 # [DESCRIPTION]: Extra firmware for the kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
@@ -6,4 +6,3 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-firmware-extras
 sof-bin
-include(linux-firmware-extras-basic)

@@ -7,7 +7,7 @@
 #
 include(bootloader)
 linux-firmware
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 include(os-core-plus)
 console-autostart
 irqbalance

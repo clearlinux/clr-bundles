@@ -58,7 +58,7 @@ libmtp
 libnotify
 libpinyin
 librsvg
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 also-add(linux-firmware-wifi)
 mutter
 orca

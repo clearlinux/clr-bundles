@@ -9,7 +9,7 @@ console-autostart
 init-rdahead-extras
 irqbalance
 linux-firmware
-include(linux-firmware-extras)
+include(linux-firmware-extras-basic)
 include(os-core-plus)
 also-add(kernel-preempt-rt)
 mcelog
