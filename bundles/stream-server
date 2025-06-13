@@ -5,9 +5,9 @@
 # [TAGS]: Tools and Utilities, Multimedia and Graphics
 # [MAINTAINER]: Mario Alfredo Carrillo Arevalo <mario.alfredo.c.arevalo@intel.com>
 include(libstdcpp)
-include(gstreamer)
+include(gstreamer-basic)
 
-include(gstreamer)
+include(gstreamer-basic)
 gst-plugins-base
 gst-plugins-good
 gst-plugins-bad

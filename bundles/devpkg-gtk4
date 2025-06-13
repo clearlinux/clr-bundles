@@ -9,5 +9,5 @@ include(devpkg-base)
 
 gtk4-dev
 include(libX11client)
-include(gstreamer)
+include(gstreamer-basic)
 include(lib-imageformat)

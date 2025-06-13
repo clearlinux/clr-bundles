@@ -13,4 +13,4 @@ include(libstdcpp)
 icu4c-lib
 include(pulseaudio)
 include(lib-opengl)
-include(gstreamer)
+include(gstreamer-basic)

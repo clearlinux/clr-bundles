@@ -11,5 +11,5 @@ qtmultimedia-dev
 include(lib-opengl)
 include(qt-core)
 include(qt-basic)
-include(gstreamer)
+include(gstreamer-basic)
 include(libstdcpp)

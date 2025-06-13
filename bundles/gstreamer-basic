@@ -1,4 +1,4 @@
-# [TITLE]: gstreamer
+# [TITLE]: gstreamer-basic
 # [DESCRIPTION]: Streaming media framework with graph-based structure.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -30,4 +30,3 @@ include(lib-imageformat)
 
 # main package
 gstreamer
-include(gstreamer-basic)

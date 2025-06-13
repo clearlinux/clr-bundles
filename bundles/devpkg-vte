@@ -12,4 +12,4 @@ include(libX11client)
 include(libstdcpp)
 vte-lib
 include(lib-opengl)
-include(gstreamer)
+include(gstreamer-basic)

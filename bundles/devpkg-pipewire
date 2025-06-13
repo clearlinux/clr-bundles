@@ -9,5 +9,5 @@ include(devpkg-base)
 
 pipewire-dev
 include(libX11client)
-include(gstreamer)
+include(gstreamer-basic)
 include(libstdcpp)

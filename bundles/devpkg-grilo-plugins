@@ -8,7 +8,7 @@
 include(devpkg-base)
 
 grilo-plugins-dev
-include(gstreamer)
+include(gstreamer-basic)
 libpsl-lib
 webkitgtk
 libevent-lib

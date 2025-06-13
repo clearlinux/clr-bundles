@@ -11,7 +11,7 @@ include(python3-basic)
 include(PyYAML)
 include(curl-basic)
 gdk-pixbuf
-include(gstreamer)
+include(gstreamer-basic)
 include(lib-imageformat)
 include(lib-opengl)
 include(libX11client)

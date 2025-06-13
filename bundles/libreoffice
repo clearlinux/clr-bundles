@@ -7,7 +7,7 @@
 
 include(libX11client)
 include(curl-basic)
-include(gstreamer)
+include(gstreamer-basic)
 include(lib-imageformat)
 include(openldap)
 include(libstdcpp)

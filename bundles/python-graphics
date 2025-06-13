@@ -17,7 +17,7 @@ aspell
 include(curl-basic)
 dbus-lib
 gmp-lib
-include(gstreamer)
+include(gstreamer-basic)
 harfbuzz-lib
 icu4c-lib
 include(lib-imageformat)

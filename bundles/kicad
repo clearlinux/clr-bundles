@@ -10,7 +10,7 @@ include(curl-basic)
 dbus-lib
 gdk-pixbuf
 gmp-lib
-include(gstreamer)
+include(gstreamer-basic)
 harfbuzz-lib
 icu4c-lib
 include(lib-imageformat)

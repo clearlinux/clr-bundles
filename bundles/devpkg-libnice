@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 libnice-dev
-include(gstreamer)
+include(gstreamer-basic)

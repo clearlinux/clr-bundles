@@ -8,7 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-# include(gstreamer)
+# include(gstreamer-basic)
 # include(desktop-gnomelibs)
 # include(qt-core)
 # include(lib-opengl)

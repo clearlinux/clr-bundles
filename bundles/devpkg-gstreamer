@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 gstreamer-dev
-include(gstreamer)
-include(gstreamer)
+include(gstreamer-basic)
+include(gstreamer-basic)

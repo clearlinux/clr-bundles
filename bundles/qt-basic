@@ -43,4 +43,4 @@ include(libstdcpp)
 include(pulseaudio)
 icu4c-lib
 include(lib-imageformat)
-include(gstreamer)
+include(gstreamer-basic)

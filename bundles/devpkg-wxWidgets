@@ -11,7 +11,7 @@ wxWidgets-dev
 gdk-pixbuf
 icu4c-lib
 include(lib-opengl)
-include(gstreamer)
+include(gstreamer-basic)
 include(libX11client)
 include(openldap)
 include(lib-imageformat)

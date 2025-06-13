@@ -6,13 +6,13 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 
 include(libX11client)
-include(gstreamer)
+include(gstreamer-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
 appstream
 include(FreeRDP-basic)
 include(Remmina)
-include(gstreamer)
+include(gstreamer-basic)
 gst-plugins-base
 gst-plugins-good
 # end of custom additions

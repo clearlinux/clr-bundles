@@ -9,7 +9,7 @@ include(devpkg-base)
 
 opencv-dev
 include(libX11client)
-include(gstreamer)
+include(gstreamer-basic)
 include(lib-imageformat)
 include(openblas)
 include(libstdcpp)

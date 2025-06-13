@@ -12,7 +12,7 @@ include(lib-imageformat)
 gegl
 LibRaw-lib
 include(NetworkManager-extras)
-include(gstreamer)
+include(gstreamer-basic)
 # end of custom additions
 
 # main package
