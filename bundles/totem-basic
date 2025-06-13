@@ -1,4 +1,4 @@
-# [TITLE]: totem
+# [TITLE]: totem-basic
 # [DESCRIPTION]: Movie player for the GNOME desktop based on GStreamer.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ libarchive
 
 # main package
 totem
-include(totem-basic)

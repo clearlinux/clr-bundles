@@ -37,7 +37,7 @@ also-add(snapshot-basic)
 graphviz
 include(libva-utils)
 seahorse
-also-add(totem)
+also-add(totem-basic)
 # apps
 dconf-editor
 graphviz-extras
