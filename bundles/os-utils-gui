@@ -35,7 +35,7 @@ dbus-extras
 desktop-file-utils
 elementary-xfce
 exo
-include(fontconfig)
+fontconfig
 garcon
 include(gdk-pixbuf)
 also-add(geany)

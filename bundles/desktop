@@ -31,7 +31,7 @@ colord
 colord-config
 dbus-extras
 desktop-file-utils
-include(fontconfig)
+fontconfig
 include(fuse)
 include(gdk-pixbuf)
 geoclue
