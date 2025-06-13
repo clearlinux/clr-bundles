@@ -32,7 +32,7 @@ frameworkintegration
 grantlee
 grantleetheme
 kalarm
-also-add(kamera)
+also-add(kamera-basic)
 also-add(kapidox)
 kapptemplate
 also-add(kleopatra)

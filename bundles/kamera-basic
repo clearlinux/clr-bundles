@@ -1,4 +1,4 @@
-# [TITLE]: kamera
+# [TITLE]: kamera-basic
 # [DESCRIPTION]: Access and manipulate pictures on a digital camera.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ libXpm-lib
 
 # main package
 kamera
-include(kamera-basic)
