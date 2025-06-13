@@ -1,4 +1,4 @@
-# [TITLE]: linuxcnc
+# [TITLE]: linuxcnc-basic
 # [DESCRIPTION]: Separate bundle for linuxcnc
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
@@ -21,4 +21,3 @@ PyYAML
 pypi-svg.path
 tcl
 tk
-include(linuxcnc-basic)
