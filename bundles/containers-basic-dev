@@ -454,7 +454,7 @@ include(devpkg-qttools)
 include(devpkg-qtwayland)
 include(devpkg-readline)
 include(devpkg-readline)
-include(rsync)
+include(rsync-basic)
 ruby
 rust-bindgen
 rustc

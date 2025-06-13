@@ -47,7 +47,7 @@ p7zip
 include(patch-basic)
 patchutils
 quilt
-include(rsync)
+include(rsync-basic)
 rt-tests
 scdoc
 source-highlight

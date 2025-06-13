@@ -1088,7 +1088,7 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 include(devpkg-readline)
 include(devpkg-rest)
-include(rsync)
+include(rsync-basic)
 include(devpkg-rtmpdump)
 ruby
 ruby-dev

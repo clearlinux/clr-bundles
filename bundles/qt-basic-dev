@@ -516,7 +516,7 @@ include(devpkg-qtx11extras)
 include(devpkg-qtxmlpatterns)
 include(devpkg-readline)
 include(devpkg-readline)
-include(rsync)
+include(rsync-basic)
 ruby
 rust-bindgen
 rustc

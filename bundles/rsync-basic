@@ -1,4 +1,4 @@
-# [TITLE]: rsync
+# [TITLE]: rsync-basic
 # [DESCRIPTION]: A fast, versatile, remote (and local) file-copying tool
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -14,4 +14,3 @@ popt-lib
 
 # main package
 rsync
-include(rsync-basic)

@@ -745,7 +745,7 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 include(devpkg-readline)
 rpm
-include(rsync)
+include(rsync-basic)
 ruby
 rust-bindgen
 rustc

@@ -590,7 +590,7 @@ include(devpkg-qttools)
 include(devpkg-readline)
 include(devpkg-readline)
 rpm
-include(rsync)
+include(rsync-basic)
 ruby
 rust-bindgen
 rustc

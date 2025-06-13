@@ -1147,7 +1147,7 @@ rpm
 rpm-dev
 rpm-extras
 include(devpkg-rrdtool)
-include(rsync)
+include(rsync-basic)
 include(devpkg-rtmpdump)
 ruby
 ruby-dev
