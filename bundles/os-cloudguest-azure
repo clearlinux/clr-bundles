@@ -17,5 +17,5 @@ e2fsprogs
 e2fsprogs-extras
 kexec-tools
 linux-tools-hyperv
-include(net-tools)
+include(net-tools-basic)
 include(parted)

@@ -29,7 +29,7 @@ linux-tools
 ltrace
 msr-tools
 net-snmp
-include(net-tools)
+include(net-tools-basic)
 nicstat
 numatop
 open-lldp

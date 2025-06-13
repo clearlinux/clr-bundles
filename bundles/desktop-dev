@@ -630,7 +630,7 @@ include(devpkg-ncurses)
 include(devpkg-ndctl)
 include(devpkg-net-snmp)
 net-snmp-perl
-include(net-tools)
+include(net-tools-basic)
 netbase
 include(devpkg-nettle)
 include(devpkg-nettle)

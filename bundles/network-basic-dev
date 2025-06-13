@@ -244,7 +244,7 @@ include(devpkg-mpfr)
 ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
-include(net-tools)
+include(net-tools-basic)
 netbase
 include(devpkg-nettle)
 include(devpkg-nettle)
