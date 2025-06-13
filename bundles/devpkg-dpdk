@@ -9,4 +9,4 @@ include(devpkg-base)
 
 dpdk-dev
 include(libstdcpp)
-include(dpdk)
+include(dpdk-basic)

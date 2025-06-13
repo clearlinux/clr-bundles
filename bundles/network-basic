@@ -10,7 +10,7 @@ include(perl-basic)
 
 also-add(clr-network-troubleshooter)
 also-add(curl-basic)
-also-add(dpdk)
+also-add(dpdk-basic)
 also-add(ethtool)
 also-add(iproute2)
 also-add(iptables)
