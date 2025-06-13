@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-also-add(the_silver_searcher)
 include(git-basic)
 include(openssl-basic)
 include(perl-basic)
