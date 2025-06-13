@@ -82,7 +82,7 @@ also-add(kmediaplayer)
 also-add(kmousetool-basic)
 kmouth
 also-add(kmplot-basic)
-also-add(knotes)
+also-add(knotes-basic)
 also-add(kolourpaint)
 also-add(kontact)
 also-add(konqueror)
