@@ -1,4 +1,4 @@
-# [TITLE]: luanti
+# [TITLE]: luanti-basic
 # [DESCRIPTION]: A Voxel multi-player game inspired by minecraft.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(luantiserver)
 
 # main package
 luanti
-include(luanti-basic)

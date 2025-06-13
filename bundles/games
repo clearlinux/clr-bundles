@@ -14,7 +14,7 @@ include(lib-opengl)
 include(os-core-legacy)
 
 also-add(extremetuxracer)
-also-add(luanti)
+also-add(luanti-basic)
 also-add(supertuxkart)
 also-add(flare)
 also-add(lutris)

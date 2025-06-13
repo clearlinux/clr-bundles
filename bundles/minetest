@@ -5,7 +5,7 @@
 # [TAGS]: Games
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(luanti)
+include(luanti-basic)
 include(lib-opengl)
 
 # The actual game data
