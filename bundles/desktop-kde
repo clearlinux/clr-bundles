@@ -137,7 +137,7 @@ powerdevil
 print-manager
 pulseaudio
 qqc2-desktop-style
-also-add(sddm)
+also-add(sddm-basic)
 sddm-autostart
 sddm-kcm
 solid

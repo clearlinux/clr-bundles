@@ -1,4 +1,4 @@
-# [TITLE]: sddm
+# [TITLE]: sddm-basic
 # [DESCRIPTION]: SDDM display manager
 # [STATUS]: Active
 # [CAPABILITIES]: Login Manager for desktop sessions, the default for KDE/Plasma.
@@ -19,4 +19,3 @@ systemd-lib
 
 # main package
 sddm
-include(sddm-basic)
