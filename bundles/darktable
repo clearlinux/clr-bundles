@@ -14,7 +14,7 @@ include(libstdcpp)
 include(gstreamer-basic)
 include(lib-opengl)
 libpsl-lib
-include(lensfun)
+lensfun
 include(gphoto)
 libXpm-lib
 include(lib-imageformat)

@@ -10,4 +10,4 @@ include(devpkg-base)
 lensfun-dev
 include(libstdcpp)
 include(lib-imageformat)
-include(lensfun)
+lensfun
