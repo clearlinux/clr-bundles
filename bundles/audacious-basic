@@ -1,4 +1,4 @@
-# [TITLE]: audacious
+# [TITLE]: audacious-basic
 # [DESCRIPTION]: Music player for Gtk/GNOME
 # [STATUS]: Active
 # [CAPABILITIES]: Play MP3, OGG, and FLAC music files
@@ -17,4 +17,3 @@ audacious-plugins
 
 # main package
 audacious
-include(audacious-basic)
