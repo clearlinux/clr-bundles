@@ -1,4 +1,4 @@
-# [TITLE]: Remmina
+# [TITLE]: Remmina-basic
 # [DESCRIPTION]: Remote desktop that supports VNC, NX, XDMCP, SPICE, and SSH protocols.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ lz4
 
 # main package
 Remmina
-include(Remmina-basic)
