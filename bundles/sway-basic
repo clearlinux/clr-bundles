@@ -1,4 +1,4 @@
-# [TITLE]: sway
+# [TITLE]: sway-basic
 # [DESCRIPTION]: i3-compatible Wayland compositor
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -20,4 +20,3 @@ xdg-desktop-portal-wlr
 
 # main package
 sway
-include(sway-basic)
