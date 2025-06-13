@@ -1,4 +1,4 @@
-# [TITLE]: dolphin
+# [TITLE]: dolphin-basic
 # [DESCRIPTION]: File manager focusing on usability.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ dolphin-plugins
 
 # main package
 dolphin
-include(dolphin-basic)

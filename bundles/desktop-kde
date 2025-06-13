@@ -49,7 +49,7 @@ breeze
 breeze-gtk
 breeze-icons
 drkonqi
-also-add(dolphin)
+also-add(dolphin-basic)
 dolphin-plugins
 exiv2
 include(gdk-pixbuf)
