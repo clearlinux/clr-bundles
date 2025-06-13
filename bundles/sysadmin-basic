@@ -76,7 +76,7 @@ parallel
 include(patch-basic)
 pciutils
 pigz
-include(powertop)
+powertop
 include(procps-ng)
 psmisc
 pv

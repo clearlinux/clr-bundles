@@ -34,7 +34,7 @@ nicstat
 numatop
 open-lldp
 pm-graph
-include(powertop)
+powertop
 powerstat
 include(procps-ng)
 psstop
