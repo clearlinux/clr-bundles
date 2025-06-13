@@ -1,4 +1,4 @@
-# [TITLE]: fio
+# [TITLE]: fio-basic
 # [DESCRIPTION]: Flexible I/O tester, often used for load simulation.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(numactl)
 
 # main package
 fio
-include(fio-basic)

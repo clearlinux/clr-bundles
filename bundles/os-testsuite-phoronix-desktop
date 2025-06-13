@@ -51,7 +51,7 @@ also-add(devpkg-curl)
 dialog
 dmidecode
 also-add(devpkg-fftw)
-also-add(fio)
+also-add(fio-basic)
 also-add(devpkg-flac)
 also-add(flex)
 also-add(devpkg-freeglut)

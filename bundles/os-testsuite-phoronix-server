@@ -32,7 +32,7 @@ dialog
 dmidecode
 also-add(devpkg-expat)
 also-add(devpkg-fftw)
-also-add(fio)
+also-add(fio-basic)
 also-add(devpkg-flac)
 also-add(flex)
 also-add(devpkg-gflags)
