@@ -1,4 +1,4 @@
-# [TITLE]: clamav
+# [TITLE]: clamav-basic
 # [DESCRIPTION]: Clam AntiVirus is toolkit to detect malware and viruses, originally for Unix, with third-pary support.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ include(curl)
 
 # main package
 clamav
-include(clamav-basic)
