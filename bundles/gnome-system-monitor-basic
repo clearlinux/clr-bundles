@@ -1,4 +1,4 @@
-# [TITLE]: gnome-system-monitor
+# [TITLE]: gnome-system-monitor-basic
 # [DESCRIPTION]: Process viewer and system resource monitor.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -14,4 +14,3 @@ include(libstdcpp)
 
 # main package
 gnome-system-monitor
-include(gnome-system-monitor-basic)
