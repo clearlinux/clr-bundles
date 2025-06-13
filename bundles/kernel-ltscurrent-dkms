@@ -7,4 +7,4 @@
 include(c-basic)
 include(linux-ltscurrent-dev)
 clr-ignore-mod-sig
-include(dkms)
+dkms
