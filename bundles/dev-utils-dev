@@ -595,7 +595,7 @@ ruby
 rust-bindgen
 rustc
 rustc-extras-lib32
-include(sassc)
+sassc
 include(devpkg-scdoc)
 sed
 shadow

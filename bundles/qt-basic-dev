@@ -521,7 +521,7 @@ ruby
 rust-bindgen
 rustc
 rustc-extras-lib32
-include(sassc)
+sassc
 include(devpkg-sbc)
 include(devpkg-sbc)
 sed

@@ -1252,7 +1252,7 @@ ruby
 rust-bindgen
 rustc
 rustc-extras-lib32
-include(sassc)
+sassc
 sed
 shadow
 include(devpkg-shapelib)

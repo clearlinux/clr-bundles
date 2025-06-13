@@ -1097,7 +1097,7 @@ rustc
 rustc-extras-lib32
 include(devpkg-samba)
 include(devpkg-sane-backends)
-include(sassc)
+sassc
 include(devpkg-sbc)
 include(devpkg-sbc)
 scipy-python3
