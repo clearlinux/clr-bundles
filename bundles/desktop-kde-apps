@@ -39,7 +39,7 @@ also-add(kleopatra)
 # also-add(kate-basic)
 also-add(kbackup-basic)
 also-add(kcachegrind-basic)
-also-add(kcalc)
+also-add(kcalc-basic)
 kcalutils
 also-add(kcharselect)
 also-add(kcolorchooser)

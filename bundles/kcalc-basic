@@ -1,4 +1,4 @@
-# [TITLE]: kcalc
+# [TITLE]: kcalc-basic
 # [DESCRIPTION]: Scientific calculator.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -17,4 +17,3 @@ mpfr-lib
 
 # main package
 kcalc
-include(kcalc-basic)
