@@ -6,6 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 vectorscan
-include(suricata)
+suricata
 openldap
 include(pypi-six)
