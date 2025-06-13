@@ -73,7 +73,7 @@ requests-ntlm
 rpm
 rpm-bin
 sbsigntools
-include(scons)
+include(scons-basic)
 pypi-six
 include(devpkg-telemetrics-client)
 include(devpkg-xcb-proto)

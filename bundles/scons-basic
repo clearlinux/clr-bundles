@@ -1,4 +1,4 @@
-# [TITLE]: scons
+# [TITLE]: scons-basic
 # [DESCRIPTION]: Python build system and replacement for make.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(python3-basic)
 
 # main package
 scons
-include(scons-basic)
