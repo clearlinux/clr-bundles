@@ -825,7 +825,7 @@ pkg-config
 include(devpkg-pkg-config)
 plasma-wayland-protocols-dev
 include(devpkg-polkit)
-include(poppler)
+poppler
 include(devpkg-poppler-data-clr-rename)
 include(devpkg-poppler)
 include(devpkg-popt)

@@ -8,7 +8,7 @@ include(libstdcpp)
 include(python3-basic)
 include(libX11client)
 include(perl-basic)
-include(poppler)
+poppler
 also-add(ghostscript-basic)
 
 avahi-bin

@@ -12,4 +12,4 @@ include(libX11client)
 include(curl-basic)
 include(lib-imageformat)
 include(libstdcpp)
-include(poppler)
+poppler

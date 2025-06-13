@@ -931,7 +931,7 @@ plzip
 include(devpkg-pmdk)
 pmix-dev
 include(devpkg-polkit)
-include(poppler)
+poppler
 include(devpkg-poppler)
 poppler-extras
 include(devpkg-popt)
