@@ -57,7 +57,7 @@ include(devpkg-libzip)
 memkind
 memkind-dev
 include(devpkg-mesa)
-include(mkosi)
+mkosi
 include(p7zip)
 pypi-pep8
 pesign
