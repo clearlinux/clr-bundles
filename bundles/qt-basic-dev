@@ -51,7 +51,7 @@ automake-dev
 include(devpkg-bash-completion)
 bats
 bdftopcf
-include(binutils)
+include(binutils-basic)
 binutils-dev
 bison
 bison-dev

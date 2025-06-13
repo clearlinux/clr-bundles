@@ -22,7 +22,7 @@ include(zstd)
 include(gpgme)
 # autospec requirements
 abireport
-include(binutils)
+include(binutils-basic)
 pypi-chardet
 pypi-clr_artifact
 include(gnupg)

@@ -97,7 +97,7 @@ bats
 bc
 bdftopcf
 bind-utils
-include(binutils)
+include(binutils-basic)
 binutils-dev
 binutils-staticdev
 bison

@@ -9,7 +9,7 @@ autoconf213
 autogen
 automake
 automake-dev
-include(binutils)
+include(binutils-basic)
 binutils-dev
 binutils-locales
 bison

@@ -49,7 +49,7 @@ bash
 include(devpkg-bash-completion)
 bats
 bc
-include(binutils)
+include(binutils-basic)
 binutils-dev
 binutils-staticdev
 bison

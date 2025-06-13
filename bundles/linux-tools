@@ -13,7 +13,7 @@ pcre-lib
 libnl
 include(lib-imageformat)
 include(perl-basic)
-include(binutils)
+include(binutils-basic)
 include(python3-basic)
 # end of custom additions
 

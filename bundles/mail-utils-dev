@@ -26,7 +26,7 @@ automake
 automake-dev
 include(devpkg-bash-completion)
 bats
-include(binutils)
+include(binutils-basic)
 bison
 bison-dev
 include(devpkg-boost)

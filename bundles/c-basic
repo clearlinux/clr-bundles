@@ -15,7 +15,7 @@ autoconf-archive-doc
 autogen
 automake
 automake-dev
-include(binutils)
+include(binutils-basic)
 binutils-dev
 #binutils-extras
 binutils-locales

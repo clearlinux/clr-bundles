@@ -29,7 +29,7 @@ automake-dev
 include(devpkg-bash-completion)
 bats
 bind-utils-dev
-include(binutils)
+include(binutils-basic)
 bison
 bison-dev
 include(devpkg-boost)

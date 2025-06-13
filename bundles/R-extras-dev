@@ -672,7 +672,7 @@ automake-dev
 bash
 include(devpkg-bash-completion)
 bats
-include(binutils)
+include(binutils-basic)
 binutils-dev
 bison
 bison-dev

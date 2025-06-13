@@ -10,7 +10,7 @@
 libpcap-lib
 libnl
 ncurses-lib
-include(binutils)
+include(binutils-basic)
 # end of custom additions
 
 # main package

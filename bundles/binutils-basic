@@ -1,4 +1,4 @@
-# [TITLE]: binutils
+# [TITLE]: binutils-basic
 # [DESCRIPTION]: Various development tools to manage binary executable code.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -21,4 +21,3 @@ include(curl)
 
 # main package
 binutils
-include(binutils-basic)
