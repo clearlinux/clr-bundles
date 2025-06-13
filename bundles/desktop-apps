@@ -36,7 +36,7 @@ also-add(snapshot)
 # underlying infra needs
 graphviz
 include(libva-utils)
-include(seahorse)
+seahorse
 also-add(totem)
 # apps
 dconf-editor
