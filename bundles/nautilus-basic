@@ -1,4 +1,4 @@
-# [TITLE]: nautilus
+# [TITLE]: nautilus-basic
 # [DESCRIPTION]: Default file manager for GNOME.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(tracker-miners)
 
 # main package
 nautilus
-include(nautilus-basic)

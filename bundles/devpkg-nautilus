@@ -10,4 +10,4 @@ include(devpkg-base)
 nautilus-dev
 include(gstreamer-basic)
 include(libX11client)
-include(nautilus)
+include(nautilus-basic)

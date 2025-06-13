@@ -147,7 +147,7 @@ gnome-user-docs
 gnome-user-docs-doc
 gnome-video-effects
 gvfs
-also-add(nautilus)
+also-add(nautilus-basic)
 yelp
 
 # nice to have when using desktop
