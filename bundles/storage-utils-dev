@@ -369,7 +369,7 @@ include(devpkg-p11-kit)
 pandoc
 include(devpkg-pango)
 passwdqc-dev
-include(patch)
+include(patch-basic)
 include(patchelf)
 include(devpkg-pcre2)
 include(devpkg-pcre2)

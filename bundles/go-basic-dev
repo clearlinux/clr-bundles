@@ -279,7 +279,7 @@ include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 pandoc
 passwdqc-dev
-include(patch)
+include(patch-basic)
 include(patchelf)
 patchutils
 include(devpkg-pcre)

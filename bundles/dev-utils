@@ -44,7 +44,7 @@ include(man-pages-basic)
 meson
 metrics-discovery
 p7zip
-include(patch)
+include(patch-basic)
 patchutils
 quilt
 include(rsync)

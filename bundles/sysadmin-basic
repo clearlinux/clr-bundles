@@ -73,7 +73,7 @@ neofetch
 nmap-extras
 include(numactl)
 parallel
-include(patch)
+include(patch-basic)
 pciutils
 pigz
 include(powertop)

@@ -610,7 +610,7 @@ pandoc
 include(devpkg-pango)
 include(devpkg-parted)
 passwdqc-dev
-include(patch)
+include(patch-basic)
 include(patchelf)
 include(devpkg-pciutils)
 include(devpkg-pcre)

@@ -1,4 +1,4 @@
-# [TITLE]: patch
+# [TITLE]: patch-basic
 # [DESCRIPTION]: Updates text files according to instructions contained in a separate file.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -12,4 +12,3 @@
 
 # main package
 patch
-include(patch-basic)

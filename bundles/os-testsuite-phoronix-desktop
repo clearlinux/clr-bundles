@@ -100,7 +100,7 @@ include(devpkg-opencl-headers)
 also-add(devpkg-openssl)
 also-add(devpkg-opus)
 p7zip
-also-add(patch)
+also-add(patch-basic)
 pbzip2
 pciutils
 also-add(devpkg-pcre)

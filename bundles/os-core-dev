@@ -163,7 +163,7 @@ p11-kit
 include(devpkg-p11-kit)
 pandoc
 passwdqc-dev
-include(patch)
+include(patch-basic)
 include(devpkg-pcre2)
 perl-Test-Simple-perl
 perl-XML-Parser-perl
