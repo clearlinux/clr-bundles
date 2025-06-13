@@ -130,7 +130,7 @@ also-add(syndication)
 also-add(yakuake)
 kio-zeroconf
 LibRaw-lib
-include(kmime)
+kmime
 libssh-lib
 mpfr-lib
 krdc

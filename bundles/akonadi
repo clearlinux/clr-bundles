@@ -11,7 +11,7 @@ include(qt-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(kmime)
+kmime
 akonadi-calendar
 akonadi-calendar-tools
 akonadi-contacts

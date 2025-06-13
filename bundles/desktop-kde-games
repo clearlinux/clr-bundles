@@ -65,6 +65,6 @@ poxml
 prison
 purpose
 sweeper
-include(kmime)
+kmime
 protobuf-lib
 include(qt6-basic)

@@ -12,7 +12,7 @@ include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
 include(qt6-basic)
-include(kmime)
+kmime
 
 # end of custom additions
 
