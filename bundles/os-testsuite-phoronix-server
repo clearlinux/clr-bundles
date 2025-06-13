@@ -75,7 +75,7 @@ also-add(openblas-basic)
 include(devpkg-opencl-headers)
 also-add(devpkg-openssl)
 also-add(devpkg-opus)
-include(p7zip)
+p7zip
 also-add(patch)
 pbzip2
 pciutils

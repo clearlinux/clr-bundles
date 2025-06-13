@@ -43,7 +43,7 @@ ltrace
 include(man-pages-basic)
 meson
 metrics-discovery
-include(p7zip)
+p7zip
 include(patch)
 patchutils
 quilt
