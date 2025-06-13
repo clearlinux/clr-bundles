@@ -1,4 +1,4 @@
-# [TITLE]: kitinerary
+# [TITLE]: kitinerary-basic
 # [DESCRIPTION]: Data model and extraction system for travel reservation information
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ include(kmime)
 
 # main package
 kitinerary
-include(kitinerary-basic)
