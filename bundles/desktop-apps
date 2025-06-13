@@ -12,7 +12,7 @@ include(qt-basic)
 # mandatory desktop applications
 # included apps
 also-add(baobab)
-also-add(connections)
+also-add(connections-basic)
 also-add(eog)
 also-add(evince)
 also-add(evolution)

@@ -1,4 +1,4 @@
-# [TITLE]: connections
+# [TITLE]: connections-basic
 # [DESCRIPTION]: A remote desktop client for the GNOME desktop environment.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 connections
-include(connections-basic)
