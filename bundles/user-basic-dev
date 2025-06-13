@@ -687,7 +687,7 @@ include(devpkg-protobuf)
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 include(devpkg-pycairo)
-include(pygobject)
+pygobject
 pygobject-python3
 pypi-build-python3
 pypi-commonmark

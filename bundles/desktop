@@ -63,7 +63,7 @@ also-add(linux-firmware-wifi)
 mutter
 orca
 pango
-include(pygobject)
+pygobject
 shared-mime-info
 include(tzdata)
 pygobject-extras

@@ -838,7 +838,7 @@ include(devpkg-protobuf)
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 include(devpkg-pycairo)
-include(pygobject)
+pygobject
 include(devpkg-pygobject)
 pygobject-python3
 pypi-aiohttp-python3

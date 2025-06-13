@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 pygobject-dev
-include(pygobject)
+pygobject

@@ -15,7 +15,7 @@ linuxcnc
 gtk3
 potrace
 pycairo
-include(pygobject)
+pygobject
 pypi-pyopengl
 PyYAML
 pypi-svg.path

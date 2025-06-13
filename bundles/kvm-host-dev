@@ -565,7 +565,7 @@ procps-ng-bin
 include(devpkg-protobuf)
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
-include(pygobject)
+pygobject
 include(pypi-cython)
 pypi-docutils
 pypi-flit_core-python3

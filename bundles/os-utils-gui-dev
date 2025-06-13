@@ -762,7 +762,7 @@ procps-ng-bin
 include(devpkg-protobuf)
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
-include(pygobject)
+pygobject
 include(devpkg-pygobject)
 pypi-appdirs-python3
 pypi-attrs-python3

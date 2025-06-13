@@ -951,7 +951,7 @@ protobuf-staticdev
 include(devpkg-pulseaudio)
 include(devpkg-pulseaudio)
 include(devpkg-pycairo)
-include(pygobject)
+pygobject
 include(devpkg-pygobject)
 pygobject-python3
 pypi-amqp-python3
