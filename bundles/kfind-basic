@@ -1,4 +1,4 @@
-# [TITLE]: kfind
+# [TITLE]: kfind-basic
 # [DESCRIPTION]: Find Files/Folders
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 kfind
-include(kfind-basic)

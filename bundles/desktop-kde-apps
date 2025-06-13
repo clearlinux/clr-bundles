@@ -62,7 +62,7 @@ also-add(kdf-basic)
 also-add(kdiagram-basic)
 kdialog
 also-add(keditbookmarks-basic)
-also-add(kfind)
+also-add(kfind-basic)
 also-add(kgeography)
 kget
 khelpcenter
