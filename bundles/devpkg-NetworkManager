@@ -9,4 +9,4 @@ include(devpkg-base)
 
 NetworkManager-dev
 include(curl-basic)
-include(NetworkManager)
+include(NetworkManager-basic)

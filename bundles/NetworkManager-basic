@@ -1,5 +1,5 @@
-# [TITLE]: NetworkManager-tui
-# [DESCRIPTION]: Configure network interfaces and maintain active network connection (TUI tools)
+# [TITLE]: NetworkManager-basic
+# [DESCRIPTION]: Configure network interfaces and maintain active network connection.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Networking
@@ -8,11 +8,14 @@
 include(curl-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
-pcre-lib
-include(lib-imageformat)
+include(lib-openssl)
+libxml2
+libpcap-lib
+libpsl-lib
+icu4c-lib
 wpa_supplicant
-include(NetworkManager-basic)
+also-add(NetworkManager-tui)
 # end of custom additions
 
 # main package
-include(NetworkManager-extras)
+NetworkManager

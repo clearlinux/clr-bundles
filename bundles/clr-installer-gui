@@ -7,6 +7,6 @@
 include(clr-installer-basic)
 include(desktop-gnomelibs)
 include(gparted-basic)
-include(NetworkManager)
+include(NetworkManager-basic)
 
 clr-installer-extras

@@ -19,3 +19,4 @@ also-add(NetworkManager-tui)
 
 # main package
 NetworkManager
+include(NetworkManager-basic)
