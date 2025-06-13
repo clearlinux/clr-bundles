@@ -19,7 +19,7 @@ also-add(evolution-basic)
 file-roller
 also-add(flatpak-basic)
 also-add(geary-basic)
-also-add(gnome-calculator)
+also-add(gnome-calculator-basic)
 also-add(gnome-characters)
 also-add(gnome-color-manager)
 also-add(gnome-disk-utility)

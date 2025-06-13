@@ -1,4 +1,4 @@
-# [TITLE]: gnome-calculator
+# [TITLE]: gnome-calculator-basic
 # [DESCRIPTION]: Software calculator integrated with the GNOME desktop environment.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ mpfr-lib
 
 # main package
 gnome-calculator
-include(gnome-calculator-basic)
