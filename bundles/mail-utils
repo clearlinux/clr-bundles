@@ -8,5 +8,5 @@ mutt
 imapfilter
 fetchmail
 msmtp
-include(notmuch)
+notmuch
 procmail
