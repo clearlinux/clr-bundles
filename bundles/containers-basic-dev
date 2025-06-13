@@ -335,7 +335,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(devpkg-lksctp-tools)
-include(llvm)
+llvm
 include(devpkg-llvm)
 include(devpkg-llvm)
 llvm-staticdev

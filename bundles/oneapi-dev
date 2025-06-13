@@ -5,7 +5,7 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(llvm)
+llvm
 dpcpp-compiler
 oneDPL-dev
 include(devpkg-tbb)

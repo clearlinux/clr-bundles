@@ -982,7 +982,7 @@ include(devpkg-libzip)
 include(devpkg-libzmq)
 linux-libc-headers
 include(devpkg-lksctp-tools)
-include(llvm)
+llvm
 include(devpkg-llvm)
 include(devpkg-llvm)
 llvm-staticdev

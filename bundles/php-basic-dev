@@ -301,7 +301,7 @@ libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 include(devpkg-llvm)
 llvm-staticdev

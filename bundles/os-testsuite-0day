@@ -20,7 +20,7 @@ i2c-tools
 intltool
 graphite
 include(devpkg-hwloc)
-include(llvm)
+llvm
 include(devpkg-mariadb)
 include(devpkg-libXaw)
 include(memcached)

@@ -37,7 +37,7 @@ inotify-tools
 lcov
 glibc-bin
 linux-tools
-include(llvm)
+llvm
 include(devpkg-llvm)
 ltrace
 include(man-pages)

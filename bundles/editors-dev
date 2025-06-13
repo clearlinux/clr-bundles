@@ -149,7 +149,7 @@ include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(make)

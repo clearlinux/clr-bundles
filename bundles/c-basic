@@ -41,7 +41,7 @@ libstdc++
 libtool
 libtool-dev
 linux-libc-headers
-include(llvm)
+llvm
 m4
 include(make)
 include(nasm)

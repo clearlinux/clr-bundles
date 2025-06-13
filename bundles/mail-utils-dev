@@ -193,7 +193,7 @@ include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-lmdb)
 include(devpkg-lua)
 include(lynx)

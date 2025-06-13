@@ -9,4 +9,4 @@ include(devpkg-base)
 
 llvm-dev
 include(libstdcpp)
-include(llvm)
+llvm

@@ -215,7 +215,7 @@ include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-include(llvm)
+llvm
 lm-sensors-dev
 include(devpkg-lmdb)
 include(devpkg-lz4)
