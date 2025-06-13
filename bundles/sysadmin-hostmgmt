@@ -6,7 +6,7 @@
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(ansible-basic)
 include(git-basic)
-include(ipmitool)
+ipmitool
 include(pxe-server)
 include(openssh-client)
 include(python3-basic)

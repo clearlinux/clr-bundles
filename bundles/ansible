@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Productivity, Tools and Utilities
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
-include(ipmitool)
+ipmitool
 include(openssh-client)
 include(python3-basic)
 ansible-core
