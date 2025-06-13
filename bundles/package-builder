@@ -16,7 +16,7 @@ include(dnf-basic)
 cpio
 diffstat
 include(make)
-include(plzip)
+plzip
 pypi-six
 include(zstd)
 include(gpgme-basic)

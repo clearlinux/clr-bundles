@@ -927,7 +927,7 @@ pkg-config
 include(devpkg-pkg-config)
 plasma-activities-dev
 plasma-wayland-protocols-dev
-include(plzip)
+plzip
 include(devpkg-pmdk)
 pmix-dev
 include(devpkg-polkit)

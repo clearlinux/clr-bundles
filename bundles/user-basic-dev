@@ -672,7 +672,7 @@ include(devpkg-pixman)
 include(devpkg-pkcs11-helper)
 pkg-config
 include(devpkg-pkg-config)
-include(plzip)
+plzip
 include(devpkg-pmdk)
 include(devpkg-polkit)
 include(devpkg-poppler)

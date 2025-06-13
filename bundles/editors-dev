@@ -175,7 +175,7 @@ perl-Test-Simple-perl
 pigz
 pkg-config
 include(devpkg-pkg-config)
-include(plzip)
+plzip
 include(devpkg-polkit)
 include(devpkg-popt)
 include(procps-ng)
