@@ -19,7 +19,7 @@ akonadi-mime
 akonadi-notes
 akonadi-search
 akonadiconsole
-also-add(mariadb)
+also-add(mariadb-basic)
 # end of custom additions
 
 # main package

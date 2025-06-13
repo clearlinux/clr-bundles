@@ -7,7 +7,7 @@
 also-add(c-basic)
 also-add(git-basic)
 also-add(go-basic)
-also-add(mariadb)
+also-add(mariadb-basic)
 also-add(nodejs-basic)
 also-add(octave)
 also-add(php-basic)
