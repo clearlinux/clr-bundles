@@ -126,7 +126,7 @@ qqc2-desktop-style
 qrencode
 also-add(spectacle-basic)
 svgpart
-also-add(syndication)
+also-add(syndication-basic)
 also-add(yakuake)
 kio-zeroconf
 LibRaw-lib
