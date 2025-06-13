@@ -1,4 +1,4 @@
-# [TITLE]: gnuplot
+# [TITLE]: gnuplot-basic
 # [DESCRIPTION]: Graphing utility that outputs to X11, PostScript, PNG, GIF, and others.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ libXpm-lib
 
 # main package
 gnuplot
-include(gnuplot-basic)
