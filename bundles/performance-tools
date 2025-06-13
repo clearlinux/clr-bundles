@@ -40,7 +40,7 @@ procps-ng
 psstop
 siege
 strace
-include(sysstat)
+sysstat
 tcpdump
 time
 tiptop
