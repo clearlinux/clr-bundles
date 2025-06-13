@@ -5,6 +5,6 @@
 # [TAGS]: Tools and Utilities, Other
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(kicad)
+kicad
 
 kicad-packages3D

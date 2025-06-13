@@ -12,5 +12,5 @@ include(python3-basic)
 include(qt-basic)
 
 # Design tools
-include(kicad)
+kicad
 ngspice
