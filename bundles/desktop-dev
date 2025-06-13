@@ -640,7 +640,7 @@ include(devpkg-nghttp2)
 nghttp3-dev
 ninja
 ninja-python3
-include(nmap)
+nmap
 nmap-extras
 nodejs-dev
 include(devpkg-not-ffmpeg)

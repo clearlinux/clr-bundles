@@ -10,7 +10,7 @@ include(network-basic)
 include(qt-basic)
 include(network-monitor-node)
 
-include(nmap)
+nmap
 wireshark
 arp-scan
 ndpi
