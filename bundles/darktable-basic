@@ -1,4 +1,4 @@
-# [TITLE]: darktable
+# [TITLE]: darktable-basic
 # [DESCRIPTION]: Photography workflow application with raw image development.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -22,4 +22,3 @@ include(lib-imageformat)
 
 # main package
 darktable
-include(darktable-basic)

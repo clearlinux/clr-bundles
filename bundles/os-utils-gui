@@ -6,7 +6,7 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 alsa-utils
 include(cryptography)
-also-add(darktable)
+also-add(darktable-basic)
 also-add(eog)
 also-add(firefox)
 also-add(flatpak)
