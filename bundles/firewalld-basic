@@ -1,4 +1,4 @@
-# [TITLE]: firewalld
+# [TITLE]: firewalld-basic
 # [DESCRIPTION]: A firewall daemon with D-Bus interface providing a dynamic firewall
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(pygobject)
 
 # main package
 firewalld
-include(firewalld-basic)
