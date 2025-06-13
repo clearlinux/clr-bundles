@@ -198,7 +198,7 @@ gettext
 gettext-bin
 gettext-dev
 include(devpkg-gflags)
-include(ghostscript)
+include(ghostscript-basic)
 ghostscript-dev
 gi-docgen
 include(git)

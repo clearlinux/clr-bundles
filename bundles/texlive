@@ -15,7 +15,7 @@ libXpm-lib
 icu4c-lib
 include(python3-basic)
 dvisvgm
-also-add(ghostscript)
+also-add(ghostscript-basic)
 include(perl-basic)
 # end of custom additions
 

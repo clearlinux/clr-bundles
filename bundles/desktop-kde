@@ -35,7 +35,7 @@ bash-completion
 cups
 cups-filters
 cups-pk-helper
-also-add(ghostscript)
+also-add(ghostscript-basic)
 gutenprint
 
 #  https://download.kde.org/stable/plasma/5.13.4/

@@ -1,4 +1,4 @@
-# [TITLE]: ghostscript
+# [TITLE]: ghostscript-basic
 # [DESCRIPTION]: Loads and saves PNG files
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -14,4 +14,3 @@ include(lib-imageformat)
 
 # main package
 ghostscript
-include(ghostscript-basic)

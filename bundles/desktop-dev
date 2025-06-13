@@ -233,7 +233,7 @@ gettext-bin
 gettext-dev
 include(devpkg-gexiv2)
 include(devpkg-gflags)
-include(ghostscript)
+include(ghostscript-basic)
 ghostscript-dev
 gi-docgen
 include(devpkg-gi-docgen)

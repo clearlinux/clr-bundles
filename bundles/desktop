@@ -82,7 +82,7 @@ cups
 cups-filters
 cups-pk-helper
 system-config-printer
-also-add(ghostscript)
+also-add(ghostscript-basic)
 gutenprint
 gnome-online-accounts
 ModemManager

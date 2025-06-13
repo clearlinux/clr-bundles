@@ -9,7 +9,7 @@ include(python3-basic)
 include(libX11client)
 include(perl-basic)
 include(poppler)
-also-add(ghostscript)
+also-add(ghostscript-basic)
 
 avahi-bin
 cups

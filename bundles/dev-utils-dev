@@ -154,7 +154,7 @@ include(devpkg-gdk-pixbuf)
 gettext
 gettext-bin
 gettext-dev
-include(ghostscript)
+include(ghostscript-basic)
 ghostscript-dev
 gi-docgen
 include(git)
