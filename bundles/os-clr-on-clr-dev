@@ -273,7 +273,7 @@ gi-docgen
 include(devpkg-gi-docgen)
 giflib-dev
 include(git-basic)
-include(gjs)
+gjs
 include(devpkg-gjs)
 include(devpkg-glew)
 glib-bin

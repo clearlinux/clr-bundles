@@ -9,7 +9,7 @@
 # start of custom additions (edits outside this area will be removed automatically)
 include(python3-basic)
 include(desktop-gnomelibs)
-include(gjs)
+gjs
 include(gstreamer)
 # end of custom additions
 

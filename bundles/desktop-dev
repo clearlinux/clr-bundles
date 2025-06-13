@@ -239,7 +239,7 @@ gi-docgen
 include(devpkg-gi-docgen)
 include(devpkg-gimp)
 include(git-basic)
-include(gjs)
+gjs
 include(devpkg-gjs)
 glib
 glib-bin

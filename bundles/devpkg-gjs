@@ -11,4 +11,4 @@ gjs-dev
 include(libX11client)
 include(libstdcpp)
 include(desktop-gnomelibs)
-include(gjs)
+gjs
