@@ -10,7 +10,7 @@
 libxml2
 libevent-lib
 dbus-lib
-include(curl)
+include(curl-basic)
 include(libstdcpp)
 netcdf-fortran-dev
 # end of custom additions

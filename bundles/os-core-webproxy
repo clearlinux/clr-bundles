@@ -8,4 +8,4 @@ include(os-core)
 include(p11-kit)
 
 pacrunner
-include(curl)
+include(curl-basic)

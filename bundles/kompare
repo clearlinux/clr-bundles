@@ -15,7 +15,7 @@ include(lib-imageformat)
 icu4c-lib
 harfbuzz-lib
 dbus-lib
-include(curl)
+include(curl-basic)
 aspell
 include(lib-opengl)
 include(libX11client)

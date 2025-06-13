@@ -6,7 +6,7 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 aspell
-include(curl)
+include(curl-basic)
 dbus-lib
 include(gdk-pixbuf)
 gmp-lib

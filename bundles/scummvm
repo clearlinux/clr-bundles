@@ -5,7 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
-include(curl)
+include(curl-basic)
 include(lib-imageformat)
 include(libstdcpp)
 

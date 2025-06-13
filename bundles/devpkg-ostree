@@ -8,7 +8,7 @@
 include(devpkg-base)
 
 ostree-dev
-include(curl)
+include(curl-basic)
 xz
 include(qt-core)
 icu4c-lib

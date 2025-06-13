@@ -8,6 +8,6 @@
 include(devpkg-base)
 
 librepo-dev
-include(curl)
+include(curl-basic)
 include(qt-core)
 icu4c-lib

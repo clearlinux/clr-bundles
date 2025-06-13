@@ -9,7 +9,7 @@ include(libstdcpp)
 
 # start of custom additions
 gmp-lib
-include(curl)
+include(curl-basic)
 include(lib-openssl)
 include(python3-basic)
 include(postgresql)

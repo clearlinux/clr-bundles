@@ -8,7 +8,7 @@
 include(devpkg-base)
 
 proj-dev
-include(curl)
+include(curl-basic)
 include(libstdcpp)
 include(lib-imageformat)
 lz4

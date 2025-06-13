@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 netcdf-dev
-include(curl)
+include(curl-basic)
 libevent-lib

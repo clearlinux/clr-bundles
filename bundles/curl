@@ -14,3 +14,4 @@ also-add(trurl)
 
 # main package
 curl
+include(curl-basic)

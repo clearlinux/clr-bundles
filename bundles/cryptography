@@ -14,5 +14,5 @@ nss-bin
 pinentry
 rng-tools
 rng-tools-autostart
-include(curl)
+include(curl-basic)
 include(lib-openssl)

@@ -14,7 +14,7 @@ include(gdk-pixbuf)
 include(libX11client)
 include(lib-opengl)
 aspell
-include(curl)
+include(curl-basic)
 dbus-lib
 gmp-lib
 include(gstreamer)

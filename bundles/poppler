@@ -8,7 +8,7 @@
 include(qt-core)
 include(qt-basic)
 include(libX11client)
-include(curl)
+include(curl-basic)
 include(lib-imageformat)
 include(libstdcpp)
 

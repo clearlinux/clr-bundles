@@ -6,7 +6,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(lib-openssl)
-include(curl)
+include(curl-basic)
 include(lib-imageformat)
 include(libstdcpp)
 
@@ -15,7 +15,7 @@ include(lib-opengl)
 include(libX11client)
 include(postgresql)
 include(python3-basic)
-include(curl)
+include(curl-basic)
 include(lib-poppler)
 # end of custom additions
 

@@ -8,5 +8,5 @@
 include(devpkg-base)
 
 NetworkManager-dev
-include(curl)
+include(curl-basic)
 include(NetworkManager)

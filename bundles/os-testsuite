@@ -6,7 +6,7 @@
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(binutils-basic)
 include(clamav-basic)
-include(curl)
+include(curl-basic)
 include(diffutils)
 include(file)
 include(git)

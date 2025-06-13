@@ -6,7 +6,7 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(libX11client)
-include(curl)
+include(curl-basic)
 include(gstreamer)
 include(lib-imageformat)
 include(openldap)

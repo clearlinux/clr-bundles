@@ -13,7 +13,7 @@ pcre-lib
 libnl
 gmp-lib
 dbus-lib
-include(curl)
+include(curl-basic)
 systemd
 include(perl-basic)
 # end of custom additions

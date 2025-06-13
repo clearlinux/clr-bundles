@@ -21,7 +21,7 @@ harfbuzz-lib
 gmp-lib
 dbus-lib
 dav1d-lib
-include(curl)
+include(curl-basic)
 include(libstdcpp)
 include(libX11client)
 include(gdk-pixbuf)

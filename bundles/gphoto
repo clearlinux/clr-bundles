@@ -10,7 +10,7 @@
 libgphoto2-lib
 include(libX11client)
 libXpm-lib
-include(curl)
+include(curl-basic)
 dbus-lib
 harfbuzz-lib
 icu4c-lib

@@ -23,7 +23,7 @@ swupd-client
 swupd-overdue
 tar-bin
 xz-bin
-include(curl)
+include(curl-basic)
 libarchive
 popt-lib
 include(clr-hardware-files)

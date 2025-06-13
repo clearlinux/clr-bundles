@@ -8,6 +8,6 @@
 include(devpkg-base)
 
 fwupd-dev
-include(curl)
+include(curl-basic)
 include(pypi-six)
 include(lib-openssl)

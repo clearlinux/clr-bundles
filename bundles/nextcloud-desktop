@@ -15,7 +15,7 @@ include(lib-imageformat)
 icu4c-lib
 harfbuzz-lib
 libevent-lib
-include(curl)
+include(curl-basic)
 include(qt6-basic)
 include(lib-opengl)
 include(libX11client)

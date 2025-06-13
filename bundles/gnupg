@@ -12,7 +12,7 @@ libxml2
 include(lib-imageformat)
 icu4c-lib
 harfbuzz-lib
-include(curl)
+include(curl-basic)
 include(lib-opengl)
 include(libX11client)
 include(gdk-pixbuf)

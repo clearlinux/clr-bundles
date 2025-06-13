@@ -11,7 +11,7 @@ include(postgresql-lib)
 
 php
 harfbuzz-lib
-include(curl)
+include(curl-basic)
 icu4c-lib
 include(lib-imageformat)
 ncurses-lib

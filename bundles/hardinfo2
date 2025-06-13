@@ -10,7 +10,7 @@
 icu4c-lib
 include(lib-openssl)
 libpsl-lib
-include(curl)
+include(curl-basic)
 include(qt-basic)
 include(qt-core)
 include(iperf)

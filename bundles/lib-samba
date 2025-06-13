@@ -7,7 +7,7 @@
 
 
 # start of custom additions
-include(curl)
+include(curl-basic)
 include(qt-core)
 popt-lib
 dbus-lib

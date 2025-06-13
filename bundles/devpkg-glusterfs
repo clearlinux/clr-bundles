@@ -8,6 +8,6 @@
 include(devpkg-base)
 
 glusterfs-dev
-include(curl)
+include(curl-basic)
 include(python3-basic)
 libnl

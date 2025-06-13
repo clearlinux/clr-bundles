@@ -5,7 +5,7 @@
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
 
-include(curl)
+include(curl-basic)
 include(libX11client)
 include(python3-basic)
 include(perl-basic)

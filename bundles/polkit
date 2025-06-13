@@ -9,7 +9,7 @@
 # start of custom additions (edits outside this area will be removed automatically)
 nettle-lib
 gmp-lib
-include(curl)
+include(curl-basic)
 systemd-extras
 # end of custom additions
 

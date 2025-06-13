@@ -19,7 +19,7 @@ icu4c-lib
 harfbuzz-lib
 gmp-lib
 dbus-lib
-include(curl)
+include(curl-basic)
 include(lib-opengl)
 include(libX11client)
 include(libstdcpp)

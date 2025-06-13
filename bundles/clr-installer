@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
-include(curl)
+include(curl-basic)
 include(iproute2)
 include(jq)
 include(kbd)

@@ -158,7 +158,7 @@ cscope
 ctags
 cups
 include(devpkg-cups)
-include(curl)
+include(curl-basic)
 include(devpkg-curl)
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)

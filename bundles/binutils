@@ -16,7 +16,7 @@ include(libstdcpp)
 # include(lib-imageformat)
 include(libstdcpp)
 clr-debug-info
-include(curl)
+include(curl-basic)
 # end of custom additions
 
 # main package

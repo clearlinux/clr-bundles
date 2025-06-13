@@ -10,7 +10,7 @@ include(lib-samba)
 include(lib-imageformat)
 include(lib-opengl)
 webkitgtk
-include(curl)
+include(curl-basic)
 accountsservice-lib
 gtk3-lib
 gtk+-lib

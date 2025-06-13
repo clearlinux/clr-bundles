@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: California Sullivan <california.l.sullivan@intel.com>
-include(curl)
+include(curl-basic)
 include(diffutils)
 include(git)
 include(package-utils)

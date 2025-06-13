@@ -11,5 +11,5 @@ rng-tools
 rng-tools-autostart
 include(init-rdahead)
 systemd
-include(curl)
+include(curl-basic)
 include(os-core-plus)

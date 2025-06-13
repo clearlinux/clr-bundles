@@ -9,7 +9,7 @@ include(devpkg-base)
 
 R-dev
 include(libX11client)
-include(curl)
+include(curl-basic)
 include(lib-imageformat)
 xz
 include(openblas)

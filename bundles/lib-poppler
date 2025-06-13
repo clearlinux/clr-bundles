@@ -18,7 +18,7 @@ gmp-lib
 # include(qt-basic)
 # include(qt-core)
 #include(lib-imageformat)
-include(curl)
+include(curl-basic)
 # for cairo/pango
 include(lib-opengl)
 # end of custom additions

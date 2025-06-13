@@ -8,6 +8,6 @@
 include(devpkg-base)
 
 tesseract-dev
-include(curl)
+include(curl-basic)
 include(libstdcpp)
 include(tesseract)

@@ -15,7 +15,7 @@ LibRaw-lib
 libunwind-lib
 not-ffmpeg-lib
 dav1d-lib
-include(curl)
+include(curl-basic)
 include(lib-poppler)
 # end of custom additions
 

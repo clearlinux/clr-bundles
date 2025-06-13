@@ -12,7 +12,7 @@ mock
 pypi-gitpython
 rpm
 rpm-extras
-include(curl)
+include(curl-basic)
 libxml2
 libarchive
 pypi-requests

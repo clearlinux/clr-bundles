@@ -16,7 +16,7 @@ libarchive
 aspell
 libpsl-lib
 icu4c-lib
-include(curl)
+include(curl-basic)
 include(lib-poppler)
 # end of custom additions
 

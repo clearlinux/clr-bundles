@@ -13,4 +13,4 @@ qtbase-extras
 icu4c-lib
 include(openldap)
 libxml2
-include(curl)
+include(curl-basic)

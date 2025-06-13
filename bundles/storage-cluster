@@ -16,7 +16,7 @@ LVM2-extras
 glusterfs
 include(parted)
 systemd
-include(curl)
+include(curl-basic)
 dbus-lib
 libnl
 libxml2

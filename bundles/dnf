@@ -15,7 +15,7 @@ libarchive
 include(file)
 include(perl-basic)
 include(gpgme)
-include(curl)
+include(curl-basic)
 rpm
 gpgme-python3
 # end of custom additions

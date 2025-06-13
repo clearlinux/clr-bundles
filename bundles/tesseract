@@ -5,7 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(curl)
+include(curl-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
