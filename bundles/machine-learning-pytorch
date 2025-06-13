@@ -4,4 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Data Science, Python
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(pytorch)
+include(pytorch-basic)

@@ -1,4 +1,4 @@
-# [TITLE]: pytorch
+# [TITLE]: pytorch-basic
 # [DESCRIPTION]: Open source machine learning framework
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ pypi-onnx
 
 # main package
 pytorch
-include(pytorch-basic)
