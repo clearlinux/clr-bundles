@@ -1,4 +1,4 @@
-# [TITLE]: collectd
+# [TITLE]: collectd-basic
 # [DESCRIPTION]: Daemon which collects system performance statistics periodically
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -23,4 +23,3 @@ include(perl-basic)
 
 # main package
 collectd
-include(collectd-basic)
