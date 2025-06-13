@@ -70,7 +70,7 @@ pulseaudio-bin
 shared-mime-info
 systemd-extras
 thunar-volman
-also-add(tigervnc)
+also-add(tigervnc-basic)
 vim-data
 also-add(virt-viewer)
 xclip

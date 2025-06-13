@@ -1,4 +1,4 @@
-# [TITLE]: tigervnc
+# [TITLE]: tigervnc-basic
 # [DESCRIPTION]: A TigerVNC remote display system.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -21,4 +21,3 @@ include(perl-basic)
 
 # main package
 tigervnc
-include(tigervnc-basic)
