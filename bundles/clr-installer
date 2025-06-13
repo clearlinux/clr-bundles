@@ -6,7 +6,7 @@
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(curl-basic)
 include(iproute2-basic)
-include(jq)
+jq
 include(kbd)
 include(libstdcpp)
 include(linux-firmware-extras)

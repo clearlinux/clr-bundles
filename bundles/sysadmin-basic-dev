@@ -140,7 +140,7 @@ intltool-dev
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-jemalloc)
-include(jq)
+jq
 include(devpkg-json-c)
 include(devpkg-json-c)
 include(devpkg-keyutils)
