@@ -1,4 +1,4 @@
-# [TITLE]: kolourpaint
+# [TITLE]: kolourpaint-basic
 # [DESCRIPTION]: Paint Program
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -17,4 +17,3 @@ include(perl-basic)
 
 # main package
 kolourpaint
-include(kolourpaint-basic)
