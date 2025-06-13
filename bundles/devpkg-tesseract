@@ -10,4 +10,4 @@ include(devpkg-base)
 tesseract-dev
 include(curl-basic)
 include(libstdcpp)
-include(tesseract)
+tesseract
