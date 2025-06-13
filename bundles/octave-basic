@@ -1,4 +1,4 @@
-# [TITLE]: octave
+# [TITLE]: octave-basic
 # [DESCRIPTION]: High-level programming language, primarily intended for numerical computations.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -19,4 +19,3 @@ mpfr-lib
 
 # main package
 octave
-include(octave-basic)
