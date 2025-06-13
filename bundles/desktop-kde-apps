@@ -36,7 +36,7 @@ also-add(kamera-basic)
 also-add(kapidox-basic)
 kapptemplate
 also-add(kleopatra)
-# also-add(kate)
+# also-add(kate-basic)
 also-add(kbackup)
 also-add(kcachegrind)
 also-add(kcalc)

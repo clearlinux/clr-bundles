@@ -1,4 +1,4 @@
-# [TITLE]: kate
+# [TITLE]: kate-basic
 # [DESCRIPTION]: Text editor that can open multiple files simultaneously.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(libstdcpp)
 
 # main package
 kate
-include(kate-basic)
