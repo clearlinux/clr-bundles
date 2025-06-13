@@ -1,4 +1,4 @@
-# [TITLE]: ansible
+# [TITLE]: ansible-basic
 # [DESCRIPTION]: IT automation tool with software provisioning, configuration management, and application deployment.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -20,4 +20,3 @@ include(pypi-six)
 pypi-requests
 include(PyYAML)
 include(cloud-api)
-include(ansible-basic)

@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
-include(ansible)
+include(ansible-basic)
 include(git)
 include(ipmitool)
 include(pxe-server)
