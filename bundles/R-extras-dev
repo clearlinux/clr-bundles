@@ -1056,7 +1056,7 @@ pandoc
 include(devpkg-pango)
 passwdqc-dev
 include(patch-basic)
-include(patchelf)
+patchelf
 patchutils
 include(devpkg-pciutils)
 include(devpkg-pcre)

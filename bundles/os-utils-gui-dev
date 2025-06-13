@@ -611,7 +611,7 @@ include(devpkg-pango)
 include(devpkg-parted)
 passwdqc-dev
 include(patch-basic)
-include(patchelf)
+patchelf
 include(devpkg-pciutils)
 include(devpkg-pcre)
 include(devpkg-pcre2)
