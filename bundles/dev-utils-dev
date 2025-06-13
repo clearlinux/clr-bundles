@@ -348,7 +348,7 @@ include(devpkg-llvm)
 llvm-staticdev
 include(devpkg-lmdb)
 include(devpkg-lua)
-include(lynx)
+lynx
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
