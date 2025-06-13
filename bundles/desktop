@@ -155,7 +155,7 @@ cups
 ModemManager
 ntfs-3g
 swupd-search
-also-add(thermal_daemon)
+also-add(thermal_daemon-basic)
 gdk-pixbuf
 vte-lib
 LibRaw-lib

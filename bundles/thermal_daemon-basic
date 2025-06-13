@@ -1,4 +1,4 @@
-# [TITLE]: thermal_daemon
+# [TITLE]: thermal_daemon-basic
 # [DESCRIPTION]: Thermal management.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -14,4 +14,3 @@ thermal_daemon-autostart
 
 # main package
 thermal_daemon
-include(thermal_daemon-basic)
