@@ -47,7 +47,7 @@ hdparm
 hostname
 htop
 innoextract
-include(iperf)
+iperf
 include(kbd)
 include(kernel-install)
 kmod

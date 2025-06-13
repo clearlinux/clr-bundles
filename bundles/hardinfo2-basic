@@ -13,7 +13,7 @@ libpsl-lib
 include(curl-basic)
 include(qt-basic)
 include(qt-core)
-include(iperf)
+iperf
 udisks2
 dmidecode
 lsscsi
