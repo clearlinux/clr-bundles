@@ -1,4 +1,4 @@
-# [TITLE]: gnome-logs
+# [TITLE]: gnome-logs-basic
 # [DESCRIPTION]: Log viewer for the systemd journal.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -12,4 +12,3 @@ include(libX11client)
 
 # main package
 gnome-logs
-include(gnome-logs-basic)
