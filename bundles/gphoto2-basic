@@ -1,4 +1,4 @@
-# [TITLE]: gphoto2
+# [TITLE]: gphoto2-basic
 # [DESCRIPTION]: Command line interface to libgphoto2.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -11,4 +11,3 @@
 
 # main package
 gphoto2
-include(gphoto2-basic)
