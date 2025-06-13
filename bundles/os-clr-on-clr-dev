@@ -185,7 +185,7 @@ directx-headers-staticdev
 dmidecode
 include(dnf-basic)
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
 include(dosfstools)
 double-conversion-dev

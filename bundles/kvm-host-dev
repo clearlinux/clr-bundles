@@ -102,7 +102,7 @@ directx-headers-staticdev
 directx-headers-staticdev
 dmidecode
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
 include(dosfstools)
 include(doxygen)

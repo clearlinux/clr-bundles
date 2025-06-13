@@ -96,7 +96,7 @@ diffutils
 include(devpkg-directx-headers)
 directx-headers-staticdev
 directx-headers-staticdev
-include(docbook-utils)
+docbook-utils
 docbook-xml
 double-conversion-dev
 include(doxygen)
