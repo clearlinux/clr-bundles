@@ -12,7 +12,7 @@ libxml2
 include(pypi-six)
 popt-lib
 libarchive
-include(file)
+file
 include(perl-basic)
 include(gpgme)
 include(curl-basic)

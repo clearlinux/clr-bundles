@@ -9,4 +9,4 @@ include(devpkg-base)
 
 file-dev
 xz
-include(file)
+file

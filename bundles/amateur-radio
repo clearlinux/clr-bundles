@@ -6,7 +6,7 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(desktop-gnomelibs)
-include(file)
+file
 include(libstdcpp)
 include(libX11client)
 include(python3-basic)

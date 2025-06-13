@@ -66,7 +66,7 @@ include(devpkg-elfutils)
 include(devpkg-expat)
 include(devpkg-expat)
 expect
-include(file)
+file
 include(devpkg-file)
 include(flex)
 flex-dev

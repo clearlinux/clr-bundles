@@ -217,7 +217,7 @@ expect
 extra-cmake-modules
 extra-cmake-modules-data
 include(devpkg-fftw)
-include(file)
+file
 file-bin
 include(devpkg-file)
 include(devpkg-flac)

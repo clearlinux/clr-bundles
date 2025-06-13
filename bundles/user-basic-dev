@@ -162,7 +162,7 @@ include(devpkg-expat)
 include(devpkg-expat)
 expect
 include(devpkg-fftw)
-include(file)
+file
 include(devpkg-file)
 include(devpkg-flac)
 include(devpkg-flac)

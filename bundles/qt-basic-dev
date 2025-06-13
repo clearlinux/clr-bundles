@@ -124,7 +124,7 @@ include(devpkg-expat)
 expect
 extra-cmake-modules
 include(devpkg-fftw)
-include(file)
+file
 include(devpkg-file)
 include(devpkg-flac)
 include(devpkg-flac)

@@ -34,7 +34,7 @@ dos2unix
 dracut
 e2fsprogs
 efibootmgr
-include(file)
+file
 include(findutils)
 gawk
 gawk-extras

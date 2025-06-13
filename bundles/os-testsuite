@@ -8,7 +8,7 @@ include(binutils-basic)
 include(clamav-basic)
 include(curl-basic)
 diffutils
-include(file)
+file
 include(git)
 include(openssh-server)
 include(parallel)

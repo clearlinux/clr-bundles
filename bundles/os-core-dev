@@ -51,7 +51,7 @@ e2fsprogs
 include(devpkg-e2fsprogs)
 include(devpkg-elfutils)
 expect
-include(file)
+file
 include(devpkg-file)
 include(flex)
 flex-dev

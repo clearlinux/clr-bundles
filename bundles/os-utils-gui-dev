@@ -170,7 +170,7 @@ extra-cmake-modules
 extra-cmake-modules-data
 fdk-aac-dev
 include(devpkg-fftw)
-include(file)
+file
 file-bin
 include(devpkg-file)
 include(devpkg-flac)
