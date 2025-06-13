@@ -11,7 +11,7 @@ include(libX11client)
 include(qt-basic)
 
 kbruch
-include(kalgebra)
+kalgebra
 include(kgeography)
 include(kmplot)
 ktuberling

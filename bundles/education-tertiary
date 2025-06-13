@@ -11,7 +11,7 @@ include(libX11client)
 include(qt-basic)
 include(R-basic)
 
-include(kalgebra)
+kalgebra
 include(kmplot)
 kturtle
 include(kde-frameworks5)
