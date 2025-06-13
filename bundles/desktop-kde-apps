@@ -79,7 +79,7 @@ kmail-account-wizard
 kmailtransport
 kmbox
 also-add(kmediaplayer)
-also-add(kmousetool)
+also-add(kmousetool-basic)
 kmouth
 also-add(kmplot)
 also-add(knotes)

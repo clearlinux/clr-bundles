@@ -1,4 +1,4 @@
-# [TITLE]: kmousetool
+# [TITLE]: kmousetool-basic
 # [DESCRIPTION]: Clicks the mouse for you, reducing the effects of RSI
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(libstdcpp)
 
 # main package
 kmousetool
-include(kmousetool-basic)
