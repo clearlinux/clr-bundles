@@ -4,7 +4,7 @@
 # [CAPABILITIES]: Graphics Benchmarking testing, UI interaction testing, and various file utilities
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Wu Chia Chuan <chia.chuan.wu@intel.com>
-include(glmark2)
+glmark2
 
 clear-font
 gdk-pixbuf
