@@ -28,7 +28,7 @@ also-add(vinagre)
 also-add(virt-manager-gui)
 also-add(virt-viewer)
 #also-add(vlc)
-also-add(FreeRDP)
+also-add(FreeRDP-basic)
 
 #
 # Non-pundle apps

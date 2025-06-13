@@ -10,7 +10,7 @@ include(gstreamer)
 
 # start of custom additions (edits outside this area will be removed automatically)
 appstream
-include(FreeRDP)
+include(FreeRDP-basic)
 include(Remmina)
 include(gstreamer)
 gst-plugins-base

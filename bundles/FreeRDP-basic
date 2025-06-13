@@ -1,4 +1,4 @@
-# [TITLE]: FreeRDP
+# [TITLE]: FreeRDP-basic
 # [DESCRIPTION]: Free implementation of the Remote Desktop Protocol (RDP)
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -21,4 +21,3 @@ include(pulseaudio)
 
 # main package
 FreeRDP
-include(FreeRDP-basic)
