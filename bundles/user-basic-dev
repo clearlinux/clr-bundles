@@ -139,7 +139,7 @@ docbook-utils
 docbook-xml
 dosfstools
 double-conversion-dev
-include(doxygen)
+doxygen
 include(devpkg-dpdk)
 include(devpkg-dtc)
 include(devpkg-duktape)

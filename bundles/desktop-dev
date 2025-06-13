@@ -160,7 +160,7 @@ dnsmasq
 docbook-utils
 docbook-xml
 double-conversion-dev
-include(doxygen)
+doxygen
 include(devpkg-dpdk)
 include(devpkg-duktape)
 e2fsprogs

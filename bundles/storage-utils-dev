@@ -99,7 +99,7 @@ directx-headers-staticdev
 docbook-utils
 docbook-xml
 double-conversion-dev
-include(doxygen)
+doxygen
 include(devpkg-duktape)
 e2fsprogs
 e2fsprogs-data

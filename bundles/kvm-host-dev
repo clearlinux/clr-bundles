@@ -105,7 +105,7 @@ dnsmasq
 docbook-utils
 docbook-xml
 dosfstools
-include(doxygen)
+doxygen
 include(devpkg-dtc)
 include(devpkg-duktape)
 e2fsprogs

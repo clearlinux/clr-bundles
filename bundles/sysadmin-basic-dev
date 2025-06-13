@@ -66,7 +66,7 @@ desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
-include(doxygen)
+doxygen
 include(devpkg-dpdk)
 dracut-dev
 e2fsprogs
