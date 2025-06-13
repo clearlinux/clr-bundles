@@ -1,4 +1,4 @@
-# [TITLE]: gnome-screenshot
+# [TITLE]: gnome-screenshot-basic
 # [DESCRIPTION]: Take screenshots of the desktop or a window and save it to a file.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(libX11client)
 
 # main package
 gnome-screenshot
-include(gnome-screenshot-basic)
