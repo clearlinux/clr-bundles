@@ -102,7 +102,7 @@ include(tree)
 include(tzdata)
 unzip
 usbutils
-include(cyme)
+cyme
 util-linux
 util-linux-man
 # mkpasswd tool is part of whois
