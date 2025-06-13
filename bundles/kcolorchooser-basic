@@ -1,4 +1,4 @@
-# [TITLE]: kcolorchooser
+# [TITLE]: kcolorchooser-basic
 # [DESCRIPTION]: Color Chooser
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(desktop-kde-libs)
 
 # main package
 kcolorchooser
-include(kcolorchooser-basic)
