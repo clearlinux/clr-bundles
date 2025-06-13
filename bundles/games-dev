@@ -131,7 +131,7 @@ include(devpkg-dbus-python)
 include(devpkg-dconf)
 dejagnu
 desktop-file-utils
-include(diffutils)
+diffutils
 include(devpkg-directx-headers)
 directx-headers-staticdev
 directx-headers-staticdev

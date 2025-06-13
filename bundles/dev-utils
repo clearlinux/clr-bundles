@@ -23,7 +23,7 @@ cpio
 cppcheck
 cscope
 diffstat
-include(diffutils)
+diffutils
 include(docutils)
 dwarves
 elfutils

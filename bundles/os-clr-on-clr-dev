@@ -177,7 +177,7 @@ include(devpkg-dbus-python)
 include(devpkg-dconf)
 dejagnu
 desktop-file-utils
-include(diffutils)
+diffutils
 include(devpkg-ding-libs)
 include(devpkg-directx-headers)
 directx-headers-staticdev

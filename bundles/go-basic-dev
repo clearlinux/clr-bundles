@@ -75,7 +75,7 @@ include(devpkg-dbus)
 dbus-python
 dejagnu
 desktop-file-utils
-include(diffutils)
+diffutils
 include(docbook-utils)
 docbook-xml
 include(doxygen)

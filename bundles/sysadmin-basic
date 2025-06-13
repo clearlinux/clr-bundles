@@ -28,7 +28,7 @@ coreutils
 cpuid
 dbus
 dfc
-include(diffutils)
+diffutils
 dmidecode
 dos2unix
 dracut

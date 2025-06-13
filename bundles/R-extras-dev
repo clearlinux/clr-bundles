@@ -723,7 +723,7 @@ dbus-python
 include(devpkg-dbus-python)
 dejagnu
 desktop-file-utils
-include(diffutils)
+diffutils
 include(devpkg-directx-headers)
 directx-headers-staticdev
 directx-headers-staticdev

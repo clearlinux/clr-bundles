@@ -42,7 +42,7 @@ curl-lib
 dbus-glib-lib
 dbus-lib
 dconf-lib
-include(diffutils)
+diffutils
 fontconfig-lib
 freetype-lib
 gdk-pixbuf-lib

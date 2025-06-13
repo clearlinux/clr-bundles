@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: California Sullivan <california.l.sullivan@intel.com>
 include(curl-basic)
-include(diffutils)
+diffutils
 include(git)
 include(package-utils)
 include(sudo)
