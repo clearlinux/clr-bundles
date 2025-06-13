@@ -11,7 +11,7 @@ include(gstreamer-basic)
 # start of custom additions (edits outside this area will be removed automatically)
 libarchive
 include(lib-imageformat)
-include(tracker-miners)
+tracker-miners
 # end of custom additions
 
 # main package
