@@ -749,7 +749,7 @@ include(openssl-basic)
 include(devpkg-openssl)
 include(devpkg-openssl)
 openssl-lib32
-include(openvswitch)
+include(openvswitch-basic)
 include(devpkg-opus)
 include(devpkg-opus)
 include(devpkg-orc)
