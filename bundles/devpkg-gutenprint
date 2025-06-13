@@ -9,6 +9,6 @@ include(devpkg-base)
 
 gutenprint-dev
 include(libX11client)
-include(gegl)
+gegl
 dav1d-lib
 not-ffmpeg-lib

@@ -11,6 +11,6 @@ gegl-dev
 include(libX11client)
 include(lib-imageformat)
 include(libstdcpp)
-include(gegl)
+gegl
 dav1d-lib
 not-ffmpeg-lib

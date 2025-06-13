@@ -159,6 +159,6 @@ also-add(thermal_daemon)
 gdk-pixbuf
 vte-lib
 LibRaw-lib
-include(gegl)
+gegl
 include(gphoto)
 mpfr-lib

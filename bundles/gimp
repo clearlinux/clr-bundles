@@ -10,7 +10,7 @@ include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
 libXpm-lib
-include(gegl)
+gegl
 LibRaw-lib
 libunwind-lib
 not-ffmpeg-lib

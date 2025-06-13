@@ -31,5 +31,5 @@ libnl
 pcre-lib
 not-ffmpeg-lib
 LibRaw-lib
-include(gegl)
+gegl
 libevent-lib
