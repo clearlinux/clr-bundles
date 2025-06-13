@@ -1,4 +1,4 @@
-# [TITLE]: gimp
+# [TITLE]: gimp-basic
 # [DESCRIPTION]: GNU Image Manipulation Program.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -21,4 +21,3 @@ include(lib-poppler)
 
 # main package
 gimp
-include(gimp-basic)

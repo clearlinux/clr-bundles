@@ -10,4 +10,4 @@ include(devpkg-base)
 gimp-dev
 include(libX11client)
 include(lib-imageformat)
-include(gimp)
+include(gimp-basic)

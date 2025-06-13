@@ -62,7 +62,7 @@ also-add(devpkg-flac)
 also-add(flex)
 also-add(devpkg-freeglut)
 also-add(devpkg-gflags)
-also-add(gimp)
+also-add(gimp-basic)
 glibc-staticdev
 glibc-lib-avx2
 also-add(devpkg-glog)
