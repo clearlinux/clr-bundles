@@ -1,4 +1,4 @@
-# [TITLE]: gparted
+# [TITLE]: gparted-basic
 # [DESCRIPTION]: A Partition Magic clone, frontend to GNU Parted.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -14,4 +14,3 @@ also-add(storage-utils)
 
 # main package
 gparted
-include(gparted-basic)
