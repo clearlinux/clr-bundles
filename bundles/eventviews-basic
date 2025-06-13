@@ -1,4 +1,4 @@
-# [TITLE]: eventviews
+# [TITLE]: eventviews-basic
 # [DESCRIPTION]: Library for creating events
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ include(kmime)
 
 # main package
 eventviews
-include(eventviews-basic)

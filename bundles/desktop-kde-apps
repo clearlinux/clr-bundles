@@ -26,7 +26,7 @@ cyrus-sasl
 also-add(digikam-basic)
 also-add(dolphin-basic)
 also-add(dragon-basic)
-also-add(eventviews)
+also-add(eventviews-basic)
 also-add(filelight)
 frameworkintegration
 grantlee
