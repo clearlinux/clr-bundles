@@ -1,4 +1,4 @@
-# [TITLE]: ksystemlog
+# [TITLE]: ksystemlog-basic
 # [DESCRIPTION]: System log viewer tool
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 ksystemlog
-include(ksystemlog-basic)

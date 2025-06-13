@@ -94,7 +94,7 @@ kpkpass
 kqtquickcharts
 kscreen
 ksmtp
-also-add(ksystemlog)
+also-add(ksystemlog-basic)
 ktimer
 ktnef
 kwalletmanager
