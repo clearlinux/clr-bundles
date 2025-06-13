@@ -21,7 +21,7 @@ bzip2
 
 # Build
 include(dnf)
-include(cpio)
+cpio
 rpm
 bsdiff
 

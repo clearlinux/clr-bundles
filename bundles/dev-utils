@@ -19,7 +19,7 @@ cgdb
 cloc
 clr-debug-info
 colordiff
-include(cpio)
+cpio
 cppcheck
 cscope
 diffstat

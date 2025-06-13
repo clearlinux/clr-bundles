@@ -13,7 +13,7 @@ include(Sphinx)
 include(dnf)
 
 # common requirements
-include(cpio)
+cpio
 diffstat
 include(make)
 include(plzip)
