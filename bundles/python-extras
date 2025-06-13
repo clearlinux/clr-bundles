@@ -6,7 +6,7 @@
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 
 include(python3-basic)
-include(python3-tcl)
+python3-tcl
 include(openblas-basic)
 include(cloud-api)
 include(Sphinx)
@@ -56,7 +56,7 @@ pypi-tabulate
 pypi-tap.py
 pypi-tox
 pypi-natsort
-include(python3-tcl)
+python3-tcl
 python-zeep
 python-zstandard
 requests-ntlm

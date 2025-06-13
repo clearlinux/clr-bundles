@@ -1057,7 +1057,7 @@ python-pocketlint
 python3
 python3-core
 python3-dev
-include(python3-tcl)
+python3-tcl
 pyudev
 include(devpkg-qatlib)
 qemu
