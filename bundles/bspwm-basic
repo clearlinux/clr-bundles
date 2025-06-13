@@ -1,4 +1,4 @@
-# [TITLE]: bspwm
+# [TITLE]: bspwm-basic
 # [DESCRIPTION]: A tiling window manager based on binary space partitioning.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -17,4 +17,3 @@ xdg-utils
 
 # main package
 bspwm
-include(bspwm-basic)
