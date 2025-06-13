@@ -1,4 +1,4 @@
-# [TITLE]: supertuxkart
+# [TITLE]: supertuxkart-basic
 # [DESCRIPTION]: Kart racing game featuring Tux and his friends.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(libstdcpp)
 
 # main package
 supertuxkart
-include(supertuxkart-basic)

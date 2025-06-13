@@ -15,7 +15,7 @@ include(os-core-legacy)
 
 also-add(extremetuxracer)
 also-add(luanti-basic)
-also-add(supertuxkart)
+also-add(supertuxkart-basic)
 also-add(flare)
 also-add(lutris-basic)
 also-add(scummvm-basic)
