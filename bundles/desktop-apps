@@ -31,7 +31,7 @@ also-add(gnome-screenshot-basic)
 also-add(gnome-system-monitor-basic)
 also-add(gnome-text-editor-basic)
 also-add(gnome-todo)
-also-add(gnome-weather)
+also-add(gnome-weather-basic)
 also-add(snapshot)
 # underlying infra needs
 include(graphviz)
