@@ -37,7 +37,7 @@ also-add(kapidox-basic)
 kapptemplate
 also-add(kleopatra)
 # also-add(kate-basic)
-also-add(kbackup)
+also-add(kbackup-basic)
 also-add(kcachegrind)
 also-add(kcalc)
 kcalutils

@@ -1,4 +1,4 @@
-# [TITLE]: kbackup
+# [TITLE]: kbackup-basic
 # [DESCRIPTION]: A program that lets you back up any directories or files
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -17,4 +17,3 @@ libarchive
 
 # main package
 kbackup
-include(kbackup-basic)
