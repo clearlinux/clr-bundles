@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 openssl-dev
-include(openssl)
+include(openssl-basic)

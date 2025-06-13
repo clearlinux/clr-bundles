@@ -6,7 +6,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 also-add(the_silver_searcher)
 include(git-basic)
-include(openssl)
+include(openssl-basic)
 include(perl-basic)
 include(python3-basic)
 include(curl-basic)

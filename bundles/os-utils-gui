@@ -13,7 +13,7 @@ also-add(flatpak-basic)
 include(fonts-basic)
 graphviz
 also-add(gvim)
-include(openssl)
+include(openssl-basic)
 include(perl-basic)
 include(python3-basic)
 also-add(thunderbird)

@@ -404,7 +404,7 @@ openjdk
 openjdk-dev
 openldap-dev
 openssh
-include(openssl)
+include(openssl-basic)
 include(devpkg-openssl)
 include(devpkg-openssl)
 include(openvswitch)

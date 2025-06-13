@@ -12,7 +12,7 @@ createrepo_c
 include(git-basic)
 
 # Builtin signature support
-include(openssl)
+include(openssl-basic)
 
 # Fullfiles compression
 gzip

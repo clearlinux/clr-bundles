@@ -745,7 +745,7 @@ include(devpkg-openjpeg)
 openldap-dev
 include(devpkg-openmpi)
 openssh
-include(openssl)
+include(openssl-basic)
 include(devpkg-openssl)
 include(devpkg-openssl)
 openssl-lib32

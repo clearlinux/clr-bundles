@@ -258,7 +258,7 @@ include(devpkg-nss)
 include(devpkg-openconnect)
 openldap-dev
 opensm-dev
-include(openssl)
+include(openssl-basic)
 include(devpkg-openssl)
 include(devpkg-openssl)
 openssl-lib32

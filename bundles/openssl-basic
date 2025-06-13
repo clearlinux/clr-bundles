@@ -1,4 +1,4 @@
-# [TITLE]: openssl
+# [TITLE]: openssl-basic
 # [DESCRIPTION]: Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ openssl-doc
 # main package
 openssl
 QAT_engine-lib
-include(openssl-basic)

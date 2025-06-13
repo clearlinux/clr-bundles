@@ -8,7 +8,7 @@ include(cloud-api)
 include(git-basic)
 include(kvm-host)
 include(network-basic)
-include(openssl)
+include(openssl-basic)
 include(python3-basic)
 btrfs-progs
 include(sudo)
