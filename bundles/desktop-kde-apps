@@ -114,7 +114,7 @@ mailcommon
 mailimporter
 messagelib
 modemmanager-qt
-also-add(okular)
+also-add(okular-basic)
 oxygen
 oxygen-icons
 pim-data-exporter

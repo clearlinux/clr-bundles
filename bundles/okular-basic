@@ -1,4 +1,4 @@
-# [TITLE]: okular
+# [TITLE]: okular-basic
 # [DESCRIPTION]: Universal document viewer.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -18,4 +18,3 @@ include(qt6-basic)
 
 # main package
 okular
-include(okular-basic)
