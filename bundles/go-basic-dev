@@ -134,7 +134,7 @@ go
 include(devpkg-googletest)
 gperf
 gpm-dev
-include(graphviz)
+graphviz
 grep
 groff
 include(devpkg-gsl)

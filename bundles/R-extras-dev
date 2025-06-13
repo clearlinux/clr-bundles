@@ -816,7 +816,7 @@ include(devpkg-gpgme)
 gpgme-extras
 gpm-dev
 include(devpkg-graphite)
-include(graphviz)
+graphviz
 include(devpkg-graphviz)
 graphviz-extras
 grep

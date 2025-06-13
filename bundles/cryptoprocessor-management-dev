@@ -96,7 +96,7 @@ include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(gnupg-basic)
 gperf
-include(graphviz)
+graphviz
 grep
 groff
 gtk-doc

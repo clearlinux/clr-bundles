@@ -11,7 +11,7 @@ also-add(eog-basic)
 also-add(firefox-basic)
 also-add(flatpak-basic)
 include(fonts-basic)
-include(graphviz)
+graphviz
 also-add(gvim)
 include(openssl)
 include(perl-basic)

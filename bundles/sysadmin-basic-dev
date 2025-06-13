@@ -125,7 +125,7 @@ include(devpkg-gnutls)
 include(devpkg-googletest)
 gperf
 gpm-dev
-include(graphviz)
+graphviz
 grep
 groff
 gtk-doc

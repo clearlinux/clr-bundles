@@ -11,4 +11,4 @@ graphviz-dev
 include(libX11client)
 include(lib-imageformat)
 include(libstdcpp)
-include(graphviz)
+graphviz

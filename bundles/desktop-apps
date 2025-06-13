@@ -34,7 +34,7 @@ also-add(gnome-todo)
 also-add(gnome-weather-basic)
 also-add(snapshot)
 # underlying infra needs
-include(graphviz)
+graphviz
 include(libva-utils)
 include(seahorse)
 also-add(totem)

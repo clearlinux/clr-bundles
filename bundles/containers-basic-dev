@@ -173,7 +173,7 @@ gperf
 include(devpkg-gpgme)
 gpm-dev
 include(devpkg-graphite)
-include(graphviz)
+graphviz
 graphviz-extras
 grep
 groff

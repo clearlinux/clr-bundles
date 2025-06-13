@@ -39,7 +39,7 @@ include(devpkg-gflags)
 include(devpkg-glog)
 glibc-lib-avx2
 include(devpkg-googletest)
-include(graphviz)
+graphviz
 pypi-h5py
 hdf5-dev
 hdf5-dev

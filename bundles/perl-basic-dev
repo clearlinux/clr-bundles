@@ -87,7 +87,7 @@ gnu-efi-staticdev
 include(gnupg-basic)
 include(devpkg-gnutls)
 gperf
-include(graphviz)
+graphviz
 grep
 groff
 gtk-doc

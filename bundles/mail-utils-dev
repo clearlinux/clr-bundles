@@ -118,7 +118,7 @@ gperf
 include(gpgme-basic)
 include(devpkg-gpgme)
 gpm-dev
-include(graphviz)
+graphviz
 grep
 groff
 gtk-doc

@@ -128,7 +128,7 @@ include(gnupg-basic)
 include(devpkg-gnutls)
 gperf
 gpm-dev
-include(graphviz)
+graphviz
 grep
 groff
 gsettings-desktop-schemas
