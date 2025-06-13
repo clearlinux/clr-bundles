@@ -9,7 +9,7 @@ include(bootloader)
 linux-aws
 rng-tools
 rng-tools-autostart
-include(init-rdahead)
+include(init-rdahead-basic)
 systemd
 include(curl-basic)
 include(os-core-plus)

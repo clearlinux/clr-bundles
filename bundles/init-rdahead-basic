@@ -1,4 +1,4 @@
-# [TITLE]: init-rdahead
+# [TITLE]: init-rdahead-basic
 # [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -12,4 +12,3 @@ init-rdahead-extras
 
 # main package
 init-rdahead
-include(init-rdahead-basic)
