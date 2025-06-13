@@ -1,4 +1,4 @@
-# [TITLE]: eog
+# [TITLE]: eog-basic
 # [DESCRIPTION]: Eye of GNOME for image viewing and cataloging.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -14,4 +14,3 @@ eog-plugins
 
 # main package
 eog
-include(eog-basic)

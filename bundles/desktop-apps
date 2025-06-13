@@ -13,7 +13,7 @@ include(qt-basic)
 # included apps
 also-add(baobab)
 also-add(connections-basic)
-also-add(eog)
+also-add(eog-basic)
 also-add(evince)
 also-add(evolution)
 include(file-roller)
