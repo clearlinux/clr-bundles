@@ -1,4 +1,4 @@
-# [TITLE]: kleopatra
+# [TITLE]: kleopatra-basic
 # [DESCRIPTION]: Certificate Manager and Unified Crypto GUI.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -17,4 +17,3 @@ include(gnupg-basic)
 
 # main package
 kleopatra
-include(kleopatra-basic)

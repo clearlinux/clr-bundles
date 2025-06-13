@@ -35,7 +35,7 @@ kalarm
 also-add(kamera-basic)
 also-add(kapidox-basic)
 kapptemplate
-also-add(kleopatra)
+also-add(kleopatra-basic)
 # also-add(kate-basic)
 also-add(kbackup-basic)
 also-add(kcachegrind-basic)
