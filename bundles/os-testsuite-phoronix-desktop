@@ -106,7 +106,7 @@ pciutils
 also-add(devpkg-pcre)
 perl
 perl-Digest-MD5
-include(phoronix-test-suite)
+include(phoronix-test-suite-basic)
 include(devpkg-pkg-config)
 also-add(devpkg-popt)
 pth-dev

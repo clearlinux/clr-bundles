@@ -1,4 +1,4 @@
-# [TITLE]: phoronix-test-suite
+# [TITLE]: phoronix-test-suite-basic
 # [DESCRIPTION]: Run only the phoronix-test-suite
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -21,4 +21,3 @@ include(tcl-basic)
 
 # main package
 phoronix-test-suite
-include(phoronix-test-suite-basic)
