@@ -65,7 +65,7 @@ mkfontscale
 openconnect
 pavucontrol
 powerline-fonts
-include(pulseaudio)
+pulseaudio
 pulseaudio-bin
 shared-mime-info
 systemd-extras

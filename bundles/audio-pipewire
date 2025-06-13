@@ -11,6 +11,6 @@ pipewire-extras
 wireplumber
 include(libstdcpp)
 icu4c-lib
-include(pulseaudio)
+pulseaudio
 include(lib-opengl)
 include(gstreamer-basic)

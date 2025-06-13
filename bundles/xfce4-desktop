@@ -51,7 +51,7 @@ xrdb
 gdk-pixbuf
 include(libstdcpp)
 webkitgtk
-include(pulseaudio)
+pulseaudio
 libarchive
 vte-lib
 libXpm-lib

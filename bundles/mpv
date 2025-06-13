@@ -12,7 +12,7 @@ include(libstdcpp)
 libarchive
 libunwind-lib
 not-ffmpeg-lib
-include(pulseaudio)
+pulseaudio
 dav1d-lib
 
 # end of custom additions

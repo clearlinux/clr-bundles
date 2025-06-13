@@ -15,7 +15,7 @@ not-ffmpeg-lib
 libssh-lib
 include(numactl)
 dav1d-lib
-include(pulseaudio)
+pulseaudio
 
 # end of custom additions
 

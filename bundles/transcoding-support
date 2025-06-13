@@ -7,7 +7,7 @@
 # Audio
 libsndfile
 libvorbis
-include(pulseaudio)
+pulseaudio
 include(qt-basic)
 speex
 sbc

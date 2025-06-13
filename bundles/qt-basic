@@ -40,7 +40,7 @@ qtwebsockets
 qtx11extras
 qtxmlpatterns
 include(libstdcpp)
-include(pulseaudio)
+pulseaudio
 icu4c-lib
 include(lib-imageformat)
 include(gstreamer-basic)

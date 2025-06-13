@@ -10,4 +10,4 @@ include(devpkg-base)
 pulseaudio-dev
 include(libX11client)
 include(libstdcpp)
-include(pulseaudio)
+pulseaudio
