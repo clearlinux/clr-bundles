@@ -1,4 +1,4 @@
-# [TITLE]: sxiv
+# [TITLE]: sxiv-basic
 # [DESCRIPTION]: Minimal image viewer.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(libX11client)
 
 # main package
 sxiv
-include(sxiv-basic)
