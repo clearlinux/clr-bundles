@@ -1,4 +1,4 @@
-# [TITLE]: ethtool
+# [TITLE]: ethtool-basic
 # [DESCRIPTION]: Utility for displaying and modifying some parameters of network interface controller.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -12,4 +12,3 @@
 
 # main package
 ethtool
-include(ethtool-basic)

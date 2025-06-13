@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-include(ethtool)
+include(ethtool-basic)
 include(openssh-server)
 include(sudo)
 include(python-basic)

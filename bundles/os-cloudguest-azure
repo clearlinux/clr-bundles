@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(ethtool)
+include(ethtool-basic)
 include(openssh-server)
 include(openssl)
 include(python3-basic)

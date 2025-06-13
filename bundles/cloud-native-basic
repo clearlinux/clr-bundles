@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(ethtool)
+include(ethtool-basic)
 include(iproute2)
 include(p11-kit)
 include(libstdcpp)
