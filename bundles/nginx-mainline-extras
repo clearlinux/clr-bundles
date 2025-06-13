@@ -1,7 +1,0 @@
-# [TITLE]: nginx-mainline-extras
-# [DESCRIPTION]: Dynamic modules for nginx-mainline
-# [STATUS]: Pending-Delete
-# [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-filesystem
