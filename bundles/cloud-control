@@ -11,7 +11,7 @@ include(network-basic)
 include(openssl-basic)
 include(python3-basic)
 btrfs-progs
-include(sudo)
+sudo
 awscli
 botocore
 docker

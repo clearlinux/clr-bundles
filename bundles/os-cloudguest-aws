@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(sudo)
+sudo
 
 e2fsprogs-extras
 micro-config-drive-aws

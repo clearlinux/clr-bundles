@@ -11,7 +11,7 @@ nfs-utils
 include(openssh-client)
 include(package-utils)
 include(postgresql-basic)
-include(sudo)
+sudo
 include(gpgme-basic)
 include(dnf-basic)
 

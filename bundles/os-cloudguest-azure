@@ -8,7 +8,7 @@ include(ethtool-basic)
 include(openssh-server)
 include(openssl-basic)
 include(python3-basic)
-include(sudo)
+sudo
 WALinuxAgent
 at
 azure-configs

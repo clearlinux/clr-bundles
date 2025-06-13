@@ -8,7 +8,7 @@ include(curl-basic)
 diffutils
 include(git-basic)
 include(package-utils)
-include(sudo)
+sudo
 include(Sphinx)
 include(dnf-basic)
 

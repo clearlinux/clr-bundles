@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Jing Wang <jing.j.wang@intel.com>
-include(sudo)
+sudo
 
 e2fsprogs-extras
 micro-config-drive-aliyun
