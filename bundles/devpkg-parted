@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 parted-dev
-include(parted)
+parted

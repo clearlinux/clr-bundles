@@ -13,7 +13,7 @@ mpfr-lib
 gmp-lib
 include(pypi-six)
 pypi-blivet
-include(parted)
+parted
 pyparted
 pypi-pid
 pypi-ped

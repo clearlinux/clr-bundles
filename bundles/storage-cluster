@@ -14,7 +14,7 @@ LVM2-bin
 LVM2-config
 LVM2-extras
 glusterfs
-include(parted)
+parted
 systemd
 include(curl-basic)
 dbus-lib
