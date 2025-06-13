@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(smartmontools)
+smartmontools
 samba
 
 LVM2
@@ -44,7 +44,7 @@ samba-bin
 samba-config
 samba-data
 simg-tools
-include(smartmontools)
+smartmontools
 squashfs-tools
 tdb-lib
 thin-provisioning-tools
