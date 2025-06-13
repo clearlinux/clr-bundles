@@ -92,7 +92,7 @@ NetworkManager-openconnect
 NetworkManager-vpnc
 dconf
 #groupcheck
-include(polkit)
+polkit
 also-add(pulseaudio)
 openconnect
 systemd-extras

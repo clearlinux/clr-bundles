@@ -131,7 +131,7 @@ plasma-pa
 plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
-include(polkit)
+polkit
 polkit-kde-agent
 powerdevil
 print-manager

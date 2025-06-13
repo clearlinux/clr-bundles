@@ -16,7 +16,7 @@ gettext
 include(iptables-basic)
 libvirt
 nftables
-include(polkit)
+polkit
 qemu
 qemu-extras
 include(libstdcpp)

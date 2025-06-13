@@ -21,7 +21,7 @@ openldap
 include(libstdcpp)
 include(lib-openssl)
 include(python3-basic)
-include(polkit)
+polkit
 include(perl-basic)
 # end of custom additions
 

@@ -7,7 +7,7 @@
 
 include(fonts-basic)
 include(libX11client)
-include(polkit)
+polkit
 also-add(x11-server)
 include(qt-basic)
 dbus

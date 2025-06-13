@@ -17,7 +17,7 @@ clear-font
 gdk-pixbuf
 hicolor-icon-theme
 include(fonts-basic)
-include(polkit)
+polkit
 include(wayland-server)
 liberation-fonts
 lightdm-gtk-greeter

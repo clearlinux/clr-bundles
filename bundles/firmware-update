@@ -11,7 +11,7 @@ include(python3-basic)
 clr-fwupd-hooks
 fwupd
 libsoup
-include(polkit)
+polkit
 libpsl-lib
 include(pypi-six)
 libarchive
