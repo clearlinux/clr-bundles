@@ -32,7 +32,7 @@ git-extras
 git-lfs
 hexedit
 hub
-include(icdiff)
+icdiff
 include(inotify-tools)
 lcov
 glibc-bin
