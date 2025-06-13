@@ -20,7 +20,7 @@ include(zstd)
 bzip2
 
 # Build
-include(dnf)
+include(dnf-basic)
 cpio
 rpm
 bsdiff

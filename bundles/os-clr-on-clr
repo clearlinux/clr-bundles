@@ -34,7 +34,7 @@ abireport
 cabextract
 configobj
 also-add(diffoscope)
-also-add(dnf)
+also-add(dnf-basic)
 efitools
 include(devpkg-fribidi)
 include(devpkg-gdk-pixbuf)

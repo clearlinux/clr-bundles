@@ -183,7 +183,7 @@ include(devpkg-directx-headers)
 directx-headers-staticdev
 directx-headers-staticdev
 dmidecode
-include(dnf)
+include(dnf-basic)
 dnsmasq
 include(docbook-utils)
 docbook-xml

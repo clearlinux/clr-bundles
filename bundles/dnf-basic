@@ -1,4 +1,4 @@
-# [TITLE]: dnf
+# [TITLE]: dnf-basic
 # [DESCRIPTION]: The dnf tool for use with mixer on Clear Linux OS.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -22,4 +22,3 @@ gpgme-python3
 
 # main package
 dnf
-include(dnf-basic)

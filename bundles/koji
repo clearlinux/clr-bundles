@@ -13,7 +13,7 @@ include(package-utils)
 include(postgresql)
 include(sudo)
 include(gpgme)
-include(dnf)
+include(dnf-basic)
 
 koji
 koji-extras
