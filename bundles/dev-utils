@@ -27,7 +27,7 @@ diffutils
 include(docutils)
 dwarves
 elfutils
-include(gdb)
+gdb
 git-extras
 include(git-lfs)
 hexedit

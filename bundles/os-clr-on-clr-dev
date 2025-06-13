@@ -254,7 +254,7 @@ gcc9
 gcc9-dev
 include(devpkg-gcr)
 include(devpkg-gdal)
-include(gdb)
+gdb
 gdb-dev
 gdbm
 gdbm-dev

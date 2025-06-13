@@ -218,7 +218,7 @@ gcc7-dev
 gcc8-dev
 gcr-data
 include(devpkg-gcr)
-include(gdb)
+gdb
 gdb-dev
 gdbm-dev
 gdbm-dev

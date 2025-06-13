@@ -65,7 +65,7 @@ gcc-libgcc32
 gcc-libstdc++32
 gcc7-dev
 gcc8-dev
-include(gdb)
+gdb
 gdb-dev
 gettext
 gettext-bin

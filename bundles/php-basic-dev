@@ -128,7 +128,7 @@ gcc-libstdc++32
 gcc-staticdev
 gcc7-dev
 gcc8-dev
-include(gdb)
+gdb
 gdb-dev
 gdbm-dev
 include(gdk-pixbuf)
