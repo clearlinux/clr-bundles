@@ -1,4 +1,4 @@
-# [TITLE]: gnome-music
+# [TITLE]: gnome-music-basic
 # [DESCRIPTION]: GNOME music player application with management features.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ include(libX11client)
 
 # main package
 gnome-music
-include(gnome-music-basic)
