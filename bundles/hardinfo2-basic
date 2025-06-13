@@ -17,7 +17,7 @@ iperf
 udisks2
 dmidecode
 lsscsi
-include(lm-sensors)
+lm-sensors
 xdg-utils
 also-add(firmware-update)
 # end of custom additions
