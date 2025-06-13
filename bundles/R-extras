@@ -809,7 +809,7 @@ R-zoo
 # 3rd party libraries
 #
 eigen
-include(pandoc)
+pandoc
 lz4
 libunwind-lib
 LibRaw-lib

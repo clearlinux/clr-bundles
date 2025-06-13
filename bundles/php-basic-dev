@@ -344,7 +344,7 @@ include(devpkg-openssl)
 p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
-include(pandoc)
+pandoc
 include(devpkg-pango)
 passwdqc-dev
 include(patch)

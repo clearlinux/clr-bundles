@@ -245,7 +245,7 @@ openssl-lib32
 p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
-include(pandoc)
+pandoc
 passwdqc-dev
 include(patch)
 include(patchelf)

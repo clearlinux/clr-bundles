@@ -679,7 +679,7 @@ p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
 pandas-python3
-include(pandoc)
+pandoc
 include(devpkg-pango)
 include(parallel)
 include(devpkg-parted)

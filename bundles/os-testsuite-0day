@@ -25,6 +25,6 @@ include(devpkg-mariadb)
 include(devpkg-libXaw)
 memcached
 include(moreutils-basic)
-include(pandoc)
+pandoc
 ruby
 include(sg3_utils)

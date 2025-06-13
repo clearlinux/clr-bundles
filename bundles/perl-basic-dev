@@ -171,7 +171,7 @@ include(devpkg-openssl)
 p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
-include(pandoc)
+pandoc
 passwdqc-dev
 include(patch)
 perl-B-COW-perl

@@ -522,7 +522,7 @@ include(devpkg-orc)
 p11-kit
 include(devpkg-p11-kit)
 include(devpkg-p11-kit)
-include(pandoc)
+pandoc
 include(devpkg-pango)
 include(devpkg-parted)
 passwdqc-dev
