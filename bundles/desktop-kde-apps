@@ -61,7 +61,7 @@ kdesdk-thumbnailers
 also-add(kdf-basic)
 also-add(kdiagram-basic)
 kdialog
-also-add(keditbookmarks)
+also-add(keditbookmarks-basic)
 also-add(kfind)
 also-add(kgeography)
 kget

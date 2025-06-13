@@ -1,4 +1,4 @@
-# [TITLE]: keditbookmarks
+# [TITLE]: keditbookmarks-basic
 # [DESCRIPTION]: Bookmark Organizer and Editor
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(libstdcpp)
 
 # main package
 keditbookmarks
-include(keditbookmarks-basic)
