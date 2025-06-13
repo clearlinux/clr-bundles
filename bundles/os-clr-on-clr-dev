@@ -230,7 +230,7 @@ include(devpkg-font-util)
 fontconfig-data
 include(devpkg-fontconfig)
 fontforge
-include(fonttools)
+fonttools
 fonttools-python3
 include(devpkg-freeglut)
 freetype
