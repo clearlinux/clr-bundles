@@ -8,7 +8,7 @@ include(openssh-server)
 include(python3-basic)
 
 #pundles
-include(cockpit)
+include(cockpit-basic)
 include(sudo)
 
 # normal packags

@@ -1,4 +1,4 @@
-# [TITLE]: cockpit
+# [TITLE]: cockpit-basic
 # [DESCRIPTION]: Web-based administration for GNU/Linux servers.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -27,4 +27,3 @@ include(perl-basic)
 
 # main package
 cockpit
-include(cockpit-basic)
