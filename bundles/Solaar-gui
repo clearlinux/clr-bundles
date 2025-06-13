@@ -6,5 +6,5 @@
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 
 include(python3-basic)
-include(Solaar)
+Solaar
 Solaar-extras
