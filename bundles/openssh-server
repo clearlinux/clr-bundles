@@ -6,7 +6,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(lib-openssl)
 include(openssh-client)
-include(iptables)
+include(iptables-basic)
 openssh-extras-server
 tallow
 pcre-lib

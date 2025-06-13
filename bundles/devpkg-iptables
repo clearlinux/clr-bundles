@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 iptables-dev
-include(iptables)
+include(iptables-basic)

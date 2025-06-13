@@ -307,7 +307,7 @@ include(devpkg-intel-media-driver)
 intltool
 intltool-dev
 include(devpkg-ipp-crypto)
-include(iptables)
+include(iptables-basic)
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)

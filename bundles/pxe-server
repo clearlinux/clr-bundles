@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(iptables)
+include(iptables-basic)
 include(nginx)
 dnsmasq
 ipxe

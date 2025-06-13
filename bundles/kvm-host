@@ -13,7 +13,7 @@ dnsmasq
 ebtables
 edk2
 gettext
-include(iptables)
+include(iptables-basic)
 libvirt
 nftables
 include(polkit)

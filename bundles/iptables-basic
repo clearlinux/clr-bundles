@@ -1,4 +1,4 @@
-# [TITLE]: iptables
+# [TITLE]: iptables-basic
 # [DESCRIPTION]: Shared Xtables code for extensions and iproute2.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -13,4 +13,3 @@ systemd
 
 # main package
 iptables
-include(iptables-basic)

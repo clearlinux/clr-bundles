@@ -271,7 +271,7 @@ include(devpkg-ipp-crypto)
 include(iproute2-basic)
 iproute2-dev
 ipset
-include(iptables)
+include(iptables-basic)
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)

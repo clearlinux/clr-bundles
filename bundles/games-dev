@@ -274,7 +274,7 @@ include(devpkg-inih)
 include(devpkg-intel-gmmlib)
 intltool
 intltool-dev
-include(iptables)
+include(iptables-basic)
 include(devpkg-iptables)
 include(devpkg-iptables)
 include(devpkg-iso-codes)
