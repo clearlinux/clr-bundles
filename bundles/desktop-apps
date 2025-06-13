@@ -18,7 +18,7 @@ also-add(evince-basic)
 also-add(evolution-basic)
 file-roller
 also-add(flatpak-basic)
-also-add(geary)
+also-add(geary-basic)
 also-add(gnome-calculator)
 also-add(gnome-characters)
 also-add(gnome-color-manager)

@@ -1,4 +1,4 @@
-# [TITLE]: geary
+# [TITLE]: geary-basic
 # [DESCRIPTION]: A library full of GTK+ widgets for mobile phones
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -15,4 +15,3 @@ include(perl-basic)
 
 # main package
 geary
-include(geary-basic)
