@@ -284,7 +284,7 @@ include(devpkg-gtk4)
 include(devpkg-gtkmm3)
 include(devpkg-gtksourceview)
 include(devpkg-gtkspell3)
-include(guile)
+guile
 include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)

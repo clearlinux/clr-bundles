@@ -107,7 +107,7 @@ grep
 groff
 gtk-doc
 include(devpkg-gtk-doc)
-include(guile)
+guile
 include(gzip)
 hostname
 httpd-dev

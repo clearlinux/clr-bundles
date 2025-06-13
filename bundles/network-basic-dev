@@ -136,7 +136,7 @@ include(devpkg-gsettings-desktop-schemas)
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
-include(guile)
+guile
 include(gzip)
 hostname
 httpd-dev

@@ -256,7 +256,7 @@ include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 include(devpkg-gtk4)
 include(devpkg-gtksourceview)
-include(guile)
+guile
 include(gzip)
 include(devpkg-harfbuzz)
 help2man
