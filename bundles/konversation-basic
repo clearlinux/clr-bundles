@@ -1,4 +1,4 @@
-# [TITLE]: konversation
+# [TITLE]: konversation-basic
 # [DESCRIPTION]: Internet Relay Chat (IRC) client built on KDE platform.
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -16,4 +16,3 @@ include(perl-basic)
 
 # main package
 konversation
-include(konversation-basic)
