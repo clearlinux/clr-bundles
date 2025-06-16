@@ -11,4 +11,3 @@ libgphoto2-dev
 include(curl-basic)
 include(lib-imageformat)
 libXpm-lib
-include(gphoto)
