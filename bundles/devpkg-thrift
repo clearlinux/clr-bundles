@@ -9,4 +9,4 @@ include(devpkg-base)
 
 thrift-dev
 include(libstdcpp)
-include(pypi-six)
+pypi-six

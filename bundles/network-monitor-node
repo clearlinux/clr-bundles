@@ -8,4 +8,4 @@
 vectorscan
 suricata
 openldap
-include(pypi-six)
+pypi-six

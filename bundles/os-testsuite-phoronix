@@ -43,8 +43,8 @@ also-add(devpkg-acl)
 also-add(devpkg-attr)
 autoconf
 autoconf-data
-also-add(bc)
-also-add(bison)
+bc
+bison
 bndl-lamp-basic
 also-add(devpkg-boost)
 include(devpkg-bzip2)
@@ -59,7 +59,7 @@ dmidecode
 also-add(devpkg-fftw)
 also-add(fio-basic)
 also-add(devpkg-flac)
-also-add(flex)
+flex
 also-add(devpkg-freeglut)
 also-add(devpkg-gflags)
 also-add(gimp-basic)
@@ -97,10 +97,10 @@ include(devpkg-mpfr)
 neofetch
 also-add(openmpi-basic)
 also-add(devpkg-openmpi)
-also-add(nasm)
+nasm
 also-add(devpkg-ncurses)
 ninja
-include(numactl)
+numactl
 include(devpkg-numactl)
 pypi-numpy
 ocl-icd
@@ -129,9 +129,9 @@ also-add(devpkg-sqlite-autoconf)
 tcl
 also-add(devpkg-tiff)
 time
-also-add(unzip)
+unzip
 x11perf
-also-add(yasm)
+yasm
 also-add(devpkg-zlib)
 Vulkan-Headers
 Vulkan-Loader

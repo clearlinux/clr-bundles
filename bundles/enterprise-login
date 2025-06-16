@@ -16,5 +16,5 @@ nss-pam-ldapd
 pypi-requests_kerberos
 sssd
 libnl
-include(pypi-six)
+pypi-six
 pypi-requests

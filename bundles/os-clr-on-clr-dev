@@ -222,7 +222,7 @@ file-bin
 include(devpkg-file)
 include(devpkg-flac)
 include(devpkg-flac)
-include(flex)
+flex
 flex-dev
 fltk-dev
 include(devpkg-fmt)
@@ -285,7 +285,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 glslang
@@ -637,7 +637,7 @@ include(devpkg-libxml2)
 include(devpkg-libxml2)
 libxml2-python
 libxml2-python3
-include(libxslt)
+libxslt
 libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
@@ -659,7 +659,7 @@ include(devpkg-lz4)
 lzlib-dev
 include(devpkg-lzo)
 m4
-include(make)
+make
 man-db
 mandoc
 include(devpkg-mariadb)
@@ -694,7 +694,7 @@ mutter
 mutter-data
 include(devpkg-mutter)
 mypy-python3
-include(nasm)
+nasm
 nasm-bin
 ncurses
 ncurses-bin
@@ -724,7 +724,7 @@ include(devpkg-nspr)
 nspr-lib32
 nss-altfiles
 include(devpkg-nss)
-include(numactl)
+numactl
 include(devpkg-numactl)
 include(devpkg-ocl-icd)
 include(devpkg-oneVPL)
@@ -1226,7 +1226,7 @@ tk-staticdev
 include(devpkg-tokyocabinet)
 include(devpkg-tpm2-tss)
 tracker-dev
-include(tzdata)
+tzdata
 umockdev-dev
 unifdef
 unzip
@@ -1260,7 +1260,7 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 wget
-include(which)
+which
 include(devpkg-woff2)
 x264-dev
 x265-dev
@@ -1298,10 +1298,10 @@ include(devpkg-xz)
 include(devpkg-yajl)
 yajl-lib
 yaml-dev
-include(yasm)
-include(zenity)
+yasm
+zenity
 zimg-dev
-include(zip)
+zip
 zlib
 include(devpkg-zlib)
 include(devpkg-zlib)

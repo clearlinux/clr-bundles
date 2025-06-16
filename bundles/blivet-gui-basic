@@ -11,7 +11,7 @@ include(curl-basic)
 include(qt-core)
 mpfr-lib
 gmp-lib
-include(pypi-six)
+pypi-six
 pypi-blivet
 parted
 pyparted

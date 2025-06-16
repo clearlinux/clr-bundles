@@ -25,7 +25,7 @@ pulseaudio
 lz4
 libnl
 libpcap-lib
-include(numactl)
+numactl
 vte-lib
 libssh-lib
 include(lib-openssl)

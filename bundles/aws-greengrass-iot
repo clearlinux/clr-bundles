@@ -11,4 +11,4 @@ awscli
 boto3
 pypi-numpy
 opencv-python
-include(opencv-python)
+opencv-python

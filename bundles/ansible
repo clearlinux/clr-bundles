@@ -16,8 +16,8 @@ pypi-docker
 netaddr
 # End ansible deps
 pypi-pynacl
-include(pypi-six)
+pypi-six
 pypi-requests
-include(PyYAML)
+PyYAML
 include(cloud-api)
 include(ansible-basic)

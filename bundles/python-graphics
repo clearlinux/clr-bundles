@@ -8,7 +8,7 @@
 include(python3-basic)
 #
 pypi-wxPython
-include(pypi-numpy)
+pypi-numpy
 include(libstdcpp)
 gdk-pixbuf
 include(libX11client)
@@ -23,6 +23,6 @@ icu4c-lib
 include(lib-imageformat)
 nettle-lib
 libxml2
-include(pypi-six)
+pypi-six
 libpsl-lib
 webkitgtk

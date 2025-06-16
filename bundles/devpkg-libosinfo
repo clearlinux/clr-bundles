@@ -10,4 +10,4 @@ include(devpkg-base)
 libosinfo-dev
 icu4c-lib
 libpsl-lib
-include(clr-hardware-files)
+clr-hardware-files

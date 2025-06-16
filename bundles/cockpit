@@ -8,14 +8,14 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 libpcap-lib
-include(numactl)
+numactl
 libnl
 pypi-requests
 libssh-lib
-include(PyYAML)
+PyYAML
 libxml2
 libunwind-lib
-include(pypi-six)
+pypi-six
 ncurses-lib
 openldap
 include(libstdcpp)

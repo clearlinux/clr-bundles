@@ -10,5 +10,5 @@ include(devpkg-base)
 oiio-dev
 include(lib-imageformat)
 include(libstdcpp)
-include(opencv-python)
+opencv-python
 icu4c-lib

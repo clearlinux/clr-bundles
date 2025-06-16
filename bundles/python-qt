@@ -8,8 +8,8 @@ include(qt-basic)
 
 pyotherside
 include(openblas-basic)
-include(pypi-numpy)
-include(pypi-six)
+pypi-numpy
+pypi-six
 pypi-requests
 pypi-cython
 pandas

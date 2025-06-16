@@ -11,7 +11,7 @@ include(libstdcpp)
 not-ffmpeg-lib
 include(lib-openssl)
 libssh-lib
-include(numactl)
+numactl
 aspell
 libevent-lib
 dav1d-lib

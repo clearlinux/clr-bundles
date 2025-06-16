@@ -13,6 +13,6 @@ fwupd
 libsoup
 polkit
 libpsl-lib
-include(pypi-six)
+pypi-six
 libarchive
 mpfr-lib

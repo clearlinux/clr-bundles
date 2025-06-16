@@ -9,7 +9,7 @@ include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
 gmp-lib
-include(pypi-six)
+pypi-six
 nftables
 pygobject
 # end of custom additions

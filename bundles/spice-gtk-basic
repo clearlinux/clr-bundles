@@ -11,7 +11,7 @@ include(gstreamer-basic)
 include(lib-imageformat)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(clr-hardware-files)
+clr-hardware-files
 lz4
 
 # end of custom additions

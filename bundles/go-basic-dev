@@ -89,7 +89,7 @@ include(devpkg-expat)
 include(devpkg-expat)
 expect
 file
-include(flex)
+flex
 flex-dev
 include(devpkg-fontconfig)
 include(devpkg-freeglut)
@@ -118,7 +118,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 include(devpkg-gmp)
@@ -234,7 +234,7 @@ include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
@@ -245,7 +245,7 @@ include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
 m4
-include(make)
+make
 include(devpkg-mbedtls)
 mercurial
 include(devpkg-mesa)
@@ -481,7 +481,7 @@ include(devpkg-tk)
 tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
-include(tzdata)
+tzdata
 unzip
 util-linux
 util-linux-bin
@@ -491,7 +491,7 @@ util-linux-extras
 valgrind
 include(devpkg-valgrind)
 wget
-include(which)
+which
 xauth
 xmlto
 xz

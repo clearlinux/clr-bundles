@@ -191,7 +191,7 @@ include(devpkg-file)
 include(devpkg-flac)
 include(devpkg-flac)
 include(devpkg-flatpak)
-include(flex)
+flex
 flex-dev
 fltk-dev
 include(devpkg-fmt)
@@ -251,7 +251,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 include(devpkg-glibmm)
@@ -568,7 +568,7 @@ libxml2
 include(devpkg-libxml2)
 include(devpkg-libxml2)
 libxml2-python
-include(libxslt)
+libxslt
 libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libyami)
@@ -588,7 +588,7 @@ include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
 m4
-include(make)
+make
 man-db
 mandoc
 include(devpkg-mariadb)
@@ -621,7 +621,7 @@ include(devpkg-mutter)
 mypaint-brushes
 mypaint-brushes-dev
 mypy-python3
-include(nasm)
+nasm
 nasm-bin
 include(devpkg-nautilus)
 ncurses
@@ -1152,7 +1152,7 @@ tk-staticdev
 include(devpkg-tpm2-tss)
 tracker-dev
 tracker-miners
-include(tzdata)
+tzdata
 include(devpkg-udisks2)
 include(devpkg-uhttpmock)
 umockdev-dev
@@ -1185,7 +1185,7 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 webkitgtk60-dev
-include(which)
+which
 include(devpkg-woff2)
 x264-dev
 x265-dev
@@ -1222,17 +1222,17 @@ include(devpkg-xz)
 include(devpkg-xz)
 include(devpkg-yajl)
 yaml-dev
-include(yasm)
+yasm
 yelp-dev
 include(devpkg-yelp-xsl)
-include(zenity)
+zenity
 zimg-dev
 zlib
 include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(PyYAML)
+PyYAML
 include(libX11client)
 include(qt6-basic)
 include(desktop-kde-libs)

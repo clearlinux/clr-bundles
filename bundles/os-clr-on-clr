@@ -42,10 +42,10 @@ global
 include(devpkg-gtk3)
 pypi-gitpython
 libabigail
-also-add(libarchive)
+libarchive
 pypi-libarchive_c
 include(devpkg-libarchive)
-include(libdeps)
+libdeps
 include(devpkg-libdrm)
 include(devpkg-libva)
 include(devpkg-libxcb)

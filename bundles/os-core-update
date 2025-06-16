@@ -26,4 +26,4 @@ xz-bin
 include(curl-basic)
 libarchive
 popt-lib
-include(clr-hardware-files)
+clr-hardware-files

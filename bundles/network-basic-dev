@@ -86,7 +86,7 @@ include(devpkg-expat)
 expect
 file
 include(devpkg-file)
-include(flex)
+flex
 flex-dev
 include(devpkg-fontconfig)
 include(devpkg-freetype)
@@ -114,7 +114,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 include(devpkg-gmp)
@@ -229,7 +229,7 @@ include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 linux-libc-headers
 llvm
@@ -237,7 +237,7 @@ include(devpkg-lmdb)
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
-include(make)
+make
 mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
@@ -452,7 +452,7 @@ include(devpkg-tk)
 tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
-include(tzdata)
+tzdata
 unzip
 include(devpkg-userspace-rcu)
 util-linux
@@ -463,13 +463,13 @@ util-linux-extras
 vala
 valgrind
 include(devpkg-valgrind)
-include(which)
+which
 xauth
 xmlto
 xz
 include(devpkg-xz)
 include(devpkg-xz)
-include(yasm)
+yasm
 include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)

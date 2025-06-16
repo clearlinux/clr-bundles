@@ -126,7 +126,6 @@ qrencode
 also-add(spectacle-basic)
 svgpart
 also-add(syndication-basic)
-also-add(yakuake)
 kio-zeroconf
 LibRaw-lib
 kmime

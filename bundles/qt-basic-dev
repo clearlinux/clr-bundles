@@ -128,7 +128,7 @@ file
 include(devpkg-file)
 include(devpkg-flac)
 include(devpkg-flac)
-include(flex)
+flex
 flex-dev
 fltk-dev
 include(devpkg-fmt)
@@ -173,7 +173,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 glslang
@@ -352,7 +352,7 @@ include(devpkg-libxkbcommon)
 include(devpkg-libxkbfile)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
@@ -366,7 +366,7 @@ include(devpkg-lua)
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
-include(make)
+make
 include(devpkg-mariadb)
 include(devpkg-md4c)
 include(devpkg-mediasdk)
@@ -382,7 +382,7 @@ mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mpg123)
 include(devpkg-mtdev)
-include(nasm)
+nasm
 nasm-bin
 ncurses
 include(devpkg-ncurses)
@@ -551,7 +551,7 @@ include(devpkg-tk)
 tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
-include(tzdata)
+tzdata
 umockdev-dev
 unzip
 utfcpp-dev
@@ -572,7 +572,7 @@ include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
-include(which)
+which
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -591,7 +591,7 @@ include(devpkg-xtrans)
 xz
 include(devpkg-xz)
 include(devpkg-xz)
-include(yasm)
+yasm
 include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
@@ -599,5 +599,5 @@ include(devpkg-zstd)
 include(libX11client)
 include(desktop-kde-libs)
 vte-lib
-include(clr-hardware-files)
+clr-hardware-files
 include(qt6-basic)

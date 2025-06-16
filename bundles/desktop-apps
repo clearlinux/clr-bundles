@@ -11,7 +11,6 @@ include(python-extras)
 include(qt-basic)
 # mandatory desktop applications
 # included apps
-also-add(baobab)
 also-add(connections-basic)
 also-add(eog-basic)
 also-add(evince-basic)
@@ -35,7 +34,7 @@ also-add(gnome-weather-basic)
 also-add(snapshot-basic)
 # underlying infra needs
 graphviz
-include(libva-utils)
+libva-utils
 seahorse
 also-add(totem-basic)
 # apps
@@ -55,9 +54,7 @@ pypi-requests
 requests-ntlm
 
 # also-add apps
-also-add(emacs-x11)
 also-add(firefox-basic)
-also-add(gvim)
 libnl
 pcre-lib
 libXpm-lib

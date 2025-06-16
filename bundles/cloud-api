@@ -15,7 +15,7 @@ botocore
 # hypothesis
 libevent-lib
 openldap
-include(pypi-six)
-include(yaml)
-include(PyYAML)
+pypi-six
+yaml
+PyYAML
 libxml2

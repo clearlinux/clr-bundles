@@ -9,7 +9,7 @@
 include(iproute2-basic)
 p11-kit
 sudo
-include(which)
+which
 acpica-unix2
 
 accel-config
@@ -39,7 +39,7 @@ findutils
 gawk
 gawk-extras
 glibc-bin
-also-add(glibc-locale)
+glibc-locale
 gpm
 grep
 gzip
@@ -71,7 +71,7 @@ nano
 ncurses
 neofetch
 nmap-extras
-include(numactl)
+numactl
 parallel
 include(patch-basic)
 pciutils
@@ -99,7 +99,7 @@ thunderbolt-software-user-space
 time
 tmux
 tree
-include(tzdata)
+tzdata
 unzip
 usbutils
 cyme
@@ -107,12 +107,12 @@ util-linux
 util-linux-man
 # mkpasswd tool is part of whois
 whois-extras
-include(zstd)
+zstd
 icu4c-lib
 # include(lib-imageformat)
 libpcap-lib
 pcre-lib
-include(numactl)
+numactl
 popt-lib
-include(clr-hardware-files)
+clr-hardware-files
 protobuf-lib

@@ -102,10 +102,10 @@ xz-lib
 zlib-lib
 
 # helpers for Steam + runtime
-include(libratbag)
+libratbag
 steam-devices
 xdg-user-dirs
-include(zenity)
+zenity
 
 # System integration (theme, data, etc)
 gnome-themes-extra

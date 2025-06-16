@@ -16,4 +16,4 @@ mcelog
 # kernel package
 linux-preempt-rt
 libnl
-include(numactl)
+numactl

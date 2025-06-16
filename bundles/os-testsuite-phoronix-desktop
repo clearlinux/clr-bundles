@@ -17,11 +17,11 @@ also-add(games)
 also-add(python3-basic)
 also-add(python-extras)
 also-add(devpkg-qtbase)
-also-add(nasm)
+nasm
 also-add(hardware-gpu)
 also-add(libstdcpp)
 
-also-add(yasm)
+yasm
 SDL
 also-add(devpkg-SDL)
 also-add(devpkg-SDL2_gfx)
@@ -38,8 +38,8 @@ also-add(devpkg-acl)
 also-add(devpkg-attr)
 autoconf
 autoconf-data
-also-add(bc)
-also-add(bison)
+bc
+bison
 also-add(devpkg-boost)
 include(devpkg-bzip2)
 include(devpkg-bzip2)
@@ -53,7 +53,7 @@ dmidecode
 also-add(devpkg-fftw)
 also-add(fio-basic)
 also-add(devpkg-flac)
-also-add(flex)
+flex
 also-add(devpkg-freeglut)
 also-add(devpkg-gflags)
 also-add(gimp-basic)
@@ -87,10 +87,10 @@ also-add(devpkg-lua)
 mesa-demos
 meson
 include(devpkg-mpfr)
-also-add(nasm)
+nasm
 also-add(devpkg-ncurses)
 ninja
-include(numactl)
+numactl
 include(devpkg-numactl)
 pypi-numpy
 ocl-icd
@@ -118,13 +118,13 @@ also-add(devpkg-sqlite-autoconf)
 tcl
 also-add(devpkg-tiff)
 time
-also-add(unzip)
+unzip
 x11perf
-also-add(yasm)
+yasm
 also-add(devpkg-zlib)
 Vulkan-Headers
 Vulkan-Loader
 Vulkan-Tools
 include(devpkg-libevent)
 include(openblas-basic)
-include(pypi-numpy)
+pypi-numpy

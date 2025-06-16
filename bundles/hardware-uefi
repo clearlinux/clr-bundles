@@ -14,4 +14,4 @@ irqbalance
 linux-firmware
 include(linux-firmware-extras-basic)
 libnl
-include(numactl)
+numactl

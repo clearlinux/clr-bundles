@@ -749,7 +749,7 @@ extra-cmake-modules
 include(devpkg-fftw)
 file
 include(devpkg-file)
-include(flex)
+flex
 flex-dev
 fltk-dev
 include(devpkg-fmt)
@@ -796,7 +796,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 glslang
@@ -975,7 +975,7 @@ include(devpkg-libxkbcommon)
 include(devpkg-libxkbfile)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
@@ -992,7 +992,7 @@ include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
 m4
-include(make)
+make
 include(devpkg-mariadb)
 include(devpkg-mbedtls)
 include(devpkg-md4c)
@@ -1008,7 +1008,7 @@ mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mtdev)
 munge-dev
-include(nasm)
+nasm
 ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
@@ -1282,7 +1282,7 @@ include(devpkg-tk)
 tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
-include(tzdata)
+tzdata
 udunits-dev
 umockdev-dev
 unzip
@@ -1302,7 +1302,7 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 wget
-include(which)
+which
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -1323,16 +1323,16 @@ xz
 include(devpkg-xz)
 include(devpkg-xz)
 yaml-dev
-include(yasm)
-include(zip)
+yasm
+zip
 include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
 include(libX11client)
-include(pypi-numpy)
+pypi-numpy
 include(desktop-kde-libs)
 vte-lib
-include(clr-hardware-files)
+clr-hardware-files
 include(qt6-basic)
 libpcap-lib

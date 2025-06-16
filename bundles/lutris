@@ -8,7 +8,7 @@
 include(python3-basic)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(PyYAML)
+PyYAML
 include(curl-basic)
 gdk-pixbuf
 include(gstreamer-basic)

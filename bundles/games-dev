@@ -164,7 +164,7 @@ file-bin
 include(devpkg-file)
 include(devpkg-flac)
 include(devpkg-flac)
-include(flex)
+flex
 flex-dev
 fltk-dev
 include(devpkg-fmt)
@@ -215,7 +215,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 glslang
@@ -457,7 +457,7 @@ libxml2
 include(devpkg-libxml2)
 include(devpkg-libxml2)
 libxml2-python
-include(libxslt)
+libxslt
 libxslt-bin
 include(devpkg-libxslt)
 linux-firmware-wifi
@@ -473,7 +473,7 @@ include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
 m4
-include(make)
+make
 include(devpkg-mariadb)
 include(devpkg-md4c)
 include(devpkg-mediasdk)
@@ -495,7 +495,7 @@ include(devpkg-mtdev)
 mutter
 mutter-data
 include(devpkg-mutter)
-include(nasm)
+nasm
 nasm-bin
 ncurses
 include(devpkg-ncurses)
@@ -816,7 +816,7 @@ tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
 tracker-dev
-include(tzdata)
+tzdata
 umockdev-dev
 unifdef
 unzip
@@ -844,7 +844,7 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
 webkitgtk60-dev
-include(which)
+which
 include(devpkg-woff2)
 x264-dev
 x265-dev
@@ -875,8 +875,8 @@ xz
 include(devpkg-xz)
 include(devpkg-xz)
 yaml-dev
-include(yasm)
-include(zenity)
+yasm
+zenity
 zimg-dev
 include(devpkg-zlib)
 include(devpkg-zlib)
@@ -885,5 +885,5 @@ include(devpkg-zstd)
 include(libX11client)
 include(desktop-kde-libs)
 vte-lib
-include(clr-hardware-files)
+clr-hardware-files
 include(qt6-basic)

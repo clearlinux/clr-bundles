@@ -84,7 +84,7 @@ include(devpkg-expat)
 expect
 file
 include(devpkg-file)
-include(flex)
+flex
 flex-dev
 include(devpkg-fuse)
 gawk
@@ -110,7 +110,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 include(devpkg-gmp)
@@ -212,7 +212,7 @@ include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 linux-libc-headers
 llvm
@@ -221,7 +221,7 @@ include(devpkg-lmdb)
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
-include(make)
+make
 man-db
 mandoc
 mingw-gcc
@@ -424,7 +424,7 @@ tcl
 texinfo
 thin-provisioning-tools
 include(devpkg-tpm2-tss)
-include(tzdata)
+tzdata
 unzip
 include(devpkg-utf8proc)
 util-linux
@@ -434,19 +434,19 @@ include(devpkg-util-linux)
 util-linux-extras
 valgrind
 include(devpkg-valgrind)
-include(which)
+which
 xauth
 xmlto
 xz
 include(devpkg-xz)
 include(devpkg-xz)
-include(yasm)
+yasm
 zlib
 include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
-include(pypi-numpy)
+pypi-numpy
 include(desktop-kde-libs)
 vte-lib
 include(libX11client)

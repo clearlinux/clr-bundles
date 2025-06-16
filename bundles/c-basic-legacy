@@ -17,7 +17,7 @@ check
 check-dev
 cmake
 cmake-dev
-include(flex)
+flex
 gcc
 gcc-dev
 gcc-dev32
@@ -25,7 +25,7 @@ gcc-libstdc++32
 glibc-dev
 glibc-dev32
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-utils
 gmp-dev
 gmp-doc
@@ -37,7 +37,7 @@ libtool
 libtool-dev
 linux-libc-headers
 m4
-include(make)
+make
 pkg-config
 include(devpkg-zlib)
 # scons intentionally left out for now

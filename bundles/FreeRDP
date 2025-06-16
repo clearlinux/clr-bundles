@@ -13,7 +13,7 @@ include(libstdcpp)
 icu4c-lib
 not-ffmpeg-lib
 libssh-lib
-include(numactl)
+numactl
 dav1d-lib
 pulseaudio
 

@@ -8,7 +8,7 @@
 include(devpkg-base)
 
 udisks2-dev
-include(pypi-six)
+pypi-six
 include(qt-core)
 icu4c-lib
 include(lib-openssl)

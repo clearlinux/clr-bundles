@@ -11,6 +11,6 @@ libvirt-dev
 include(curl-basic)
 openldap
 libnl
-include(numactl)
+numactl
 libpcap-lib
 libssh-lib

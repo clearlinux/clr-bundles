@@ -17,6 +17,6 @@ include(dnf-basic)
 
 koji
 koji-extras
-include(pypi-six)
+pypi-six
 pypi-requests
 include(koji-basic)

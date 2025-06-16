@@ -18,4 +18,4 @@ pdsh
 slurm
 
 lz4
-include(numactl)
+numactl

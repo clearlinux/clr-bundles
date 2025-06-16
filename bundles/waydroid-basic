@@ -12,7 +12,7 @@ include(python3-basic)
 lxc
 pypi-pyclip
 include(dhcp-server)
-include(libgbinder)
+libgbinder
 wl-clipboard
 # end of custom additions
 

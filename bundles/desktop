@@ -16,9 +16,9 @@ include(lib-imageformat)
 # the UI should provide a basic sysadmin experience
 include(openssl-basic)
 include(sysadmin-basic)
-include(which)
+which
 poppler
-also-add(wpa_supplicant)
+wpa_supplicant
 also-add(hardware-printing)
 also-add(x11-tools)
 
@@ -59,13 +59,13 @@ libnotify
 libpinyin
 librsvg
 include(linux-firmware-extras-basic)
-also-add(linux-firmware-wifi)
+linux-firmware-wifi
 mutter
 orca
 pango
 pygobject
 shared-mime-info
-include(tzdata)
+tzdata
 pygobject-extras
 
 # a11y

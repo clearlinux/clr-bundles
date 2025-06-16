@@ -45,5 +45,5 @@ tcpdump
 time
 tiptop
 util-linux
-include(pypi-six)
+pypi-six
 libpcap-lib

@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 lttng-ust-dev
-include(numactl)
+numactl

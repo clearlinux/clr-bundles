@@ -44,6 +44,6 @@ libevent-lib
 pcre-lib
 libXpm-lib
 pypi-requests
-include(pypi-six)
+pypi-six
 include(python-graphics)
-include(pypi-numpy)
+pypi-numpy

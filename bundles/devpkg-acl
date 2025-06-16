@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 acl-dev
-include(acl)
+acl

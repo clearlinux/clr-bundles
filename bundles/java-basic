@@ -8,7 +8,7 @@ include(libX11client)
 p11-kit
 include(perl-basic)
 include(python3-basic)
-include(which)
+which
 apache-ant
 openjdk
 openjdk-dev

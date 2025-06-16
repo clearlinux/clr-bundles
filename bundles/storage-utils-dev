@@ -114,7 +114,7 @@ expect
 f2fs-tools-dev
 file
 include(devpkg-file)
-include(flex)
+flex
 flex-dev
 fontconfig-data
 include(devpkg-fontconfig)
@@ -152,7 +152,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 glslang
@@ -311,7 +311,7 @@ include(devpkg-libxkbcommon)
 libxml2
 include(devpkg-libxml2)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
@@ -325,7 +325,7 @@ include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
 m4
-include(make)
+make
 include(devpkg-mariadb)
 include(devpkg-md4c)
 mercurial
@@ -337,7 +337,7 @@ mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mtdev)
 include(devpkg-multipath-tools)
-include(nasm)
+nasm
 ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
@@ -592,7 +592,7 @@ tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
 tracker-dev
-include(tzdata)
+tzdata
 umockdev-dev
 unzip
 include(devpkg-userspace-rcu)
@@ -611,7 +611,7 @@ include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
-include(which)
+which
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -629,7 +629,7 @@ include(devpkg-xtrans)
 xz
 include(devpkg-xz)
 include(devpkg-xz)
-include(yasm)
+yasm
 include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
@@ -641,4 +641,4 @@ libpcap-lib
 include(qt6-basic)
 include(libX11client)
 vte-lib
-include(clr-hardware-files)
+clr-hardware-files

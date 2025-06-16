@@ -5,12 +5,6 @@
 # [TAGS]: Productivity
 # [MAINTAINER]: Josue David Hernandez <josue.d.hernandez.gutierrez@intel.com>
 include(mail-utils)
-include(perl-basic)
-include(python3-basic)
 asciinema
 pypi-khal
 taskwarrior
-also-add(weechat)
-harfbuzz-lib
-include(lib-imageformat)
-include(pypi-six)

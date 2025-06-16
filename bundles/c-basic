@@ -7,7 +7,7 @@
 
 # perl for autoconf and friends
 include(perl-basic)
-include(nasm)
+nasm
 
 autoconf
 autoconf-archive-dev
@@ -23,13 +23,13 @@ bison
 check
 cmake
 cmake-dev
-include(flex)
+flex
 gcc
 gcc-dev
 chrpath
 gettext
 glibc-dev
-include(glibc-locale)
+glibc-locale
 glibc-utils
 gmp-dev
 gmp-doc
@@ -43,8 +43,8 @@ libtool-dev
 linux-libc-headers
 llvm
 m4
-include(make)
-include(nasm)
+make
+nasm
 nasm-bin
 pkg-config
 pkg-config-dev

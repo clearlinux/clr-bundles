@@ -10,13 +10,13 @@ jq
 kbd
 include(libstdcpp)
 include(linux-firmware-extras-basic)
-include(linux-firmware-wifi)
+linux-firmware-wifi
 include(openssh-server)
 include(storage-utils)
 wpa_supplicant
 include(network-basic)
 
-also-add(glibc-locale)
+glibc-locale
 
 less
 LVM2
@@ -45,5 +45,5 @@ tzdata-minimal
 xfsprogs-bin
 xorriso-bin
 icu4c-lib
-include(numactl)
+numactl
 libssh-lib

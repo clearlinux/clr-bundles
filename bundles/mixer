@@ -16,7 +16,7 @@ include(openssl-basic)
 
 # Fullfiles compression
 gzip
-include(zstd)
+zstd
 bzip2
 
 # Build

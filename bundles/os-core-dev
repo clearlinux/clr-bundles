@@ -53,7 +53,7 @@ include(devpkg-elfutils)
 expect
 file
 include(devpkg-file)
-include(flex)
+flex
 flex-dev
 include(devpkg-fuse)
 gawk
@@ -78,7 +78,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 include(devpkg-gmp)
@@ -141,13 +141,13 @@ libxcrypt-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 linux-libc-headers
 llvm
 include(devpkg-lz4)
 include(devpkg-lz4)
-include(make)
+make
 mpc-dev
 include(devpkg-mpfr)
 ncurses
@@ -209,7 +209,7 @@ include(devpkg-util-linux)
 util-linux-extras
 valgrind
 include(devpkg-valgrind)
-include(which)
+which
 xauth
 xz
 include(devpkg-xz)

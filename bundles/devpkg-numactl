@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 numactl-dev
-include(numactl)
+numactl

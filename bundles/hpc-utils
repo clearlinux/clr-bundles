@@ -19,4 +19,4 @@ perftest
 rdma-core
 libnl
 libxml2
-include(numactl)
+numactl

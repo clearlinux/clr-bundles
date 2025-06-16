@@ -8,4 +8,4 @@
 include(devpkg-base)
 
 SVT-AV1-dev
-include(SVT-AV1)
+SVT-AV1

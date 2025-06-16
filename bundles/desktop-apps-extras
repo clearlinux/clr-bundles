@@ -24,9 +24,7 @@ also-add(spice-gtk-basic)
 also-add(stacer-basic)
 also-add(thunderbird-basic)
 also-add(tigervnc-basic)
-also-add(vinagre)
 also-add(virt-manager-gui)
-also-add(virt-viewer)
 #also-add(vlc)
 also-add(FreeRDP-basic)
 
@@ -39,5 +37,5 @@ libssh
 thermal_monitor
 include(openblas-basic)
 vte-lib
-include(opencv-python)
+opencv-python
 libssh-lib

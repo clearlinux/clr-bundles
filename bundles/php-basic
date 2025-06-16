@@ -7,7 +7,6 @@
 include(libstdcpp)
 include(lib-openssl)
 include(python3-basic)
-include(postgresql-lib)
 
 php
 harfbuzz-lib

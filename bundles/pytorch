@@ -10,7 +10,7 @@ include(openblas-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(numactl)
+numactl
 pypi-pynacl
 include(python-data-science)
 pypi-onnx

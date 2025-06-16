@@ -65,7 +65,7 @@ include(devpkg-expat)
 include(devpkg-expat)
 expect
 file
-include(flex)
+flex
 flex-dev
 gawk
 gcc
@@ -87,7 +87,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 include(devpkg-gmp)
@@ -161,14 +161,14 @@ include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 linux-libc-headers
 llvm
 include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
-include(make)
+make
 mandoc
 mpc-dev
 include(devpkg-mpfr)
@@ -230,7 +230,7 @@ texinfo
 thin-provisioning-tools
 include(devpkg-tpm2-abrmd)
 include(devpkg-tpm2-tss)
-include(tzdata)
+tzdata
 unzip
 util-linux
 util-linux-bin
@@ -239,7 +239,7 @@ include(devpkg-util-linux)
 util-linux-extras
 valgrind
 include(devpkg-valgrind)
-include(which)
+which
 xauth
 xmlto
 xz

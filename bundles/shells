@@ -15,6 +15,6 @@ bash-extras
 bash-locales
 fish
 pcre-extras
-include(zsh)
+zsh
 ncurses-lib
 pcre-lib

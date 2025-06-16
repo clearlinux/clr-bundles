@@ -15,4 +15,4 @@ also-add(kernel-preempt-rt)
 mcelog
 systemd
 libnl
-include(numactl)
+numactl

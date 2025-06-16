@@ -129,7 +129,7 @@ file
 include(devpkg-file)
 include(devpkg-flac)
 include(devpkg-flac)
-include(flex)
+flex
 flex-dev
 fontconfig-data
 include(devpkg-fontconfig)
@@ -170,7 +170,7 @@ glibc-bin
 glibc-dev
 glibc-dev
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 glslang
@@ -353,7 +353,7 @@ include(devpkg-libxkbcommon)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 include(devpkg-libxml2)
-include(libxslt)
+libxslt
 libxslt-bin
 linux-libc-headers
 llvm
@@ -366,7 +366,7 @@ include(devpkg-lz4)
 include(devpkg-lz4)
 include(devpkg-lzo)
 m4
-include(make)
+make
 mercurial
 mesa-bin
 include(devpkg-mesa)
@@ -375,7 +375,7 @@ mingw-gcc
 mpc-dev
 include(devpkg-mpfr)
 include(devpkg-mtdev)
-include(nasm)
+nasm
 ncurses
 include(devpkg-ncurses)
 include(devpkg-ncurses)
@@ -396,7 +396,7 @@ include(devpkg-nspr)
 nspr-lib32
 nss-altfiles
 include(devpkg-nss)
-include(numactl)
+numactl
 include(devpkg-numactl)
 include(devpkg-ocl-icd)
 open-iscsi
@@ -650,7 +650,7 @@ include(devpkg-tk)
 tk-extras
 tk-staticdev
 include(devpkg-tpm2-tss)
-include(tzdata)
+tzdata
 umockdev-dev
 unzip
 include(devpkg-usbredir)
@@ -672,7 +672,7 @@ include(devpkg-wayland)
 include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 include(devpkg-wayland-protocols)
-include(which)
+which
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -693,16 +693,16 @@ include(devpkg-xz)
 include(devpkg-yajl)
 yajl-lib
 yaml-dev
-include(yasm)
+yasm
 include(devpkg-zlib)
 include(devpkg-zlib)
 include(devpkg-zstd)
 include(devpkg-zstd)
 pypi-requests
-include(PyYAML)
+PyYAML
 include(libX11client)
 pypi-pynacl
-include(pypi-numpy)
+pypi-numpy
 include(desktop-kde-libs)
-include(clr-hardware-files)
+clr-hardware-files
 include(qt6-basic)

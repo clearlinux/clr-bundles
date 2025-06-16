@@ -15,10 +15,10 @@ include(dnf-basic)
 # common requirements
 cpio
 diffstat
-include(make)
+make
 plzip
 pypi-six
-include(zstd)
+zstd
 include(gpgme-basic)
 # autospec requirements
 abireport
@@ -34,6 +34,6 @@ python-zstandard
 python3-xz-lzma
 # koji command line utility
 koji
-include(pypi-six)
+pypi-six
 pypi-requests
 openldap

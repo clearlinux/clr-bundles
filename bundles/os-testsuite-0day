@@ -27,4 +27,4 @@ memcached
 include(moreutils-basic)
 pandoc
 ruby
-include(sg3_utils)
+sg3_utils

@@ -17,4 +17,4 @@ vbox-integration
 # kernel package
 linux-ltsprev
 libnl
-include(numactl)
+numactl

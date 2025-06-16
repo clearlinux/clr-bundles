@@ -19,9 +19,9 @@ also-add(openssh-client)
 also-add(openssl-basic)
 also-add(openvswitch-basic)
 also-add(rsync-basic)
-also-add(wget)
-also-add(wpa_supplicant)
-also-add(znc)
+wget
+wpa_supplicant
+znc
 
 WireGuard
 bind-utils-bin

@@ -13,5 +13,5 @@ include(gstreamer-basic)
 include(lib-imageformat)
 include(openblas-basic)
 include(libstdcpp)
-include(opencv-python)
-include(pypi-numpy)
+opencv-python
+pypi-numpy

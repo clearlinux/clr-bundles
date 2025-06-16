@@ -12,7 +12,6 @@ also-add(firefox-basic)
 also-add(flatpak-basic)
 include(fonts-basic)
 graphviz
-also-add(gvim)
 include(openssl-basic)
 include(perl-basic)
 include(python3-basic)
@@ -20,10 +19,8 @@ also-add(thunderbird-basic)
 also-add(thunderbird-basic)
 wpa_supplicant
 include(x11-server)
-also-add(emacs-x11)
 include(xfce4-desktop)
 include(lib-imageformat)
-include(vim)
 include(FreeRDP-basic)
 Thunar
 alsa-plugins-lib
@@ -58,7 +55,7 @@ librsvg
 libva
 libva-intel-driver
 include(linux-firmware-extras-basic)
-include(linux-firmware-wifi)
+linux-firmware-wifi
 mesa-demos
 mkfontdir
 mkfontscale
@@ -72,7 +69,6 @@ systemd-extras
 thunar-volman
 also-add(tigervnc-basic)
 vim-data
-also-add(virt-viewer)
 xclip
 xcursor-themes
 xdg-user-dirs
