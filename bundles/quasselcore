@@ -9,7 +9,6 @@ include(libstdcpp)
 
 # start of custom additions
 not-ffmpeg-lib
-include(lib-openssl)
 libssh-lib
 numactl
 aspell

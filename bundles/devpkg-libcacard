@@ -8,4 +8,3 @@
 include(devpkg-base)
 
 libcacard-dev
-include(lib-openssl)

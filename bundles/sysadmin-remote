@@ -23,4 +23,3 @@ pypi-requests
 mpfr-lib
 include(qt-core)
 icu4c-lib
-include(lib-openssl)

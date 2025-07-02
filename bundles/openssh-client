@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-include(lib-openssl)
 openssh-bin
 openssh-config
 openssh-data

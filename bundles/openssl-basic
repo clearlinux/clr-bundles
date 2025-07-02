@@ -8,7 +8,6 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 numactl
-include(lib-openssl)
 openssl-doc
 # end of custom additions
 

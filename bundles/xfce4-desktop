@@ -56,4 +56,3 @@ libarchive
 vte-lib
 libXpm-lib
 mpfr-lib
-include(lib-openssl)

@@ -10,4 +10,3 @@ include(devpkg-base)
 corosync-dev
 lz4
 libnl
-include(lib-openssl)

@@ -5,7 +5,6 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
 findutils
-include(lib-openssl)
 
 clr-debug-info
 swupd-probe

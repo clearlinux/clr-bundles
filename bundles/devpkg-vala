@@ -15,4 +15,3 @@ icu4c-lib
 include(lib-imageformat)
 include(qt-core)
 include(qt-basic)
-include(lib-openssl)

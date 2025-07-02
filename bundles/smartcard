@@ -5,7 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(gnupg-basic)
-include(lib-openssl)
 include(perl-basic)
 
 OpenSC

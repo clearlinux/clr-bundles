@@ -52,7 +52,6 @@ dav1d-lib
 libxml2-lib
 aspell
 not-ffmpeg-lib
-include(lib-openssl)
 libevent-lib
 include(gtk4libs)
 include(gtk3libs)

@@ -11,4 +11,3 @@ udisks2-dev
 pypi-six
 include(qt-core)
 icu4c-lib
-include(lib-openssl)

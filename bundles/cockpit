@@ -19,7 +19,6 @@ pypi-six
 ncurses-lib
 openldap
 include(libstdcpp)
-include(lib-openssl)
 include(python3-basic)
 polkit
 include(perl-basic)

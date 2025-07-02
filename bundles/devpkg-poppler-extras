@@ -16,4 +16,3 @@ harfbuzz-lib
 icu4c-lib
 include(lib-imageformat)
 openldap
-include(lib-openssl)

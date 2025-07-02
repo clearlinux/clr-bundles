@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages, Perl
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(lib-openssl)
 
 perl
 perl-man

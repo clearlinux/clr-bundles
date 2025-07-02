@@ -8,7 +8,6 @@
 include(desktop-kde-libs)
 include(qt-core)
 include(qt-basic)
-include(lib-openssl)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)

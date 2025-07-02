@@ -6,7 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 sudo
 which
-include(lib-openssl)
 
 e2fsprogs-extras
 micro-config-drive

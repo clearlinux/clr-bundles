@@ -28,5 +28,4 @@ libpcap-lib
 numactl
 vte-lib
 libssh-lib
-include(lib-openssl)
 include(gtk3libs)

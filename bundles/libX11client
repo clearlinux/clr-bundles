@@ -6,7 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
 include(lib-opengl)
-include(lib-openssl)
 
 cairo-lib
 fontconfig-data

@@ -13,4 +13,3 @@ libXpm-lib
 popt-lib
 libpsl-lib
 webkitgtk
-include(lib-openssl)

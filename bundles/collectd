@@ -5,7 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
-include(lib-openssl)
 include(curl-basic)
 openldap
 

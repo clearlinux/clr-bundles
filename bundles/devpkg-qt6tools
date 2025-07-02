@@ -16,4 +16,3 @@ include(qt-core)
 harfbuzz-lib
 icu4c-lib
 include(lib-imageformat)
-include(lib-openssl)

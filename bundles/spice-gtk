@@ -6,7 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)
-include(lib-openssl)
 include(gstreamer-basic)
 include(lib-imageformat)
 

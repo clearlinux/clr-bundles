@@ -22,4 +22,3 @@ gdk-pixbuf
 include(audio-pipewire)
 libpsl-lib
 include(x11-server)
-include(lib-openssl)

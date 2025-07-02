@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(lib-openssl)
 include(openssh-client)
 include(iptables-basic)
 openssh-extras-server

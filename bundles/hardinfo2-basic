@@ -8,7 +8,6 @@
 
 # start of custom additions (edits outside this area will be removed automatically)
 icu4c-lib
-include(lib-openssl)
 libpsl-lib
 include(curl-basic)
 include(qt-basic)

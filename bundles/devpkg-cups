@@ -16,4 +16,3 @@ include(lib-imageformat)
 openldap
 include(qt-core)
 include(qt-basic)
-include(lib-openssl)
