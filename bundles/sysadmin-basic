@@ -31,7 +31,7 @@ dfc
 diffutils
 dmidecode
 dos2unix
-dracut
+include(dracut)
 e2fsprogs
 efibootmgr
 file
